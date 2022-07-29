@@ -1,10 +1,9 @@
 ## This file is a template remove the .template to use the file
 
-libraries:                                      # This is called out once within the config.yml file                                       
-  Movies:                                       # Each library must match the Plex library name
+libraries: # This is called out once within the config.yml file
+  Movies: # Each library must match the Plex library name
     metadata_path:
-    - repo: Movies
-    - repo: Actors
+      - repo: libraries/movies/actors
 settings:
   cache: true
   cache_expiration: 60
@@ -41,20 +40,20 @@ settings:
   verify_ssl: true
   custom_repo: https://github.com/PaddyShiel89/pmm-config/main/
   check_nightly: false
-webhooks:                                       # Can be individually specified per library as well
+webhooks: # Can be individually specified per library as well
   error:
   version:
   run_start:
   run_end:
   changes:
-plex:                                           # Can be individually specified per library as well; REQUIRED for the script to run
+plex: # Can be individually specified per library as well; REQUIRED for the script to run
   url: http://192.168.0.32:32400
   token: an7DWw7Be9ckCi3u9dba
   timeout: 60
   clean_bundles: false
   empty_trash: false
   optimize: false
-tmdb:                                           # REQUIRED for the script to run
+tmdb: # REQUIRED for the script to run
   apikey: 06a793ce2b9ee184e6c720e17875f148
   language: en
   cache_expiration: 60

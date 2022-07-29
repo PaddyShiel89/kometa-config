@@ -1,15 +1,11 @@
-templates:
-  Actor:
-    actor: tmdb
-    tmdb_person: <<person>>
-    tmdb_actor_details: <<person>>
-    sort_title: "!04_<<collection_name>>"
-    sync_mode: sync
-    collection_order: release
-    collection_mode: hide
-    file_poster: /config/assets/actors/<<person>>.png
+external_templates:
+  - repo: templates/Actor
 
 collections:
+  Ana de Armas:
+    template: { name: Actor, person: 224513 }
+  Carla Gugino:
+    template: { name: Actor, person: 17832 }
   Eva Green:
     template: { name: Actor, person: 10912 }
   Jessica Chastain:

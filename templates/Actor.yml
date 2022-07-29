@@ -7,8 +7,4 @@ templates:
     sync_mode: sync
     collection_order: release
     collection_mode: hide
-    file_poster: /config/assets/actors/<<person>>.png
-
-collections:
-  Ana de Armas:
-    template: { name: Actor, person: 224513 }
+    file_poster: /config/assets/actors/<<collection_name>>.png
