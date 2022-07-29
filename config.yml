@@ -4,6 +4,7 @@ libraries: # This is called out once within the config.yml file
   Movies: # Each library must match the Plex library name
     metadata_path:
       - repo: libraries/movies/actors
+      - repo: libraries/movies/genres
 settings:
   cache: true
   cache_expiration: 60
