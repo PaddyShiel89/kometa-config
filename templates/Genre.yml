@@ -1,0 +1,15 @@
+templates:
+  Genre:
+    optional:
+      - genre2
+      - summary
+    plex_search:
+      genre: <<genre>>
+    filters:
+      genre: <<genre2>>
+    collection_mode: hide
+    collection_order: alpha
+    file_poster: /config/assets/genres/<<collection_name>>.png
+    sort_title: "!02_<<collection_name>>"
+    summary: <<summary>>
+    sync_mode: sync

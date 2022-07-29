@@ -1,0 +1,10 @@
+external_templates:
+  - repo: templates/Genre
+
+collections:
+  Horror Comedies:
+    template:
+      - name: Genre
+        genre: Horror
+        genre2: Comedy
+        summary: "Horror comedy combines elements of comedy and horror fiction. It has been described as able to be categorized under three types: black comedy, parody and spoof. It often crosses over with the black comedy genre."
