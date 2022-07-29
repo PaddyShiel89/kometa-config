@@ -1,0 +1,7 @@
+templates:
+  imdb:
+    imdb_chart: <<chart>>_<<library_type>>s
+    collection_order: custom
+    sync_mode: sync
+    filters:
+      label.not: Secondary_Cut
