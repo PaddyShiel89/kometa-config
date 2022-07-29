@@ -1,10 +1,10 @@
 templates:
   Actor:
     actor: tmdb
-    tmdb_person: <<person>>
-    tmdb_actor_details: <<person>>
+    collection_mode: hide
+    collection_order: release
+    file_poster: /config/assets/actors/<<person>>.png
     sort_title: "!04_<<collection_name>>"
     sync_mode: sync
-    collection_order: release
-    collection_mode: hide
-    file_poster: /config/assets/actors/<<person>>.png
+    tmdb_actor_details: <<person>>
+    tmdb_person: <<person>>
