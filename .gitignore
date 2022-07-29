@@ -1,0 +1,5 @@
+config.cache
+config.cache-journal
+UUID
+meta.log*
+library.log*
