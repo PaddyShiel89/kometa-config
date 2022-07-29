@@ -3,8 +3,8 @@
 libraries:                                      # This is called out once within the config.yml file                                       
   Movies:                                       # Each library must match the Plex library name
     metadata_path:
-      - git: https://github.com/PaddyShiel89/pmm-config/Movies
-settings:                                      
+    - url: https://github.com/PaddyShiel89/pmm-config/Movies.yml
+settings:
   cache: true
   cache_expiration: 60
   asset_directory: config/assets
@@ -56,3 +56,5 @@ plex:                                           # Can be individually specified 
 tmdb:                                           # REQUIRED for the script to run
   apikey: 06a793ce2b9ee184e6c720e17875f148
   language: en
+  cache_expiration: 60
+  region:
