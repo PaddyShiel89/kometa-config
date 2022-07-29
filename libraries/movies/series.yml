@@ -9,3 +9,9 @@ collections:
         keyword: dc-extended-universe
       - name: Series
         summary: "Movies that are part of the DC Extended Universe."
+  Marvel Cinematic Universe:
+    template:
+      - name: imdb_keyword_list
+        keyword: marvel-cinematic-universe
+      - name: Series
+        summary: "Movies that are part of the Marvel Cinematic Universe."
