@@ -7,3 +7,5 @@ templates:
       label.not: Secondary_Cut
   imdb_keyword_list:
     imdb_list: https://www.imdb.com/search/keyword/?keywords=<<keyword>>
+  imdb_user_list:
+    imdb_list: https://www.imdb.com/list/<<list_id>>/

@@ -15,3 +15,9 @@ collections:
         keyword: based-on-the-works-of-stephen-king
       - name: Theme
         summary: "Adaptations of works created by horror author Stephen King."
+  Zombies:
+    template:
+      - name: imdb_user_list
+        list_id: ls053863701
+      - name: Theme
+        summary: "Movies prominently featuring zombies."
