@@ -1,0 +1,26 @@
+templates:
+  Actor:
+    actor: tmdb
+    tmdb_person: <<person>>
+    tmdb_actor_details: <<person>>
+    sort_title: "!04_<<collection_name>>"
+    sync_mode: sync
+    collection_order: release
+    collection_mode: hide
+    file_poster: /config/assets/actors/<<person>>.png
+
+collections:
+  Eva Green:
+    template: { name: Actor, person: 10912 }
+  Jessica Chastain:
+    template: { name: Actor, person: 83002 }
+  Léa Seydoux:
+    template: { name: Actor, person: 121529 }
+  Morgan Freeman:
+    template: { name: Actor, person: 192 }
+  Samuel L. Jackson:
+    template: { name: Actor, person: 2231 }
+  Scarlett Johansson:
+    template: { name: Actor, person: 1245 }
+  Simon Pegg:
+    template: { name: Actor, person: 11108 }

@@ -4,6 +4,7 @@ libraries:                                      # This is called out once within
   Movies:                                       # Each library must match the Plex library name
     metadata_path:
     - repo: Movies
+    - repo: Actors
 settings:
   cache: true
   cache_expiration: 60
