@@ -3,6 +3,12 @@ external_templates:
   - repo: templates/Theme
 
 collections:
+  Based on a True Story:
+    template:
+      - name: imdb_keyword_list
+        keyword: based-on-true-story
+      - name: Theme
+        summary: "Movies based, however loosely, on real events."
   Stephen King:
     template:
       - name: imdb_keyword_list
