@@ -1,0 +1,11 @@
+external_templates:
+  - repo: templates/IMDb
+  - repo: templates/Theme
+
+collections:
+  Stephen King:
+    template:
+      - name: imdb_keyword_list
+        keyword: based-on-the-works-of-stephen-king
+      - name: Theme
+        summary: "Adaptations of works created by horror author Stephen King."

@@ -1,0 +1,10 @@
+templates:
+  Theme:
+    optional:
+      - summary
+    collection_mode: hide
+    collection_order: alpha
+    file_poster: /config/assets/genres/<<collection_name>>.png
+    sort_title: "!03_<<collection_name>>"
+    summary: <<summary>>
+    sync_mode: sync
