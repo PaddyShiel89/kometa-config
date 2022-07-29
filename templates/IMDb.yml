@@ -1,5 +1,5 @@
 templates:
-  imdb:
+  imdb_chart_list:
     imdb_chart: <<chart>>_<<library_type>>s
     collection_order: custom
     sync_mode: sync

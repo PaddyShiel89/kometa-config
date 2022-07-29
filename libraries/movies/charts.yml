@@ -1,17 +1,17 @@
 external_templates:
   - repo: templates/Chart
-  - repo: templates/IMDb_Chart
+  - repo: templates/IMDb
 
 collections:
   IMDb Popular:
     template:
-      - name: imdb
+      - name: imdb_chart_list
         chart: popular
       - name: chart_shared
         key: popular
   IMDb Top 250:
     template:
-      - name: imdb
+      - name: imdb_chart_list
         chart: top
       - name: chart_shared
         key: top
