@@ -1,5 +1,8 @@
 config.cache
 config.cache-journal
 UUID
+
+# Log files
 meta.log*
 library.log*
+collection.log*
