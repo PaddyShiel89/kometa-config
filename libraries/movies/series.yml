@@ -1,0 +1,11 @@
+external_templates:
+  - repo: templates/IMDb
+  - repo: templates/Series
+
+collections:
+  DC Extended Universe:
+    template:
+      - name: imdb_keyword_list
+        keyword: dc-extended-universe
+      - name: Series
+        summary: "Movies that are part of the DC Extended Universe."
