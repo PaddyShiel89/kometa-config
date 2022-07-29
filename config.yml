@@ -48,14 +48,14 @@ webhooks:                                       # Can be individually specified 
   run_end:
   changes:
 plex:                                           # Can be individually specified per library as well; REQUIRED for the script to run
-  url: http://192.168.1.12:32400
-  token: ####################
+  url: http://192.168.0.32:32400
+  token: an7DWw7Be9ckCi3u9dba
   timeout: 60
   clean_bundles: false
   empty_trash: false
   optimize: false
 tmdb:                                           # REQUIRED for the script to run
-  apikey: ################################
+  apikey: 06a793ce2b9ee184e6c720e17875f148
   language: en
 tautulli:                                       # Can be individually specified per library as well
   url: http://192.168.1.12:8181
