@@ -4,22 +4,22 @@ external_templates:
 
 collections:
   IMDb Popular:
-      template:
-        - name: imdb
-          chart: popular
-        - name: chart_shared
-          key: popular
-    # IMDb Top 250:
-    #   template:
-    #     - name: imdb
-    #       chart: top
-    #     - name: chart_shared
-    #       key: top
-    IMDb Lowest Rated:
-      imdb_chart: lowest_rated
-      collection_order: custom
-      sync_mode: sync
-      template:
-        - name: chart_shared
-          key: lowest
-          check_library: movie
+    template:
+      - name: imdb
+        chart: popular
+      - name: chart_shared
+        key: popular
+  IMDb Top 250:
+    template:
+      - name: imdb
+        chart: top
+      - name: chart_shared
+        key: top
+  IMDb Lowest Rated:
+    imdb_chart: lowest_rated
+    collection_order: custom
+    sync_mode: sync
+    template:
+      - name: chart_shared
+        key: lowest
+        check_library: movie
