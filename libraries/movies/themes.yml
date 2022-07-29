@@ -3,12 +3,30 @@ external_templates:
   - repo: templates/Theme
 
 collections:
+  Based on a Book:
+    template:
+      - name: imdb_keyword_list
+        keyword: based-on-book
+      - name: Theme
+        summary: "Movies based, however loosely, on novels."
+  Based on a Comic Book:
+    template:
+      - name: imdb_keyword_list
+        keyword: based-on-comic
+      - name: Theme
+        summary: "Movies based, however loosely, on graphic novels."
   Based on a True Story:
     template:
       - name: imdb_keyword_list
         keyword: based-on-true-story
       - name: Theme
         summary: "Movies based, however loosely, on real events."
+  Based on a Videogame:
+    template:
+      - name: imdb_keyword_list
+        keyword: based-on-video-game
+      - name: Theme
+        summary: "Movies based, however loosely, on videogames."
   Stephen King:
     template:
       - name: imdb_keyword_list
