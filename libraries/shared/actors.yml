@@ -4,6 +4,8 @@ external_templates:
 collections:
   Ana de Armas:
     template: { name: Actor, person: 224513 }
+  Bruce Willis:
+    template: { name: Actor, person: 62 }
   Carla Gugino:
     template: { name: Actor, person: 17832 }
   Eva Green:
@@ -12,6 +14,8 @@ collections:
     template: { name: Actor, person: 83002 }
   Léa Seydoux:
     template: { name: Actor, person: 121529 }
+  Michael Fassbender:
+    template: { name: Actor, person: 17288 }
   Morgan Freeman:
     template: { name: Actor, person: 192 }
   Samuel L. Jackson:
@@ -20,3 +24,5 @@ collections:
     template: { name: Actor, person: 1245 }
   Simon Pegg:
     template: { name: Actor, person: 11108 }
+  Will Ferrell:
+    template: { name: Actor, person: 23659 }
