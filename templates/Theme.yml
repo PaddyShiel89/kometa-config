@@ -6,5 +6,5 @@ templates:
     collection_order: alpha
     file_poster: /config/assets/themes/<<collection_name>>.png
     sort_title: "!03_<<collection_name>>"
-    summary: "<<library_type>> <<summary>>"
+    summary: "<<library_name>> <<summary>>"
     sync_mode: sync
