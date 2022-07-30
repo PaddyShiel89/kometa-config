@@ -8,6 +8,7 @@ collections:
     template:
       - name: imdb_keyword_list
         keyword: based-on-book
+        keyword2: based-on-novel
       - name: Theme
         summary: "based, however loosely, on novels."
   Based on a Comic Book:
