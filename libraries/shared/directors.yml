@@ -1,0 +1,6 @@
+external_templates:
+  - repo: templates/collection_type/Director
+
+collections:
+  Martin Scorsese:
+    template: { name: Director, person: 1032 }

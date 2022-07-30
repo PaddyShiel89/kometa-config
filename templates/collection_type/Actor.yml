@@ -6,5 +6,5 @@ templates:
     collection_mode: hide
     collection_order: release
     file_poster: /config/assets/actors/<<person>>.png
-    sort_title: "!04_<<collection_name>>"
+    sort_title: "!04a_<<collection_name>>"
     sync_mode: sync
