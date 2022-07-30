@@ -2,40 +2,41 @@ external_templates:
   - repo: templates/IMDb
   - repo: templates/Theme
 
+# Note: All summary text is prepended with the library type.
 collections:
   Based on a Book:
     template:
       - name: imdb_keyword_list
         keyword: based-on-book
       - name: Theme
-        summary: "Movies based, however loosely, on novels."
+        summary: "based, however loosely, on novels."
   Based on a Comic Book:
     template:
       - name: imdb_keyword_list
         keyword: based-on-comic
       - name: Theme
-        summary: "Movies based, however loosely, on graphic novels."
+        summary: "based, however loosely, on graphic novels."
   Based on a True Story:
     template:
       - name: imdb_keyword_list
         keyword: based-on-true-story
       - name: Theme
-        summary: "Movies based, however loosely, on real events."
+        summary: "based, however loosely, on real events."
   Based on a Videogame:
     template:
       - name: imdb_keyword_list
         keyword: based-on-video-game
       - name: Theme
-        summary: "Movies based, however loosely, on videogames."
+        summary: "based, however loosely, on videogames."
   Stephen King:
     template:
       - name: imdb_keyword_list
         keyword: based-on-the-works-of-stephen-king
       - name: Theme
-        summary: "Adaptations of works created by horror author Stephen King."
+        summary: "that are daptations of works created by horror author Stephen King."
   Zombies:
     template:
       - name: imdb_user_list
         list_id: ls053863701
       - name: Theme
-        summary: "Movies prominently featuring zombies."
+        summary: "prominently featuring zombies."

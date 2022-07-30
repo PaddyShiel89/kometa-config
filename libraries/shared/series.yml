@@ -2,16 +2,17 @@ external_templates:
   - repo: templates/IMDb
   - repo: templates/Series
 
+# Note: All summary text is prepended with the library type.
 collections:
   DC Extended Universe:
     template:
       - name: imdb_keyword_list
         keyword: dc-extended-universe
       - name: Series
-        summary: "Movies that are part of the DC Extended Universe."
+        summary: "that are part of the DC Extended Universe."
   Marvel Cinematic Universe:
     template:
       - name: imdb_keyword_list
         keyword: marvel-cinematic-universe
       - name: Series
-        summary: "Movies that are part of the Marvel Cinematic Universe."
+        summary: "that are part of the Marvel Cinematic Universe."
