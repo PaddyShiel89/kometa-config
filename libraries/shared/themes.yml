@@ -35,7 +35,7 @@ collections:
       - name: imdb_keyword_list
         keyword: based-on-the-works-of-stephen-king
       - name: Theme
-        summary: "that are daptations of works created by horror author Stephen King."
+        summary: "that are adaptations of works created by horror author Stephen King."
   Zombies:
     template:
       - name: imdb_user_list
