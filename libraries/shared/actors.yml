@@ -1,5 +1,5 @@
 external_templates:
-  - repo: templates/Actor
+  - repo: templates/collection_type/Actor
 
 collections:
   Ana de Armas:

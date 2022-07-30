@@ -1,6 +1,6 @@
 external_templates:
-  - repo: templates/IMDb
-  - repo: templates/Series
+  - repo: templates/collection_type/Series
+  - repo: templates/source/IMDb
 
 # Note: All summary text is prepended with the library type.
 collections:
