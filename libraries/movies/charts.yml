@@ -3,6 +3,13 @@ external_templates:
   - repo: templates/IMDb
 
 collections:
+  Empire's 100 Greatest Movies:
+    template:
+      - name: imdb_user_list
+        list_id: ls567669591
+      - name: chart_shared
+        key: top
+    file_poster: /config/assets/charts/Empire's 100 Greatest Movies.png
   IMDb Popular:
     template:
       - name: imdb_chart_list
