@@ -13,3 +13,12 @@ templates:
     sort_title: "!02_<<collection_name>>"
     summary: <<summary>>
     sync_mode: sync
+  Genre collection:
+    smart_filter:
+      sort_by: title.asc
+      all:
+        genre: <<value>>
+    collection_mode: hide
+    file_poster: /config/assets/genres/<<collection_name>>.png
+    sort_title: "!02_<<collection_name>>"
+    sync_mode: sync
