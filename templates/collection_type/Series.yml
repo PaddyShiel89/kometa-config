@@ -4,8 +4,6 @@ templates:
       - summary
     collection_mode: hide
     collection_order: release
-    file_poster: /config/assets/series/<<collection_name>>.jpg
-    file_poster: /config/assets/series/<<collection_name>>.jpeg
     file_poster: /config/assets/series/<<collection_name>>.png
     sort_title: "!05_<<collection_name>>"
     summary: "<<library_name>> <<summary>>"
