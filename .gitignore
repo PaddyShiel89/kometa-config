@@ -10,3 +10,6 @@ UUID
 meta.log*
 library.log*
 collection.log*
+
+# Assets
+/assets
