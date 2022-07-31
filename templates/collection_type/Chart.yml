@@ -41,4 +41,3 @@ templates:
     collection_mode: hide
     sort_title: "!<<collection_section>><<pre>><<order_<<key>>>><<sort>>"
     url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/chart/<<collection_name_encoded>>.jpg
-    schedule: weekly(sunday)
