@@ -7,13 +7,14 @@ collections:
     template:
       - name: imdb_user_list
         list_id: ls567669591
-      - name: chart_shared
-        key: top
     filters:
       label.not: Secondary_Cut
+    collection_mode: hide
     collection_order: custom
     file_poster: /config/assets/charts/Empire's 100 Greatest Movies.png
+    sort_title: "!00_Empire's 100 Greatest Movies"
     summary: "Empire asked readers to share their picks for the best films of all time - ones that comfort, challenge and pioneer. Films that blow your mind, help you see things from a new perspective, and that continue to shape cinema as we know it today. Films that make you feel something. Combining reader votes with critic's choices from Team Empire, here we have it - the latest version of the 100 Greatest Movies list."
+    sync_mode: sync
   IMDb Popular:
     template:
       - name: imdb_chart_list
