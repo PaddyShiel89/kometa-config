@@ -2,15 +2,93 @@ external_templates:
   - repo: templates/collection_type/Genre
 
 collections:
+  Action:
+    template:
+      - name: Genre
+        genre: Action
+  Adventure:
+    template:
+      - name: Genre
+        genre: Adventure
+  Animation:
+    template:
+      - name: Genre
+        genre: Animation
+  Anime:
+    template:
+      - name: Genre
+        genre: Anime
+  Biopic:
+    template:
+      - name: Genre
+        genre: Biopic
+  Comedy:
+    template:
+      - name: Genre
+        genre: Comedy
+  Crime:
+    template:
+      - name: Genre
+        genre: Crime
+  Drama:
+    template:
+      - name: Genre
+        genre: Drama
+  Family:
+    template:
+      - name: Genre
+        genre: Family
+  Fantasy:
+    template:
+      - name: Genre
+        genre: Fantasy
+  History:
+    template:
+      - name: Genre
+        genre: History
+  Horror:
+    template:
+      - name: Genre
+        genre: Horror
   Horror Comedy:
     template:
       - name: Genre
         genre: Horror
         genre2: Comedy
         summary: "Horror comedy combines elements of comedy and horror fiction. It has been described as able to be categorized under three types: black comedy, parody and spoof. It often crosses over with the black comedy genre."
-
-dynamic_collections:
-  Genres:
-    type: genre
-    template: Genre collection
-    title_format: <<key_name>>
+  Martial Arts:
+    template:
+      - name: Genre
+        genre: Martial Arts
+  Musical:
+    template:
+      - name: Genre
+        genre: Musical
+  Mystery:
+    template:
+      - name: Genre
+        genre: Mystery
+  Romance:
+    template:
+      - name: Genre
+        genre: Romance
+  Science Fiction:
+    template:
+      - name: Genre
+        genre: Science Fiction
+  Short:
+    template:
+      - name: Genre
+        genre: Short
+  Sport:
+    template:
+      - name: Genre
+        genre: Sport
+  Thriller:
+    template:
+      - name: Genre
+        genre: Thriller
+  War:
+    template:
+      - name: Genre
+        genre: War
