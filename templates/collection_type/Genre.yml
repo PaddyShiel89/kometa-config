@@ -9,7 +9,7 @@ templates:
       genre: <<genre2>>
     collection_mode: hide
     collection_order: alpha
-    file_poster: /config/assets/genres/<<collection_name>>.png
+    file_poster: /config/assets/genres/<<library_name>>/<<collection_name>>.png
     sort_title: "!02_<<collection_name>>"
     summary: <<summary>>
     sync_mode: sync
@@ -19,6 +19,6 @@ templates:
       all:
         genre: <<value>>
     collection_mode: hide
-    file_poster: /config/assets/genres/<<collection_name>>.png
+    file_poster: /config/assets/genres/<<library_name>>/<<collection_name>>.png
     sort_title: "!02_<<collection_name>>"
     sync_mode: sync
