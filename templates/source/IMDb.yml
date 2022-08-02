@@ -6,6 +6,9 @@ templates:
     filters:
       label.not: Secondary_Cut
 
+  imdb_group_list:
+    imdb_list: https://www.imdb.com/search/title/?groups=<<group>>
+
   imdb_keyword_list:
     optional:
       - keyword2

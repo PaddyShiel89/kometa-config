@@ -26,3 +26,9 @@ collections:
     collection_order: custom
     template:
       - name: chart_shared
+  Oscars Best Picture Winners:
+    template:
+      - name: imdb_group_list
+        group: oscar_best_picture_winners
+      - name: chart_shared
+    collection_order: release.desc
