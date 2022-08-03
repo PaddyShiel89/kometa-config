@@ -2,7 +2,6 @@ templates:
   Director:
     tmdb_director_details: <<person>>
     tmdb_person: <<person>>
-    title: <<collection_name>> (Director)
     collection_mode: hide
     collection_order: release
     file_poster: /config/assets/directors/<<person>>.png
