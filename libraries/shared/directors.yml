@@ -2,5 +2,17 @@ external_templates:
   - repo: templates/collection_type/Director
 
 collections:
+  Edgar Wright:
+    template: { name: Director, person: 11090 }
+  J.J. Abrams:
+    template: { name: Director, person: 15344 }
+  Luc Besson:
+    template: { name: Director, person: 59 }
   Martin Scorsese:
     template: { name: Director, person: 1032 }
+  Quentin Tarantino:
+    template: { name: Director, person: 138 }
+  Ridley Scott:
+    template: { name: Director, person: 578 }
+  Steven Spielberg:
+    template: { name: Director, person: 488 }

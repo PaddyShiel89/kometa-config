@@ -24,5 +24,7 @@ collections:
     template: { name: Actor, person: 1245 }
   Simon Pegg:
     template: { name: Actor, person: 11108 }
+  Thomasin McKenzie:
+    template: { name: Actor, person: 1356758 }
   Will Ferrell:
     template: { name: Actor, person: 23659 }
