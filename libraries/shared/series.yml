@@ -4,87 +4,9 @@ external_templates:
 
 # Note: All summary text is prepended with the library type.
 collections:
-  Alien:
-    template:
-      - name: Series
-        summary: "that are part of the Alien series."
-    plex_search:
-      label: "series: Alien (1979)"
-  Back to the Future:
-    template:
-      - name: Series
-        summary: "that are part of the Back to the Future series."
-    plex_search:
-      label: "series: Back to the Future (1985)"
-  DC Extended Universe:
-    template:
-      - name: imdb_keyword_list
-        keyword: dc-extended-universe
-      - name: Series
-        summary: "that are part of the DC Extended Universe."
-  James Bond:
-    template:
-      - name: Series
-        summary: "that are part of Eon Production's James Bond series."
-    plex_search:
-      label: "series: James Bond (1962)"
-  Jurassic Park:
-    template:
-      - name: Series
-        summary: "that are part of the Jurassic Park series, including Jurassic World."
-    plex_search:
-      label: "series: Jurassic Park (1993)"
-  Marvel Cinematic Universe:
-    template:
-      - name: imdb_keyword_list
-        keyword: marvel-cinematic-universe
-      - name: Series
-        summary: "that are part of the Marvel Cinematic Universe."
-  Middle-earth:
-    template:
-      - name: Series
-        summary: "that are part of the Peter Jackson's Middle-earth saga."
-    plex_search:
-      label: "series: Middle-earth (2001)"
-  Muppets:
-    template:
-      - name: Series
-        summary: "featuring Jim Henson's Muppets."
-    plex_search:
-      label: "series: Muppets"
-  Resident Evil:
-    template:
-      - name: Series
-        summary: "that are based on the Resident Evil series of games."
-    plex_search:
-      label: "series: Resident Evil"
-  Saw:
-    template:
-      - name: Series
-        summary: "that are part of the Saw horror franchise."
-    plex_search:
-      label: "series: Saw (2004)"
   Star Wars:
     template:
       - name: Series
         summary: "that are part of the Star Wars saga."
     plex_search:
       label: "series: Star Wars"
-  The Three Flavours Cornetto:
-    template:
-      - name: Series
-        summary: "in the Three Flavours Cornetto trilogy by Edgar Wright and Simon Pegg."
-    plex_search:
-      label: "series: The Three Flavours Cornetto (2004)"
-  Transformers:
-    template:
-      - name: Series
-        summary: "that are part of Michael Bay's Transformers franchise."
-    plex_search:
-      label: "series: Transformers (2007)"
-  Wizarding World:
-    template:
-      - name: Series
-        summary: "that are part of the Harry Potter franchise."
-    plex_search:
-      label: "series: Wizarding World (2001)"
