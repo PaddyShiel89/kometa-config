@@ -1,0 +1,17 @@
+external_templates:
+  - repo: templates/collection_type/Series
+
+# Note: All summary text is prepended with the library type.
+collections:
+  Middle-earth:
+    template:
+      - name: Series
+        summary: "on elements of Peter Jackson's Middle-earth saga."
+    plex_search:
+      label: "series: Middle-earth (2001)"
+  Star Wars:
+    template:
+      - name: Series
+        summary: "on elements of the Star Wars saga."
+    plex_search:
+      label: "series: Star Wars"
