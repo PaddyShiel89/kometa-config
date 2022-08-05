@@ -7,6 +7,7 @@ config.cache-journal
 UUID
 
 # Log files
+/logs
 meta.log*
 library.log*
 collection.log*
