@@ -20,17 +20,25 @@ templates:
       - keyword8
       - keyword9
       - keyword10
+    conditionals:
+      title_type:
+        default: ""
+        conditions:
+          - library_name: Movies
+            value: "&title_type=movie%2Cshort%2CtvMovie%2CtvSpecial%2Cvideo"
+          - library_name: TV shows
+            value: "&title_type=tvSeries%2CtvMiniSeries"
     imdb_list:
-      - https://www.imdb.com/search/keyword/?keywords=<<keyword>>
-      - https://www.imdb.com/search/keyword/?keywords=<<keyword2>>
-      - https://www.imdb.com/search/keyword/?keywords=<<keyword3>>
-      - https://www.imdb.com/search/keyword/?keywords=<<keyword4>>
-      - https://www.imdb.com/search/keyword/?keywords=<<keyword5>>
-      - https://www.imdb.com/search/keyword/?keywords=<<keyword6>>
-      - https://www.imdb.com/search/keyword/?keywords=<<keyword7>>
-      - https://www.imdb.com/search/keyword/?keywords=<<keyword8>>
-      - https://www.imdb.com/search/keyword/?keywords=<<keyword9>>
-      - https://www.imdb.com/search/keyword/?keywords=<<keyword10>>
+      - https://www.imdb.com/search/keyword/?keywords=<<keyword>><<title_type>>
+      - https://www.imdb.com/search/keyword/?keywords=<<keyword2>><<title_type>>
+      - https://www.imdb.com/search/keyword/?keywords=<<keyword3>><<title_type>>
+      - https://www.imdb.com/search/keyword/?keywords=<<keyword4>><<title_type>>
+      - https://www.imdb.com/search/keyword/?keywords=<<keyword5>><<title_type>>
+      - https://www.imdb.com/search/keyword/?keywords=<<keyword6>><<title_type>>
+      - https://www.imdb.com/search/keyword/?keywords=<<keyword7>><<title_type>>
+      - https://www.imdb.com/search/keyword/?keywords=<<keyword8>><<title_type>>
+      - https://www.imdb.com/search/keyword/?keywords=<<keyword9>><<title_type>>
+      - https://www.imdb.com/search/keyword/?keywords=<<keyword10>><<title_type>>
 
   imdb_user_list:
     optional:
@@ -43,14 +51,22 @@ templates:
       - list_id8
       - list_id9
       - list_id10
+    conditionals:
+      title_type:
+        default: ""
+        conditions:
+          - library_name: Movies
+            value: "?title_type=movie%2Cshort%2CtvMovie%2CtvSpecial%2Cvideo"
+          - library_name: TV Shows
+            value: "?title_type=tvSeries%2CtvMiniSeries"
     imdb_list:
-      - https://www.imdb.com/list/<<list_id>>/
-      - https://www.imdb.com/list/<<list_id2>>/
-      - https://www.imdb.com/list/<<list_id3>>/
-      - https://www.imdb.com/list/<<list_id4>>/
-      - https://www.imdb.com/list/<<list_id5>>/
-      - https://www.imdb.com/list/<<list_id6>>/
-      - https://www.imdb.com/list/<<list_id7>>/
-      - https://www.imdb.com/list/<<list_id8>>/
-      - https://www.imdb.com/list/<<list_id9>>/
-      - https://www.imdb.com/list/<<list_id10>>/
+      - https://www.imdb.com/list/<<list_id>>/<<title_type>>
+      - https://www.imdb.com/list/<<list_id2>>/<<title_type>>
+      - https://www.imdb.com/list/<<list_id3>>/<<title_type>>
+      - https://www.imdb.com/list/<<list_id4>>/<<title_type>>
+      - https://www.imdb.com/list/<<list_id5>>/<<title_type>>
+      - https://www.imdb.com/list/<<list_id6>>/<<title_type>>
+      - https://www.imdb.com/list/<<list_id7>>/<<title_type>>
+      - https://www.imdb.com/list/<<list_id8>>/<<title_type>>
+      - https://www.imdb.com/list/<<list_id9>>/<<title_type>>
+      - https://www.imdb.com/list/<<list_id10>>/<<title_type>>
