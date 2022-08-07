@@ -4,12 +4,18 @@ external_templates:
 collections:
   Ana de Armas:
     template: { name: Actor, person: 224513 }
+  Brad Pitt:
+    template: { name: Actor, person: 287 }
   Bruce Willis:
     template: { name: Actor, person: 62 }
   Carla Gugino:
     template: { name: Actor, person: 17832 }
+  Diane Kruger:
+    template: { name: Actor, person: 9824 }
   Eva Green:
     template: { name: Actor, person: 10912 }
+  Jack Nicholson:
+    template: { name: Actor, person: 514 }
   Jessica Chastain:
     template: { name: Actor, person: 83002 }
   Léa Seydoux:
