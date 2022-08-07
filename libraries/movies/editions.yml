@@ -1,0 +1,12 @@
+external_templates:
+  - file: config/templates/collection_type/Edition
+
+collections:
+  "Star Wars: Episode I - The Phantom Menace":
+    template:
+      - name: Edition
+        poster_file_name: "Star Wars Episode I - The Phantom Menace"
+    plex_search:
+      title.begins: "Star Wars: Episode I - The Phantom Menace"
+    sort_title: "Star Wars 001 (1999)"
+    summary: "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory."

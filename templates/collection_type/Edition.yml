@@ -1,0 +1,10 @@
+templates:
+  Edition:
+    default:
+      poster_file_name: <<collection_name>>
+    optional:
+      - summary
+    collection_mode: hide_items
+    collection_order: release
+    file_poster: /config/assets/editions/<<poster_file_name>>.png
+    sync_mode: sync
