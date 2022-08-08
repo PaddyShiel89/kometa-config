@@ -1,5 +1,5 @@
 external_templates:
-  - file: config/templates/collection_type/Edition
+  - repo: templates/collection_type/Edition
 
 collections:
   "Star Wars: Episode I - The Phantom Menace":
