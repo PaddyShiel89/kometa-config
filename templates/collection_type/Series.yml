@@ -3,7 +3,7 @@ templates:
     optional:
       - summary
     collection_mode: hide
-    collection_order: release
+    smart_label: release.asc
     file_poster: /config/assets/series/<<collection_name>>.png
     sort_title: "!05_<<collection_name>>"
     summary: "<<library_name>> <<summary>>"
