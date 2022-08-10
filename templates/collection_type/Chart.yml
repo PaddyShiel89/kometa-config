@@ -5,3 +5,17 @@ templates:
     collection_mode: hide
     sort_title: "!00_<<collection_name>>"
     file_poster: /config/assets/charts/<<collection_name>>.png
+
+  Smart Shared Chart:
+    default:
+      sync_mode: sync
+    optional:
+      - exclude_label
+    smart_label:
+      sort_by: <<sort>>
+      all:
+        label: <<smart_label>>
+        label.not: <<exclude_label>>
+    collection_mode: hide
+    sort_title: "!00_<<collection_name>>"
+    file_poster: /config/assets/charts/<<collection_name>>.png
