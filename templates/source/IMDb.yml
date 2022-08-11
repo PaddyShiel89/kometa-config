@@ -1,10 +1,7 @@
 templates:
   imdb_chart_list:
     imdb_chart: <<chart>>_<<library_type>>s
-    collection_order: custom
     sync_mode: sync
-    filters:
-      label.not: Secondary_Cut
 
   imdb_group_list:
     imdb_list: https://www.imdb.com/search/title/?groups=<<group>>

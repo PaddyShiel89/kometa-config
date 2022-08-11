@@ -2,8 +2,8 @@ templates:
   Director:
     tmdb_director_details: <<person>>
     tmdb_person: <<person>>
+    smart_label: release.asc
     collection_mode: hide
-    collection_order: release
     file_poster: /config/assets/directors/<<person>>.png
     sort_title: "!04b_<<collection_name>>"
     sync_mode: sync

@@ -1,23 +1,26 @@
 templates:
-  Genre:
-    optional:
-      - genre2
-      - summary
-    plex_search:
-      genre: <<genre>>
-    filters:
-      genre: <<genre2>>
-    collection_mode: hide
-    collection_order: alpha
-    file_poster: /config/assets/genres/<<library_name>>/<<collection_name>>.png
-    sort_title: "!02_<<collection_name>>"
-    summary: <<summary>>
-    sync_mode: sync
-  Genre collection:
+  Dynamic Genre:
     smart_filter:
       sort_by: title.asc
+      limit: 300
       all:
         genre: <<value>>
+    collection_mode: hide
+    file_poster: /config/assets/genres/<<library_name>>/<<collection_name>>.png
+    sort_title: "!02_<<collection_name>>"
+    sync_mode: sync
+
+  Multi-Genre:
+    optional:
+      - genre3
+    smart_filter:
+      sort_by: title.asc
+      limit: 300
+      all:
+        genre:
+          - <<genre1>>
+          - <<genre2>>
+          - <<genre3>>
     collection_mode: hide
     file_poster: /config/assets/genres/<<library_name>>/<<collection_name>>.png
     sort_title: "!02_<<collection_name>>"
