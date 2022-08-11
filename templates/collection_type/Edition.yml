@@ -5,5 +5,4 @@ templates:
     collection_mode: hide_items
     collection_order: alpha
     file_poster: /config/assets/editions/<<poster_file_name>>.png
-    sort_title: <<search_title>>
     sync_mode: sync
