@@ -7,6 +7,7 @@ collections:
       - name: Edition
         poster_file_name: "Alien (1979)"
         search_title: "Alien (1979) 001"
+    tmdb_movie: 348
     summary: "The crew of a commercial spacecraft encounters a deadly lifeform after investigating an unknown transmission."
 
   Aliens:
@@ -14,6 +15,7 @@ collections:
       - name: Edition
         poster_file_name: "Aliens (1986)"
         search_title: "Alien (1979) 002"
+    tmdb_movie: 679
     summary: "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators."
 
   "Alien³":
@@ -21,6 +23,7 @@ collections:
       - name: Edition
         poster_file_name: "Alien³ (1992)"
         search_title: "Alien (1979) 003"
+    tmdb_movie: 8077
     summary: "After her last encounter, Ellen Ripley crash-lands on Fiorina 161, a maximum security prison. When a series of strange and deadly events occur shortly after her arrival, Ripley realizes that she has brought along an unwelcome visitor."
 
   "Alien: Resurrection":
@@ -28,6 +31,7 @@ collections:
       - name: Edition
         poster_file_name: "Alien Resurrection (1997)"
         search_title: "Alien (1979) 004"
+    tmdb_movie: 8078
     summary: "200 years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must again battle the deadly aliens and stop them from reaching Earth."
 
   American Gangster:
@@ -35,6 +39,7 @@ collections:
       - name: Edition
         poster_file_name: "American Gangster (2007)"
         search_title: "American Gangster (2007) 001"
+    tmdb_movie: 4982
     summary: "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas, whose real life inspired this partly biographical film."
 
   Salt:
@@ -42,6 +47,7 @@ collections:
       - name: Edition
         poster_file_name: "Salt (2010)"
         search_title: "Salt (2010) 001"
+    tmdb_movie: 27576
     summary: "A CIA agent goes on the run after a defector accuses her of being a Russian spy."
 
   "Spider-Man 2":
@@ -49,6 +55,7 @@ collections:
       - name: Edition
         poster_file_name: "Spider-Man 2 (2004)"
         search_title: "Spider-Man (2002) 002"
+    tmdb_movie: 558
     summary: "Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius."
 
   "Star Wars: Episode I - The Phantom Menace":
@@ -56,6 +63,7 @@ collections:
       - name: Edition
         poster_file_name: "Star Wars Episode I - The Phantom Menace"
         search_title: "Star Wars 001"
+    tmdb_movie: 1893
     summary: "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory."
 
   "Star Wars: Episode II - Attack of the Clones":
@@ -63,6 +71,7 @@ collections:
       - name: Edition
         poster_file_name: "Star Wars Episode II - Attack of the Clones"
         search_title: "Star Wars 002"
+    tmdb_movie: 1894
     summary: "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi investigates an assassination attempt on the senator and discovers a secret clone army crafted for the Jedi."
 
   "Star Wars: Episode III - Revenge of the Sith":
@@ -70,6 +79,7 @@ collections:
       - name: Edition
         poster_file_name: "Star Wars Episode III - Revenge of the Sith"
         search_title: "Star Wars 003"
+    tmdb_movie: 1895
     summary: "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-Wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine and is lured into a sinister plan to rule the galaxy."
 
   "Star Wars: Episode IV - A New Hope":
@@ -77,6 +87,7 @@ collections:
       - name: Edition
         poster_file_name: "Star Wars Episode IV - A New Hope"
         search_title: "Star Wars 004"
+    tmdb_movie: 11
     summary: "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
 
   "Star Wars: Episode V - The Empire Strikes Back":
@@ -84,6 +95,7 @@ collections:
       - name: Edition
         poster_file_name: "Star Wars Episode V - The Empire Strikes Back"
         search_title: "Star Wars 005"
+    tmdb_movie: 1891
     summary: "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett."
 
   "Star Wars: Episode VI - Return of the Jedi":
@@ -91,6 +103,7 @@ collections:
       - name: Edition
         poster_file_name: "Star Wars Episode VI - Return of the Jedi"
         search_title: "Star Wars 006"
+    tmdb_movie: 1892
     summary: "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap."
 
   "Sucker Punch":
@@ -98,4 +111,5 @@ collections:
       - name: Edition
         poster_file_name: "Sucker Punch (2011)"
         search_title: "Sucker Punch (2011) 001"
+    tmdb_movie: 23629
     summary: "A young girl institutionalized by her abusive stepfather retreats to an alternative reality as a coping strategy and envisions a plan to help her escape."
