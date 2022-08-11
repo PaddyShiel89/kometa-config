@@ -5,7 +5,8 @@ templates:
     optional:
       - summary
     plex_search:
-      title.contains: <<search_title>>
+      all:
+        title.contains: <<search_title>>
     collection_mode: hide_items
     collection_order: alpha
     file_poster: /config/assets/editions/<<poster_file_name>>.png
