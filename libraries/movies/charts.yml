@@ -1,6 +1,6 @@
 external_templates:
-  - file: config/templates/collection_type/Chart
-  - file: config/templates/source/IMDb
+  - repo: templates/collection_type/Chart
+  - repo: templates/source/IMDb
 
 collections:
   Empire's 100 Greatest Movies:
