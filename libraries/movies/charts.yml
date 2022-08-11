@@ -3,6 +3,31 @@ external_templates:
   - file: config/templates/source/IMDb
 
 collections:
+  Empire's 100 Greatest Movies:
+    template:
+      - name: imdb_user_list
+        list_id: ls567669591
+      - name: Smart Shared Chart
+        sort: audience_rating.desc
+        exclude_label: Secondary_Cut
+    summary: "Empire asked readers to share their picks for the best films of all time - ones that comfort, challenge and pioneer. Films that blow your mind, help you see things from a new perspective, and that continue to shape cinema as we know it today. Films that make you feel something. Combining reader votes with critic's choices from Team Empire, here we have it - the latest version of the 100 Greatest Movies list."
+
+  IMDb Lowest Rated:
+    imdb_chart: lowest_rated
+    template:
+      - name: Smart Shared Chart
+        sort: audience_rating.asc
+        exclude_label: Secondary_Cut
+
+  IMDb Popular:
+    template:
+      - name: imdb_chart_list
+        chart: popular
+      - name: Smart Shared Chart
+        sort: random
+        exclude_label: Secondary_Cut
+    summary: "The most popular movies right now as determined by IMDb users."
+
   IMDb Top 250:
     template:
       - name: imdb_chart_list
