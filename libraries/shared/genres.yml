@@ -14,3 +14,9 @@ collections:
       genre1: Horror
       genre2: Comedy
     summary: "Horror comedy combines elements of comedy and horror fiction. It has been described as able to be categorized under three types: black comedy, parody and spoof. It often crosses over with the black comedy genre."
+  Romantic Comedy:
+    template:
+      name: "Multi-Genre"
+      genre1: Romance
+      genre2: Comedy
+    summary: "Romantic comedy (also known as romcom or rom-com) is a subgenre of comedy and slice-of-life fiction, focusing on lighthearted, humorous plot lines centered on romantic ideas, such as how true love is able to surmount most obstacles."
