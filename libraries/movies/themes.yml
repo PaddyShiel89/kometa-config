@@ -1,0 +1,11 @@
+external_templates:
+  - repo: templates/collection_type/Theme
+
+collections:
+  Foreign Language:
+    template:
+      - name: Theme
+        summary: "where the original audio language is not in English. English audio dub tracks may be available."
+    plex_all: true
+    filters:
+      original_language.not: en
