@@ -1,0 +1,9 @@
+external_templates:
+  - repo: templates/collection_type/Content_Rating
+
+dynamic_collections:
+  Content Rating:
+    type: content_rating
+    title_format: BBFC <<key_name>>
+    template: Dynamic Content Rating
+    remove_prefix: "gb/"

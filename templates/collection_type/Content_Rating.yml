@@ -1,0 +1,49 @@
+templates:
+  Dynamic Content Rating:
+    conditionals:
+      conditional_summary:
+        default: ""
+        conditions:
+          - collection_name: BBFC U
+            value: "A U film should be suitable for audiences aged four years and over, although it is impossible to predict what might upset any particular child. U films should be set within a positive framework and should offer reassuring counterbalances to any violence, threat or horror. If a work is particularly suitable for pre-school children, this will be indicated in the Ratings Info."
+          - collection_name: BBFC PG
+            value: "General viewing, but some scenes may be unsuitable for young children. A PG film should not unsettle a child aged around eight or older. Unaccompanied children of any age may watch, but parents are advised to consider whether the content may upset younger, or more sensitive, children."
+          - collection_name: BBFC 12
+            value: "Video works classified 12 contain material that is not generally suitable for children aged under 12. No one younger than 12 may see a 12A film in a cinema unless accompanied by an adult. No one younger than 12 may rent or buy a 12 rated video work."
+          - collection_name: BBFC 15
+            value: "No one younger than 15 may see a 15 film in a cinema. No one younger than 15 may rent or buy a 15 rated video work."
+          - collection_name: BBFC 18
+            value: "No one younger than 18 may see an 18 film in a cinema. No one younger than 18 may rent or buy an 18 rated video work. Adults should be free to choose their own entertainment."
+          - collection_name: BBFC R18
+            value: "The R18 category is a special and legally-restricted classification primarily for explicit works of consenting sex or strong fetish material involving adults. Films may only be shown to adults in specially licensed cinemas, and video works may be supplied to adults only in licensed sex shops. R18 video works may not be supplied by mail order."
+          - collection_name: BBFC Unrated
+            value: "Media that has not been rated by the BBFC. This does not necessarily mean it is for adults only. Certain foreign media may not have been formally released in the UK, and as such were not submitted for local classification."
+      title_order:
+        default: "10"
+        conditions:
+          - collection_name: BBFC U
+            value: "01"
+          - collection_name: BBFC PG
+            value: "02"
+          - collection_name: BBFC 12A
+            value: "03"
+          - collection_name: BBFC 12
+            value: "04"
+          - collection_name: BBFC 15
+            value: "05"
+          - collection_name: BBFC 18
+            value: "06"
+          - collection_name: BBFC R18
+            value: "07"
+          - collection_name: BBFC Unrated
+            value: "08"
+    smart_filter:
+      sort_by: title.asc
+      limit: 300
+      all:
+        content_rating: <<value>>
+    collection_mode: hide
+    file_poster: /config/assets/content-rating/<<collection_name>>.png
+    sort_title: "!01_<<title_order>>_<<collection_name>>"
+    sync_mode: sync
+    summary: <<conditional_summary>>
