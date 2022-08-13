@@ -4,6 +4,8 @@ external_templates:
 collections:
   Ana de Armas:
     template: { name: Actor, person: 224513 }
+  Benicio del Toro:
+    template: { name: Actor, person: 1121 }
   Brad Pitt:
     template: { name: Actor, person: 287 }
   Bruce Willis:
