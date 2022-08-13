@@ -1,0 +1,59 @@
+external_templates:
+  - file: config/templates/collection_type/Edition
+
+metadata:
+  # Alien
+  348:
+    file_background: /config/assets/editions/backgrounds/Alien (1979).jpg
+
+  # Aliens
+  679:
+    file_background: /config/assets/editions/backgrounds/Aliens (1986).jpg
+
+  # "Alien³"
+  8077:
+    file_background: /config/assets/editions/backgrounds/Alien³ (1992).jpg
+
+  # "Alien: Resurrection"
+  8078:
+    file_background: /config/assets/editions/backgrounds/Alien Resurrection (1997).jpg
+
+  # American Gangster
+  4982:
+    file_background: /config/assets/editions/backgrounds/American Gangster (2007).jpg
+
+  # Salt
+  27576:
+    file_background: /config/assets/editions/backgrounds/Salt (2010).jpg
+
+  # "Spider-Man 2"
+  558:
+    file_background: /config/assets/editions/backgrounds/Spider-Man 2 (2004).jpg
+
+  # "Star Wars: Episode I - The Phantom Menace"
+  1893:
+    file_background: /config/assets/editions/backgrounds/Star Wars Episode I - The Phantom Menace.jpg
+
+  # "Star Wars: Episode II - Attack of the Clones"
+  1894:
+    file_background: /config/assets/editions/backgrounds/Star Wars Episode II - Attack of the Clones.jpg
+
+  # "Star Wars: Episode III - Revenge of the Sith"
+  1895:
+    file_background: /config/assets/editions/backgrounds/Star Wars Episode III - Revenge of the Sith.jpg
+
+  # "Star Wars: Episode IV - A New Hope"
+  11:
+    file_background: /config/assets/editions/backgrounds/Star Wars Episode IV - A New Hope.jpg
+
+  # "Star Wars: Episode V - The Empire Strikes Back"
+  1891:
+    file_background: /config/assets/editions/backgrounds/Star Wars Episode V - The Empire Strikes Back.jpg
+
+  # "Star Wars: Episode VI - Return of the Jedi"
+  1892:
+    file_background: /config/assets/editions/backgrounds/Star Wars Episode VI - Return of the Jedi.jpg
+
+  # "Sucker Punch"
+  23629:
+    file_background: /config/assets/editions/backgrounds/Sucker Punch (2011).jpg
