@@ -1,6 +1,3 @@
-external_templates:
-  - file: config/templates/collection_type/Edition
-
 metadata:
   # Alien
   348:
