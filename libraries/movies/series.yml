@@ -44,12 +44,6 @@ collections:
         keyword: marvel-cinematic-universe
       - name: Series
         summary: "that are part of the Marvel Cinematic Universe."
-  Middle-earth Collection:
-    template:
-      - name: Series
-        summary: "that are part of the Peter Jackson's Middle-earth saga."
-    plex_search:
-      label: "series: Middle-earth (2001)"
   Muppets Collection:
     template:
       - name: Series
