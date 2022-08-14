@@ -1,7 +1,11 @@
 external_templates:
   - repo: templates/collection_type/Series
 
-# Note: All summary text is prepended with the library type.
+# Note 1: All summary text is prepended with the library type.
+
+# Note 2: Most series collections should have "Collection" as a suffix to stop
+# duplicates with Editions. Collections with unique collection names, e.g.
+# "Wizarding World" instead of "Harry Potter", do not need the suffix.
 collections:
   Middle-earth Collection:
     template:
