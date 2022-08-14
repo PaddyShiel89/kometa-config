@@ -1,3 +1,6 @@
+external_templates:
+  - repo: templates/collection_type/Theme
+
 collections:
   # Does not create a collection - only applies the foreignlanguage label to
   # relevant movies
@@ -28,3 +31,12 @@ collections:
     sort_title: "!03_Foreign Language"
     summary: "Movies where the original audio language is not in English. English audio dub tracks may be available."
     sync_mode: sync
+
+  Parodies and Spoofs:
+    plex_search:
+      any:
+        label:
+          - "theme: parody"
+          - "theme: spoof"
+    template:
+      - name: Theme
