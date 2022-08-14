@@ -4,7 +4,7 @@ external_templates:
 
 # Note: All summary text is prepended with the library type.
 collections:
-  Star Wars:
+  Star Wars Collection:
     template:
       - name: Series
         summary: "that are part of the Star Wars saga."
