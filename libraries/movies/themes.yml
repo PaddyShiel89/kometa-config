@@ -1,11 +1,30 @@
-external_templates:
-  - repo: templates/collection_type/Theme
-
 collections:
-  Foreign Language:
-    template:
-      - name: Theme
-        summary: "where the original audio language is not in English. English audio dub tracks may be available."
+  # Does not create a collection - only applies the foreignlanguage label to
+  # relevant movies
+  Foreign Language Labels:
     plex_all: true
     filters:
       original_language.not: en
+      # Remove the following movies from the list
+      filepath.not:
+        - "Boss'n Up (2005)"
+        - "The Card Player (2004)"
+        - "Room in Rome (2010)"
+    item_label: foreignlanguage
+    build_collection: false
+
+  # Create a collection using the above list and add the following movies.
+  Foreign Language:
+    smart_filter:
+      sort_by: title.asc
+      any:
+        label: foreignlanguage
+        title:
+          - "Che: Part One"
+          - "Che: Part Two"
+          - "Dressage"
+    collection_mode: hide
+    file_poster: /config/assets/themes/Movies/Foreign Language.png
+    sort_title: "!03_Foreign Language"
+    summary: "Movies where the original audio language is not in English. English audio dub tracks may be available."
+    sync_mode: sync
