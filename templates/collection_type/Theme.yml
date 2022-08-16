@@ -7,6 +7,6 @@ templates:
     smart_label: title.asc
     collection_mode: hide
     file_poster: /config/assets/themes/<<poster_folder>>/<<collection_name>>.png
-    sort_title: "!03_<<collection_name>>"
+    sort_title: "!02_<<collection_name>>"
     summary: "<<library_name>> <<summary>>"
     sync_mode: sync

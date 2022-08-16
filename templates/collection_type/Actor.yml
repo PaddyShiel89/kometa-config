@@ -6,5 +6,5 @@ templates:
     smart_label: release.asc
     collection_mode: hide
     file_poster: /config/assets/actors/<<person>>.png
-    sort_title: "!04a_<<collection_name>>"
+    sort_title: "!03_<<collection_name>>"
     sync_mode: sync
