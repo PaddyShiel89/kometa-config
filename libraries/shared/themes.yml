@@ -4,26 +4,6 @@ external_templates:
 
 # Note: All summary text is prepended with the library type.
 collections:
-  Stephen King:
-    template:
-      - name: imdb_keyword_list
-        keyword: based-on-the-works-of-stephen-king
-      - name: Theme
-        summary: "that are adaptations of works created by horror author Stephen King."
-  Zombies:
-    template:
-      - name: imdb_user_list
-        list_id: ls053863701
-      - name: Theme
-        summary: "prominently featuring zombies."
-    schedule: weekly(sunday)
-  Based on a True Story:
-    template:
-      - name: imdb_keyword_list
-        keyword: based-on-true-story
-      - name: Theme
-        summary: "based, however loosely, on real events."
-    schedule: weekly(monday)
   Based on a Book:
     template:
       - name: imdb_keyword_list
@@ -34,6 +14,7 @@ collections:
       - name: Theme
         summary: "based, however loosely, on novels, novellas, and other written works of fiction."
     schedule: weekly(tuesday)
+
   Based on a Comic Book:
     template:
       - name: imdb_keyword_list
@@ -42,6 +23,15 @@ collections:
       - name: Theme
         summary: "based, however loosely, on graphic novels."
     schedule: weekly(wednesday)
+
+  Based on a True Story:
+    template:
+      - name: imdb_keyword_list
+        keyword: based-on-true-story
+      - name: Theme
+        summary: "based, however loosely, on real events."
+    schedule: weekly(monday)
+
   Based on a Videogame:
     template:
       - name: imdb_keyword_list
@@ -49,3 +39,37 @@ collections:
       - name: Theme
         summary: "based, however loosely, on videogames."
     schedule: weekly(thursday)
+
+  Murder Mystery:
+    template:
+      - name: imdb_keyword_list
+        keyword: murder-investigation
+        keyword2: murder-mystery
+        keyword3: whodunit
+      - name: Theme
+        summary: "featuring a murder investigation as the main plot point."
+    filters:
+      filepath.not:
+        - "X (2022)"
+
+  Slashers:
+    template:
+      - name: imdb_keyword_list
+        keyword: slasher
+      - name: Theme
+        summary: "involving a killer stalking and murdering a group of people, usually by use of bladed tools. Slashers typically adhere to a specific formula: a past wrongful action causes severe trauma that is reinforced by a commemoration or anniversary that reactivates or re-inspires the killer."
+
+  Stephen King:
+    template:
+      - name: imdb_keyword_list
+        keyword: based-on-the-works-of-stephen-king
+      - name: Theme
+        summary: "that are adaptations of works created by horror author Stephen King."
+
+  Zombies:
+    template:
+      - name: imdb_user_list
+        list_id: ls053863701
+      - name: Theme
+        summary: "prominently featuring zombies."
+    schedule: weekly(sunday)
