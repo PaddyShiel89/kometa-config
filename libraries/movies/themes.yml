@@ -3,6 +3,13 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
+  Alien Horror:
+    template:
+      - name: imdb_keyword_list
+        keyword: alien
+      - name: Theme
+        summary: "in the horror genre featuring an alien or aliens as the antagonist."
+
   # Does not create a collection - only applies the foreignlanguage label to
   # relevant movies
   Foreign Language Labels:
@@ -44,7 +51,7 @@ collections:
     filters:
       filepath.not:
         - "X (2022)"
-        
+
   Parodies and Spoofs:
     plex_search:
       any:
@@ -53,4 +60,3 @@ collections:
           - "theme: spoof"
     template:
       - name: Theme
-
