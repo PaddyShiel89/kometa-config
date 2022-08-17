@@ -33,15 +33,6 @@ collections:
     summary: "Movies where the original audio language is not in English. English audio dub tracks may be available."
     sync_mode: sync
 
-  Parodies and Spoofs:
-    plex_search:
-      any:
-        label:
-          - "theme: parody"
-          - "theme: spoof"
-    template:
-      - name: Theme
-
   Murder Mystery:
     template:
       - name: imdb_keyword_list
@@ -53,3 +44,13 @@ collections:
     filters:
       filepath.not:
         - "X (2022)"
+        
+  Parodies and Spoofs:
+    plex_search:
+      any:
+        label:
+          - "theme: parody"
+          - "theme: spoof"
+    template:
+      - name: Theme
+
