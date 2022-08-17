@@ -40,18 +40,6 @@ collections:
         summary: "based, however loosely, on videogames."
     schedule: weekly(thursday)
 
-  Murder Mystery:
-    template:
-      - name: imdb_keyword_list
-        keyword: murder-investigation
-        keyword2: murder-mystery
-        keyword3: whodunit
-      - name: Theme
-        summary: "featuring a murder investigation as the main plot point."
-    filters:
-      filepath.not:
-        - "X (2022)"
-
   Slasher:
     template:
       - name: imdb_keyword_list

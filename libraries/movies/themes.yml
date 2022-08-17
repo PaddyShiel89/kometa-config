@@ -1,5 +1,6 @@
 external_templates:
   - repo: templates/collection_type/Theme
+  - repo: templates/source/IMDb
 
 collections:
   # Does not create a collection - only applies the foreignlanguage label to
@@ -40,3 +41,15 @@ collections:
           - "theme: spoof"
     template:
       - name: Theme
+
+  Murder Mystery:
+    template:
+      - name: imdb_keyword_list
+        keyword: murder-investigation
+        keyword2: murder-mystery
+        keyword3: whodunit
+      - name: Theme
+        summary: "featuring a murder investigation as the main plot point."
+    filters:
+      filepath.not:
+        - "X (2022)"
