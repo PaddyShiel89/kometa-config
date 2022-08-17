@@ -38,7 +38,7 @@ collections:
           - "Dressage"
     collection_mode: hide
     file_poster: /config/assets/themes/Movies/Foreign Language.png
-    sort_title: "!03_Foreign Language"
+    sort_title: "!02_Foreign Language"
     summary: "Movies where the original audio language is not in English. English audio dub tracks may be available."
     sync_mode: sync
 
