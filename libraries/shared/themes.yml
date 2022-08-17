@@ -52,7 +52,7 @@ collections:
       filepath.not:
         - "X (2022)"
 
-  Slashers:
+  Slasher:
     template:
       - name: imdb_keyword_list
         keyword: slasher
