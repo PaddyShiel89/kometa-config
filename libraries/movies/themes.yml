@@ -9,6 +9,8 @@ collections:
         keyword: alien
       - name: Theme
         summary: "in the horror genre featuring an alien or aliens as the antagonist."
+    filters:
+      genre: Horror
 
   # Does not create a collection - only applies the foreignlanguage label to
   # relevant movies
