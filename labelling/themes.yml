@@ -157,6 +157,16 @@ collections:
           - Witch (2015)
         theme: "supernatural"
 
+  "Theme: videogames":
+    template:
+      - name: Theme label
+        title_list:
+          # Documentaries
+          - Metal Gear Saga (2006) 001
+          - Metal Gear Saga (2006) 002
+          - Raising Kratos (2019)
+        theme: "videogames"
+
   "Theme: zombies":
     template:
       - name: Theme label
