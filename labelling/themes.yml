@@ -80,6 +80,23 @@ collections:
           - Secret Things (2002)
         theme: "foreign language"
 
+  "Theme: murder mystery":
+    template:
+      - name: Theme label
+        title_list:
+          - Basic Instinct (1992) 001
+          - Batman (2022) 001
+          - Black Dahlia (2006)
+          - Complicity (2000)
+          - Identity (2003)
+          - Knives Out (2019)
+          - Last Night in Soho (2021)
+          - Saw (2004) 001
+          - Seven (1995)
+          - Silence of the Lambs (1991)
+          - Spiral (2021)
+        theme: "murder mystery"
+
   "Theme: slasher":
     template:
       - name: Theme label

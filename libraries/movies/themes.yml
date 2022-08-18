@@ -3,18 +3,6 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
-  Murder Mystery:
-    template:
-      - name: imdb_keyword_list
-        keyword: murder-investigation
-        keyword2: murder-mystery
-        keyword3: whodunit
-      - name: Theme
-        summary: "featuring a murder investigation as the main plot point."
-    filters:
-      filepath.not:
-        - "X (2022)"
-
   Parodies and Spoofs:
     plex_search:
       any:
@@ -49,7 +37,15 @@ collections:
       all:
         label: "theme: foreign language"
       sort_by: title.asc
-    collection_mode: hide
+
+  Murder Mystery:
+    template:
+      - name: Theme
+        summary: "is a complex plot-driven variety of detective fiction in which the puzzle regarding who committed the crime is the main focus."
+    smart_filter:
+      all:
+        label: "theme: murder mystery"
+      sort_by: title.asc
 
   Slasher:
     template:
