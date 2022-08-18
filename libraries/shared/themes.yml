@@ -13,6 +13,7 @@ collections:
         keyword4: based-on-short-story
       - name: Theme
         summary: "based, however loosely, on novels, novellas, and other written works of fiction."
+        use_smart_label: true
     schedule: weekly(tuesday)
 
   Based on a Comic Book:
@@ -22,6 +23,7 @@ collections:
         keyword2: based-on-comic-book
       - name: Theme
         summary: "based, however loosely, on graphic novels."
+        use_smart_label: true
     schedule: weekly(wednesday)
 
   Based on a True Story:
@@ -30,6 +32,7 @@ collections:
         keyword: based-on-true-story
       - name: Theme
         summary: "based, however loosely, on real events."
+        use_smart_label: true
     schedule: weekly(monday)
 
   Based on a Videogame:
@@ -38,6 +41,7 @@ collections:
         keyword: based-on-video-game
       - name: Theme
         summary: "based, however loosely, on videogames."
+        use_smart_label: true
     schedule: weekly(thursday)
 
   Stephen King:
@@ -46,11 +50,4 @@ collections:
         keyword: based-on-the-works-of-stephen-king
       - name: Theme
         summary: "that are adaptations of works created by horror author Stephen King."
-
-  Zombies:
-    template:
-      - name: imdb_user_list
-        list_id: ls053863701
-      - name: Theme
-        summary: "prominently featuring zombies."
-    schedule: weekly(sunday)
+        use_smart_label: true
