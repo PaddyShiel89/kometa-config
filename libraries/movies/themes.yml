@@ -25,7 +25,7 @@ collections:
   Murder Mystery:
     template:
       - name: Theme
-        summary: "is a complex plot-driven variety of detective fiction in which the puzzle regarding who committed the crime is the main focus."
+        summary: "in the crime genre wherein the puzzle regarding who committed the crime is the main focus."
     smart_filter:
       all:
         label: "theme: murder mystery"
@@ -38,7 +38,7 @@ collections:
     smart_filter:
       any:
         label:
-          - "theme: parody"
+          # - "theme: parody" - Currently no theme: parody label
           - "theme: spoof"
       sort_by: title.asc
 
@@ -56,13 +56,13 @@ collections:
       - name: Theme
         summary: "in the horror genre primarily featuring phenomena that are outside the realm of scientific explanation, such as magic, angels & demons, and the soul."
     smart_filter:
-      any:
-        label:
-          - "theme: magic"
-          - "theme: supernatural"
+      all:
+        any:
+          label:
+            - "theme: magic"
+            - "theme: supernatural"
+        genre: Horror
       sort_by: title.asc
-    filter:
-      genre: Horror
 
   Zombies:
     template:
