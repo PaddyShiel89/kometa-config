@@ -1,0 +1,9 @@
+# These "collections" apply a label to a group of titles but do not build a
+# collection.
+templates:
+  Theme label:
+    plex_search:
+      any:
+        title: <<title_list>>
+    item_label: "theme: <<theme>>"
+    build_collection: false

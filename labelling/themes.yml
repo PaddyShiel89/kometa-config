@@ -1,0 +1,66 @@
+external_templates:
+  - file: config/templates/labels/labels
+
+collections:
+  "Theme: foreign language":
+    template:
+      - name: Theme label
+        title_list:
+          - Angel-A (2005)
+          - Anything For Her (2008)
+          - Aventure (2009)
+          - Baise-moi (2000)
+          - Blue is the Warmest Colour (2013)
+          - Che (2008) 001
+          - Che (2008) 002
+          - Dressage (1986)
+          - Exterminating Angels (2006)
+          - Farewell, My Queen (2012)
+          - Fausto 5.0 (2001)
+          - Grand Central (2013)
+          - I Am Curious (1963) 001
+          - I Am Curious (1963) 002
+          - "Import/Export (2007)"
+          - Juan of the Dead (2012)
+          - Kung Fu Hustle (2004)
+          - Ma mere (2004)
+          - Malena (2000)
+          - Novo (2002)
+          - "Ong-Bak: Muay Thai Warrior (2003)"
+          - Pan's Labyrinth (2006)
+          - Parasite (2019)
+          - Q (2011)
+          - Secret Things (2002)
+        theme: "foreign language"
+
+  "Theme: zombies":
+    template:
+      - name: Theme label
+        title_list:
+          - Juan of the Dead (2012)
+          - Planet Terror (2007)
+          - Resident Evil (2002) 001
+          - Resident Evil (2002) 002
+          - Resident Evil (2002) 003
+          - Resident Evil (2002) 004
+          - Resident Evil (2002) 005
+          - Resident Evil (2002) 006
+          - Resident Evil (2021) 001
+          - Shaun of the Dead (2004)
+          - Zombieland (2009) 001
+        theme: "zombies"
+
+  # ! Move below collections to their appropriate files later
+  Test zombie collection:
+    smart_filter:
+      all:
+        label: "theme: zombies"
+      sort_by: title.asc
+    collection_mode: hide
+
+  Test foreign collection:
+    smart_filter:
+      all:
+        label: "theme: foreign language"
+      sort_by: title.asc
+    collection_mode: hide
