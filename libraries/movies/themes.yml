@@ -3,15 +3,6 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
-  Parodies and Spoofs:
-    plex_search:
-      any:
-        label:
-          - "theme: parody"
-          - "theme: spoof"
-    template:
-      - name: Theme
-
   Alien Horror:
     template:
       - name: Theme
@@ -38,6 +29,17 @@ collections:
     smart_filter:
       all:
         label: "theme: murder mystery"
+      sort_by: title.asc
+
+  Parodies and Spoofs:
+    template:
+      - name: Theme
+        summary: "that parody another film or spoof a genre."
+    smart_filter:
+      any:
+        label:
+          - "theme: parody"
+          - "theme: spoof"
       sort_by: title.asc
 
   Slasher:

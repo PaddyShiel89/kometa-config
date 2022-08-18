@@ -113,6 +113,22 @@ collections:
           - Spiral (2021)
         theme: "murder mystery"
 
+  "Theme: spoof":
+    template:
+      - name: Theme label
+        title_list:
+          - Black Dynamite (2010)
+          - Hot Fuzz (2007)
+          - Juan of the Dead (2012)
+          - Kung Fu Hustle (2004)
+          - Naked Gun (1988) 001
+          - Naked Gun (1988) 002
+          - Naked Gun (1988) 003
+          - Shaun of the Dead (2004)
+          - Tucker and Dale vs. Evil (2010)
+          - World's End (2013)
+        theme: "spoof"
+
   "Theme: slasher":
     template:
       - name: Theme label
