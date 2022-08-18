@@ -80,6 +80,22 @@ collections:
           - Secret Things (2002)
         theme: "foreign language"
 
+  "Theme: magic":
+    template:
+      - name: Theme label
+        title_list:
+          - Harry Potter (2001) 001
+          - Harry Potter (2001) 002
+          - Harry Potter (2001) 003
+          - Harry Potter (2001) 004
+          - Harry Potter (2001) 005
+          - Harry Potter (2001) 006
+          - Harry Potter (2001) 007
+          - Harry Potter (2001) 008
+          - Scorpion King (2002) 001
+          - Witch (2015)
+        theme: "magic"
+
   "Theme: murder mystery":
     template:
       - name: Theme label
@@ -106,6 +122,25 @@ collections:
           - Psycho (1960)
           - X (2022)
         theme: "slasher"
+
+  "Theme: supernatural":
+    template:
+      - name: Theme label
+        title_list:
+          - Angel-A (2005)
+          - Aventure (2009)
+          - Doctor Sleep (2019)
+          - Exterminating Angels (2006)
+          - Fausto 5.0 (2001)
+          - IT (2017) 001
+          - IT (2017) 002
+          - "Lara Croft: Tomb Raider (2001) 001"
+          - "Lara Croft: Tomb Raider (2001) 001"
+          - Nocturne (2020)
+          - Shining (1980)
+          - Tenacious D in the Pick of Destiny (2006)
+          - Witch (2015)
+        theme: "supernatural"
 
   "Theme: zombies":
     template:

@@ -12,13 +12,6 @@ collections:
     template:
       - name: Theme
 
-  Supernatural Horror:
-    template:
-      - name: imdb_keyword_list
-        keyword: supernatural-horror
-      - name: Theme
-        summary: "in the horror genre featuring magic or mystical forces."
-
   Alien Horror:
     template:
       - name: Theme
@@ -55,6 +48,19 @@ collections:
       all:
         label: "theme: slasher"
       sort_by: title.asc
+
+  Supernatural Horror:
+    template:
+      - name: Theme
+        summary: "in the horror genre primarily featuring phenomena that are outside the realm of scientific explanation, such as magic, angels & demons, and the soul."
+    smart_filter:
+      any:
+        label:
+          - "theme: magic"
+          - "theme: supernatural"
+      sort_by: title.asc
+    filter:
+      genre: Horror
 
   Zombies:
     template:
