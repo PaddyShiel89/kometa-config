@@ -1,5 +1,5 @@
 external_templates:
-  - repo: templates/labels/labels
+  - repo: templates/collection_type/Collectionless_Label
 
 collections:
   "Theme: aliens":
