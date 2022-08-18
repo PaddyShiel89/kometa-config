@@ -3,45 +3,6 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
-  Alien Horror:
-    template:
-      - name: imdb_keyword_list
-        keyword: alien
-      - name: Theme
-        summary: "in the horror genre featuring an alien or aliens as the antagonist."
-    filters:
-      genre: Horror
-
-  # Does not create a collection - only applies the foreignlanguage label to
-  # relevant movies
-  Foreign Language Labels:
-    plex_all: true
-    filters:
-      original_language.not: en
-      # Remove the following movies from the list
-      filepath.not:
-        - "Boss'n Up (2005)"
-        - "The Card Player (2004)"
-        - "Room in Rome (2010)"
-    item_label: foreignlanguage
-    build_collection: false
-
-  # Create a collection using the above list and add the following movies.
-  Foreign Language:
-    smart_filter:
-      sort_by: title.asc
-      any:
-        label: foreignlanguage
-        title:
-          - "Che: Part One"
-          - "Che: Part Two"
-          - "Dressage"
-    collection_mode: hide
-    file_poster: /config/assets/themes/Movies/Foreign Language.png
-    sort_title: "!02_Foreign Language"
-    summary: "Movies where the original audio language is not in English. English audio dub tracks may be available."
-    sync_mode: sync
-
   Murder Mystery:
     template:
       - name: imdb_keyword_list
@@ -76,3 +37,32 @@ collections:
         keyword: supernatural-horror
       - name: Theme
         summary: "in the horror genre featuring magic or mystical forces."
+
+  Alien Horror:
+    template:
+      - name: Theme
+        summary: "in the horror genre featuring aliens as the primary antagonist."
+    smart_filter:
+      all:
+        label: "theme: aliens"
+        genre: Horror
+      sort_by: title.asc
+
+  Foreign language:
+    template:
+      - name: Theme
+        summary: "where the original audio language is not in English. English audio dub tracks may be available."
+    smart_filter:
+      all:
+        label: "theme: foreign language"
+      sort_by: title.asc
+    collection_mode: hide
+
+  Zombies:
+    template:
+      - name: Theme
+        summary: "prominently featuring zombies."
+    smart_filter:
+      all:
+        label: "theme: zombies"
+      sort_by: title.asc

@@ -1,7 +1,54 @@
 external_templates:
-  - file: config/templates/labels/labels
+  - repo: templates/labels/labels
 
 collections:
+  "Theme: aliens":
+    template:
+      - name: Theme label
+        title_list:
+          - Alien (1979) 001
+          - Alien (1979) 002
+          - Alien (1979) 003
+          - Alien (1979) 004
+          - "Alien: Covenant (2017)"
+          - Avengers (2012) 001
+          - Avengers (2012) 003
+          - District 9 (2009)
+          - Fifth Element (1997)
+          - Guardians of the Galaxy (2014) 001
+          - IT (2017) 001
+          - IT (2017) 002
+          - Men in Black (1997) 001
+          - Men in Black (1997) 002
+          - Muppets from Space (1999)
+          - Paul (2011)
+          - Predator (1987) 001
+          - Predator (1987) 002
+          - Predator (1987) 003
+          - "Rogue One: A Star Wars Story (2016)"
+          - "Solo: A Star Wars Story (2018)"
+          - Star Trek (2009) 001
+          - Star Wars 001 (1999)
+          - Star Wars 002 (2002)
+          - Star Wars 003 (2005)
+          - Star Wars 004 (1977)
+          - Star Wars 005 (1980)
+          - Star Wars 006 (1983)
+          - Star Wars 007 (2015)
+          - Star Wars 008 (2017)
+          - Star Wars 009 (2019)
+          - "Star Wars: The Clone Wars (2008)"
+          - Suicide Squad (2021)
+          - Super 8 (2011)
+          - Thor (2011) 002
+          - Thor (2011) 003
+          - Transformers (2007) 001
+          - Transformers (2007) 002
+          - Transformers (2007) 003
+          - Under the Skin (2014)
+          - World's End (2013)
+        theme: "aliens"
+
   "Theme: foreign language":
     template:
       - name: Theme label
@@ -49,18 +96,3 @@ collections:
           - Shaun of the Dead (2004)
           - Zombieland (2009) 001
         theme: "zombies"
-
-  # ! Move below collections to their appropriate files later
-  Test zombie collection:
-    smart_filter:
-      all:
-        label: "theme: zombies"
-      sort_by: title.asc
-    collection_mode: hide
-
-  Test foreign collection:
-    smart_filter:
-      all:
-        label: "theme: foreign language"
-      sort_by: title.asc
-    collection_mode: hide
