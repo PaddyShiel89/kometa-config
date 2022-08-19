@@ -2,6 +2,34 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  # ------------------------------ Drug references ----------------------------- #
+
+  "Content: drug references (mild)":
+    template:
+      - name: Content label
+        content: drug references
+        level: mild
+        title_list:
+          - Back to the Future (1985) 001
+          - Che (2008) 002
+          - French Dispatch (2021)
+
+  "Content: drug references (moderate)":
+    template:
+      - name: Content label
+        content: drug references
+        level: moderate
+        title_list:
+          - Single Man (2009)
+
+  "Content: drug references (strong)":
+    template:
+      - name: Content label
+        content: drug references
+        level: strong
+        title_list:
+          - Get Him to the Greek (2010)
+
   # --------------------------------- Drug use --------------------------------- #
 
   "Content: drug use (moderate)":
