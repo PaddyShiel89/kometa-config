@@ -1,6 +1,11 @@
 # These "collections" apply a label to a group of titles but do not build a
 # collection.
 templates:
+  Restriction label:
+    # No search as restrictions may be complex and assorted
+    item_label: "restriction: <<restriction>>"
+    build_collection: false
+
   Theme label:
     plex_search:
       any:

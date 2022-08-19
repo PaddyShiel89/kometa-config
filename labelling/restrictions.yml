@@ -1,0 +1,39 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  # Restriction placed on all users
+  "Restriction: all":
+    plex_search:
+      any:
+        label: "content: sex(real)"
+        title:
+          - Aventure (2009)
+          - Dressage (1986)
+          - Exterminating Angels (2006)
+          - Ma mere (2004)
+          - Novo (2002)
+          - Room in Rome (2010)
+          - Secret Things (2002)
+    template:
+      - name: Restriction label
+        restriction: "all"
+
+  # Restriction placed on family users
+  "Restriction: family":
+    plex_search:
+      any:
+        label: "restriction: all"
+        title:
+          - After Sex (2007)
+          - Bitch Slap (2009)
+          - Cashback (2007)
+          - I Am Curious (1963) 001
+          - I Am Curious (1963) 002
+          - I Spit on Your Grave (1978)
+          - Secretary (2002)
+          - Sweet Karma (2010)
+          - Voyeurs (2021)
+    template:
+      - name: Restriction label
+        restriction: "family"
