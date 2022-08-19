@@ -2,6 +2,16 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  # ------------------------------ Domestic threat ----------------------------- #
+
+  "Content: domestic threat (moderate)":
+    template:
+      - name: Content label
+        content: domestic threat
+        level: moderate
+        title_list:
+          - Marnie (1964)
+
   # ------------------------------ Drug references ----------------------------- #
 
   "Content: drug references (mild)":
