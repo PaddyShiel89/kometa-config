@@ -58,6 +58,45 @@ collections:
           - Pulp Fiction (1994)
           - Shame (2011)
 
+  # ---------------------------------- Horror ---------------------------------- #
+
+  "Content: horror (mild)":
+    template:
+      - name: Content label
+        content: horror
+        level: mild
+        title_list:
+          - Men in Black (1997) 001
+          - Men in Black (1997) 002
+          - Scorpion King (2002) 001
+          - Tuxedo (2002)
+
+  "Content: horror (moderate)":
+    template:
+      - name: Content label
+        content: horror
+        level: moderate
+        title_list:
+          - Batman Begins (2005)
+          - Birds (1963)
+          - Harry Potter (2001) 004
+          - Harry Potter (2001) 005
+          - Harry Potter (2001) 008
+
+  "Content: horror (strong)":
+    template:
+      - name: Content label
+        content: horror
+        level: strong
+        title_list:
+          - Alien (1979) 001
+          - Alien (1979) 002
+          - Alien (1979) 004
+          - Complicity (2000)
+          - Doctor Sleep (2019)
+          - Witch (2015)
+          - X (2022)
+
   # --------------------------------- Language --------------------------------- #
 
   "Content: language (mild)":
