@@ -257,6 +257,61 @@ collections:
           - Import/Export (2007)
           - Palm Springs (2020)
 
+  # ---------------------------------- Nudity ---------------------------------- #
+
+  "Content: nudity (mild)":
+    template:
+      - name: Content label
+        content: nudity
+        level: mild
+        title_list:
+          - Casino (1995)
+          - Clash of the Titans (1981)
+          - Psycho (1960)
+          - Songbird (2020)
+          - Taxi Driver (1976)
+          - Witch (2015)
+
+  "Content: nudity (moderate)":
+    template:
+      - name: Content label
+        content: nudity
+        level: moderate
+        title_list:
+          - American Beauty (1999)
+          - American Gangster (2007) 001
+          - Calendar Girls (2003)
+          - Chloe (2009)
+          - Ex Machina (2015)
+          - Favourite (2018)
+          - Fight Club (1999)
+          - Her (2014)
+          - Shame (2011)
+          - Single Man (2009)
+          - X (2022)
+
+  "Content: nudity (strong)":
+    template:
+      - name: Content label
+        content: nudity
+        level: strong
+        title_list:
+          - Aventure (2009)
+          - Black Dynamite (2010)
+          - Blade Runner (1982) 002
+          - Blue is the Warmest Colour (2013)
+          - Boogie Nights (1997)
+          - Boogie Woogie (2009)
+          - Cashback (2007)
+          - Deep Water (2022)
+          - Die Hard (1988) 001
+          - Dreamers (2003)
+          - Dressage (1986)
+          - Exterminating Angels (2006)
+          - Farewell, My Queen (2012)
+          - French Dispatch (2021)
+          - Grand Central (2013)
+
   # ------------------------------------ Sex ----------------------------------- #
 
   "Content: sex (mild)":
