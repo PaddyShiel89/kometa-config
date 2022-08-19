@@ -36,7 +36,7 @@ collections:
           - Harry Potter (2001) 008
           - Men in Black (1997) 002
           - Scorpion King (2002) 001
-          - Uncharted (2022)
+          - Uncharted (2022) 001
 
   "Content: language (moderate)":
     template:
@@ -137,6 +137,161 @@ collections:
           - Harry Brown (2009)
           - Import/Export (2007)
           - Palm Springs (2020)
+
+  # --------------------------------- Violence --------------------------------- #
+
+  "Content: violence (mild)":
+    template:
+      - name: Content label
+        content: violence
+        level: mild
+        title_list:
+          - Back to the Future (1985) 001
+          - Back to the Future (1985) 002
+          - Back to the Future (1985) 003
+          - Batman (1989) 004
+          - BFG (2016)
+          - Blades of Glory (2007)
+          - Cool Runnings (1993)
+          - Dr. No (1962)
+          - Favourite (2018)
+          - Fifth Element (1997)
+          - For Your Eyes Only (1981)
+          - Goldfinger (1964)
+          - Harry Potter (2001) 001
+          - Harry Potter (2001) 002
+          - Men in Black (1997) 001
+          - Men in Black (1997) 002
+          - Muppets from Space (1999)
+          - Shame (2011)
+
+  "Content: violence (moderate)":
+    template:
+      - name: Content label
+        content: violence
+        level: moderate
+        title_list:
+          - 4.3.2.1 (2010)
+          - Amazing Spider-Man (2012) 002
+          - Ant-Man (2015) 001
+          - Avengers (2012) 001
+          - Avengers (2012) 002
+          - Avengers (2012) 003
+          - Batman (1989) 001
+          - Batman (1989) 002
+          - Batman (1989) 003
+          - Big Nothing (2006)
+          - Black Dynamite (2010)
+          - Black Panther (2018) 001
+          - Captain America (2011) 002
+          - Captain America (2011) 003
+          - Che (2008) 001
+          - Clash of the Titans (1981)
+          - Dark Knight (2005) 001
+          - Dark Knight (2005) 003
+          - Diamonds Are Forever (1971)
+          - Dune (2021) 001
+          - Exterminating Angels (2006)
+          - French Dispatch (2021)
+          - From Russia with Love (1963)
+          - Gandhi (1982)
+          - Grand Central (2013)
+          - Guardians of the Galaxy (2014) 001
+          - Harry Potter (2001) 004
+          - Harry Potter (2001) 005
+          - Harry Potter (2001) 007
+          - Head in the Clouds (2004)
+          - Hobbit (2012) 001
+          - Naked Gun (1988) 001
+          - Palm Springs (2020)
+          - Spider-Man (2002) 002
+          - Tuxedo (2002)
+          - Uncharted (2022) 001
+
+  "Content: violence (strong)":
+    template:
+      - name: Content label
+        content: violence
+        level: strong
+        title_list:
+          - 300 (2007) 001
+          - 300 (2007) 002
+          - Alien (1979) 001
+          - Alien (1979) 002
+          - Alien (1979) 003
+          - Alien (1979) 004
+          - "Alien: Covenant (2017)"
+          - American Beauty (1999)
+          - American Gangster (2007) 001
+          - Anything For Her (2008)
+          - "Assassin's Creed: Embers (2011)"
+          - Basic Instinct (1992) 001
+          - Batman (2022) 001
+          - Birds of Prey (2020)
+          - Bitch Slap (2009)
+          - Black Dahlia (2006)
+          - Blade Runner (1982) 001
+          - Blade Runner (1982) 002
+          - Boogie Nights (1997)
+          - Card Player (2004)
+          - Casino (1995)
+          - Casino Royale (2006)
+          - Che (2008) 002
+          - Complicity (2000)
+          - Dark Knight (2005) 002
+          - Deep Water (2022)
+          - Departed (2006)
+          - Die Hard (1988) 001
+          - Disappearance of Alice Creed (2010)
+          - District 9 (2009)
+          - Doctor Sleep (2019)
+          - Ex Machina (2015)
+          - Fight Club (1999)
+          - Gangs of New York (2002)
+          - Goodfellas (1990)
+          - Harry Brown (2009)
+          - Identity (2003)
+          - Lie (2020)
+          - Mystic River (2003)
+          - Psycho (1960)
+          - Pulp Fiction (1994)
+          - Shank (2010)
+          - Songbird (2020)
+          - Taxi Driver (1976)
+          - Witch (2015)
+          - X (2022)
+
+  "Content: violence (bloody)":
+    template:
+      - name: Content label
+        content: violence
+        level: bloody
+        title_list:
+          - 300 (2007) 001
+          - 300 (2007) 002
+          - Alien (1979) 004
+          - "Alien: Covenant (2017)"
+          - Avengers (2012) 002
+          - Big Nothing (2006)
+          - Black Dahlia (2006)
+          - Black Dynamite (2010)
+          - Che (2008) 001
+          - District 9 (2009)
+          - Doctor Sleep (2019)
+          - Dune (2021) 001
+          - Ex Machina (2015)
+          - Gangs of New York (2002)
+          - X (2022)
+
+  "Content: violence (comic)":
+    template:
+      - name: Content label
+        content: violence
+        level: comic
+        title_list:
+          - Anchorman (2004) 001
+          - Muppets from Space (1999)
+          - Naked Gun (1988) 001
 
   # ------------------------------------ Sex ----------------------------------- #
 
