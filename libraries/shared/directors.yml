@@ -2,6 +2,8 @@ external_templates:
   - repo: templates/collection_type/Director
 
 collections:
+  Alfred Hitchcock (Director):
+    template: { name: Director, person: 2636 }
   Edgar Wright (Director):
     template: { name: Director, person: 11090 }
   J.J. Abrams (Director):
