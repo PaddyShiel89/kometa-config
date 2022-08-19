@@ -267,6 +267,27 @@ collections:
           - "Import/Export (2007)"
           - Q (2011)
 
+  # ------------------------------ Sexual violence ----------------------------- #
+
+  "Content: sexual violence (moderate)":
+    template:
+      - name: Content label
+        content: sexual violence
+        level: moderate
+        title_list:
+          - 300 (2007) 002
+
+  "Content: sexual violence (strong)":
+    template:
+      - name: Content label
+        content: sexual violence
+        level: strong
+        title_list:
+          - Baise-moi (2000)
+          - Chloe (2009)
+          - Complicity (2000)
+          - Pulp Fiction (1994)
+
   # --------------------------------- Violence --------------------------------- #
 
   "Content: violence (mild)":
