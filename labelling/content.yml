@@ -610,6 +610,18 @@ collections:
           - Songbird (2020)
           - Witch (2015)
 
+# ---------------------------------- Suicide --------------------------------- #
+
+  "Content: suicide":
+    template:
+      - name: Content label
+        content: suicide
+        level: none
+        title_list:
+          - Boogie Nights (1997)
+          - Shame (2011)
+          - Single Man (2009)
+
   # ---------------------------------- Torture --------------------------------- #
 
   "Content: torture (moderate)":
