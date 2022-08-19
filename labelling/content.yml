@@ -138,6 +138,79 @@ collections:
           - Import/Export (2007)
           - Palm Springs (2020)
 
+  # ------------------------------------ Sex ----------------------------------- #
+
+  "Content: sex (mild)":
+    template:
+      - name: Content label
+        content: sex
+        level: mild
+        title_list:
+          - Dune (2021) 001
+          - Fifth Element (1997)
+          - Goldfinger (1964)
+          - Grand Central (2013)
+
+  "Content: sex (moderate)":
+    template:
+      - name: Content label
+        content: sex
+        level: moderate
+        title_list:
+          - American Gangster (2007) 001
+          - Big Nothing (2006)
+          - Casino (1995)
+          - Departed (2006)
+          - Fight Club (1999)
+          - Head in the Clouds (2004)
+          - High Fidelity (2000)
+
+  "Content: sex (strong)":
+    template:
+      - name: Content label
+        content: sex
+        level: strong
+        title_list:
+          - 4.3.2.1 (2010)
+          - 300 (2007) 002
+          - American Beauty (1999)
+          - Aventure (2009)
+          - Baise-moi (2000)
+          - Basic Instinct (1992) 001
+          - Black Dahlia (2006)
+          - Black Dynamite (2010)
+          - Black Swan (2010)
+          - Blade Runner (1982) 002
+          - Blue is the Warmest Colour (2013)
+          - Boogie Nights (1997)
+          - Boogie Woogie (2009)
+          - Complicity (2000)
+          - Deep Water (2022)
+          - Disappearance of Alice Creed (2010)
+          - Dreamers (2003)
+          - Dressage (1986)
+          - Exterminating Angels (2006)
+          - Fausto 5.0 (2001)
+          - Favourite (2018)
+          - Get Him to the Greek (2010)
+          - Goodfellas (1990)
+          - Harry Brown (2009)
+          - "Import/Export (2007)"
+          - Palm Springs (2020)
+          - Q (2011)
+          - Shame (2011)
+          - X (2022)
+
+  "Content: sex (real)":
+    template:
+      - name: Content label
+        content: sex
+        level: real
+        title_list:
+          - Baise-moi (2000)
+          - "Import/Export (2007)"
+          - Q (2011)
+
   # --------------------------------- Violence --------------------------------- #
 
   "Content: violence (mild)":
@@ -292,76 +365,3 @@ collections:
           - Anchorman (2004) 001
           - Muppets from Space (1999)
           - Naked Gun (1988) 001
-
-  # ------------------------------------ Sex ----------------------------------- #
-
-  "Content: sex (mild)":
-    template:
-      - name: Content label
-        content: sex
-        level: mild
-        title_list:
-          - Dune (2021) 001
-          - Fifth Element (1997)
-          - Goldfinger (1964)
-          - Grand Central (2013)
-
-  "Content: sex (moderate)":
-    template:
-      - name: Content label
-        content: sex
-        level: moderate
-        title_list:
-          - American Gangster (2007) 001
-          - Big Nothing (2006)
-          - Casino (1995)
-          - Departed (2006)
-          - Fight Club (1999)
-          - Head in the Clouds (2004)
-          - High Fidelity (2000)
-
-  "Content: sex (strong)":
-    template:
-      - name: Content label
-        content: sex
-        level: strong
-        title_list:
-          - 4.3.2.1 (2010)
-          - 300 (2007) 002
-          - American Beauty (1999)
-          - Aventure (2009)
-          - Baise-moi (2000)
-          - Basic Instinct (1992) 001
-          - Black Dahlia (2006)
-          - Black Dynamite (2010)
-          - Black Swan (2010)
-          - Blade Runner (1982) 002
-          - Blue is the Warmest Colour (2013)
-          - Boogie Nights (1997)
-          - Boogie Woogie (2009)
-          - Complicity (2000)
-          - Deep Water (2022)
-          - Disappearance of Alice Creed (2010)
-          - Dreamers (2003)
-          - Dressage (1986)
-          - Exterminating Angels (2006)
-          - Fausto 5.0 (2001)
-          - Favourite (2018)
-          - Get Him to the Greek (2010)
-          - Goodfellas (1990)
-          - Harry Brown (2009)
-          - "Import/Export (2007)"
-          - Palm Springs (2020)
-          - Q (2011)
-          - Shame (2011)
-          - X (2022)
-
-  "Content: sex (real)":
-    template:
-      - name: Content label
-        content: sex
-        level: real
-        title_list:
-          - Baise-moi (2000)
-          - "Import/Export (2007)"
-          - Q (2011)
