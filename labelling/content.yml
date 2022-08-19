@@ -58,6 +58,30 @@ collections:
           - Pulp Fiction (1994)
           - Shame (2011)
 
+  # ----------------------------------- Gore ----------------------------------- #
+
+  "Content: gore (moderate)":
+    template:
+      - name: Content label
+        content: gore
+        level: moderate
+        title_list:
+          - Psycho (1960)
+
+  "Content: gore (strong)":
+    template:
+      - name: Content label
+        content: gore
+        level: strong
+        title_list:
+          - "Alien: Covenant (2017)"
+          - Bitch Slap (2009)
+          - Black Swan (2010)
+          - Doctor Sleep (2019)
+          - Fausto 5.0 (2001)
+          - Taxi Driver (1976)
+          - X (2022)
+
   # ---------------------------------- Horror ---------------------------------- #
 
   "Content: horror (mild)":
