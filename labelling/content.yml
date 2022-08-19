@@ -419,6 +419,61 @@ collections:
           - Complicity (2000)
           - Pulp Fiction (1994)
 
+  # ---------------------------------- Threat ---------------------------------- #
+
+  "Content: threat (mild)":
+    template:
+      - name: Content label
+        content: threat
+        level: mild
+        title_list:
+          - BFG (2016)
+          - Chicken Run (2000)
+          - Dad's Army (1971) 001
+          - Harry Potter (2001) 001
+          - Harry Potter (2001) 002
+          - Harry Potter (2001) 003
+          - Hobbit (2012) 001
+          - Shadow of a Doubt (1943)
+
+  "Content: threat (moderate)":
+    template:
+      - name: Content label
+        content: threat
+        level: moderate
+        title_list:
+          - Amazing Spider-Man (2012) 002
+          - Avengers (2012) 002
+          - Avengers (2012) 003
+          - Batman (1989) 001
+          - Batman (1989) 002
+          - Birds (1963)
+          - Birds of Prey (2020)
+          - Dark Knight (2008)
+          - Deep Water (2022)
+          - Diamonds Are Forever (1971)
+          - Dune (2021) 001
+          - Grand Central (2013)
+          - Guardians of the Galaxy (2014) 001
+          - Harry Potter (2001) 004
+          - Harry Potter (2001) 006
+          - Harry Potter (2001) 007
+          - Single Man (2009)
+          - Uncharted (2022) 001
+
+  "Content: threat (strong)":
+    template:
+      - name: Content label
+        content: threat
+        level: strong
+        title_list:
+          - Batman (2022) 001
+          - Disappearance of Alice Creed (2010)
+          - Doctor Sleep (2019)
+          - Lie (2020)
+          - Songbird (2020)
+          - Witch (2015)
+
   # --------------------------------- Violence --------------------------------- #
 
   "Content: violence (mild)":
