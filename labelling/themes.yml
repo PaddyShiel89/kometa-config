@@ -1,0 +1,185 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Theme: aliens":
+    template:
+      - name: Theme label
+        title_list:
+          - Alien (1979) 001
+          - Alien (1979) 002
+          - Alien (1979) 003
+          - Alien (1979) 004
+          - "Alien: Covenant (2017)"
+          - Avengers (2012) 001
+          - Avengers (2012) 003
+          - District 9 (2009)
+          - Fifth Element (1997)
+          - Guardians of the Galaxy (2014) 001
+          - IT (2017) 001
+          - IT (2017) 002
+          - Men in Black (1997) 001
+          - Men in Black (1997) 002
+          - Muppets from Space (1999)
+          - Paul (2011)
+          - Predator (1987) 001
+          - Predator (1987) 002
+          - Predator (1987) 003
+          - "Rogue One: A Star Wars Story (2016)"
+          - "Solo: A Star Wars Story (2018)"
+          - Star Trek (2009) 001
+          - Star Wars 001 (1999)
+          - Star Wars 002 (2002)
+          - Star Wars 003 (2005)
+          - Star Wars 004 (1977)
+          - Star Wars 005 (1980)
+          - Star Wars 006 (1983)
+          - Star Wars 007 (2015)
+          - Star Wars 008 (2017)
+          - Star Wars 009 (2019)
+          - "Star Wars: The Clone Wars (2008)"
+          - Suicide Squad (2021)
+          - Super 8 (2011)
+          - Thor (2011) 002
+          - Thor (2011) 003
+          - Transformers (2007) 001
+          - Transformers (2007) 002
+          - Transformers (2007) 003
+          - Under the Skin (2014)
+          - World's End (2013)
+        theme: "aliens"
+
+  "Theme: foreign language":
+    template:
+      - name: Theme label
+        title_list:
+          - Angel-A (2005)
+          - Anything For Her (2008)
+          - Aventure (2009)
+          - Baise-moi (2000)
+          - Blue is the Warmest Colour (2013)
+          - Che (2008) 001
+          - Che (2008) 002
+          - Dressage (1986)
+          - Exterminating Angels (2006)
+          - Farewell, My Queen (2012)
+          - Fausto 5.0 (2001)
+          - Grand Central (2013)
+          - I Am Curious (1963) 001
+          - I Am Curious (1963) 002
+          - "Import/Export (2007)"
+          - Juan of the Dead (2012)
+          - Kung Fu Hustle (2004)
+          - Ma mere (2004)
+          - Malena (2000)
+          - Novo (2002)
+          - "Ong-Bak: Muay Thai Warrior (2003)"
+          - Pan's Labyrinth (2006)
+          - Parasite (2019)
+          - Q (2011)
+          - Secret Things (2002)
+        theme: "foreign language"
+
+  "Theme: magic":
+    template:
+      - name: Theme label
+        title_list:
+          - Harry Potter (2001) 001
+          - Harry Potter (2001) 002
+          - Harry Potter (2001) 003
+          - Harry Potter (2001) 004
+          - Harry Potter (2001) 005
+          - Harry Potter (2001) 006
+          - Harry Potter (2001) 007
+          - Harry Potter (2001) 008
+          - Scorpion King (2002) 001
+          - Witch (2015)
+        theme: "magic"
+
+  "Theme: murder mystery":
+    template:
+      - name: Theme label
+        title_list:
+          - Basic Instinct (1992) 001
+          - Batman (2022) 001
+          - Black Dahlia (2006)
+          - Complicity (2000)
+          - Identity (2003)
+          - Knives Out (2019)
+          - Last Night in Soho (2021)
+          - Saw (2004) 001
+          - Seven (1995)
+          - Silence of the Lambs (1991)
+          - Spiral (2021)
+        theme: "murder mystery"
+
+  "Theme: spoof":
+    template:
+      - name: Theme label
+        title_list:
+          - Black Dynamite (2010)
+          - Hot Fuzz (2007)
+          - Juan of the Dead (2012)
+          - Kung Fu Hustle (2004)
+          - Naked Gun (1988) 001
+          - Naked Gun (1988) 002
+          - Naked Gun (1988) 003
+          - Shaun of the Dead (2004)
+          - Tucker and Dale vs. Evil (2010)
+          - World's End (2013)
+        theme: "spoof"
+
+  "Theme: slasher":
+    template:
+      - name: Theme label
+        title_list:
+          - Card Player (2004)
+          - I Spit on Your Grave (1978)
+          - Psycho (1960)
+          - X (2022)
+        theme: "slasher"
+
+  "Theme: supernatural":
+    template:
+      - name: Theme label
+        title_list:
+          - Angel-A (2005)
+          - Aventure (2009)
+          - Doctor Sleep (2019)
+          - Exterminating Angels (2006)
+          - Fausto 5.0 (2001)
+          - IT (2017) 001
+          - IT (2017) 002
+          - "Lara Croft: Tomb Raider (2001) 001"
+          - Nocturne (2020)
+          - Shining (1980)
+          - Tenacious D in the Pick of Destiny (2006)
+          - Witch (2015)
+        theme: "supernatural"
+
+  "Theme: videogames":
+    template:
+      - name: Theme label
+        title_list:
+          # Documentaries
+          - Metal Gear Saga (2006) 001
+          - Metal Gear Saga (2006) 002
+          - Raising Kratos (2019)
+        theme: "videogames"
+
+  "Theme: zombies":
+    template:
+      - name: Theme label
+        title_list:
+          - Juan of the Dead (2012)
+          - Planet Terror (2007)
+          - Resident Evil (2002) 001
+          - Resident Evil (2002) 002
+          - Resident Evil (2002) 003
+          - Resident Evil (2002) 004
+          - Resident Evil (2002) 005
+          - Resident Evil (2002) 006
+          - Resident Evil (2021) 001
+          - Shaun of the Dead (2004)
+          - Zombieland (2009) 001
+        theme: "zombies"

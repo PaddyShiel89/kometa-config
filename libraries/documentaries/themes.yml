@@ -4,9 +4,11 @@ external_templates:
 # Note: All summary text is prepended with the library name.
 collections:
   Based on a Videogame:
-    plex_search:
-      label: "theme: videogames"
     template:
       - name: Theme
         poster_folder: "Movies"
         summary: "focused on videogames."
+    smart_filter:
+      all:
+        label: "theme: videogames"
+      sort_by: title.asc

@@ -5,74 +5,70 @@ external_templates:
 collections:
   Alien Horror:
     template:
-      - name: imdb_keyword_list
-        keyword: alien
       - name: Theme
-        summary: "in the horror genre featuring an alien or aliens as the antagonist."
-    filters:
-      genre: Horror
-
-  # Does not create a collection - only applies the foreignlanguage label to
-  # relevant movies
-  Foreign Language Labels:
-    plex_all: true
-    filters:
-      original_language.not: en
-      # Remove the following movies from the list
-      filepath.not:
-        - "Boss'n Up (2005)"
-        - "The Card Player (2004)"
-        - "Room in Rome (2010)"
-    item_label: foreignlanguage
-    build_collection: false
-
-  # Create a collection using the above list and add the following movies.
-  Foreign Language:
+        summary: "in the horror genre featuring aliens as the primary antagonist."
     smart_filter:
+      all:
+        label: "theme: aliens"
+        genre: Horror
       sort_by: title.asc
-      any:
-        label: foreignlanguage
-        title:
-          - "Che: Part One"
-          - "Che: Part Two"
-          - "Dressage"
-    collection_mode: hide
-    file_poster: /config/assets/themes/Movies/Foreign Language.png
-    sort_title: "!02_Foreign Language"
-    summary: "Movies where the original audio language is not in English. English audio dub tracks may be available."
-    sync_mode: sync
+
+  Foreign Language:
+    template:
+      - name: Theme
+        summary: "where the original audio language is not in English. English audio dub tracks may be available."
+    smart_filter:
+      all:
+        label: "theme: foreign language"
+      sort_by: title.asc
 
   Murder Mystery:
     template:
-      - name: imdb_keyword_list
-        keyword: murder-investigation
-        keyword2: murder-mystery
-        keyword3: whodunit
       - name: Theme
-        summary: "featuring a murder investigation as the main plot point."
-    filters:
-      filepath.not:
-        - "X (2022)"
+        summary: "in the crime genre wherein the puzzle regarding who committed the crime is the main focus."
+    smart_filter:
+      all:
+        label: "theme: murder mystery"
+      sort_by: title.asc
 
   Parodies and Spoofs:
-    plex_search:
-      any:
-        label:
-          - "theme: parody"
-          - "theme: spoof"
     template:
       - name: Theme
+        summary: "that parody another film or spoof a genre."
+    smart_filter:
+      any:
+        label:
+          # - "theme: parody" - Currently no theme: parody label
+          - "theme: spoof"
+      sort_by: title.asc
 
   Slasher:
     template:
-      - name: imdb_keyword_list
-        keyword: slasher
       - name: Theme
         summary: "involving a killer stalking and murdering a group of people, usually by use of bladed tools. Slashers typically adhere to a specific formula: a past wrongful action causes severe trauma that is reinforced by a commemoration or anniversary that reactivates or re-inspires the killer."
+    smart_filter:
+      all:
+        label: "theme: slasher"
+      sort_by: title.asc
 
   Supernatural Horror:
     template:
-      - name: imdb_keyword_list
-        keyword: supernatural-horror
       - name: Theme
-        summary: "in the horror genre featuring magic or mystical forces."
+        summary: "in the horror genre primarily featuring phenomena that are outside the realm of scientific explanation, such as magic, angels & demons, and the soul."
+    smart_filter:
+      all:
+        any:
+          label:
+            - "theme: magic"
+            - "theme: supernatural"
+        genre: Horror
+      sort_by: title.asc
+
+  Zombies:
+    template:
+      - name: Theme
+        summary: "prominently featuring zombies."
+    smart_filter:
+      all:
+        label: "theme: zombies"
+      sort_by: title.asc
