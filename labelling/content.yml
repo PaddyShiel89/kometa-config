@@ -149,6 +149,30 @@ collections:
           - Witch (2015)
           - X (2022)
 
+  # ------------------------------- Injury detail ------------------------------ #
+
+  "Content: injury detail (moderate)":
+    template:
+      - name: Content label
+        content: injury detail
+        level: moderate
+        title_list:
+          - Batman (1989) 002
+          - Black Panther (2018) 001
+          - Casino (1995)
+          - Che (2008) 002
+          - Dark Knight (2008)
+          - Harry Potter (2001) 008
+
+  "Content: injury detail (strong)":
+    template:
+      - name: Content label
+        content: injury detail
+        level: strong
+        title_list:
+          - Birds of Prey (2020)
+          - Card Player (2004)
+
   # --------------------------------- Language --------------------------------- #
 
   "Content: language (mild)":
@@ -480,6 +504,35 @@ collections:
         level: very strong
         title_list:
           - Taxi Driver (1976)
+
+  # ------------------------------- Sexual threat ------------------------------ #
+
+  "Content: sexual threat (mild)":
+    template:
+      - name: Content label
+        content: sexual threat
+        level: mild
+        title_list:
+          - Che (2008) 001
+          - Dune (2021) 001
+
+  "Content: sexual threat (moderate)":
+    template:
+      - name: Content label
+        content: sexual threat
+        level: moderate
+        title_list:
+          - Batman (1989) 002
+          - Marnie (1964)
+
+  "Content: sexual threat (strong)":
+    template:
+      - name: Content label
+        content: sexual threat
+        level: strong
+        title_list:
+          - Birds of Prey (2020)
+          - X (2022)
 
   # ------------------------------ Sexual violence ----------------------------- #
 
