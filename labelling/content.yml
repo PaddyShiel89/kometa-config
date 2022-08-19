@@ -224,16 +224,6 @@ collections:
           - Men in Black (1997) 001
           - Tuxedo (2002)
 
-  "Content: language (racist)":
-    template:
-      - name: Content label
-        content: language
-        level: racist
-        title_list:
-          - American Gangster (2007) 001
-          - Black Dynamite (2010)
-          - Taxi Driver (1976)
-
   "Content: language (strong)":
     template:
       - name: Content label
@@ -308,6 +298,16 @@ collections:
           - Harry Brown (2009)
           - Import/Export (2007)
           - Palm Springs (2020)
+
+  "Content: language (racist)":
+    template:
+      - name: Content label
+        content: language
+        level: racist
+        title_list:
+          - American Gangster (2007) 001
+          - Black Dynamite (2010)
+          - Taxi Driver (1976)
 
   # ---------------------------------- Nudity ---------------------------------- #
 
@@ -610,7 +610,7 @@ collections:
           - Songbird (2020)
           - Witch (2015)
 
-# ---------------------------------- Suicide --------------------------------- #
+  # ---------------------------------- Suicide --------------------------------- #
 
   "Content: suicide":
     template:
