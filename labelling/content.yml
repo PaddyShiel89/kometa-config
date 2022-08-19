@@ -555,6 +555,16 @@ collections:
           - Complicity (2000)
           - Pulp Fiction (1994)
 
+  # ------------------------ Sexually abusive behaviour ------------------------ #
+
+  "Content: sexually abusive behaviour":
+    template:
+      - name: Content label
+        content: sexually abusive behaviour
+        level: none
+        title_list:
+          - Songbird (2020)
+
   # ---------------------------------- Threat ---------------------------------- #
 
   "Content: threat (mild)":
