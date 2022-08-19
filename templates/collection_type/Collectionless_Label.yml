@@ -1,6 +1,19 @@
 # These "collections" apply a label to a group of titles but do not build a
 # collection.
 templates:
+  Content label:
+    conditionals:
+      level_string:
+        default: " (<<level>>)"
+        conditions:
+          - level: none
+            value: ""
+    plex_search:
+      any:
+        title: <<title_list>>
+    item_label: "content: <<content>><<level_string>>"
+    build_collection: false
+
   Restriction label:
     # No search as restrictions may be complex and assorted
     item_label: "restriction: <<restriction>>"

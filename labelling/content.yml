@@ -1,0 +1,14 @@
+external_templates:
+  - file: config/templates/collection_type/Collectionless_Label
+
+collections:
+  # Sex
+  "Content: sex (real)":
+    template:
+      - name: Content label
+        content: sex
+        level: real
+        title_list:
+          - Baise-moi (2000)
+          - "Import/Export (2007)"
+          - Q (2011)
