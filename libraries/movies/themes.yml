@@ -13,7 +13,7 @@ collections:
         genre: Horror
       sort_by: title.asc
 
-  Foreign language:
+  Foreign Language:
     template:
       - name: Theme
         summary: "where the original audio language is not in English. English audio dub tracks may be available."
