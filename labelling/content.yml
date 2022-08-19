@@ -267,6 +267,74 @@ collections:
           - "Import/Export (2007)"
           - Q (2011)
 
+  # ------------------------------ Sex references ------------------------------ #
+
+  "Content: sex references (mild)":
+    template:
+      - name: Content label
+        content: sex references
+        level: mild
+        title_list:
+          - Ant-Man (2015) 001
+          - Back to the Future (1985) 001
+          - Batman (1989) 001
+          - Cathy Come Home (1966)
+          - Dark Knight Rises (2012)
+          - For Your Eyes Only (1981)
+          - From Russia with Love (1963)
+          - Harry Potter (2001) 007
+          - Men in Black (1997) 002
+          - Uncharted (2022) 001
+
+  "Content: sex references (moderate)":
+    template:
+      - name: Content label
+        content: sex references
+        level: moderate
+        title_list:
+          - Anchorman (2004) 001
+          - Batman (1989) 002
+          - Beautiful Mind (2001)
+          - Bitch Slap (2009)
+          - Black Dynamite (2010)
+          - Blades of Glory (2007)
+          - Calendar Girls (2003)
+          - Departed (2006)
+          - District 9 (2009)
+          - Fifth Element (1997)
+          - French Dispatch (2021)
+          - Naked Gun (1988) 001
+          - Naked Gun (1988) 003
+
+  "Content: sex references (strong)":
+    template:
+      - name: Content label
+        content: sex references
+        level: strong
+        title_list:
+          - After Sex (2007)
+          - Angel-A (2005)
+          - Blue is the Warmest Colour (2013)
+          - Boogie Nights (1997)
+          - Boss'n Up (2005)
+          - Chloe (2009)
+          - Deep Water (2022)
+          - Ex Machina (2015)
+          - Get Him to the Greek (2010)
+          - Her (2014)
+          - Old School (2003)
+          - Pulp Fiction (1994)
+          - Shame (2011)
+          - War Dogs (2016)
+
+  "Content: sex references (very strong)":
+    template:
+      - name: Content label
+        content: sex references
+        level: very strong
+        title_list:
+          - Taxi Driver (1976)
+
   # ------------------------------ Sexual violence ----------------------------- #
 
   "Content: sexual violence (moderate)":
