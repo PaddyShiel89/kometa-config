@@ -7,6 +7,13 @@ collections:
       - name: Source label
         source: "download"
         title_list:
+          - Deep Water (2022)
+          - Grand Central (2013)
+          - Jolene (2008)
+          - Lie (2020)
+          - Nocturne (2020)
+          - Palm Springs (2020)
+          - Songbird (2020)
           - Star Wars 004 (1977) 1997
           - Star Wars 004 (1977) 2016
           - Star Wars 004 (1977) 2018
@@ -15,6 +22,20 @@ collections:
           - Star Wars 006 (1983) 1997
           - Star Wars 006 (1983) 2016
           - Star Wars 006 (1983) 2019
+          - Voyeurs (2021)
+
+  "Source: Amazon Prime":
+    template:
+      - name: Source label
+        source: "Amazon Prime"
+        title_list:
+          - Deep Water (2022)
+          - Grand Central (2013)
+          - Lie (2020)
+          - Nocturne (2020)
+          - Palm Springs (2020)
+          - Songbird (2020)
+          - Voyeurs (2021)
 
   "Source: dvd":
     template:
