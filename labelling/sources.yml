@@ -1,0 +1,78 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Source: download":
+    template:
+      - name: Source label
+        source: "download"
+        title_list:
+          - Star Wars 004 (1977) 1997
+          - Star Wars 005 (1980) 1997
+          - Star Wars 006 (1983) 1997
+
+  "Source: dvd":
+    template:
+      - name: Source label
+        source: "dvd"
+        title_list:
+          - After Sex (2007)
+          - Anything For Her (2008)
+          - "Assassin's Creed: Embers (2011)"
+          - Aventure (2009)
+          - Baise-moi (2000)
+          - Big Nothing (2006)
+          - Bitch Slap (2009)
+          - Black Dahlia (2006)
+          - Black Dynamite (2010)
+          - Boogie Woogie (2009)
+          - Boss'n Up (2005)
+          - Calendar Girls (2003)
+          - Card Player (2004)
+          - Cashback (2007)
+          - Cathy Come Home (1966)
+          - Chicken Run (2000)
+          - Complicity (2000)
+          - Cool Runnings (1993)
+          - Corrina, Corrina (1994)
+          - Dressage (1986)
+          - Exterminating Angels (2006)
+          - Fausto 5.0 (2001)
+          - Head in the Clouds (2004)
+          - High Fidelity (2000)
+          - Hunger (2008)
+          - I Am Curious (1963) 001
+          - I Am Curious (1963) 002
+          - I Spit on Your Grave (1978)
+          - Juan of the Dead (2012)
+          - Ma mere (2004)
+          - Match Point (2005)
+          - Mexican (2001)
+          - Mighty Aphrodite (1995)
+          - Monster (2004)
+          - Muppet Treasure Island (1996)
+          - Night at the Roxbury (1998)
+          - Novo (2002)
+          - "Ong-Bak: Muay Thai Warrior (2003)"
+          - Remember the Titans (2000)
+          - Room (2003)
+          - School of Rock (2003)
+          - "Scooby-Doo 2: Monsters Unleashed (2004)"
+          - Secretary (2002)
+          - Sliver (1993)
+          - "South Park: Bigger, Longer & Uncut (1999)"
+          - Star Wars 001 (1999) 2001
+          - Star Wars 002 (2002) 2002B
+          - Star Wars 003 (2005) 2005B
+          - Star Wars 004 (1977) 1977
+          - Star Wars 004 (1977) 2004
+          - Star Wars 005 (1980) 1980
+          - Star Wars 005 (1980) 2004
+          - Star Wars 006 (1983) 1983
+          - Star Wars 006 (1983) 2004
+          - Superstar (1999)
+          - Sweet Karma (2010)
+          - Tenacious D in the Pick of Destiny (2006)
+          - Wake Up, Ron Burgundy (2004)
+          - Whole Nine Yards (2000)
+          - Wind that Shakes the Barley (2006)
