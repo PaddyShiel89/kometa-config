@@ -8,8 +8,13 @@ collections:
         source: "download"
         title_list:
           - Star Wars 004 (1977) 1997
+          - Star Wars 004 (1977) 2016
+          - Star Wars 004 (1977) 2018
           - Star Wars 005 (1980) 1997
+          - Star Wars 005 (1980) 2016
           - Star Wars 006 (1983) 1997
+          - Star Wars 006 (1983) 2016
+          - Star Wars 006 (1983) 2019
 
   "Source: dvd":
     template:
