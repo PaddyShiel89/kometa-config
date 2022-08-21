@@ -6,7 +6,7 @@ collections:
   "Restriction: all":
     plex_search:
       any:
-        label: "content: sex(real)"
+        label: "content: sex (real)"
         title:
           - Aventure (2009)
           - Dressage (1986)
