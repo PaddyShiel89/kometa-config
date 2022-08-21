@@ -2,6 +2,63 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  "Source: blu-ray":
+    template:
+      - name: Source label
+        source: "blu-ray"
+        title_list:
+          - 4.3.2.1 (2010)
+          - 300 (2007) 001
+          - 300 (2007) 002
+          - Alien (1979) 001 1979 Theatrical cut
+          - Alien (1979) 001 2003 Director's cut
+          - Alien (1979) 002 1986 Theatrical cut
+          - Alien (1979) 002 1990 Special Edition
+          - Alien (1979) 003A
+          - Alien (1979) 003B
+          - Alien (1979) 004A
+          - Alien (1979) 004B
+          - "Alien: Covenant (2017)"
+          - Amazing Spider-Man (2012) 002
+          - American Beauty (1999)
+          - American Gangster (2007) 001A
+          - American Gangster (2007) 001B
+          - Anchorman (2004) 001
+          - Angel-A (2005)
+          - Ant-Man (2015) 001
+          - Avengers (2012) 001
+          - Avengers (2012) 002
+          - Avengers (2012) 003
+          - Back to the Future (1985) 001
+          - Back to the Future (1985) 002
+          - Back to the Future (1985) 003
+          - Basic Instinct (1992) 001
+          - Batman (1989) 001
+          - Batman (1989) 002
+          - Batman (1989) 003
+          - Batman (1989) 004
+          - Batman (2022) 001
+          - Batman Begins (2005)
+          - Beautiful Mind (2001)
+          - BFG (2016)
+          - Birds (1963)
+          - Birds of Prey (2020)
+          - Black Panther (2018) 001
+          - Black Swan (2010)
+          - Blade Runner (1982) 001 2007 Final Cut
+          - Blade Runner (1982) 002
+          - Blades of Glory (2007)
+          - Blue is the Warmest Colour (2013)
+          - Boogie Nights (1997)
+          - Captain America (2011) 002
+          - Captain America (2011) 003
+          - Casino (1995)
+          - Casino Royale (2006)
+          - Che (2008) 001
+          - Che (2008) 002
+          - Chloe (2009)
+          - Clash of the Titans (1981)
+
   "Source: download":
     template:
       - name: Source label
