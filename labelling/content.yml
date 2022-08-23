@@ -72,6 +72,7 @@ collections:
           - Complicity (2000)
           - Die Hard (1988) 001
           - Harry Brown (2009)
+          - Hot Tub Time Machine (2010)
           - Palm Springs (2020)
           - Pulp Fiction (1994)
           - Shank (2010)
@@ -117,6 +118,8 @@ collections:
           - Black Swan (2010)
           - Doctor Sleep (2019)
           - Fausto 5.0 (2001)
+          - Hobo with a Shotgun (2011)
+          - Hot Tub Time Machine (2010)
           - Taxi Driver (1976)
           - X (2022)
 
@@ -160,6 +163,14 @@ collections:
           - X (2022)
 
   # ------------------------------- Injury detail ------------------------------ #
+
+  "Content: injury detail (mild)":
+    template:
+      - name: Content label
+        content: injury detail
+        level: mild
+        title_list:
+          - Hobbit (2012) 002
 
   "Content: injury detail (moderate)":
     template:
@@ -215,6 +226,7 @@ collections:
           - Harry Potter (2001) 006
           - Harry Potter (2001) 007
           - Harry Potter (2001) 008
+          - Hobbit (2012) 003
           - Men in Black (1997) 002
           - Scorpion King (2002) 001
           - Uncharted (2022) 001
@@ -278,6 +290,8 @@ collections:
           - Grand Central (2013)
           - Her (2014)
           - High Fidelity (2000)
+          - Hobo with a Shotgun (2011)
+          - Hot Tub Time Machine (2010)
           - Identity (2003)
           - Lie (2020)
           - Mystic River (2003)
@@ -306,6 +320,7 @@ collections:
           - Favourite (2018)
           - Get Him to the Greek (2010)
           - Harry Brown (2009)
+          - Hot Fuzz (2007)
           - Import/Export (2007)
           - Palm Springs (2020)
 
@@ -317,6 +332,7 @@ collections:
         title_list:
           - American Gangster (2007) 001
           - Black Dynamite (2010)
+          - Corrina, Corrina (1994)
           - Taxi Driver (1976)
 
   # ---------------------------------- Nudity ---------------------------------- #
@@ -348,6 +364,7 @@ collections:
           - Favourite (2018)
           - Fight Club (1999)
           - Her (2014)
+          - Hot Tub Time Machine (2010)
           - Shame (2011)
           - Single Man (2009)
           - X (2022)
@@ -400,6 +417,7 @@ collections:
           - Fight Club (1999)
           - Head in the Clouds (2004)
           - High Fidelity (2000)
+          - Hot Tub Time Machine (2010)
 
   "Content: sex (strong)":
     template:
@@ -463,6 +481,7 @@ collections:
           - For Your Eyes Only (1981)
           - From Russia with Love (1963)
           - Harry Potter (2001) 007
+          - Hobbit (2012) 002
           - Men in Black (1997) 002
           - Uncharted (2022) 001
 
@@ -483,6 +502,7 @@ collections:
           - District 9 (2009)
           - Fifth Element (1997)
           - French Dispatch (2021)
+          - Hot Fuzz (2007)
           - Naked Gun (1988) 001
           - Naked Gun (1988) 003
 
@@ -504,6 +524,8 @@ collections:
           - Her (2014)
           - Old School (2003)
           - Pulp Fiction (1994)
+          - Hobo with a Shotgun (2011)
+          - Hot Tub Time Machine (2010)
           - Shame (2011)
           - War Dogs (2016)
 
@@ -615,6 +637,8 @@ collections:
           - Harry Potter (2001) 004
           - Harry Potter (2001) 006
           - Harry Potter (2001) 007
+          - Hobbit (2012) 002
+          - Hobbit (2012) 003
           - Single Man (2009)
           - Uncharted (2022) 001
 
@@ -717,6 +741,9 @@ collections:
           - Harry Potter (2001) 007
           - Head in the Clouds (2004)
           - Hobbit (2012) 001
+          - Hobbit (2012) 002
+          - Hobbit (2012) 003
+          - Hot Tub Time Machine (2010)
           - Naked Gun (1988) 001
           - Octopussy (1983)
           - Palm Springs (2020)
@@ -766,6 +793,8 @@ collections:
           - Gangs of New York (2002)
           - Goodfellas (1990)
           - Harry Brown (2009)
+          - Hobo with a Shotgun (2011)
+          - Hot Fuzz (2007)
           - Identity (2003)
           - Lie (2020)
           - Mystic River (2003)
@@ -797,6 +826,8 @@ collections:
           - Dune (2021) 001
           - Ex Machina (2015)
           - Gangs of New York (2002)
+          - Hobo with a Shotgun (2011)
+          - Hot Fuzz (2007)
           - X (2022)
 
   "Content: violence (comic)":
@@ -806,5 +837,7 @@ collections:
         level: comic
         title_list:
           - Anchorman (2004) 001
+          - Hot Fuzz (2007)
+          - Hot Tub Time Machine (2010)
           - Muppets from Space (1999)
           - Naked Gun (1988) 001
