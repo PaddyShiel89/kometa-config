@@ -1,9 +1,16 @@
 templates:
   Series:
+    conditionals:
+      title_sort:
+        conditions:
+          - use_smart_label: true
+            value: release.asc
+    default:
+      use_smart_label: false
     optional:
       - summary
     collection_mode: hide
-    smart_label: release.asc
+    smart_label: <<title_sort>>
     file_poster: /config/assets/series/<<collection_name>>.png
     sort_title: "!05_<<collection_name>>"
     summary: "<<library_name>> <<summary>>"
