@@ -6,6 +6,13 @@ templates:
     item_label: "restriction: <<restriction>>"
     build_collection: false
 
+  Source label:
+    plex_search:
+      any:
+        title: <<title_list>>
+    item_label: "source: <<source>>"
+    build_collection: false
+
   Theme label:
     plex_search:
       any:
