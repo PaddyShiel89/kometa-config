@@ -49,6 +49,25 @@ collections:
           - World's End (2013)
         theme: "aliens"
 
+  "Theme: erotic":
+    template:
+      - name: Theme label
+        title_list:
+        theme: "erotic"
+          - Aventure (2009)
+          - Basic Instinct (1992) 001
+          - Chloe (2009)
+          - Deep Water (2022)
+          - Dressage (1986)
+          - Exterminating Angels (2006)
+          - Ma mere (2004)
+          - Q (2011)
+          - Room in Rome (2010)
+          - Secret Things (2002)
+          - Secretary (2002)
+          - Sliver (1993)
+          - Voyeurs (2021)
+
   "Theme: foreign language":
     template:
       - name: Theme label
