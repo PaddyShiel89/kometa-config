@@ -2,6 +2,16 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  # ------------------------------ Discrimination ------------------------------ #
+
+  "Content: discrimination":
+    template:
+      - name: Content label
+        content: discrimination
+        level: none
+        title_list:
+          - IT (2017) 002
+
   # ------------------------------ Domestic threat ----------------------------- #
 
   "Content: domestic threat (moderate)":
@@ -10,6 +20,7 @@ collections:
         content: domestic threat
         level: moderate
         title_list:
+          - IT (2017) 001
           - Marnie (1964)
 
   # ------------------------------ Drug references ----------------------------- #
@@ -23,6 +34,7 @@ collections:
           - Back to the Future (1985) 001
           - Che (2008) 002
           - French Dispatch (2021)
+          - Incredible Hulk (2008) 001
 
   "Content: drug references (moderate)":
     template:
@@ -97,6 +109,22 @@ collections:
           - Pulp Fiction (1994)
           - Shame (2011)
 
+  # ------------------------------ Flashing images ----------------------------- #
+
+  "Content: flashing images":
+    template:
+      - name: Content label
+        content: flashing images
+        level: none
+        title_list:
+          - Alien (1979) 001
+          - Batman (2022) 001
+          - Black Swan (2010)
+          - Doctor Sleep (2019)
+          - IT (2017) 002
+          - Men in Black (1997) 001
+          - War Dogs (2016)
+
   # ----------------------------------- Gore ----------------------------------- #
 
   "Content: gore (moderate)":
@@ -120,6 +148,7 @@ collections:
           - Fausto 5.0 (2001)
           - Hobo with a Shotgun (2011)
           - Hot Tub Time Machine (2010)
+          - IT (2017) 002
           - Taxi Driver (1976)
           - X (2022)
 
@@ -159,6 +188,8 @@ collections:
           - Alien (1979) 004
           - Complicity (2000)
           - Doctor Sleep (2019)
+          - IT (2017) 001
+          - IT (2017) 002
           - Witch (2015)
           - X (2022)
 
@@ -243,6 +274,8 @@ collections:
           - Dark Knight Rises (2012)
           - Diamonds Are Forever (1971)
           - Guardians of the Galaxy (2014) 001
+          - Incredible Hulk (2008) 001
+          - Iron Man (2008) 001
           - Men in Black (1997) 001
           - Tuxedo (2002)
 
@@ -293,6 +326,12 @@ collections:
           - Hobo with a Shotgun (2011)
           - Hot Tub Time Machine (2010)
           - Identity (2003)
+          - I Spit on Your Grave (1978)
+          - Identity (2003)
+          - Inglourious Basterds (2009)
+          - Inhale (2010)
+          - IT (2017) 001
+          - IT (2017) 002
           - Lie (2020)
           - Mystic River (2003)
           - Old School (2003)
@@ -323,6 +362,14 @@ collections:
           - Hot Fuzz (2007)
           - Import/Export (2007)
           - Palm Springs (2020)
+
+  "Content: language (bleeped)":
+    template:
+      - name: Content label
+        content: language
+        level: bleeped
+        title_list:
+          - Iron Man (2008) 002
 
   "Content: language (racist)":
     template:
@@ -390,6 +437,9 @@ collections:
           - Farewell, My Queen (2012)
           - French Dispatch (2021)
           - Grand Central (2013)
+          - I Am Curious (1963) 001
+          - I Am Curious (1963) 002
+          - I Spit on Your Grave (1978)
 
   # ------------------------------------ Sex ----------------------------------- #
 
@@ -403,6 +453,7 @@ collections:
           - Fifth Element (1997)
           - Goldfinger (1964)
           - Grand Central (2013)
+          - Inglourious Basterds (2009)
 
   "Content: sex (moderate)":
     template:
@@ -449,6 +500,8 @@ collections:
           - Get Him to the Greek (2010)
           - Goodfellas (1990)
           - Harry Brown (2009)
+          - I Am Curious (1963) 001
+          - I Am Curious (1963) 002
           - "Import/Export (2007)"
           - Palm Springs (2020)
           - Q (2011)
@@ -482,6 +535,9 @@ collections:
           - From Russia with Love (1963)
           - Harry Potter (2001) 007
           - Hobbit (2012) 002
+          - Incredible Hulk (2008) 001
+          - Iron Man (2008) 001
+          - Iron Man (2008) 002
           - Men in Black (1997) 002
           - Uncharted (2022) 001
 
@@ -522,6 +578,9 @@ collections:
           - Ex Machina (2015)
           - Get Him to the Greek (2010)
           - Her (2014)
+          - I Am Curious (1963) 002
+          - I Spit on Your Grave (1978)
+          - IT (2017) 001
           - Old School (2003)
           - Pulp Fiction (1994)
           - Hobo with a Shotgun (2011)
@@ -564,6 +623,7 @@ collections:
         level: strong
         title_list:
           - Birds of Prey (2020)
+          - I Spit on Your Grave (1978)
           - X (2022)
 
   # ------------------------------ Sexual violence ----------------------------- #
@@ -586,6 +646,7 @@ collections:
           - Chloe (2009)
           - Complicity (2000)
           - Frenzy (1972)
+          - I Spit on Your Grave (1978)
           - Pulp Fiction (1994)
 
   # ------------------------ Sexually abusive behaviour ------------------------ #
@@ -596,7 +657,20 @@ collections:
         content: sexually abusive behaviour
         level: none
         title_list:
+          - I Spit on Your Grave (1978)
           - Songbird (2020)
+
+  # ---------------------------------- Suicide --------------------------------- #
+
+  "Content: suicide":
+    template:
+      - name: Content label
+        content: suicide
+        level: none
+        title_list:
+          - Boogie Nights (1997)
+          - Shame (2011)
+          - Single Man (2009)
 
   # ---------------------------------- Threat ---------------------------------- #
 
@@ -613,6 +687,7 @@ collections:
           - Harry Potter (2001) 002
           - Harry Potter (2001) 003
           - Hobbit (2012) 001
+          - Incredibles (2004) 001
           - Shadow of a Doubt (1943)
 
   "Content: threat (moderate)":
@@ -651,21 +726,13 @@ collections:
           - Batman (2022) 001
           - Disappearance of Alice Creed (2010)
           - Doctor Sleep (2019)
+          - I Spit on Your Grave (1978)
+          - Inhale (2010)
+          - IT (2017) 001
+          - IT (2017) 002
           - Lie (2020)
           - Songbird (2020)
           - Witch (2015)
-
-  # ---------------------------------- Suicide --------------------------------- #
-
-  "Content: suicide":
-    template:
-      - name: Content label
-        content: suicide
-        level: none
-        title_list:
-          - Boogie Nights (1997)
-          - Shame (2011)
-          - Single Man (2009)
 
   # ---------------------------------- Torture --------------------------------- #
 
@@ -699,6 +766,7 @@ collections:
           - Goldfinger (1964)
           - Harry Potter (2001) 001
           - Harry Potter (2001) 002
+          - Incredibles (2004) 001
           - Men in Black (1997) 001
           - Men in Black (1997) 002
           - Muppets from Space (1999)
@@ -744,6 +812,9 @@ collections:
           - Hobbit (2012) 002
           - Hobbit (2012) 003
           - Hot Tub Time Machine (2010)
+          - Incredible Hulk (2008) 001
+          - Iron Man (2008) 001
+          - Iron Man (2008) 002
           - Naked Gun (1988) 001
           - Octopussy (1983)
           - Palm Springs (2020)
@@ -796,6 +867,12 @@ collections:
           - Hobo with a Shotgun (2011)
           - Hot Fuzz (2007)
           - Identity (2003)
+          - I Spit on Your Grave (1978)
+          - Identity (2003)
+          - Inglourious Basterds (2009)
+          - Inhale (2010)
+          - IT (2017) 001
+          - IT (2017) 002
           - Lie (2020)
           - Mystic River (2003)
           - Psycho (1960)
@@ -828,6 +905,8 @@ collections:
           - Gangs of New York (2002)
           - Hobo with a Shotgun (2011)
           - Hot Fuzz (2007)
+          - Inglourious Basterds (2009)
+          - IT (2017) 002
           - X (2022)
 
   "Content: violence (comic)":
@@ -841,3 +920,19 @@ collections:
           - Hot Tub Time Machine (2010)
           - Muppets from Space (1999)
           - Naked Gun (1988) 001
+
+  "Content: violence (fantasy)":
+    template:
+      - name: Content label
+        content: violence
+        level: fantasy
+        title_list:
+          - Incredible Hulk (2008) 001
+
+  "Content: violence (sadistic)":
+    template:
+      - name: Content label
+        content: violence
+        level: sadistic
+        title_list:
+          - I Spit on Your Grave (1978)
