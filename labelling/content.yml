@@ -12,6 +12,7 @@ collections:
         title_list:
           - IT (2017) 002
           - Jojo Rabbit (2019)
+          - Monster (2004)
 
   # ------------------------------ Domestic threat ----------------------------- #
 
@@ -37,6 +38,10 @@ collections:
           - French Dispatch (2021)
           - Incredible Hulk (2008) 001
           - Knives Out (2019)
+          - Leave No Trace (2018)
+          - Match Point (2005)
+          - Matrix (1999) 001
+          - Miss Sloane (2016)
 
   "Content: drug references (moderate)":
     template:
@@ -82,6 +87,7 @@ collections:
           - Goodfellas (1990)
           - Jolene (2008)
           - Kick-Ass (2010) 001
+          - Last Night in Soho (2021)
           - Shame (2011)
 
   "Content: drug use (strong)":
@@ -144,6 +150,7 @@ collections:
           - Black Swan (2010)
           - Doctor Sleep (2019)
           - IT (2017) 002
+          - Last Night in Soho (2021)
           - Men in Black (1997) 001
           - War Dogs (2016)
 
@@ -211,6 +218,9 @@ collections:
           - Harry Potter (2001) 008
           - Jurassic Park (1993) 001
           - Jurassic Park (1993) 003
+          - Lord of the Rings (2001) 003B
+          - Mummy (1999) 001
+          - Mummy (1999) 002
 
   "Content: horror (strong)":
     template:
@@ -225,6 +235,7 @@ collections:
           - Doctor Sleep (2019)
           - IT (2017) 001
           - IT (2017) 002
+          - Last Night in Soho (2021)
           - Witch (2015)
           - X (2022)
 
@@ -236,6 +247,16 @@ collections:
         title_list:
           - Jurassic Park (1993) 001
 
+  # ---------------------------------- Incest ---------------------------------- #
+
+  "Content: incest theme":
+    template:
+      - name: Content label
+        content: incest theme
+        level: none
+        title_list:
+          - Ma mere (2004)
+
   # ------------------------------- Injury detail ------------------------------ #
 
   "Content: injury detail (mild)":
@@ -246,6 +267,7 @@ collections:
         title_list:
           - Hobbit (2012) 002
           - Knives Out (2019)
+          - Leave No Trace (2018)
 
   "Content: injury detail (moderate)":
     template:
@@ -263,6 +285,8 @@ collections:
           - Jojo Rabbit (2019)
           - Jurassic World (2015) 001
           - Jurassic World (2015) 002
+          - Lord of the Rings (2001) 003B
+          - Man on Fire (2004)
 
   "Content: injury detail (strong)":
     template:
@@ -274,6 +298,16 @@ collections:
           - Card Player (2004)
 
   # --------------------------------- Language --------------------------------- #
+
+  "Content: language (very mild)":
+    template:
+      - name: Content label
+        content: language
+        level: very mild
+        title_list:
+          - Lego Movie (2014) 001
+          - Lego Movie (2014) 002
+          - Lucy (2014)
 
   "Content: language (mild)":
     template:
@@ -309,6 +343,7 @@ collections:
           - Jaws (1975) 001
           - Jurassic Park (1993) 001
           - Jurassic World (2015) 001
+          - Match Point (2005)
           - Men in Black (1997) 002
           - Scorpion King (2002) 001
           - Uncharted (2022) 001
@@ -388,7 +423,19 @@ collections:
           - Juan of the Dead (2012)
           - Kingsman (2014) 001
           - Knives Out (2019)
+          - Leave No Trace (2018)
           - Lie (2020)
+          - Machete (2010) 001
+          - Machete (2010) 002
+          - Malena (2000) 001A
+          - Malena (2000) 001B
+          - Martha Marcy May Marlene (2011)
+          - Matrix (1999) 001
+          - Mexican (2001)
+          - Mighty Aphrodite (1995)
+          - Miss Sloane (2016)
+          - Monster (2004)
+          - Mr and Mrs Smith (2005)
           - Mystic River (2003)
           - Old School (2003)
           - Pulp Fiction (1994)
@@ -420,6 +467,8 @@ collections:
           - Kick-Ass (2010) 001
           - Kick-Ass (2010) 002
           - Knock Knock (2015)
+          - Last Night in Soho (2021)
+          - Lost Girls and Love Hotels (2020)
           - Palm Springs (2020)
 
   "Content: language (bleeped)":
@@ -475,6 +524,11 @@ collections:
           - Fight Club (1999)
           - Her (2014)
           - Hot Tub Time Machine (2010)
+          - Lost Girls and Love Hotels (2020)
+          - Machete (2010) 001
+          - Malena (2000) 001B
+          - Martha Marcy May Marlene (2011)
+          - Monster (2004)
           - Shame (2011)
           - Single Man (2009)
           - X (2022)
@@ -505,6 +559,7 @@ collections:
           - I Spit on Your Grave (1978)
           - Jolene (2008)
           - Knock Knock (2015)
+          - Malena (2000) 001A
 
   # ------------------------------------ Sex ----------------------------------- #
 
@@ -519,6 +574,7 @@ collections:
           - Goldfinger (1964)
           - Grand Central (2013)
           - Inglourious Basterds (2009)
+          - Lucy (2014)
 
   "Content: sex (moderate)":
     template:
@@ -535,6 +591,9 @@ collections:
           - High Fidelity (2000)
           - Hot Tub Time Machine (2010)
           - Kick-Ass (2010) 002
+          - Last Night in Soho (2021)
+          - Match Point (2005)
+          - Mr and Mrs Smith (2005)
 
   "Content: sex (strong)":
     template:
@@ -571,6 +630,12 @@ collections:
           - "Import/Export (2007)"
           - Jolene (2008)
           - Knock Knock (2015)
+          - Lost Girls and Love Hotels (2020)
+          - Ma mere (2004)
+          - Malena (2000) 001A
+          - Malena (2000) 001B
+          - Martha Marcy May Marlene (2011)
+          - Miss Sloane (2016)
           - Palm Springs (2020)
           - Q (2011)
           - Shame (2011)
@@ -608,6 +673,10 @@ collections:
           - Iron Man (2008) 002
           - Men in Black (1997) 002
           - Jojo Rabbit (2019)
+          - "Lara Croft: Tomb Raider (2001) 001"
+          - Matrix (1999) 001
+          - Miss Sloane (2016)
+          - Muppet Treasure Island (1996)
           - Uncharted (2022) 001
 
   "Content: sex references (moderate)":
@@ -660,6 +729,10 @@ collections:
           - Pulp Fiction (1994)
           - Hobo with a Shotgun (2011)
           - Hot Tub Time Machine (2010)
+          - Lost Girls and Love Hotels (2020)
+          - Machete (2010) 002
+          - Mighty Aphrodite (1995)
+          - Monster (2004)
           - Shame (2011)
           - War Dogs (2016)
 
@@ -689,6 +762,7 @@ collections:
         level: moderate
         title_list:
           - Batman (1989) 002
+          - Last Night in Soho (2021)
           - Marnie (1964)
 
   "Content: sexual threat (strong)":
@@ -699,6 +773,7 @@ collections:
         title_list:
           - Birds of Prey (2020)
           - I Spit on Your Grave (1978)
+          - Monster (2004)
           - X (2022)
 
   # ------------------------------ Sexual violence ----------------------------- #
@@ -722,6 +797,8 @@ collections:
           - Complicity (2000)
           - Frenzy (1972)
           - I Spit on Your Grave (1978)
+          - Martha Marcy May Marlene (2011)
+          - Monster (2004)
           - Pulp Fiction (1994)
 
   # ------------------------ Sexually abusive behaviour ------------------------ #
@@ -749,6 +826,14 @@ collections:
 
   # ---------------------------- Suicide references ---------------------------- #
 
+  "Content: suicide references (mild)":
+    template:
+      - name: Content label
+        content: suicide references
+        level: mild
+        title_list:
+          - Leave No Trace (2018)
+
   "Content: suicide references (moderate)":
     template:
       - name: Content label
@@ -756,6 +841,7 @@ collections:
         level: moderate
         title_list:
           - Knives Out (2019)
+          - Monster (2004)
 
   # ---------------------------------- Threat ---------------------------------- #
 
@@ -774,6 +860,8 @@ collections:
           - Hobbit (2012) 001
           - Jurassic Park (1993) 001
           - Incredibles (2004) 001
+          - Lord of the Rings (2001) 001B
+          - Miss Sloane (2016)
           - Shadow of a Doubt (1943)
 
   "Content: threat (moderate)":
@@ -804,6 +892,9 @@ collections:
           - Jurassic Park (1993) 003
           - Jurassic World (2015) 001
           - Jurassic World (2015) 002
+          - Lord of the Rings (2001) 002B
+          - Matrix (1999) 001
+          - Monster (2004)
           - Single Man (2009)
           - Uncharted (2022) 001
 
@@ -821,6 +912,7 @@ collections:
           - IT (2017) 001
           - IT (2017) 002
           - Knock Knock (2015)
+          - Last Night in Soho (2021)
           - Lie (2020)
           - Songbird (2020)
           - Witch (2015)
@@ -845,6 +937,14 @@ collections:
 
   # --------------------------------- Violence --------------------------------- #
 
+  "Content: violence (very mild)":
+    template:
+      - name: Content label
+        content: violence
+        level: very mild
+        title_list:
+          - Lego Movie (2014) 002
+
   "Content: violence (mild)":
     template:
       - name: Content label
@@ -866,8 +966,14 @@ collections:
           - Harry Potter (2001) 001
           - Harry Potter (2001) 002
           - Incredibles (2004) 001
+          - Lego Movie (2014) 001
+          - Lion King (1994) 001
+          - Lost Girls and Love Hotels (2020)
+          - Martha Marcy May Marlene (2011)
           - Men in Black (1997) 001
           - Men in Black (1997) 002
+          - Miss Sloane (2016)
+          - Muppet Treasure Island (1996)
           - Muppets from Space (1999)
           - Shame (2011)
 
@@ -919,6 +1025,15 @@ collections:
           - Jurassic Park (1993) 003
           - Jurassic World (2015) 001
           - Jurassic World (2015) 002
+          - "Lara Croft: Tomb Raider (2001) 001"
+          - Lord of the Rings (2001) 001B
+          - Lord of the Rings (2001) 002B
+          - Lord of the Rings (2001) 003B
+          - Man with the Golden Gun (1974)
+          - Match Point (2005)
+          - Monster (2004)
+          - Mr and Mrs Smith (2005)
+          - Mummy (1999) 002
           - Naked Gun (1988) 001
           - Octopussy (1983)
           - Palm Springs (2020)
@@ -982,7 +1097,18 @@ collections:
           - Kick-Ass (2010) 002
           - Kingsman (2014) 001
           - Kung Fu Hustle (2004)
+          - Last Night in Soho (2021)
           - Lie (2020)
+          - Lucy (2014)
+          - Machete (2010) 001
+          - Machete (2010) 002
+          - Malena (2000) 001A
+          - Malena (2000) 001B
+          - Man on Fire (2004)
+          - Matrix (1999) 001
+          - Matrix (1999) 002
+          - Matrix (1999) 003
+          - Mexican (2001)
           - Mystic River (2003)
           - Psycho (1960)
           - Pulp Fiction (1994)
@@ -1000,6 +1126,14 @@ collections:
         title_list:
           - Jurassic World (2015) 001
           - Jurassic World (2015) 002
+
+  "Content: violence (battle)":
+    template:
+      - name: Content label
+        content: violence
+        level: battle
+        title_list:
+          - Lord of the Rings (2001) 001B
 
   "Content: violence (bloody)":
     template:
@@ -1028,6 +1162,10 @@ collections:
           - Kick-Ass (2010) 001
           - Kick-Ass (2010) 002
           - Kingsman (2014) 001
+          - Last Night in Soho (2021)
+          - Lucy (2014)
+          - Machete (2010) 001
+          - Machete (2010) 002
           - X (2022)
 
   "Content: violence (comic)":
@@ -1041,6 +1179,7 @@ collections:
           - Hot Tub Time Machine (2010)
           - Kick-Ass (2010) 001
           - Muppets from Space (1999)
+          - Muppet Treasure Island (1996)
           - Naked Gun (1988) 001
 
   "Content: violence (fantasy)":
@@ -1050,6 +1189,9 @@ collections:
         level: fantasy
         title_list:
           - Incredible Hulk (2008) 001
+          - Lego Movie (2014) 001
+          - Lego Movie (2014) 002
+          - Lord of the Rings (2001) 002B
 
   "Content: violence (sadistic)":
     template:
