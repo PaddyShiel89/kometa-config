@@ -11,6 +11,7 @@ collections:
         level: none
         title_list:
           - IT (2017) 002
+          - Jojo Rabbit (2019)
 
   # ------------------------------ Domestic threat ----------------------------- #
 
@@ -35,6 +36,7 @@ collections:
           - Che (2008) 002
           - French Dispatch (2021)
           - Incredible Hulk (2008) 001
+          - Knives Out (2019)
 
   "Content: drug references (moderate)":
     template:
@@ -42,6 +44,7 @@ collections:
         content: drug references
         level: moderate
         title_list:
+          - Knock Knock (2015)
           - Single Man (2009)
 
   "Content: drug references (strong)":
@@ -53,6 +56,15 @@ collections:
           - Get Him to the Greek (2010)
 
   # --------------------------------- Drug use --------------------------------- #
+
+  "Content: drug use (mild)":
+    template:
+      - name: Content label
+        content: drug use
+        level: mild
+        title_list:
+          - Jaws (1975) 001
+          - Jurassic Park (1993) 001
 
   "Content: drug use (moderate)":
     template:
@@ -68,6 +80,8 @@ collections:
           - Departed (2006)
           - Doctor Sleep (2019)
           - Goodfellas (1990)
+          - Jolene (2008)
+          - Kick-Ass (2010) 001
           - Shame (2011)
 
   "Content: drug use (strong)":
@@ -109,6 +123,14 @@ collections:
           - Pulp Fiction (1994)
           - Shame (2011)
 
+  "Content: drug use (soft)":
+    template:
+      - name: Content label
+        content: drug use
+        level: soft
+        title_list:
+          - Jaws (1975) 001
+
   # ------------------------------ Flashing images ----------------------------- #
 
   "Content: flashing images":
@@ -127,12 +149,22 @@ collections:
 
   # ----------------------------------- Gore ----------------------------------- #
 
+  "Content: gore (mild)":
+    template:
+      - name: Content label
+        content: gore
+        level: mild
+        title_list:
+          - Jurassic Park (1993) 001
+          - Knives Out (2019)
+
   "Content: gore (moderate)":
     template:
       - name: Content label
         content: gore
         level: moderate
         title_list:
+          - Jaws (1975) 001
           - Psycho (1960)
 
   "Content: gore (strong)":
@@ -149,6 +181,7 @@ collections:
           - Hobo with a Shotgun (2011)
           - Hot Tub Time Machine (2010)
           - IT (2017) 002
+          - Juan of the Dead (2012)
           - Taxi Driver (1976)
           - X (2022)
 
@@ -176,6 +209,8 @@ collections:
           - Harry Potter (2001) 004
           - Harry Potter (2001) 005
           - Harry Potter (2001) 008
+          - Jurassic Park (1993) 001
+          - Jurassic Park (1993) 003
 
   "Content: horror (strong)":
     template:
@@ -193,6 +228,14 @@ collections:
           - Witch (2015)
           - X (2022)
 
+  "Content: horror (fantasy)":
+    template:
+      - name: Content label
+        content: horror
+        level: fantasy
+        title_list:
+          - Jurassic Park (1993) 001
+
   # ------------------------------- Injury detail ------------------------------ #
 
   "Content: injury detail (mild)":
@@ -202,6 +245,7 @@ collections:
         level: mild
         title_list:
           - Hobbit (2012) 002
+          - Knives Out (2019)
 
   "Content: injury detail (moderate)":
     template:
@@ -215,6 +259,10 @@ collections:
           - Che (2008) 002
           - Dark Knight (2008)
           - Harry Potter (2001) 008
+          - Jaws (1975) 001
+          - Jojo Rabbit (2019)
+          - Jurassic World (2015) 001
+          - Jurassic World (2015) 002
 
   "Content: injury detail (strong)":
     template:
@@ -258,6 +306,9 @@ collections:
           - Harry Potter (2001) 007
           - Harry Potter (2001) 008
           - Hobbit (2012) 003
+          - Jaws (1975) 001
+          - Jurassic Park (1993) 001
+          - Jurassic World (2015) 001
           - Men in Black (1997) 002
           - Scorpion King (2002) 001
           - Uncharted (2022) 001
@@ -276,6 +327,7 @@ collections:
           - Guardians of the Galaxy (2014) 001
           - Incredible Hulk (2008) 001
           - Iron Man (2008) 001
+          - Jojo Rabbit (2019)
           - Men in Black (1997) 001
           - Tuxedo (2002)
 
@@ -332,6 +384,10 @@ collections:
           - Inhale (2010)
           - IT (2017) 001
           - IT (2017) 002
+          - Jolene (2008)
+          - Juan of the Dead (2012)
+          - Kingsman (2014) 001
+          - Knives Out (2019)
           - Lie (2020)
           - Mystic River (2003)
           - Old School (2003)
@@ -361,6 +417,9 @@ collections:
           - Harry Brown (2009)
           - Hot Fuzz (2007)
           - Import/Export (2007)
+          - Kick-Ass (2010) 001
+          - Kick-Ass (2010) 002
+          - Knock Knock (2015)
           - Palm Springs (2020)
 
   "Content: language (bleeped)":
@@ -371,15 +430,17 @@ collections:
         title_list:
           - Iron Man (2008) 002
 
-  "Content: language (racist)":
+  "Content: language (discriminatory)":
     template:
       - name: Content label
         content: language
-        level: racist
+        level: discriminatory
         title_list:
           - American Gangster (2007) 001
           - Black Dynamite (2010)
           - Corrina, Corrina (1994)
+          - Kingsman (2014) 001
+          - Knock Knock (2015)
           - Taxi Driver (1976)
 
   # ---------------------------------- Nudity ---------------------------------- #
@@ -392,6 +453,8 @@ collections:
         title_list:
           - Casino (1995)
           - Clash of the Titans (1981)
+          - Jaws (1975) 001
+          - Kick-Ass (2010) 002
           - Psycho (1960)
           - Songbird (2020)
           - Taxi Driver (1976)
@@ -440,6 +503,8 @@ collections:
           - I Am Curious (1963) 001
           - I Am Curious (1963) 002
           - I Spit on Your Grave (1978)
+          - Jolene (2008)
+          - Knock Knock (2015)
 
   # ------------------------------------ Sex ----------------------------------- #
 
@@ -469,6 +534,7 @@ collections:
           - Head in the Clouds (2004)
           - High Fidelity (2000)
           - Hot Tub Time Machine (2010)
+          - Kick-Ass (2010) 002
 
   "Content: sex (strong)":
     template:
@@ -503,6 +569,8 @@ collections:
           - I Am Curious (1963) 001
           - I Am Curious (1963) 002
           - "Import/Export (2007)"
+          - Jolene (2008)
+          - Knock Knock (2015)
           - Palm Springs (2020)
           - Q (2011)
           - Shame (2011)
@@ -539,6 +607,7 @@ collections:
           - Iron Man (2008) 001
           - Iron Man (2008) 002
           - Men in Black (1997) 002
+          - Jojo Rabbit (2019)
           - Uncharted (2022) 001
 
   "Content: sex references (moderate)":
@@ -559,6 +628,7 @@ collections:
           - Fifth Element (1997)
           - French Dispatch (2021)
           - Hot Fuzz (2007)
+          - Knives Out (2019)
           - Naked Gun (1988) 001
           - Naked Gun (1988) 003
 
@@ -581,6 +651,11 @@ collections:
           - I Am Curious (1963) 002
           - I Spit on Your Grave (1978)
           - IT (2017) 001
+          - Juan of the Dead (2012)
+          - Kick-Ass (2010) 001
+          - Kick-Ass (2010) 002
+          - Kingsman (2014) 001
+          - Knock Knock (2015)
           - Old School (2003)
           - Pulp Fiction (1994)
           - Hobo with a Shotgun (2011)
@@ -672,6 +747,16 @@ collections:
           - Shame (2011)
           - Single Man (2009)
 
+  # ---------------------------- Suicide references ---------------------------- #
+
+  "Content: suicide references (moderate)":
+    template:
+      - name: Content label
+        content: suicide references
+        level: moderate
+        title_list:
+          - Knives Out (2019)
+
   # ---------------------------------- Threat ---------------------------------- #
 
   "Content: threat (mild)":
@@ -687,6 +772,7 @@ collections:
           - Harry Potter (2001) 002
           - Harry Potter (2001) 003
           - Hobbit (2012) 001
+          - Jurassic Park (1993) 001
           - Incredibles (2004) 001
           - Shadow of a Doubt (1943)
 
@@ -714,6 +800,10 @@ collections:
           - Harry Potter (2001) 007
           - Hobbit (2012) 002
           - Hobbit (2012) 003
+          - Jaws (1975) 001
+          - Jurassic Park (1993) 003
+          - Jurassic World (2015) 001
+          - Jurassic World (2015) 002
           - Single Man (2009)
           - Uncharted (2022) 001
 
@@ -730,9 +820,18 @@ collections:
           - Inhale (2010)
           - IT (2017) 001
           - IT (2017) 002
+          - Knock Knock (2015)
           - Lie (2020)
           - Songbird (2020)
           - Witch (2015)
+
+  "Content: threat (sadistic)":
+    template:
+      - name: Content label
+        content: threat
+        level: sadistic
+        title_list:
+          - Knock Knock (2015)
 
   # ---------------------------------- Torture --------------------------------- #
 
@@ -815,6 +914,11 @@ collections:
           - Incredible Hulk (2008) 001
           - Iron Man (2008) 001
           - Iron Man (2008) 002
+          - Jojo Rabbit (2019)
+          - Jolene (2008)
+          - Jurassic Park (1993) 003
+          - Jurassic World (2015) 001
+          - Jurassic World (2015) 002
           - Naked Gun (1988) 001
           - Octopussy (1983)
           - Palm Springs (2020)
@@ -873,6 +977,11 @@ collections:
           - Inhale (2010)
           - IT (2017) 001
           - IT (2017) 002
+          - Juan of the Dead (2012)
+          - Kick-Ass (2010) 001
+          - Kick-Ass (2010) 002
+          - Kingsman (2014) 001
+          - Kung Fu Hustle (2004)
           - Lie (2020)
           - Mystic River (2003)
           - Psycho (1960)
@@ -882,6 +991,15 @@ collections:
           - Taxi Driver (1976)
           - Witch (2015)
           - X (2022)
+
+  "Content: violence (action)":
+    template:
+      - name: Content label
+        content: violence
+        level: action
+        title_list:
+          - Jurassic World (2015) 001
+          - Jurassic World (2015) 002
 
   "Content: violence (bloody)":
     template:
@@ -907,6 +1025,9 @@ collections:
           - Hot Fuzz (2007)
           - Inglourious Basterds (2009)
           - IT (2017) 002
+          - Kick-Ass (2010) 001
+          - Kick-Ass (2010) 002
+          - Kingsman (2014) 001
           - X (2022)
 
   "Content: violence (comic)":
@@ -918,6 +1039,7 @@ collections:
           - Anchorman (2004) 001
           - Hot Fuzz (2007)
           - Hot Tub Time Machine (2010)
+          - Kick-Ass (2010) 001
           - Muppets from Space (1999)
           - Naked Gun (1988) 001
 
