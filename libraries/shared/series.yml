@@ -11,11 +11,13 @@ collections:
     template:
       - name: Series
         summary: "on elements of Peter Jackson's Middle-earth saga."
-    plex_search:
-      label: "series: Middle-earth (2001)"
+    smart_filter:
+      all:
+        label: "series: Middle-earth (2001)"
   Star Wars Collection:
     template:
       - name: Series
         summary: "that are part of the Star Wars saga."
-    plex_search:
-      label: "series: Star Wars"
+    smart_filter:
+      all:
+        label: "series: Star Wars"
