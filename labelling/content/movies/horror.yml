@@ -29,6 +29,7 @@ collections:
           - Lord of the Rings (2001) 003B
           - Mummy (1999) 001
           - Mummy (1999) 002
+          - Resident Evil (2002) 001
 
   "Content: horror (strong)":
     template:
@@ -45,6 +46,9 @@ collections:
           - IT (2017) 002
           - Last Night in Soho (2021)
           - Nocturne (2020)
+          - Resident Evil (2002) 002
+          - Resident Evil (2021) 001
+          - Rules of Engagement (2000)
           - Witch (2015)
           - X (2022)
 
@@ -55,3 +59,11 @@ collections:
         level: fantasy
         title_list:
           - Jurassic Park (1993) 001
+
+  "Content: horror (war)":
+    template:
+      - name: Content label
+        content: horror
+        level: war
+        title_list:
+          - Rules of Engagement (2000)

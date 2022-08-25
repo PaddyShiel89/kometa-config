@@ -51,6 +51,9 @@ collections:
           - Men in Black (1997) 002
           - Ocean's 11 (2001) 003
           - Quantum of Solace (2008)
+          - Remember the Titans (2000)
+          - Resident Evil (2002) 003
+          - Resident Evil (2002) 005
           - Scorpion King (2002) 001
           - Uncharted (2022) 001
 
@@ -70,6 +73,7 @@ collections:
           - Iron Man (2008) 001
           - Jojo Rabbit (2019)
           - Men in Black (1997) 001
+          - Resident Evil (2002) 006
           - Tuxedo (2002)
 
   "Content: language (strong)":
@@ -158,6 +162,12 @@ collections:
           - Predator (1987) 002
           - Predator (1987) 003
           - Pulp Fiction (1994)
+          - Reservoir Dogs (1992)
+          - Resident Evil (2002) 001
+          - Resident Evil (2002) 002
+          - Resident Evil (2002) 004
+          - Resident Evil (2021) 001
+          - Rules of Engagement (2000)
           - Shank (2010)
           - Songbird (2020)
           - War Dogs (2016)
@@ -191,6 +201,7 @@ collections:
           - One Flew Over the Cuckoo's Nest (1975)
           - Palm Springs (2020)
           - Promising Young Woman (2020)
+          - Red Sparrow (2018)
 
   "Content: language (bleeped)":
     template:

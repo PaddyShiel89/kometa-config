@@ -31,6 +31,7 @@ collections:
           - Ocean's 11 (2001) 003
           - On Her Majesty's Secret Service (1969)
           - Quantum of Solace (2008)
+          - Resident Evil (2021) 001
           - Uncharted (2022) 001
 
   "Content: sex references (moderate)":
@@ -57,6 +58,7 @@ collections:
           - Ocean's 11 (2001) 001
           - One Flew Over the Cuckoo's Nest (1975)
           - Promising Young Woman (2020)
+          - Red Sparrow (2018)
 
   "Content: sex references (strong)":
     template:
@@ -94,6 +96,7 @@ collections:
           - Paul (2011)
           - Predator (1987) 001
           - Predator (1987) 003
+          - Reservoir Dogs (1992)
           - Shame (2011)
           - War Dogs (2016)
 

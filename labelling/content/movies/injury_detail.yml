@@ -11,6 +11,7 @@ collections:
           - Hobbit (2012) 002
           - Knives Out (2019)
           - Leave No Trace (2018)
+          - "Rogue One: A Star Wars Story (2016)"
 
   "Content: injury detail (moderate)":
     template:
@@ -31,6 +32,7 @@ collections:
           - Lord of the Rings (2001) 003B
           - Man on Fire (2004)
           - Pan's Labyrinth (2006)
+          - Resident Evil (2021) 001
 
   "Content: injury detail (strong)":
     template:

@@ -9,3 +9,11 @@ collections:
         level: moderate
         title_list:
           - Casino Royale (2006)
+
+  "Content: torture (strong)":
+    template:
+      - name: Content label
+        content: torture
+        level: strong
+        title_list:
+          - Reservoir Dogs (1992)
