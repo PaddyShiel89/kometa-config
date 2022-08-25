@@ -1,0 +1,42 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: injury detail (mild)":
+    template:
+      - name: Content label
+        content: injury detail
+        level: mild
+        title_list:
+          - Hobbit (2012) 002
+          - Knives Out (2019)
+          - Leave No Trace (2018)
+
+  "Content: injury detail (moderate)":
+    template:
+      - name: Content label
+        content: injury detail
+        level: moderate
+        title_list:
+          - Batman (1989) 002
+          - Black Panther (2018) 001
+          - Casino (1995)
+          - Che (2008) 002
+          - Dark Knight (2008)
+          - Harry Potter (2001) 008
+          - Jaws (1975) 001
+          - Jojo Rabbit (2019)
+          - Jurassic World (2015) 001
+          - Jurassic World (2015) 002
+          - Lord of the Rings (2001) 003B
+          - Man on Fire (2004)
+          - Pan's Labyrinth (2006)
+
+  "Content: injury detail (strong)":
+    template:
+      - name: Content label
+        content: injury detail
+        level: strong
+        title_list:
+          - Birds of Prey (2020)
+          - Card Player (2004)

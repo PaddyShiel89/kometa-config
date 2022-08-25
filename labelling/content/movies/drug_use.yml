@@ -1,0 +1,87 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: drug use (mild)":
+    template:
+      - name: Content label
+        content: drug use
+        level: mild
+        title_list:
+          - Jaws (1975) 001
+          - Jurassic Park (1993) 001
+
+  "Content: drug use (moderate)":
+    template:
+      - name: Content label
+        content: drug use
+        level: moderate
+        title_list:
+          - 4.3.2.1 (2010)
+          - Birds of Prey (2020)
+          - Black Swan (2010)
+          - Casino (1995)
+          - Deep Water (2022)
+          - Departed (2006)
+          - Doctor Sleep (2019)
+          - Goodfellas (1990)
+          - Jolene (2008)
+          - Kick-Ass (2010) 001
+          - Last Night in Soho (2021)
+          - Paul (2011)
+          - Shame (2011)
+
+  "Content: drug use (strong)":
+    template:
+      - name: Content label
+        content: drug use
+        level: strong
+        title_list:
+          - American Beauty (1999)
+          - American Gangster (2007) 001
+          - Boogie Nights (1997)
+          - Boogie Woogie (2009)
+          - Boss'n Up (2005)
+          - Complicity (2000)
+          - Die Hard (1988) 001
+          - Harry Brown (2009)
+          - Hot Tub Time Machine (2010)
+          - Nocturne (2020)
+          - "Ong-Bak: Muay Thai Warrior (2003)"
+          - Palm Springs (2020)
+          - Platoon (1986)
+          - Predator (1987) 002
+          - Pulp Fiction (1994)
+          - Shank (2010)
+          - War Dogs (2016)
+
+  "Content: drug use (hard)":
+    template:
+      - name: Content label
+        content: drug use
+        level: hard
+        title_list:
+          - American Gangster (2007) 001
+          - Boogie Nights (1997)
+          - Boogie Woogie (2009)
+          - Boss'n Up (2005)
+          - Casino (1995)
+          - Departed (2006)
+          - Die Hard (1988) 001
+          - Doctor Sleep (2019)
+          - Goodfellas (1990)
+          - Harry Brown (2009)
+          - "Ong-Bak: Muay Thai Warrior (2003)"
+          - Predator (1987) 002
+          - Promising Young Woman (2020)
+          - Pulp Fiction (1994)
+          - Shame (2011)
+
+  "Content: drug use (soft)":
+    template:
+      - name: Content label
+        content: drug use
+        level: soft
+        title_list:
+          - Jaws (1975) 001
+          - Platoon (1986)

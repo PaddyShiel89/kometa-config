@@ -1,0 +1,290 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: violence (very mild)":
+    template:
+      - name: Content label
+        content: violence
+        level: very mild
+        title_list:
+          - Lego Movie (2014) 002
+
+  "Content: violence (mild)":
+    template:
+      - name: Content label
+        content: violence
+        level: mild
+        title_list:
+          - Back to the Future (1985) 001
+          - Back to the Future (1985) 002
+          - Back to the Future (1985) 003
+          - Batman (1989) 004
+          - BFG (2016)
+          - Blades of Glory (2007)
+          - Cool Runnings (1993)
+          - Dr. No (1962)
+          - Favourite (2018)
+          - Fifth Element (1997)
+          - For Your Eyes Only (1981)
+          - Goldfinger (1964)
+          - Harry Potter (2001) 001
+          - Harry Potter (2001) 002
+          - Incredibles (2004) 001
+          - Lego Movie (2014) 001
+          - Lion King (1994) 001
+          - Lost Girls and Love Hotels (2020)
+          - Man Who Knew Too Much (1956)
+          - Martha Marcy May Marlene (2011)
+          - Men in Black (1997) 001
+          - Men in Black (1997) 002
+          - Miss Sloane (2016)
+          - Muppet Treasure Island (1996)
+          - Muppets from Space (1999)
+          - Shame (2011)
+
+  "Content: violence (moderate)":
+    template:
+      - name: Content label
+        content: violence
+        level: moderate
+        title_list:
+          - 4.3.2.1 (2010)
+          - Amazing Spider-Man (2012) 002
+          - Ant-Man (2015) 001
+          - Avengers (2012) 001
+          - Avengers (2012) 002
+          - Avengers (2012) 003
+          - Batman (1989) 001
+          - Batman (1989) 002
+          - Batman (1989) 003
+          - Big Nothing (2006)
+          - Black Dynamite (2010)
+          - Black Panther (2018) 001
+          - Captain America (2011) 002
+          - Captain America (2011) 003
+          - Che (2008) 001
+          - Clash of the Titans (1981)
+          - Batman Begins (2005)
+          - Dark Knight Rises (2012)
+          - Diamonds Are Forever (1971)
+          - Dune (2021) 001
+          - Exterminating Angels (2006)
+          - French Dispatch (2021)
+          - From Russia with Love (1963)
+          - Gandhi (1982)
+          - Grand Central (2013)
+          - Guardians of the Galaxy (2014) 001
+          - Harry Potter (2001) 004
+          - Harry Potter (2001) 005
+          - Harry Potter (2001) 007
+          - Head in the Clouds (2004)
+          - Hobbit (2012) 001
+          - Hobbit (2012) 002
+          - Hobbit (2012) 003
+          - Hot Tub Time Machine (2010)
+          - Incredible Hulk (2008) 001
+          - Iron Man (2008) 001
+          - Iron Man (2008) 002
+          - Jojo Rabbit (2019)
+          - Jolene (2008)
+          - Jurassic Park (1993) 003
+          - Jurassic World (2015) 001
+          - Jurassic World (2015) 002
+          - "Lara Croft: Tomb Raider (2001) 001"
+          - Lord of the Rings (2001) 001B
+          - Lord of the Rings (2001) 002B
+          - Lord of the Rings (2001) 003B
+          - Man with the Golden Gun (1974)
+          - Match Point (2005)
+          - Monster (2004)
+          - Mr and Mrs Smith (2005)
+          - Mummy (1999) 002
+          - Naked Gun (1988) 001
+          - No Time to Die (2021)
+          - Octopussy (1983)
+          - On Her Majesty's Secret Service (1969)
+          - Palm Springs (2020)
+          - Paul (2011)
+          - Quantum of Solace (2008)
+          - Spider-Man (2002) 002
+          - Tuxedo (2002)
+          - Uncharted (2022) 001
+
+  "Content: violence (strong)":
+    template:
+      - name: Content label
+        content: violence
+        level: strong
+        title_list:
+          - 300 (2007) 001
+          - 300 (2007) 002
+          - Alien (1979) 001
+          - Alien (1979) 002
+          - Alien (1979) 003
+          - Alien (1979) 004
+          - "Alien: Covenant (2017)"
+          - American Beauty (1999)
+          - American Gangster (2007) 001
+          - Anything For Her (2008)
+          - "Assassin's Creed: Embers (2011)"
+          - Basic Instinct (1992) 001
+          - Batman (2022) 001
+          - Birds of Prey (2020)
+          - Bitch Slap (2009)
+          - Black Dahlia (2006)
+          - Blade Runner (1982) 001
+          - Blade Runner (1982) 002
+          - Boogie Nights (1997)
+          - Card Player (2004)
+          - Casino (1995)
+          - Casino Royale (2006)
+          - Che (2008) 002
+          - Complicity (2000)
+          - Dark Knight (2008)
+          - Deep Water (2022)
+          - Departed (2006)
+          - Die Hard (1988) 001
+          - Disappearance of Alice Creed (2010)
+          - District 9 (2009)
+          - Doctor Sleep (2019)
+          - Ex Machina (2015)
+          - Fight Club (1999)
+          - Gangs of New York (2002)
+          - Goodfellas (1990)
+          - Harry Brown (2009)
+          - Hobo with a Shotgun (2011)
+          - Hot Fuzz (2007)
+          - Identity (2003)
+          - I Spit on Your Grave (1978)
+          - Identity (2003)
+          - Inglourious Basterds (2009)
+          - Inhale (2010)
+          - IT (2017) 001
+          - IT (2017) 002
+          - Juan of the Dead (2012)
+          - Kick-Ass (2010) 001
+          - Kick-Ass (2010) 002
+          - Kingsman (2014) 001
+          - Kung Fu Hustle (2004)
+          - Last Night in Soho (2021)
+          - Lie (2020)
+          - Lucy (2014)
+          - Machete (2010) 001
+          - Machete (2010) 002
+          - Malena (2000) 001A
+          - Malena (2000) 001B
+          - Man on Fire (2004)
+          - Matrix (1999) 001
+          - Matrix (1999) 002
+          - Matrix (1999) 003
+          - Mexican (2001)
+          - Mystic River (2003)
+          - No Country for Old Men (2007)
+          - One Flew Over the Cuckoo's Nest (1975)
+          - "Ong-Bak: Muay Thai Warrior (2003)"
+          - Pan's Labyrinth (2006)
+          - Parasite (2019)
+          - Planet Terror (2007)
+          - Platoon (1986)
+          - Predator (1987) 001
+          - Predator (1987) 002
+          - Predator (1987) 003
+          - Promising Young Woman (2020)
+          - Psycho (1960)
+          - Pulp Fiction (1994)
+          - Shank (2010)
+          - Songbird (2020)
+          - Taxi Driver (1976)
+          - Witch (2015)
+          - X (2022)
+
+  "Content: violence (action)":
+    template:
+      - name: Content label
+        content: violence
+        level: action
+        title_list:
+          - Jurassic World (2015) 001
+          - Jurassic World (2015) 002
+          - On Her Majesty's Secret Service (1969)
+          - Quantum of Solace (2008)
+
+  "Content: violence (battle)":
+    template:
+      - name: Content label
+        content: violence
+        level: battle
+        title_list:
+          - Lord of the Rings (2001) 001B
+
+  "Content: violence (bloody)":
+    template:
+      - name: Content label
+        content: violence
+        level: bloody
+        title_list:
+          - 300 (2007) 001
+          - 300 (2007) 002
+          - Alien (1979) 004
+          - "Alien: Covenant (2017)"
+          - Avengers (2012) 002
+          - Big Nothing (2006)
+          - Black Dahlia (2006)
+          - Black Dynamite (2010)
+          - Che (2008) 001
+          - District 9 (2009)
+          - Doctor Sleep (2019)
+          - Dune (2021) 001
+          - Ex Machina (2015)
+          - Gangs of New York (2002)
+          - Hobo with a Shotgun (2011)
+          - Hot Fuzz (2007)
+          - Inglourious Basterds (2009)
+          - IT (2017) 002
+          - Kick-Ass (2010) 001
+          - Kick-Ass (2010) 002
+          - Kingsman (2014) 001
+          - Last Night in Soho (2021)
+          - Lucy (2014)
+          - Machete (2010) 001
+          - Machete (2010) 002
+          - No Country for Old Men (2007)
+          - Pan's Labyrinth (2006)
+          - Parasite (2019)
+          - Paul (2011)
+          - Predator (1987) 001
+          - X (2022)
+
+  "Content: violence (comic)":
+    template:
+      - name: Content label
+        content: violence
+        level: comic
+        title_list:
+          - Anchorman (2004) 001
+          - Hot Fuzz (2007)
+          - Hot Tub Time Machine (2010)
+          - Kick-Ass (2010) 001
+          - Muppets from Space (1999)
+          - Muppet Treasure Island (1996)
+          - Naked Gun (1988) 001
+
+  "Content: violence (fantasy)":
+    template:
+      - name: Content label
+        content: violence
+        level: fantasy
+        title_list:
+          - Incredible Hulk (2008) 001
+          - Lego Movie (2014) 001
+          - Lego Movie (2014) 002
+          - Lord of the Rings (2001) 002B
+
+  "Content: violence (sadistic)":
+    template:
+      - name: Content label
+        content: violence
+        level: sadistic
+        title_list:
+          - I Spit on Your Grave (1978)

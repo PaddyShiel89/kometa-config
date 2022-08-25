@@ -1,0 +1,11 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: torture (moderate)":
+    template:
+      - name: Content label
+        content: torture
+        level: moderate
+        title_list:
+          - Casino Royale (2006)

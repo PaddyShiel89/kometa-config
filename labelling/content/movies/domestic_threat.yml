@@ -1,0 +1,12 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: domestic threat (moderate)":
+    template:
+      - name: Content label
+        content: domestic threat
+        level: moderate
+        title_list:
+          - IT (2017) 001
+          - Marnie (1964)

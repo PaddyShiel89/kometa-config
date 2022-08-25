@@ -1,0 +1,106 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: sex references (mild)":
+    template:
+      - name: Content label
+        content: sex references
+        level: mild
+        title_list:
+          - Ant-Man (2015) 001
+          - Back to the Future (1985) 001
+          - Batman (1989) 001
+          - Cathy Come Home (1966)
+          - Dark Knight Rises (2012)
+          - For Your Eyes Only (1981)
+          - From Russia with Love (1963)
+          - Harry Potter (2001) 007
+          - Hobbit (2012) 002
+          - Incredible Hulk (2008) 001
+          - Iron Man (2008) 001
+          - Iron Man (2008) 002
+          - Men in Black (1997) 002
+          - Jojo Rabbit (2019)
+          - "Lara Croft: Tomb Raider (2001) 001"
+          - Matrix (1999) 001
+          - Miss Sloane (2016)
+          - Muppet Treasure Island (1996)
+          - Night at the Roxbury (1998)
+          - No Time to Die (2021)
+          - Ocean's 11 (2001) 003
+          - On Her Majesty's Secret Service (1969)
+          - Quantum of Solace (2008)
+          - Uncharted (2022) 001
+
+  "Content: sex references (moderate)":
+    template:
+      - name: Content label
+        content: sex references
+        level: moderate
+        title_list:
+          - Anchorman (2004) 001
+          - Batman (1989) 002
+          - Beautiful Mind (2001)
+          - Bitch Slap (2009)
+          - Black Dynamite (2010)
+          - Blades of Glory (2007)
+          - Calendar Girls (2003)
+          - Departed (2006)
+          - District 9 (2009)
+          - Fifth Element (1997)
+          - French Dispatch (2021)
+          - Hot Fuzz (2007)
+          - Knives Out (2019)
+          - Naked Gun (1988) 001
+          - Naked Gun (1988) 003
+          - Ocean's 11 (2001) 001
+          - One Flew Over the Cuckoo's Nest (1975)
+          - Promising Young Woman (2020)
+
+  "Content: sex references (strong)":
+    template:
+      - name: Content label
+        content: sex references
+        level: strong
+        title_list:
+          - After Sex (2007)
+          - Angel-A (2005)
+          - Blue is the Warmest Colour (2013)
+          - Boogie Nights (1997)
+          - Boss'n Up (2005)
+          - Chloe (2009)
+          - Deep Water (2022)
+          - Ex Machina (2015)
+          - Get Him to the Greek (2010)
+          - Her (2014)
+          - I Am Curious (1963) 002
+          - I Spit on Your Grave (1978)
+          - IT (2017) 001
+          - Juan of the Dead (2012)
+          - Kick-Ass (2010) 001
+          - Kick-Ass (2010) 002
+          - Kingsman (2014) 001
+          - Knock Knock (2015)
+          - Old School (2003)
+          - Parasite (2019)
+          - Pulp Fiction (1994)
+          - Hobo with a Shotgun (2011)
+          - Hot Tub Time Machine (2010)
+          - Lost Girls and Love Hotels (2020)
+          - Machete (2010) 002
+          - Mighty Aphrodite (1995)
+          - Monster (2004)
+          - Paul (2011)
+          - Predator (1987) 001
+          - Predator (1987) 003
+          - Shame (2011)
+          - War Dogs (2016)
+
+  "Content: sex references (very strong)":
+    template:
+      - name: Content label
+        content: sex references
+        level: very strong
+        title_list:
+          - Taxi Driver (1976)

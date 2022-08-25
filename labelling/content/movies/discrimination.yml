@@ -1,0 +1,15 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: discrimination":
+    template:
+      - name: Content label
+        content: discrimination
+        level: none
+        title_list:
+          - IT (2017) 002
+          - Jojo Rabbit (2019)
+          - Monster (2004)
+          - No Time to Die (2021)
+          - One Flew Over the Cuckoo's Nest (1975)

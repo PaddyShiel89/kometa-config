@@ -1,0 +1,21 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: suicide references (mild)":
+    template:
+      - name: Content label
+        content: suicide references
+        level: mild
+        title_list:
+          - Leave No Trace (2018)
+
+  "Content: suicide references (moderate)":
+    template:
+      - name: Content label
+        content: suicide references
+        level: moderate
+        title_list:
+          - Knives Out (2019)
+          - Monster (2004)
+          - One Flew Over the Cuckoo's Nest (1975)

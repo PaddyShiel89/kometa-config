@@ -1,0 +1,12 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: sexually abusive behaviour":
+    template:
+      - name: Content label
+        content: sexually abusive behaviour
+        level: none
+        title_list:
+          - I Spit on Your Grave (1978)
+          - Songbird (2020)

@@ -1,0 +1,15 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: suicide":
+    template:
+      - name: Content label
+        content: suicide
+        level: none
+        title_list:
+          - Boogie Nights (1997)
+          - Nocturne (2020)
+          - One Flew Over the Cuckoo's Nest (1975)
+          - Shame (2011)
+          - Single Man (2009)
