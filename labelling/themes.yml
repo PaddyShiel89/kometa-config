@@ -53,7 +53,6 @@ collections:
     template:
       - name: Theme label
         title_list:
-        theme: "erotic"
           - Aventure (2009)
           - Basic Instinct (1992) 001
           - Chloe (2009)
@@ -67,6 +66,7 @@ collections:
           - Secretary (2002)
           - Sliver (1993)
           - Voyeurs (2021)
+        theme: "erotic"
 
   "Theme: foreign language":
     template:
