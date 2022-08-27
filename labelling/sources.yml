@@ -1,378 +1,382 @@
-"Source: blu-ray":
-  template:
-    - name: Source label
-      source: "blu-ray"
-      title_list:
-        - 4.3.2.1 (2010)
-        - 300 (2007) 001
-        - 300 (2007) 002
-        - Alien (1979) 001 1979 Theatrical cut
-        - Alien (1979) 001 2003 Director's cut
-        - Alien (1979) 002 1986 Theatrical cut
-        - Alien (1979) 002 1990 Special Edition
-        - Alien (1979) 003A
-        - Alien (1979) 003B
-        - Alien (1979) 004A
-        - Alien (1979) 004B
-        - "Alien: Covenant (2017)"
-        - Amazing Spider-Man (2012) 002
-        - American Beauty (1999)
-        - American Gangster (2007) 001A
-        - American Gangster (2007) 001B
-        - Anchorman (2004) 001
-        - Angel-A (2005)
-        - Ant-Man (2015) 001
-        - Avengers (2012) 001
-        - Avengers (2012) 002
-        - Avengers (2012) 003
-        - Back to the Future (1985) 001
-        - Back to the Future (1985) 002
-        - Back to the Future (1985) 003
-        - Basic Instinct (1992) 001
-        - Batman (1989) 001
-        - Batman (1989) 002
-        - Batman (1989) 003
-        - Batman (1989) 004
-        - Batman (2022) 001
-        - Batman Begins (2005)
-        - Beautiful Mind (2001)
-        - BFG (2016)
-        - Birds (1963)
-        - Birds of Prey (2020)
-        - Black Panther (2018) 001
-        - Black Swan (2010)
-        - Blade Runner (1982) 001 2007 Final Cut
-        - Blade Runner (1982) 002
-        - Blades of Glory (2007)
-        - Blue is the Warmest Colour (2013)
-        - Boogie Nights (1997)
-        - Captain America (2011) 002
-        - Captain America (2011) 003
-        - Casino (1995)
-        - Casino Royale (2006)
-        - Che (2008) 001
-        - Che (2008) 002
-        - Chloe (2009)
-        - Clash of the Titans (1981)
-        - Dad's Army (1971) 001
-        - Dark Knight (2008)
-        - Dark Knight Rises (2012)
-        - Departed (2006)
-        - Diamonds Are Forever (1971)
-        - Die Hard (1988) 001
-        - Disappearance of Alice Creed (2010)
-        - District 9 (2009)
-        - Doctor Sleep (2019)
-        - Dr. No (1962)
-        - Dreamers (2003)
-        - Dune (2021) 001
-        - Emmanuelle (1974) 001
-        - Ex Machina (2015)
-        - Family Plot (1976)
-        - Farewell, My Queen (2012)
-        - Favourite (2018)
-        - Fifth Element (1997)
-        - Fight Club (1999)
-        - For Your Eyes Only (1981)
-        - French Dispatch (2021)
-        - Frenzy (1972)
-        - From Russia with Love (1963)
-        - Gandhi (1982)
-        - Gangs of New York (2002)
-        - Get Him to the Greek (2010)
-        - Goldfinger (1964)
-        - Goodfellas (1990)
-        - Guardians of the Galaxy (2014) 001
-        - Harry Brown (2009)
-        - Harry Potter (2001) 001
-        - Harry Potter (2001) 002
-        - Harry Potter (2001) 003
-        - Harry Potter (2001) 004
-        - Harry Potter (2001) 005
-        - Harry Potter (2001) 006
-        - Harry Potter (2001) 007
-        - Harry Potter (2001) 008
-        - Her (2014)
-        - Hercules (1997)
-        - Hobbit (2012) 001
-        - Hobbit (2012) 002
-        - Hobbit (2012) 003
-        - Hobo with a Shotgun (2011)
-        - Hot Fuzz (2007)
-        - Hot Tub Time Machine (2010)
-        - Identity (2003)
-        - "Import/Export (2007)"
-        - Incredible Hulk (2008) 001
-        - Incredibles (2004) 001
-        - Inglourious Basterds (2009)
-        - Inhale (2010)
-        - Iron Man (2008) 001
-        - Iron Man (2008) 002
-        - IT (2017) 001
-        - IT (2017) 002
-        - Jaws (1975) 001
-        - Jojo Rabbit (2019)
-        - Jurassic Park (1993) 001
-        - Jurassic Park (1993) 002
-        - Jurassic Park (1993) 003
-        - Jurassic World (2015) 001
-        - Jurassic World (2015) 002
-        - Kick-Ass (2010) 001
-        - Kick-Ass (2010) 002
-        - Kingsman (2014) 001
-        - Knives Out (2019)
-        - Knock Knock (2015)
-        - Kung Fu Hustle (2004)
-        - "Lara Croft: Tomb Raider (2001) 001"
-        - Last Night in Soho (2021)
-        - Leave No Trace (2018)
-        - Lego Movie (2014) 001
-        - Lego Movie (2014) 002
-        - Lion King (1994) 001
-        - Live and Let Die (1973)
-        - Lord of the Rings (2001) 001B
-        - Lord of the Rings (2001) 002B
-        - Lord of the Rings (2001) 003B
-        - Lost Girls and Love Hotels (2020)
-        - Lucy (2014)
-        - Machete (2010) 001
-        - Machete (2010) 002
-        - Malena (2000) 001A
-        - Malena (2000) 001B
-        - Man on Fire (2004)
-        - Man Who Knew Too Much (1956)
-        - Man with the Golden Gun (1974)
-        - Marnie (1964)
-        - Martha Marcy May Marlene (2011)
-        - Matrix (1999) 001
-        - Matrix (1999) 002
-        - Matrix (1999) 003
-        - Men in Black (1997) 001
-        - Men in Black (1997) 002
-        - Miss Sloane (2016)
-        - Moonraker (1979)
-        - Mr and Mrs Smith (2005)
-        - Mummy (1999) 001
-        - Mummy (1999) 002
-        - Muppets from Space (1999)
-        - Mystic River (2003)
-        - Naked Gun (1988) 001
-        - Naked Gun (1988) 002 The Smell of Fear
-        - Naked Gun (1988) 003 The Final Insult
-        - No Country for Old Men (2007)
-        - No Time to Die (2021)
-        - Ocean's 11 (2001) 001
-        - Ocean's 11 (2001) 002
-        - Ocean's 11 (2001) 003
-        - Octopussy (1983)
-        - Old School (2003)
-        - On Her Majesty's Secret Service (1969)
-        - One Flew Over the Cuckoo's Nest (1975)
-        - Pan's Labyrinth (2006)
-        - Parasite (2019)
-        - Paul (2011)
-        - Planet Terror (2007)
-        - Platoon (1986)
-        - Predator (1987) 001
-        - Predator (1987) 002
-        - Predator (1987) 003
-        - Promising Young Woman (2020)
-        - Psycho (1960)
-        - Pulp Fiction (1994)
-        - Q (2011)
-        - Quantum of Solace (2008)
-        - Rear Window (1954)
-        - Red Sparrow (2018)
-        - Reservoir Dogs (1992)
-        - Resident Evil (2002) 001
-        - Resident Evil (2002) 002
-        - Resident Evil (2002) 003
-        - Resident Evil (2002) 004
-        - Resident Evil (2002) 005
-        - Resident Evil (2002) 006
-        - Resident Evil (2021) 001
-        - "Rogue One: A Star Wars Story (2016)"
-        - Room in Rome (2010)
-        - Rules of Engagement (2000)
-        - Saboteur (1942)
-        - Salt (2010) 001A
-        - Salt (2010) 001B
-        - Salt (2010) 001C
-        - Saw (2004) 001
-        - Saw (2004) 002
-        - Saw (2004) 003
-        - Saw (2004) 004
-        - Saw (2004) 005
-        - Saw (2004) 006
-        - Saw (2004) 007
-        - Scorpion King (2002) 001
-        - Scott Pilgrim vs. the World (2010)
-        - Secret Life of Pets (2016) 001
-        - Seven (1995)
-        - Shadow of a Doubt (1943)
-        - Shame (2011)
-        - Shank (2010)
-        - Shaun of the Dead (2004)
-        - Shawshank Redemption (1994)
-        - Sherlock Holmes (2009) 002
-        - Shining (1980)
-        - Silence of the Lambs (1991)
-        - Sin City (2005) 001
-        - Sin City (2005) 002
-        - Single Man (2009)
-        - Skyfall (2012)
-        - Sleeping Beauty (2011)
-        - "Solo: A Star Wars Story (2018)"
-        - Spectre (2015)
-        - Spider-Man (2002) 002A
-        - Spider-Man (2002) 002B 2.1
-        - Spider-Man (2017) 001
-        - Spiral (2021)
-        - Spy Who Loved Me (1977)
-        - Star Trek (2009) 001
-        - Star Wars 001 (1999) 2011
-        - Star Wars 002 (2002) 2011
-        - Star Wars 003 (2005) 2011
-        - Star Wars 004 (1977) 2011
-        - Star Wars 005 (1980) 2011
-        - Star Wars 006 (1983) 2011
-        - Star Wars 007 (2015)
-        - Star Wars 008 (2017)
-        - Star Wars 009 (2019)
-        - "Star Wars: The Clone Wars (2008)"
-        - Sucker Punch (2011) 001A
-        - Sucker Punch (2011) 001B
-        - Suicide Squad (2021)
-        - Super 8 (2011)
-        - Taken (2008) 001
-        - Taxi Driver (1976)
-        - There Will Be Blood (2008)
-        - Thor (2011) 002
-        - Thor (2011) 003
-        - Thunderball (1965)
-        - Toy Story (1995) 001
-        - Toy Story (1995) 002
-        - Toy Story (1995) 003
-        - Transformers (2007) 001
-        - Transformers (2007) 002
-        - Transformers (2007) 003
-        - Troy (2004) 001B
-        - Trouble with Harry (1955)
-        - Tucker and Dale vs. Evil (2010)
-        - Tuxedo (2002)
-        - Tyrannosaur (2011)
-        - Uncharted (2022) 001
-        - Under the Skin (2014)
-        - Vertigo (1958)
-        - War Dogs (2016)
-        - Watchmen (2009)
-        - Witch (2015)
-        - Wolf of Wall Street (2013)
-        - Wonder Woman (2017) 001
-        - Wonder Woman (2017) 002
-        - World's End (2013)
-        - X (2022)
-        - You Only Live Twice (1967)
-        - Zero Dark Thirty (2013)
-        - Zombieland (2009) 001
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
 
-"Source: download":
-  template:
-    - name: Source label
-      source: "download"
-      title_list:
-        - Deep Water (2022)
-        - Grand Central (2013)
-        - Jolene (2008)
-        - Lie (2020)
-        - Nocturne (2020)
-        - Palm Springs (2020)
-        - Songbird (2020)
-        - Star Wars 004 (1977) 1997
-        - Star Wars 004 (1977) 2016
-        - Star Wars 004 (1977) 2018
-        - Star Wars 005 (1980) 1997
-        - Star Wars 005 (1980) 2016
-        - Star Wars 006 (1983) 1997
-        - Star Wars 006 (1983) 2016
-        - Star Wars 006 (1983) 2019
-        - Voyeurs (2021)
+collections:
+  "Source: blu-ray":
+    template:
+      - name: Source label
+        source: "blu-ray"
+        title_list:
+          - 4.3.2.1 (2010)
+          - 300 (2007) 001
+          - 300 (2007) 002
+          - Alien (1979) 001 1979 Theatrical cut
+          - Alien (1979) 001 2003 Director's cut
+          - Alien (1979) 002 1986 Theatrical cut
+          - Alien (1979) 002 1990 Special Edition
+          - Alien (1979) 003A
+          - Alien (1979) 003B
+          - Alien (1979) 004A
+          - Alien (1979) 004B
+          - "Alien: Covenant (2017)"
+          - Amazing Spider-Man (2012) 002
+          - American Beauty (1999)
+          - American Gangster (2007) 001A
+          - American Gangster (2007) 001B
+          - Anchorman (2004) 001
+          - Angel-A (2005)
+          - Ant-Man (2015) 001
+          - Avengers (2012) 001
+          - Avengers (2012) 002
+          - Avengers (2012) 003
+          - Back to the Future (1985) 001
+          - Back to the Future (1985) 002
+          - Back to the Future (1985) 003
+          - Basic Instinct (1992) 001
+          - Batman (1989) 001
+          - Batman (1989) 002
+          - Batman (1989) 003
+          - Batman (1989) 004
+          - Batman (2022) 001
+          - Batman Begins (2005)
+          - Beautiful Mind (2001)
+          - BFG (2016)
+          - Birds (1963)
+          - Birds of Prey (2020)
+          - Black Panther (2018) 001
+          - Black Swan (2010)
+          - Blade Runner (1982) 001 2007 Final Cut
+          - Blade Runner (1982) 002
+          - Blades of Glory (2007)
+          - Blue is the Warmest Colour (2013)
+          - Boogie Nights (1997)
+          - Captain America (2011) 002
+          - Captain America (2011) 003
+          - Casino (1995)
+          - Casino Royale (2006)
+          - Che (2008) 001
+          - Che (2008) 002
+          - Chloe (2009)
+          - Clash of the Titans (1981)
+          - Dad's Army (1971) 001
+          - Dark Knight (2008)
+          - Dark Knight Rises (2012)
+          - Departed (2006)
+          - Diamonds Are Forever (1971)
+          - Die Hard (1988) 001
+          - Disappearance of Alice Creed (2010)
+          - District 9 (2009)
+          - Doctor Sleep (2019)
+          - Dr. No (1962)
+          - Dreamers (2003)
+          - Dune (2021) 001
+          - Emmanuelle (1974) 001
+          - Ex Machina (2015)
+          - Family Plot (1976)
+          - Farewell, My Queen (2012)
+          - Favourite (2018)
+          - Fifth Element (1997)
+          - Fight Club (1999)
+          - For Your Eyes Only (1981)
+          - French Dispatch (2021)
+          - Frenzy (1972)
+          - From Russia with Love (1963)
+          - Gandhi (1982)
+          - Gangs of New York (2002)
+          - Get Him to the Greek (2010)
+          - Goldfinger (1964)
+          - Goodfellas (1990)
+          - Guardians of the Galaxy (2014) 001
+          - Harry Brown (2009)
+          - Harry Potter (2001) 001
+          - Harry Potter (2001) 002
+          - Harry Potter (2001) 003
+          - Harry Potter (2001) 004
+          - Harry Potter (2001) 005
+          - Harry Potter (2001) 006
+          - Harry Potter (2001) 007
+          - Harry Potter (2001) 008
+          - Her (2014)
+          - Hercules (1997)
+          - Hobbit (2012) 001
+          - Hobbit (2012) 002
+          - Hobbit (2012) 003
+          - Hobo with a Shotgun (2011)
+          - Hot Fuzz (2007)
+          - Hot Tub Time Machine (2010)
+          - Identity (2003)
+          - "Import/Export (2007)"
+          - Incredible Hulk (2008) 001
+          - Incredibles (2004) 001
+          - Inglourious Basterds (2009)
+          - Inhale (2010)
+          - Iron Man (2008) 001
+          - Iron Man (2008) 002
+          - IT (2017) 001
+          - IT (2017) 002
+          - Jaws (1975) 001
+          - Jojo Rabbit (2019)
+          - Jurassic Park (1993) 001
+          - Jurassic Park (1993) 002
+          - Jurassic Park (1993) 003
+          - Jurassic World (2015) 001
+          - Jurassic World (2015) 002
+          - Kick-Ass (2010) 001
+          - Kick-Ass (2010) 002
+          - Kingsman (2014) 001
+          - Knives Out (2019)
+          - Knock Knock (2015)
+          - Kung Fu Hustle (2004)
+          - "Lara Croft: Tomb Raider (2001) 001"
+          - Last Night in Soho (2021)
+          - Leave No Trace (2018)
+          - Lego Movie (2014) 001
+          - Lego Movie (2014) 002
+          - Lion King (1994) 001
+          - Live and Let Die (1973)
+          - Lord of the Rings (2001) 001B
+          - Lord of the Rings (2001) 002B
+          - Lord of the Rings (2001) 003B
+          - Lost Girls and Love Hotels (2020)
+          - Lucy (2014)
+          - Machete (2010) 001
+          - Machete (2010) 002
+          - Malena (2000) 001A
+          - Malena (2000) 001B
+          - Man on Fire (2004)
+          - Man Who Knew Too Much (1956)
+          - Man with the Golden Gun (1974)
+          - Marnie (1964)
+          - Martha Marcy May Marlene (2011)
+          - Matrix (1999) 001
+          - Matrix (1999) 002
+          - Matrix (1999) 003
+          - Men in Black (1997) 001
+          - Men in Black (1997) 002
+          - Miss Sloane (2016)
+          - Moonraker (1979)
+          - Mr and Mrs Smith (2005)
+          - Mummy (1999) 001
+          - Mummy (1999) 002
+          - Muppets from Space (1999)
+          - Mystic River (2003)
+          - Naked Gun (1988) 001
+          - Naked Gun (1988) 002 The Smell of Fear
+          - Naked Gun (1988) 003 The Final Insult
+          - No Country for Old Men (2007)
+          - No Time to Die (2021)
+          - Ocean's 11 (2001) 001
+          - Ocean's 11 (2001) 002
+          - Ocean's 11 (2001) 003
+          - Octopussy (1983)
+          - Old School (2003)
+          - On Her Majesty's Secret Service (1969)
+          - One Flew Over the Cuckoo's Nest (1975)
+          - Pan's Labyrinth (2006)
+          - Parasite (2019)
+          - Paul (2011)
+          - Planet Terror (2007)
+          - Platoon (1986)
+          - Predator (1987) 001
+          - Predator (1987) 002
+          - Predator (1987) 003
+          - Promising Young Woman (2020)
+          - Psycho (1960)
+          - Pulp Fiction (1994)
+          - Q (2011)
+          - Quantum of Solace (2008)
+          - Rear Window (1954)
+          - Red Sparrow (2018)
+          - Reservoir Dogs (1992)
+          - Resident Evil (2002) 001
+          - Resident Evil (2002) 002
+          - Resident Evil (2002) 003
+          - Resident Evil (2002) 004
+          - Resident Evil (2002) 005
+          - Resident Evil (2002) 006
+          - Resident Evil (2021) 001
+          - "Rogue One: A Star Wars Story (2016)"
+          - Room in Rome (2010)
+          - Rules of Engagement (2000)
+          - Saboteur (1942)
+          - Salt (2010) 001A
+          - Salt (2010) 001B
+          - Salt (2010) 001C
+          - Saw (2004) 001
+          - Saw (2004) 002
+          - Saw (2004) 003
+          - Saw (2004) 004
+          - Saw (2004) 005
+          - Saw (2004) 006
+          - Saw (2004) 007
+          - Scorpion King (2002) 001
+          - Scott Pilgrim vs. the World (2010)
+          - Secret Life of Pets (2016) 001
+          - Seven (1995)
+          - Shadow of a Doubt (1943)
+          - Shame (2011)
+          - Shank (2010)
+          - Shaun of the Dead (2004)
+          - Shawshank Redemption (1994)
+          - Sherlock Holmes (2009) 002
+          - Shining (1980)
+          - Silence of the Lambs (1991)
+          - Sin City (2005) 001
+          - Sin City (2005) 002
+          - Single Man (2009)
+          - Skyfall (2012)
+          - Sleeping Beauty (2011)
+          - "Solo: A Star Wars Story (2018)"
+          - Spectre (2015)
+          - Spider-Man (2002) 002A
+          - Spider-Man (2002) 002B 2.1
+          - Spider-Man (2017) 001
+          - Spiral (2021)
+          - Spy Who Loved Me (1977)
+          - Star Trek (2009) 001
+          - Star Wars 001 (1999) 2011
+          - Star Wars 002 (2002) 2011
+          - Star Wars 003 (2005) 2011
+          - Star Wars 004 (1977) 2011
+          - Star Wars 005 (1980) 2011
+          - Star Wars 006 (1983) 2011
+          - Star Wars 007 (2015)
+          - Star Wars 008 (2017)
+          - Star Wars 009 (2019)
+          - "Star Wars: The Clone Wars (2008)"
+          - Sucker Punch (2011) 001A
+          - Sucker Punch (2011) 001B
+          - Suicide Squad (2021)
+          - Super 8 (2011)
+          - Taken (2008) 001
+          - Taxi Driver (1976)
+          - There Will Be Blood (2008)
+          - Thor (2011) 002
+          - Thor (2011) 003
+          - Thunderball (1965)
+          - Toy Story (1995) 001
+          - Toy Story (1995) 002
+          - Toy Story (1995) 003
+          - Transformers (2007) 001
+          - Transformers (2007) 002
+          - Transformers (2007) 003
+          - Troy (2004) 001B
+          - Trouble with Harry (1955)
+          - Tucker and Dale vs. Evil (2010)
+          - Tuxedo (2002)
+          - Tyrannosaur (2011)
+          - Uncharted (2022) 001
+          - Under the Skin (2014)
+          - Vertigo (1958)
+          - War Dogs (2016)
+          - Watchmen (2009)
+          - Witch (2015)
+          - Wolf of Wall Street (2013)
+          - Wonder Woman (2017) 001
+          - Wonder Woman (2017) 002
+          - World's End (2013)
+          - X (2022)
+          - You Only Live Twice (1967)
+          - Zero Dark Thirty (2013)
+          - Zombieland (2009) 001
 
-"Source: Amazon Prime":
-  template:
-    - name: Source label
-      source: "Amazon Prime"
-      title_list:
-        - Deep Water (2022)
-        - Grand Central (2013)
-        - Lie (2020)
-        - Nocturne (2020)
-        - Palm Springs (2020)
-        - Songbird (2020)
-        - Voyeurs (2021)
+  "Source: download":
+    template:
+      - name: Source label
+        source: "download"
+        title_list:
+          - Deep Water (2022)
+          - Grand Central (2013)
+          - Jolene (2008)
+          - Lie (2020)
+          - Nocturne (2020)
+          - Palm Springs (2020)
+          - Songbird (2020)
+          - Star Wars 004 (1977) 1997
+          - Star Wars 004 (1977) 2016
+          - Star Wars 004 (1977) 2018
+          - Star Wars 005 (1980) 1997
+          - Star Wars 005 (1980) 2016
+          - Star Wars 006 (1983) 1997
+          - Star Wars 006 (1983) 2016
+          - Star Wars 006 (1983) 2019
+          - Voyeurs (2021)
 
-"Source: dvd":
-  template:
-    - name: Source label
-      source: "dvd"
-      title_list:
-        - After Sex (2007)
-        - Anything For Her (2008)
-        - "Assassin's Creed: Embers (2011)"
-        - Aventure (2009)
-        - Baise-moi (2000)
-        - Big Nothing (2006)
-        - Bitch Slap (2009)
-        - Black Dahlia (2006)
-        - Black Dynamite (2010)
-        - Boogie Woogie (2009)
-        - Boss'n Up (2005)
-        - Calendar Girls (2003)
-        - Card Player (2004)
-        - Cashback (2007)
-        - Cathy Come Home (1966)
-        - Chicken Run (2000)
-        - Complicity (2000)
-        - Cool Runnings (1993)
-        - Corrina, Corrina (1994)
-        - Dressage (1986)
-        - Exterminating Angels (2006)
-        - Fausto 5.0 (2001)
-        - Head in the Clouds (2004)
-        - High Fidelity (2000)
-        - Hunger (2008)
-        - I Am Curious (1963) 001
-        - I Am Curious (1963) 002
-        - I Spit on Your Grave (1978)
-        - Juan of the Dead (2012)
-        - Ma mere (2004)
-        - Match Point (2005)
-        - Mexican (2001)
-        - Mighty Aphrodite (1995)
-        - Monster (2004)
-        - Muppet Treasure Island (1996)
-        - Night at the Roxbury (1998)
-        - Novo (2002)
-        - "Ong-Bak: Muay Thai Warrior (2003)"
-        - Remember the Titans (2000)
-        - Room (2003)
-        - School of Rock (2003)
-        - "Scooby-Doo 2: Monsters Unleashed (2004)"
-        - Secretary (2002)
-        - Sliver (1993)
-        - "South Park: Bigger, Longer & Uncut (1999)"
-        - Star Wars 001 (1999) 2001
-        - Star Wars 002 (2002) 2002B
-        - Star Wars 003 (2005) 2005B
-        - Star Wars 004 (1977) 1977
-        - Star Wars 004 (1977) 2004
-        - Star Wars 005 (1980) 1980
-        - Star Wars 005 (1980) 2004
-        - Star Wars 006 (1983) 1983
-        - Star Wars 006 (1983) 2004
-        - Superstar (1999)
-        - Sweet Karma (2010)
-        - Tenacious D in the Pick of Destiny (2006)
-        - Wake Up, Ron Burgundy (2004)
-        - Whole Nine Yards (2000)
-        - Wind that Shakes the Barley (2006)
+  "Source: Amazon Prime":
+    template:
+      - name: Source label
+        source: "Amazon Prime"
+        title_list:
+          - Deep Water (2022)
+          - Grand Central (2013)
+          - Lie (2020)
+          - Nocturne (2020)
+          - Palm Springs (2020)
+          - Songbird (2020)
+          - Voyeurs (2021)
+
+  "Source: dvd":
+    template:
+      - name: Source label
+        source: "dvd"
+        title_list:
+          - After Sex (2007)
+          - Anything For Her (2008)
+          - "Assassin's Creed: Embers (2011)"
+          - Aventure (2009)
+          - Baise-moi (2000)
+          - Big Nothing (2006)
+          - Bitch Slap (2009)
+          - Black Dahlia (2006)
+          - Black Dynamite (2010)
+          - Boogie Woogie (2009)
+          - Boss'n Up (2005)
+          - Calendar Girls (2003)
+          - Card Player (2004)
+          - Cashback (2007)
+          - Cathy Come Home (1966)
+          - Chicken Run (2000)
+          - Complicity (2000)
+          - Cool Runnings (1993)
+          - Corrina, Corrina (1994)
+          - Dressage (1986)
+          - Exterminating Angels (2006)
+          - Fausto 5.0 (2001)
+          - Head in the Clouds (2004)
+          - High Fidelity (2000)
+          - Hunger (2008)
+          - I Am Curious (1963) 001
+          - I Am Curious (1963) 002
+          - I Spit on Your Grave (1978)
+          - Juan of the Dead (2012)
+          - Ma mere (2004)
+          - Match Point (2005)
+          - Mexican (2001)
+          - Mighty Aphrodite (1995)
+          - Monster (2004)
+          - Muppet Treasure Island (1996)
+          - Night at the Roxbury (1998)
+          - Novo (2002)
+          - "Ong-Bak: Muay Thai Warrior (2003)"
+          - Remember the Titans (2000)
+          - Room (2003)
+          - School of Rock (2003)
+          - "Scooby-Doo 2: Monsters Unleashed (2004)"
+          - Secretary (2002)
+          - Sliver (1993)
+          - "South Park: Bigger, Longer & Uncut (1999)"
+          - Star Wars 001 (1999) 2001
+          - Star Wars 002 (2002) 2002B
+          - Star Wars 003 (2005) 2005B
+          - Star Wars 004 (1977) 1977
+          - Star Wars 004 (1977) 2004
+          - Star Wars 005 (1980) 1980
+          - Star Wars 005 (1980) 2004
+          - Star Wars 006 (1983) 1983
+          - Star Wars 006 (1983) 2004
+          - Superstar (1999)
+          - Sweet Karma (2010)
+          - Tenacious D in the Pick of Destiny (2006)
+          - Wake Up, Ron Burgundy (2004)
+          - Whole Nine Yards (2000)
+          - Wind that Shakes the Barley (2006)
