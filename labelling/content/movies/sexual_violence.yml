@@ -9,6 +9,7 @@ collections:
         level: mild
         title_list:
           - One Flew Over the Cuckoo's Nest (1975)
+          - Sin City (2005) 002
 
   "Content: sexual violence (moderate)":
     template:
@@ -34,3 +35,4 @@ collections:
           - Monster (2004)
           - Pulp Fiction (1994)
           - Red Sparrow (2018)
+          - Sweet Karma (2010)

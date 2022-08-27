@@ -18,6 +18,9 @@ collections:
           - Matrix (1999) 001
           - Miss Sloane (2016)
           - One Flew Over the Cuckoo's Nest (1975)
+          - School of Rock (2003)
+          - Scott Pilgrim vs. the World (2010)
+          - Sherlock Holmes (2009) 002
 
   "Content: drug references (moderate)":
     template:
@@ -27,6 +30,7 @@ collections:
         title_list:
           - Knock Knock (2015)
           - Single Man (2009)
+          - Shaun of the Dead (2004)
 
   "Content: drug references (strong)":
     template:

@@ -12,6 +12,7 @@ collections:
           - Knives Out (2019)
           - Leave No Trace (2018)
           - "Rogue One: A Star Wars Story (2016)"
+          - Super 8 (2011)
 
   "Content: injury detail (moderate)":
     template:
@@ -33,6 +34,7 @@ collections:
           - Man on Fire (2004)
           - Pan's Labyrinth (2006)
           - Resident Evil (2021) 001
+          - Shining (1980)
 
   "Content: injury detail (strong)":
     template:
@@ -42,3 +44,6 @@ collections:
         title_list:
           - Birds of Prey (2020)
           - Card Player (2004)
+          - Saw (2004) 001
+          - Saw (2004) 002
+          - Saw (2004) 006

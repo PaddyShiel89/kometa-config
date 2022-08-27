@@ -54,7 +54,15 @@ collections:
           - Remember the Titans (2000)
           - Resident Evil (2002) 003
           - Resident Evil (2002) 005
+          - School of Rock (2003)
+          - "Scooby-Doo 2: Monsters Unleashed (2004)"
           - Scorpion King (2002) 001
+          - "Solo: A Star Wars Story (2018)"
+          - Spectre (2015)
+          - Star Wars 007
+          - Star Wars 008
+          - Star Wars 009
+          - "Star Wars: The Clone Wars (2008)"
           - Uncharted (2022) 001
 
   "Content: language (moderate)":
@@ -74,6 +82,7 @@ collections:
           - Jojo Rabbit (2019)
           - Men in Black (1997) 001
           - Resident Evil (2002) 006
+          - Sucker Punch (2011) 001
           - Tuxedo (2002)
 
   "Content: language (strong)":
@@ -168,8 +177,30 @@ collections:
           - Resident Evil (2002) 004
           - Resident Evil (2021) 001
           - Rules of Engagement (2000)
+          - Salt (2010) 001A
+          - Salt (2010) 001B
+          - Salt (2010) 001C
+          - Saw (2004) 001
+          - Saw (2004) 002
+          - Saw (2004) 004
+          - Saw (2004) 005
+          - Saw (2004) 006
+          - Saw (2004) 007
+          - Scott Pilgrim vs. the World (2010)
+          - Secretary (2002)
+          - Seven (1995)
           - Shank (2010)
+          - Shawshank Redemption (1994)
+          - Shining (1980)
+          - Sin City (2005) 001
+          - Sin City (2005) 002
+          - Skyfall (2012)
           - Songbird (2020)
+          - "South Park: Bigger, Longer & Uncut (1999)"
+          - Spider-Man (2017) 001
+          - Spiral (2021)
+          - Suicide Squad (2021)
+          - Super 8 (2011)
           - War Dogs (2016)
           - X (2022)
 
@@ -202,6 +233,10 @@ collections:
           - Palm Springs (2020)
           - Promising Young Woman (2020)
           - Red Sparrow (2018)
+          - Shaun of the Dead (2004)
+          - Silence of the Lambs (1991)
+          - Sleeping Beauty (2011)
+          - Star Trek (2009) 001
 
   "Content: language (bleeped)":
     template:
@@ -211,6 +246,8 @@ collections:
         title_list:
           - Iron Man (2008) 002
           - Ocean's 11 (2001) 002
+          - Scott Pilgrim vs. the World (2010)
+          - Spider-Man (2017) 001
 
   "Content: language (discriminatory)":
     template:
@@ -224,4 +261,5 @@ collections:
           - Kingsman (2014) 001
           - Knock Knock (2015)
           - Predator (1987) 001
+          - Spiral (2021)
           - Taxi Driver (1976)

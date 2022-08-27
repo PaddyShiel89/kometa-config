@@ -40,5 +40,21 @@ collections:
           - Predator (1987) 003
           - Red Sparrow (2018)
           - Resident Evil (2021) 001
+          - Saw (2004) 001
+          - Saw (2004) 002
+          - Saw (2004) 007
+          - Shaun of the Dead (2004)
+          - Silence of the Lambs (1991)
+          - Spiral (2021)
+          - Suicide Squad (2021)
           - Taxi Driver (1976)
           - X (2022)
+
+  "Content: gore (very strong)":
+    template:
+      - name: Content label
+        content: gore
+        level: very strong
+        title_list:
+          - Saw (2004) 003
+          - Saw (2004) 004

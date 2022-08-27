@@ -10,6 +10,7 @@ collections:
         title_list:
           - Jaws (1975) 001
           - Jurassic Park (1993) 001
+          - Spiral (2021)
 
   "Content: drug use (moderate)":
     template:
@@ -30,6 +31,9 @@ collections:
           - Last Night in Soho (2021)
           - Paul (2011)
           - Shame (2011)
+          - Sleeping Beauty (2011)
+          - Suicide Squad (2021)
+          - Super 8 (2011)
 
   "Content: drug use (strong)":
     template:
@@ -52,7 +56,10 @@ collections:
           - Platoon (1986)
           - Predator (1987) 002
           - Pulp Fiction (1994)
+          - Saw (2004) 002
           - Shank (2010)
+          - Sin City (2005) 002
+          - Sweet Karma (2010)
           - War Dogs (2016)
 
   "Content: drug use (hard)":
@@ -76,6 +83,7 @@ collections:
           - Promising Young Woman (2020)
           - Pulp Fiction (1994)
           - Shame (2011)
+          - Sweet Karma (2010)
 
   "Content: drug use (soft)":
     template:
@@ -85,3 +93,4 @@ collections:
         title_list:
           - Jaws (1975) 001
           - Platoon (1986)
+          - Super 8 (2011)

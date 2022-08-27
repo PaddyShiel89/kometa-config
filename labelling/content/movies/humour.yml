@@ -1,0 +1,20 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: humour (rude)":
+    template:
+      - name: Content label
+        content: humour
+        level: rude
+        title_list:
+          - Secret Life of Pets (2016) 001
+          - Star Wars 001
+
+  "Content: humour (crude)":
+    template:
+      - name: Content label
+        content: humour
+        level: crude
+        title_list:
+          - Suicide Squad (2021)
