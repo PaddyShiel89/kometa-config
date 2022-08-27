@@ -2,18 +2,18 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  "Series: 300":
+  "Series: 300 (2007)":
     template:
       - name: Series label
-        series: "300"
+        series: "300 (2007)"
         title_list:
           - 300 (2007) 001
           - 300 (2007) 002
 
-  "Series: Alien":
+  "Series: Alien (1979)":
     template:
       - name: Series label
-        series: "Alien"
+        series: "Alien (1979)"
         title_list:
           - Alien (1979) 001
           - Alien (1979) 002
@@ -21,71 +21,71 @@ collections:
           - Alien (1979) 004
           - "Alien: Covenant (2017)"
 
-  "Series: Amazing Spider-Man":
+  "Series: Amazing Spider-Man (2012)":
     template:
       - name: Series label
-        series: "Amazing Spider-Man"
+        series: "Amazing Spider-Man (2012)"
         title_list:
           - Amazing Spider-Man (2012) 002
 
-  "Series: Anchorman":
+  "Series: Anchorman (2004)":
     template:
       - name: Series label
-        series: "Anchorman"
+        series: "Anchorman (2004)"
         title_list:
           - Anchorman (2004) 001
 
-  "Series: Ant-Man":
+  "Series: Ant-Man (2015)":
     template:
       - name: Series label
-        series: "Ant-Man"
+        series: "Ant-Man (2015)"
         title_list:
           - Ant-Man (2015) 001
 
-  "Series: Avengers":
+  "Series: Avengers (2012)":
     template:
       - name: Series label
-        series: "Avengers"
+        series: "Avengers (2012)"
         title_list:
           - Avengers (2012) 001
           - Avengers (2012) 002
           - Avengers (2012) 003
 
-  "Series: Back to the Future":
+  "Series: Back to the Future (1985)":
     template:
       - name: Series label
-        series: "Back to the Future"
+        series: "Back to the Future (1985)"
         title_list:
           - Back to the Future (1985) 001
           - Back to the Future (1985) 002
           - Back to the Future (1985) 003
 
-  "Series: Basic Instinct":
+  "Series: Basic Instinct (1992)":
     template:
       - name: Series label
-        series: "Basic Instinct"
+        series: "Basic Instinct (1992)"
         title_list:
           - Basic Instinct (1992) 001
 
-  "Series: Black Panther":
+  "Series: Black Panther (2018)":
     template:
       - name: Series label
-        series: "Black Panther"
+        series: "Black Panther (2018)"
         title_list:
           - Black Panther (2018) 001
 
-  "Series: Blade Runner":
+  "Series: Blade Runner (1982)":
     template:
       - name: Series label
-        series: "Blade Runner"
+        series: "Blade Runner (1982)"
         title_list:
           - Blade Runner (1982) 001 2007
           - Blade Runner (1982) 002
 
-  "Series: Captain America":
+  "Series: Captain America (2011)":
     template:
       - name: Series label
-        series: "Captain America"
+        series: "Captain America (2011)"
         title_list:
           - Captain America (2011) 002
           - Captain America (2011) 003
@@ -97,10 +97,17 @@ collections:
         title_list:
           - Batman Begins (2005)
 
-  "Series: Harry Potter":
+  "Series: Guardians of the Galaxy (2014)":
     template:
       - name: Series label
-        series: "Harry Potter"
+        series: "Guardians of the Galaxy (2014)"
+        title_list:
+          - Guardians of the Galaxy (2014) 001
+
+  "Series: Harry Potter (2001)":
+    template:
+      - name: Series label
+        series: "Harry Potter (2001)"
         title_list:
           - Harry Potter (2001) 001
           - Harry Potter (2001) 002
@@ -111,14 +118,29 @@ collections:
           - Harry Potter (2001) 007
           - Harry Potter (2001) 008
 
-  "Series: The Hobbit":
+  "Series: The Hobbit (2012)":
     template:
       - name: Series label
-        series: "The Hobbit"
+        series: "The Hobbit (2012)"
         title_list:
           - Hobbit (2012) 001
           - Hobbit (2012) 002
           - Hobbit (2012) 003
+
+  "Series: The Incredible Hulk (2008)":
+    template:
+      - name: Series label
+        series: "The Incredible Hulk (2008)"
+        title_list:
+          - Incredible Hulk (2008) 001
+
+  "Series: Iron Man (2008)":
+    template:
+      - name: Series label
+        series: "Iron Man (2008)"
+        title_list:
+          - Iron Man (2008) 001
+          - Iron Man (2008) 002
 
   "Series: James Bond (Eon Productions)":
     template:
@@ -144,27 +166,27 @@ collections:
           - Thunderball (1965)
           - You Only Live Twice (1967)
 
-  "Series: Jurassic Park":
+  "Series: Jurassic Park (1993)":
     template:
       - name: Series label
-        series: "Jurassic Park"
+        series: "Jurassic Park (1993)"
         title_list:
           - Jurassic Park (1993) 001
           - Jurassic Park (1993) 002
           - Jurassic Park (1993) 003
 
-  "Series: Jurassic World":
+  "Series: Jurassic World (2015)":
     template:
       - name: Series label
-        series: "Jurassic World"
+        series: "Jurassic World (2015)"
         title_list:
           - Jurassic World (2015) 001
           - Jurassic World (2015) 002
 
-  "Series: The Lord of the Rings":
+  "Series: The Lord of the Rings (2001)":
     template:
       - name: Series label
-        series: "The Lord of the Rings"
+        series: "The Lord of the Rings (2001)"
         title_list:
           - Lord of the Rings (2001) 001B
           - Lord of the Rings (2001) 002B
@@ -206,10 +228,10 @@ collections:
         title_list:
           - Resident Evil (2021) 001
 
-  "Series: Saw":
+  "Series: Saw (2004)":
     template:
       - name: Series label
-        series: "Saw"
+        series: "Saw (2004)"
         title_list:
           - Saw (2004) 001
           - Saw (2004) 002
@@ -219,6 +241,13 @@ collections:
           - Saw (2004) 006
           - Saw (2004) 007
           - Spiral (2021)
+
+  "Series: Spider-Man (2017)":
+    template:
+      - name: Series label
+        series: "Spider-Man (2017)"
+        title_list:
+          - Spider-Man (2017) 001
 
   "Series: Star Wars":
     template:
@@ -238,6 +267,14 @@ collections:
           - Star Wars 009
           - "Star Wars: The Clone Wars (2008)"
 
+  "Series: Thor (2011)":
+    template:
+      - name: Series label
+        series: "Thor (2011)"
+        title_list:
+          - Thor (2011) 002
+          - Thor (2011) 003
+
   "Series: Tim Burton's Batman":
     template:
       - name: Series label
@@ -247,3 +284,11 @@ collections:
           - Batman (1989) 002
           - Batman (1989) 003
           - Batman (1989) 004
+
+  "Series: Wonder Woman (2017)":
+    template:
+      - name: Series label
+        series: "Wonder Woman (2017)"
+        title_list:
+          - Wonder Woman (2017) 001
+          - Wonder Woman (2017) 002
