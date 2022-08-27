@@ -11,6 +11,8 @@ collections:
           - Jaws (1975) 001
           - Jurassic Park (1993) 001
           - Spiral (2021)
+          - Tucker and Dale vs. Evil (2010)
+          - Zombieland (2009) 001
 
   "Content: drug use (moderate)":
     template:
@@ -34,6 +36,8 @@ collections:
           - Sleeping Beauty (2011)
           - Suicide Squad (2021)
           - Super 8 (2011)
+          - Voyeurs (2021)
+          - World's End (2013)
 
   "Content: drug use (strong)":
     template:
@@ -60,7 +64,9 @@ collections:
           - Shank (2010)
           - Sin City (2005) 002
           - Sweet Karma (2010)
+          - Tenacious D in the Pick of Destiny (2006)
           - War Dogs (2016)
+          - Wolf of Wall Street (2013)
 
   "Content: drug use (hard)":
     template:
@@ -84,6 +90,7 @@ collections:
           - Pulp Fiction (1994)
           - Shame (2011)
           - Sweet Karma (2010)
+          - Wolf of Wall Street (2013)
 
   "Content: drug use (soft)":
     template:
@@ -94,3 +101,6 @@ collections:
           - Jaws (1975) 001
           - Platoon (1986)
           - Super 8 (2011)
+          - Voyeurs (2021)
+          - World's End (2013)
+          - Zombieland (2009) 001

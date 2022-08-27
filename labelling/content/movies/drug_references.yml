@@ -21,6 +21,7 @@ collections:
           - School of Rock (2003)
           - Scott Pilgrim vs. the World (2010)
           - Sherlock Holmes (2009) 002
+          - Transformers (2007) 001
 
   "Content: drug references (moderate)":
     template:
@@ -31,6 +32,8 @@ collections:
           - Knock Knock (2015)
           - Single Man (2009)
           - Shaun of the Dead (2004)
+          - Transformers (2007) 002
+          - World's End (2013)
 
   "Content: drug references (strong)":
     template:

@@ -20,6 +20,7 @@ collections:
           - Songbird (2020)
           - Taxi Driver (1976)
           - Witch (2015)
+          - Zombieland (2009) 001
 
   "Content: nudity (moderate)":
     template:
@@ -49,6 +50,8 @@ collections:
           - Sin City (2005) 001
           - Single Man (2009)
           - Suicide Squad (2021)
+          - Watchmen (2009)
+          - Whole Nine Yards (2000)
           - X (2022)
 
   "Content: nudity (strong)":
@@ -82,3 +85,4 @@ collections:
           - Secret Things (2002)
           - Sin City (2005) 002
           - Sleeping Beauty (2011)
+          - Under the Skin (2014)

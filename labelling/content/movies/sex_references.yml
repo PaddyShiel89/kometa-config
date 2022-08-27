@@ -37,7 +37,15 @@ collections:
           - Spider-Man (2017) 001
           - Spy Who Loved Me (1977)
           - Star Trek (2009) 001
+          - There Will Be Blood (2008)
+          - Thor (2011) 002
+          - Thor (2011) 003
+          - Thunderball (1965)
+          - Transformers (2007) 003
+          - Trouble with Harry (1955)
           - Uncharted (2022) 001
+          - Wonder Woman (2017) 001
+          - Wonder Woman (2017) 002
 
   "Content: sex references (moderate)":
     template:
@@ -68,6 +76,10 @@ collections:
           - Shaun of the Dead (2004)
           - Spiral (2021)
           - Sucker Punch (2011) 001
+          - Transformers (2007) 001
+          - Transformers (2007) 002
+          - Tucker and Dale vs. Evil (2010)
+          - Zero Dark Thirty (2013)
 
   "Content: sex references (strong)":
     template:
@@ -111,7 +123,10 @@ collections:
           - Silence of the Lambs (1991)
           - Sleeping Beauty (2011)
           - "South Park: Bigger, Longer & Uncut (1999)"
+          - Tenacious D in the Pick of Destiny (2006)
+          - Voyeurs (2021)
           - War Dogs (2016)
+          - World's End (2013)
 
   "Content: sex references (very strong)":
     template:

@@ -10,7 +10,7 @@ collections:
         title_list:
           - Lego Movie (2014) 001
           - Lego Movie (2014) 002
-          - Lucy (2014)
+          - Toy Story (1995) 001
 
   "Content: language (mild)":
     template:
@@ -46,6 +46,7 @@ collections:
           - Jaws (1975) 001
           - Jurassic Park (1993) 001
           - Jurassic World (2015) 001
+          - Lucy (2014)
           - Man Who Knew Too Much (1956)
           - Match Point (2005)
           - Men in Black (1997) 002
@@ -63,7 +64,13 @@ collections:
           - Star Wars 008
           - Star Wars 009
           - "Star Wars: The Clone Wars (2008)"
+          - There Will Be Blood (2008)
+          - Thor (2011) 002
+          - Thor (2011) 003
+          - Thunderball (1965)
+          - Toy Story (1995) 003
           - Uncharted (2022) 001
+          - Wonder Woman (2017) 001
 
   "Content: language (moderate)":
     template:
@@ -83,6 +90,9 @@ collections:
           - Men in Black (1997) 001
           - Resident Evil (2002) 006
           - Sucker Punch (2011) 001
+          - Taken (2008) 001
+          - Transformers (2007) 001
+          - Transformers (2007) 002
           - Tuxedo (2002)
 
   "Content: language (strong)":
@@ -201,8 +211,17 @@ collections:
           - Spiral (2021)
           - Suicide Squad (2021)
           - Super 8 (2011)
+          - Tenacious D in the Pick of Destiny (2006)
+          - Transformers (2007) 003
+          - Tucker and Dale vs. Evil (2010)
+          - Under the Skin (2014)
           - War Dogs (2016)
+          - Watchmen (2009)
+          - Whole Nine Yards (2000)
+          - Wind that Shakes the Barley (2006)
           - X (2022)
+          - Zero Dark Thirty (2013)
+          - Zombieland (2009) 001
 
   "Content: language (very strong)":
     template:
@@ -237,6 +256,10 @@ collections:
           - Silence of the Lambs (1991)
           - Sleeping Beauty (2011)
           - Star Trek (2009) 001
+          - Tyrannosaur (2011)
+          - Voyeurs (2021)
+          - Wolf of Wall Street (2013)
+          - World's End (2013)
 
   "Content: language (bleeped)":
     template:

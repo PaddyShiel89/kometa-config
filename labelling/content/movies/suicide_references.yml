@@ -20,3 +20,12 @@ collections:
           - Monster (2004)
           - One Flew Over the Cuckoo's Nest (1975)
           - Single Man (2009)
+          - World's End (2013)
+
+  "Content: suicide references (strong)":
+    template:
+      - name: Content label
+        content: suicide references
+        level: strong
+        title_list:
+          - Wolf of Wall Street (2013)

@@ -9,6 +9,7 @@ collections:
         level: very mild
         title_list:
           - Lego Movie (2014) 002
+          - Toy Story (1995) 002
 
   "Content: violence (mild)":
     template:
@@ -48,6 +49,10 @@ collections:
           - Star Wars 004
           - Star Wars 006
           - "Star Wars: The Clone Wars (2008)"
+          - Thunderball (1965)
+          - Toy Story (1995) 001
+          - Toy Story (1995) 003
+          - You Only Live Twice (1967)
 
   "Content: violence (moderate)":
     template:
@@ -133,8 +138,18 @@ collections:
           - Star Wars 008
           - Star Wars 009
           - Sucker Punch (2011) 001
+          - Thor (2011) 002
+          - Thor (2011) 003
+          - Transformers (2007) 001
+          - Transformers (2007) 002
+          - Transformers (2007) 003
           - Tuxedo (2002)
           - Uncharted (2022) 001
+          - Under the Skin (2014)
+          - Whole Nine Yards (2000)
+          - Wonder Woman (2017) 001
+          - Wonder Woman (2017) 002
+          - World's End (2013)
 
   "Content: violence (strong)":
     template:
@@ -245,8 +260,16 @@ collections:
           - Suicide Squad (2021)
           - Sweet Karma (2010)
           - Taxi Driver (1976)
+          - Taken (2008) 001
+          - There Will Be Blood (2008)
+          - Troy (2004) 001B
+          - Tucker and Dale vs. Evil (2010)
+          - Watchmen (2009)
+          - Wind that Shakes the Barley (2006)
           - Witch (2015)
           - X (2022)
+          - Zero Dark Thirty (2013)
+          - Zombieland (2009) 001
 
   "Content: violence (very strong)":
     template:
@@ -269,6 +292,9 @@ collections:
           - Quantum of Solace (2008)
           - Skyfall (2012)
           - Spectre (2015)
+          - Transformers (2007) 001
+          - Transformers (2007) 002
+          - Transformers (2007) 003
 
   "Content: violence (adventure)":
     template:
@@ -285,6 +311,7 @@ collections:
         level: battle
         title_list:
           - Lord of the Rings (2001) 001B
+          - Troy (2004) 001B
 
   "Content: violence (bloody)":
     template:
@@ -342,7 +369,9 @@ collections:
           - Spiral (2021)
           - Suicide Squad (2021)
           - Sweet Karma (2010)
+          - Watchmen (2009)
           - X (2022)
+          - Zombieland (2009) 001
 
   "Content: violence (comic)":
     template:
@@ -357,6 +386,9 @@ collections:
           - Muppets from Space (1999)
           - Muppet Treasure Island (1996)
           - Naked Gun (1988) 001
+          - Tucker and Dale vs. Evil (2010)
+          - World's End (2013)
+          - Zombieland (2009) 001
 
   "Content: violence (fantasy)":
     template:
@@ -375,6 +407,8 @@ collections:
           - Star Wars 004
           - Star Wars 006
           - "Star Wars: The Clone Wars (2008)"
+          - Thor (2011) 002
+          - Thor (2011) 003
 
   "Content: violence (sadistic)":
     template:
