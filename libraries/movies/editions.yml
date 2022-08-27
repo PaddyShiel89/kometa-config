@@ -24,7 +24,7 @@ collections:
         poster_file_name: "Alien³ (1992)"
     sort_title: "Alien (1979) 003"
     tmdb_movie: 8077
-    summary: "After her last encounter, Ellen Ripley crash-lands on Fiorina 161, a maximum security prison. When a series of strange and deadly events occur shortly after her arrival, Ripley realizes that she has brought along an unwelcome visitor."
+    summary: " Ellen Ripley crash-lands on Fiorina 161, a maximum security prison. When a series of strange and deadly events occur shortly after her arrival, Ripley realizes that she has brought along an unwelcome visitor."
 
   "Alien: Resurrection":
     template:
@@ -80,7 +80,7 @@ collections:
         poster_file_name: "Star Wars Episode II - Attack of the Clones"
     sort_title: "Star Wars 002"
     tmdb_movie: 1894
-    summary: "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi investigates an assassination attempt on the senator and discovers a secret clone army crafted for the Jedi."
+    summary: "Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi investigates an assassination attempt on the senator and discovers a secret clone army crafted for the Jedi."
 
   "Star Wars: Episode III - Revenge of the Sith":
     template:
@@ -88,7 +88,7 @@ collections:
         poster_file_name: "Star Wars Episode III - Revenge of the Sith"
     sort_title: "Star Wars 003"
     tmdb_movie: 1895
-    summary: "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-Wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine and is lured into a sinister plan to rule the galaxy."
+    summary: "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-Wan pursues a new threat, Anakin is lured into a sinister plan to rule the galaxy."
 
   "Star Wars: Episode IV - A New Hope":
     template:
@@ -96,7 +96,7 @@ collections:
         poster_file_name: "Star Wars Episode IV - A New Hope"
     sort_title: "Star Wars 004"
     tmdb_movie: 11
-    summary: "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
 
   "Star Wars: Episode V - The Empire Strikes Back":
     template:
@@ -112,7 +112,7 @@ collections:
         poster_file_name: "Star Wars Episode VI - Return of the Jedi"
     sort_title: "Star Wars 006"
     tmdb_movie: 1892
-    summary: "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap."
+    summary: "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side."
 
   "Sucker Punch":
     template:
