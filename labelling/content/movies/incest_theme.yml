@@ -1,0 +1,11 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: incest theme":
+    template:
+      - name: Content label
+        content: incest theme
+        level: none
+        title_list:
+          - Ma mere (2004)

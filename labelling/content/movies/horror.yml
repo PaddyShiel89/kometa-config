@@ -1,0 +1,74 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: horror (mild)":
+    template:
+      - name: Content label
+        content: horror
+        level: mild
+        title_list:
+          - Men in Black (1997) 001
+          - Men in Black (1997) 002
+          - Scorpion King (2002) 001
+          - "Scooby-Doo 2: Monsters Unleashed (2004)"
+          - Tuxedo (2002)
+
+  "Content: horror (moderate)":
+    template:
+      - name: Content label
+        content: horror
+        level: moderate
+        title_list:
+          - Batman Begins (2005)
+          - Birds (1963)
+          - Harry Potter (2001) 004
+          - Harry Potter (2001) 005
+          - Harry Potter (2001) 008
+          - Jurassic Park (1993) 001
+          - Jurassic Park (1993) 003
+          - Lord of the Rings (2001) 003B
+          - Mummy (1999) 001
+          - Mummy (1999) 002
+          - Resident Evil (2002) 001
+          - Under the Skin (2014)
+
+  "Content: horror (strong)":
+    template:
+      - name: Content label
+        content: horror
+        level: strong
+        title_list:
+          - Alien (1979) 001
+          - Alien (1979) 002
+          - Alien (1979) 004
+          - Complicity (2000)
+          - Doctor Sleep (2019)
+          - IT (2017) 001
+          - IT (2017) 002
+          - Last Night in Soho (2021)
+          - Nocturne (2020)
+          - Resident Evil (2002) 002
+          - Resident Evil (2021) 001
+          - Rules of Engagement (2000)
+          - Saw (2004) 007
+          - Seven (1995)
+          - Shaun of the Dead (2004)
+          - Witch (2015)
+          - X (2022)
+
+  "Content: horror (fantasy)":
+    template:
+      - name: Content label
+        content: horror
+        level: fantasy
+        title_list:
+          - Jurassic Park (1993) 001
+
+  "Content: horror (war)":
+    template:
+      - name: Content label
+        content: horror
+        level: war
+        title_list:
+          - Rules of Engagement (2000)

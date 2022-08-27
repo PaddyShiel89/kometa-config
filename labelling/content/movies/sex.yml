@@ -1,0 +1,121 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: sex (mild)":
+    template:
+      - name: Content label
+        content: sex
+        level: mild
+        title_list:
+          - Dune (2021) 001
+          - Fifth Element (1997)
+          - Goldfinger (1964)
+          - Grand Central (2013)
+          - Inglourious Basterds (2009)
+          - Lucy (2014)
+          - Night at the Roxbury (1998)
+          - No Time to Die (2021)
+          - Shawshank Redemption (1994)
+          - Skyfall (2012)
+          - Spectre (2015)
+
+  "Content: sex (moderate)":
+    template:
+      - name: Content label
+        content: sex
+        level: moderate
+        title_list:
+          - American Gangster (2007) 001
+          - Big Nothing (2006)
+          - Casino (1995)
+          - Departed (2006)
+          - Fight Club (1999)
+          - Head in the Clouds (2004)
+          - High Fidelity (2000)
+          - Hot Tub Time Machine (2010)
+          - Kick-Ass (2010) 002
+          - Last Night in Soho (2021)
+          - Match Point (2005)
+          - Mr and Mrs Smith (2005)
+          - Planet Terror (2007)
+          - Resident Evil (2002) 001
+          - Whole Nine Yards (2000)
+
+  "Content: sex (strong)":
+    template:
+      - name: Content label
+        content: sex
+        level: strong
+        title_list:
+          - 4.3.2.1 (2010)
+          - 300 (2007) 002
+          - American Beauty (1999)
+          - Aventure (2009)
+          - Baise-moi (2000)
+          - Basic Instinct (1992) 001
+          - Black Dahlia (2006)
+          - Black Dynamite (2010)
+          - Black Swan (2010)
+          - Blade Runner (1982) 002
+          - Blue is the Warmest Colour (2013)
+          - Boogie Nights (1997)
+          - Boogie Woogie (2009)
+          - Complicity (2000)
+          - Deep Water (2022)
+          - Disappearance of Alice Creed (2010)
+          - Dreamers (2003)
+          - Dressage (1986)
+          - Exterminating Angels (2006)
+          - Fausto 5.0 (2001)
+          - Favourite (2018)
+          - Get Him to the Greek (2010)
+          - Goodfellas (1990)
+          - Harry Brown (2009)
+          - I Am Curious (1963) 001
+          - I Am Curious (1963) 002
+          - "Import/Export (2007)"
+          - Jolene (2008)
+          - Knock Knock (2015)
+          - Lost Girls and Love Hotels (2020)
+          - Ma mere (2004)
+          - Malena (2000) 001A
+          - Malena (2000) 001B
+          - Martha Marcy May Marlene (2011)
+          - Miss Sloane (2016)
+          - Nocturne (2020)
+          - Novo (2002)
+          - Palm Springs (2020)
+          - Parasite (2019)
+          - Predator (1987) 002
+          - Q (2011)
+          - Red Sparrow (2018)
+          - Room in Rome (2010)
+          - Secret Things (2002)
+          - Secretary (2002)
+          - Shame (2011)
+          - Sin City (2005) 002
+          - Sliver (1993)
+          - Under the Skin (2014)
+          - Voyeurs (2021)
+          - Watchmen (2009)
+          - Wolf of Wall Street (2013)
+          - X (2022)
+
+  "Content: sex (comic)":
+    template:
+      - name: Content label
+        content: sex
+        level: comic
+        title_list:
+          - Night at the Roxbury (1998)
+
+  "Content: sex (real)":
+    template:
+      - name: Content label
+        content: sex
+        level: real
+        title_list:
+          - Baise-moi (2000)
+          - "Import/Export (2007)"
+          - Q (2011)

@@ -1,0 +1,21 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: flashing images":
+    template:
+      - name: Content label
+        content: flashing images
+        level: none
+        title_list:
+          - Alien (1979) 001
+          - Batman (2022) 001
+          - Black Swan (2010)
+          - Doctor Sleep (2019)
+          - IT (2017) 002
+          - Last Night in Soho (2021)
+          - Men in Black (1997) 001
+          - Promising Young Woman (2020)
+          - Resident Evil (2021) 001
+          - Star Wars 009
+          - War Dogs (2016)

@@ -1,0 +1,118 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: threat (very mild)":
+    template:
+      - name: Content label
+        content: threat
+        level: very mild
+        title_list:
+          - Toy Story (1995) 002
+
+  "Content: threat (mild)":
+    template:
+      - name: Content label
+        content: threat
+        level: mild
+        title_list:
+          - BFG (2016)
+          - Chicken Run (2000)
+          - Dad's Army (1971) 001
+          - Harry Potter (2001) 001
+          - Harry Potter (2001) 002
+          - Harry Potter (2001) 003
+          - Hobbit (2012) 001
+          - Jurassic Park (1993) 001
+          - Incredibles (2004) 001
+          - Lord of the Rings (2001) 001B
+          - Miss Sloane (2016)
+          - "Rogue One: A Star Wars Story (2016)"
+          - Saboteur (1942)
+          - Secret Life of Pets (2016) 001
+          - Shadow of a Doubt (1943)
+          - "Solo: A Star Wars Story (2018)"
+          - Spider-Man (2017) 001
+          - Star Wars 005
+          - Toy Story (1995) 001
+          - Toy Story (1995) 003
+          - You Only Live Twice (1967)
+
+  "Content: threat (moderate)":
+    template:
+      - name: Content label
+        content: threat
+        level: moderate
+        title_list:
+          - Amazing Spider-Man (2012) 002
+          - Avengers (2012) 002
+          - Avengers (2012) 003
+          - Batman (1989) 001
+          - Batman (1989) 002
+          - Birds (1963)
+          - Birds of Prey (2020)
+          - Dark Knight (2008)
+          - Deep Water (2022)
+          - Diamonds Are Forever (1971)
+          - Dune (2021) 001
+          - Grand Central (2013)
+          - Guardians of the Galaxy (2014) 001
+          - Harry Potter (2001) 004
+          - Harry Potter (2001) 006
+          - Harry Potter (2001) 007
+          - Hobbit (2012) 002
+          - Hobbit (2012) 003
+          - Jaws (1975) 001
+          - Jurassic Park (1993) 003
+          - Jurassic World (2015) 001
+          - Jurassic World (2015) 002
+          - Lord of the Rings (2001) 002B
+          - Matrix (1999) 001
+          - Monster (2004)
+          - No Time to Die (2021)
+          - Pan's Labyrinth (2006)
+          - Single Man (2009)
+          - Spectre (2015)
+          - Star Trek (2009) 001
+          - Star Wars 002
+          - Star Wars 003
+          - Star Wars 007
+          - Star Wars 009
+          - Sucker Punch (2011) 001
+          - Suicide Squad (2021)
+          - Super 8 (2011)
+          - Uncharted (2022) 001
+          - Wind that Shakes the Barley (2006)
+          - Wonder Woman (2017) 002
+
+  "Content: threat (strong)":
+    template:
+      - name: Content label
+        content: threat
+        level: strong
+        title_list:
+          - Batman (2022) 001
+          - Disappearance of Alice Creed (2010)
+          - Doctor Sleep (2019)
+          - I Spit on Your Grave (1978)
+          - Inhale (2010)
+          - IT (2017) 001
+          - IT (2017) 002
+          - Knock Knock (2015)
+          - Last Night in Soho (2021)
+          - Lie (2020)
+          - Saw (2004) 004
+          - Saw (2004) 006
+          - Seven (1995)
+          - Shining (1980)
+          - Songbird (2020)
+          - Witch (2015)
+
+  "Content: threat (sadistic)":
+    template:
+      - name: Content label
+        content: threat
+        level: sadistic
+        title_list:
+          - Knock Knock (2015)
+          - Saw (2004) 006

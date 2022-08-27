@@ -1,0 +1,22 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: domestic threat (moderate)":
+    template:
+      - name: Content label
+        content: domestic threat
+        level: moderate
+        title_list:
+          - IT (2017) 001
+          - Marnie (1964)
+          - Wonder Woman (2017) 002
+
+  "Content: domestic threat (strong)":
+    template:
+      - name: Content label
+        content: domestic threat
+        level: strong
+        title_list:
+          - Voyeurs (2021)
+          - Wolf of Wall Street (2013)

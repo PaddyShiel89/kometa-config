@@ -1,0 +1,44 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: drug references (mild)":
+    template:
+      - name: Content label
+        content: drug references
+        level: mild
+        title_list:
+          - Back to the Future (1985) 001
+          - Che (2008) 002
+          - French Dispatch (2021)
+          - Incredible Hulk (2008) 001
+          - Knives Out (2019)
+          - Leave No Trace (2018)
+          - Match Point (2005)
+          - Matrix (1999) 001
+          - Miss Sloane (2016)
+          - One Flew Over the Cuckoo's Nest (1975)
+          - School of Rock (2003)
+          - Scott Pilgrim vs. the World (2010)
+          - Sherlock Holmes (2009) 002
+          - Transformers (2007) 001
+
+  "Content: drug references (moderate)":
+    template:
+      - name: Content label
+        content: drug references
+        level: moderate
+        title_list:
+          - Knock Knock (2015)
+          - Single Man (2009)
+          - Shaun of the Dead (2004)
+          - Transformers (2007) 002
+          - World's End (2013)
+
+  "Content: drug references (strong)":
+    template:
+      - name: Content label
+        content: drug references
+        level: strong
+        title_list:
+          - Get Him to the Greek (2010)

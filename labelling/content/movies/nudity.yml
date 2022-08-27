@@ -1,0 +1,88 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: nudity (mild)":
+    template:
+      - name: Content label
+        content: nudity
+        level: mild
+        title_list:
+          - Casino (1995)
+          - Clash of the Titans (1981)
+          - Jaws (1975) 001
+          - Kick-Ass (2010) 002
+          - One Flew Over the Cuckoo's Nest (1975)
+          - Psycho (1960)
+          - Shawshank Redemption (1994)
+          - Sherlock Holmes (2009) 002
+          - Skyfall (2012)
+          - Songbird (2020)
+          - Taxi Driver (1976)
+          - Witch (2015)
+          - Zombieland (2009) 001
+
+  "Content: nudity (moderate)":
+    template:
+      - name: Content label
+        content: nudity
+        level: moderate
+        title_list:
+          - American Beauty (1999)
+          - American Gangster (2007) 001
+          - Calendar Girls (2003)
+          - Chloe (2009)
+          - Ex Machina (2015)
+          - Favourite (2018)
+          - Fight Club (1999)
+          - Her (2014)
+          - Hot Tub Time Machine (2010)
+          - Lost Girls and Love Hotels (2020)
+          - Machete (2010) 001
+          - Malena (2000) 001B
+          - Martha Marcy May Marlene (2011)
+          - Monster (2004)
+          - Red Sparrow (2018)
+          - Resident Evil (2002) 001
+          - Resident Evil (2002) 002
+          - Shame (2011)
+          - Shining (1980)
+          - Sin City (2005) 001
+          - Single Man (2009)
+          - Suicide Squad (2021)
+          - Watchmen (2009)
+          - Whole Nine Yards (2000)
+          - X (2022)
+
+  "Content: nudity (strong)":
+    template:
+      - name: Content label
+        content: nudity
+        level: strong
+        title_list:
+          - Aventure (2009)
+          - Black Dynamite (2010)
+          - Blade Runner (1982) 002
+          - Blue is the Warmest Colour (2013)
+          - Boogie Nights (1997)
+          - Boogie Woogie (2009)
+          - Cashback (2007)
+          - Deep Water (2022)
+          - Die Hard (1988) 001
+          - Dreamers (2003)
+          - Dressage (1986)
+          - Exterminating Angels (2006)
+          - Farewell, My Queen (2012)
+          - French Dispatch (2021)
+          - Grand Central (2013)
+          - I Am Curious (1963) 001
+          - I Am Curious (1963) 002
+          - I Spit on Your Grave (1978)
+          - Jolene (2008)
+          - Knock Knock (2015)
+          - Malena (2000) 001A
+          - Room in Rome (2010)
+          - Secret Things (2002)
+          - Sin City (2005) 002
+          - Sleeping Beauty (2011)
+          - Under the Skin (2014)

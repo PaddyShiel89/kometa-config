@@ -1,0 +1,39 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: sexual threat (mild)":
+    template:
+      - name: Content label
+        content: sexual threat
+        level: mild
+        title_list:
+          - Che (2008) 001
+          - Dune (2021) 001
+          - Quantum of Solace (2008)
+
+  "Content: sexual threat (moderate)":
+    template:
+      - name: Content label
+        content: sexual threat
+        level: moderate
+        title_list:
+          - Batman (1989) 002
+          - Last Night in Soho (2021)
+          - Marnie (1964)
+          - Promising Young Woman (2020)
+
+  "Content: sexual threat (strong)":
+    template:
+      - name: Content label
+        content: sexual threat
+        level: strong
+        title_list:
+          - Birds of Prey (2020)
+          - I Spit on Your Grave (1978)
+          - Monster (2004)
+          - Shawshank Redemption (1994)
+          - Sleeping Beauty (2011)
+          - Sucker Punch (2011) 001
+          - Taken (2008) 001
+          - X (2022)

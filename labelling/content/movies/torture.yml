@@ -1,0 +1,33 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: torture (mild)":
+    template:
+      - name: Content label
+        content: torture
+        level: mild
+        title_list:
+          - Spectre (2015)
+          - Star Wars 005
+
+  "Content: torture (moderate)":
+    template:
+      - name: Content label
+        content: torture
+        level: moderate
+        title_list:
+          - Casino Royale (2006)
+          - Salt (2010) 001A
+          - Salt (2010) 001B
+          - Salt (2010) 001C
+
+  "Content: torture (strong)":
+    template:
+      - name: Content label
+        content: torture
+        level: strong
+        title_list:
+          - Reservoir Dogs (1992)
+          - Taken (2008) 001
+          - Zero Dark Thirty (2013)
