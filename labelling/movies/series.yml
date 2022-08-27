@@ -1,0 +1,249 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Series: 300":
+    template:
+      - name: Series label
+        series: "300"
+        title_list:
+          - 300 (2007) 001
+          - 300 (2007) 002
+
+  "Series: Alien":
+    template:
+      - name: Series label
+        series: "Alien"
+        title_list:
+          - Alien (1979) 001
+          - Alien (1979) 002
+          - Alien (1979) 003
+          - Alien (1979) 004
+          - "Alien: Covenant (2017)"
+
+  "Series: Amazing Spider-Man":
+    template:
+      - name: Series label
+        series: "Amazing Spider-Man"
+        title_list:
+          - Amazing Spider-Man (2012) 002
+
+  "Series: Anchorman":
+    template:
+      - name: Series label
+        series: "Anchorman"
+        title_list:
+          - Anchorman (2004) 001
+
+  "Series: Ant-Man":
+    template:
+      - name: Series label
+        series: "Ant-Man"
+        title_list:
+          - Ant-Man (2015) 001
+
+  "Series: Avengers":
+    template:
+      - name: Series label
+        series: "Avengers"
+        title_list:
+          - Avengers (2012) 001
+          - Avengers (2012) 002
+          - Avengers (2012) 003
+
+  "Series: Back to the Future":
+    template:
+      - name: Series label
+        series: "Back to the Future"
+        title_list:
+          - Back to the Future (1985) 001
+          - Back to the Future (1985) 002
+          - Back to the Future (1985) 003
+
+  "Series: Basic Instinct":
+    template:
+      - name: Series label
+        series: "Basic Instinct"
+        title_list:
+          - Basic Instinct (1992) 001
+
+  "Series: Black Panther":
+    template:
+      - name: Series label
+        series: "Black Panther"
+        title_list:
+          - Black Panther (2018) 001
+
+  "Series: Blade Runner":
+    template:
+      - name: Series label
+        series: "Blade Runner"
+        title_list:
+          - Blade Runner (1982) 001 2007
+          - Blade Runner (1982) 002
+
+  "Series: Captain America":
+    template:
+      - name: Series label
+        series: "Captain America"
+        title_list:
+          - Captain America (2011) 002
+          - Captain America (2011) 003
+
+  "Series: The Dark Knight Saga":
+    template:
+      - name: Series label
+        series: "The Dark Knight Saga"
+        title_list:
+          - Batman Begins (2005)
+
+  "Series: Harry Potter":
+    template:
+      - name: Series label
+        series: "Harry Potter"
+        title_list:
+          - Harry Potter (2001) 001
+          - Harry Potter (2001) 002
+          - Harry Potter (2001) 003
+          - Harry Potter (2001) 004
+          - Harry Potter (2001) 005
+          - Harry Potter (2001) 006
+          - Harry Potter (2001) 007
+          - Harry Potter (2001) 008
+
+  "Series: The Hobbit":
+    template:
+      - name: Series label
+        series: "The Hobbit"
+        title_list:
+          - Hobbit (2012) 001
+          - Hobbit (2012) 002
+          - Hobbit (2012) 003
+
+  "Series: James Bond (Eon Productions)":
+    template:
+      - name: Series label
+        series: "James Bond (Eon Productions)"
+        title_list:
+          - Casino Royale (2006)
+          - Diamonds Are Forever (1971)
+          - Dr. No (1962)
+          - Goldfinger (1964)
+          - For Your Eyes Only (1981)
+          - From Russia with Love (1963)
+          - Live and Let Die (1973)
+          - Man with the Golden Gun (1974)
+          - Moonraker (1979)
+          - No Time to Die (2021)
+          - Octopussy (1983)
+          - On Her Majesty's Secret Service (1969)
+          - Quantum of Solace (2008)
+          - Skyfall (2012)
+          - Spectre (2015)
+          - Spy Who Loved Me (1977)
+          - Thunderball (1965)
+          - You Only Live Twice (1967)
+
+  "Series: Jurassic Park":
+    template:
+      - name: Series label
+        series: "Jurassic Park"
+        title_list:
+          - Jurassic Park (1993) 001
+          - Jurassic Park (1993) 002
+          - Jurassic Park (1993) 003
+
+  "Series: Jurassic World":
+    template:
+      - name: Series label
+        series: "Jurassic World"
+        title_list:
+          - Jurassic World (2015) 001
+          - Jurassic World (2015) 002
+
+  "Series: The Lord of the Rings":
+    template:
+      - name: Series label
+        series: "The Lord of the Rings"
+        title_list:
+          - Lord of the Rings (2001) 001B
+          - Lord of the Rings (2001) 002B
+          - Lord of the Rings (2001) 003B
+
+  "Series: Michael Bay's Transformers":
+    template:
+      - name: Series label
+        series: "Michael Bay's Transformers"
+        title_list:
+          - Transformers (2007) 001
+          - Transformers (2007) 002
+          - Transformers (2007) 003
+
+  "Series: The Muppets":
+    template:
+      - name: Series label
+        series: "The Muppets"
+        title_list:
+          - Muppets from Space (1999)
+          - Muppet Treasure Island (1996)
+
+  "Series: Resident Evil (2002)":
+    template:
+      - name: Series label
+        series: "Resident Evil (2002)"
+        title_list:
+          - Resident Evil (2002) 001
+          - Resident Evil (2002) 002
+          - Resident Evil (2002) 003
+          - Resident Evil (2002) 004
+          - Resident Evil (2002) 005
+          - Resident Evil (2002) 006
+
+  "Series: Resident Evil (2021)":
+    template:
+      - name: Series label
+        series: "Resident Evil (2021)"
+        title_list:
+          - Resident Evil (2021) 001
+
+  "Series: Saw":
+    template:
+      - name: Series label
+        series: "Saw"
+        title_list:
+          - Saw (2004) 001
+          - Saw (2004) 002
+          - Saw (2004) 003
+          - Saw (2004) 004
+          - Saw (2004) 005
+          - Saw (2004) 006
+          - Saw (2004) 007
+          - Spiral (2021)
+
+  "Series: Star Wars":
+    template:
+      - name: Series label
+        series: "Star Wars"
+        title_list:
+          - "Rogue One: A Star Wars Story (2016)"
+          - "Solo: A Star Wars Story (2018)"
+          - Star Wars 001
+          - Star Wars 002
+          - Star Wars 003
+          - Star Wars 004
+          - Star Wars 005
+          - Star Wars 006
+          - Star Wars 007
+          - Star Wars 008
+          - Star Wars 009
+          - "Star Wars: The Clone Wars (2008)"
+
+  "Series: Tim Burton's Batman":
+    template:
+      - name: Series label
+        series: "Tim Burton's Batman"
+        title_list:
+          - Batman (1989) 001
+          - Batman (1989) 002
+          - Batman (1989) 003
+          - Batman (1989) 004
