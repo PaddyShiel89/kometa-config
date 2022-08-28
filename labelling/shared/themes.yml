@@ -1,0 +1,12 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+  - repo: templates/source/IMDb
+
+collections:
+  "Theme: based on a true story":
+    template:
+      - name: imdb_keyword_list
+        keyword: based-on-true-story
+      - name: Theme label (external source)
+        theme: based on a true story
+    schedule: weekly(monday)

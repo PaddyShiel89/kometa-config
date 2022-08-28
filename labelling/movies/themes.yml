@@ -1,6 +1,5 @@
 external_templates:
   - repo: templates/collection_type/Collectionless_Label
-  - repo: templates/source/IMDb
 
 collections:
   "Theme: aliens":
@@ -49,14 +48,6 @@ collections:
           - Under the Skin (2014)
           - World's End (2013)
         theme: "aliens"
-
-  "Theme: based on a true story":
-    template:
-      - name: imdb_keyword_list
-        keyword: based-on-true-story
-      - name: Theme label (external source)
-        theme: based on a true story
-    schedule: weekly(monday)
 
   "Theme: erotic":
     template:
