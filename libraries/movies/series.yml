@@ -24,10 +24,10 @@ collections:
       - name: Series
         summary: "that are part of the DC Extended Universe."
         label_list:
+          - "series: Suicide Squad (2016)"
           - "series: Wonder Woman (2017)"
         title_list:
           - Birds of Prey (2020)
-          - Suicide Squad (2021)
 
   James Bond Collection:
     template:

@@ -34,6 +34,7 @@ collections:
         series: "Anchorman (2004)"
         title_list:
           - Anchorman (2004) 001
+          - Wake Up, Ron Burgundy (2004)
 
   "Series: Ant-Man (2015)":
     template:
@@ -90,12 +91,50 @@ collections:
           - Captain America (2011) 002
           - Captain America (2011) 003
 
+  "Series: Che (2008)":
+    template:
+      - name: Series label
+        series: "Che (2008)"
+        title_list:
+          - Che (2008) 001
+          - Che (2008) 002
+
   "Series: The Dark Knight Saga":
     template:
       - name: Series label
         series: "The Dark Knight Saga"
         title_list:
           - Batman Begins (2005)
+          - Dark Knight (2008)
+          - Dark Knight Rises (2012)
+
+  "Series: Die Hard (1988)":
+    template:
+      - name: Series label
+        series: "Die Hard (1988)"
+        title_list:
+          - Die Hard (1988) 001
+
+  "Series: Dune (2021)":
+    template:
+      - name: Series label
+        series: "Dune (2021)"
+        title_list:
+          - Dune (2021) 001
+
+  "Series: Emmanuelle (1974)":
+    template:
+      - name: Series label
+        series: "Emmanuelle (1974)"
+        title_list:
+          - Emmanuelle (1974) 001
+
+  "Series: Forgetting Sarah Marshall (2008)":
+    template:
+      - name: Series label
+        series: "Forgetting Sarah Marshall (2008)"
+        title_list:
+          - Get Him to the Greek (2010)
 
   "Series: Guardians of the Galaxy (2014)":
     template:
@@ -127,12 +166,34 @@ collections:
           - Hobbit (2012) 002
           - Hobbit (2012) 003
 
+  "Series: Hot Tub Time Machine (2010)":
+    template:
+      - name: Series label
+        series: "Hot Tub Time Machine (2010)"
+        title_list:
+          - Hot Tub Time Machine (2010)
+
+  "Series: I Am Curious (1968)":
+    template:
+      - name: Series label
+        series: "I Am Curious (1968)"
+        title_list:
+          - I Am Curious (1963) 001
+          - I Am Curious (1963) 002
+
   "Series: The Incredible Hulk (2008)":
     template:
       - name: Series label
         series: "The Incredible Hulk (2008)"
         title_list:
           - Incredible Hulk (2008) 001
+
+  "Series: The Incredibles (2004)":
+    template:
+      - name: Series label
+        series: "The Incredibles (2004)"
+        title_list:
+          - Incredibles (2004) 001
 
   "Series: Iron Man (2008)":
     template:
@@ -141,6 +202,14 @@ collections:
         title_list:
           - Iron Man (2008) 001
           - Iron Man (2008) 002
+
+  "Series: IT (2017)":
+    template:
+      - name: Series label
+        series: "IT (2017)"
+        title_list:
+          - IT (2017) 001
+          - IT (2017) 002
 
   "Series: James Bond (Eon Productions)":
     template:
@@ -183,6 +252,36 @@ collections:
           - Jurassic World (2015) 001
           - Jurassic World (2015) 002
 
+  "Series: Kick-Ass (2010)":
+    template:
+      - name: Series label
+        series: "Kick-Ass (2010)"
+        title_list:
+          - Kick-Ass (2010) 001
+          - Kick-Ass (2010) 002
+
+  "Series: Kingsman (2015)":
+    template:
+      - name: Series label
+        series: "Kingsman (2015)"
+        title_list:
+          - Kingsman (2014) 001
+
+  "Series: Lara Croft: Tomb Raider (2001)":
+    template:
+      - name: Series label
+        series: "Lara Croft: Tomb Raider (2001)"
+        title_list:
+          - Lara Croft: Tomb Raider (2001) 001
+
+  "Series: The Lego Movies (2014)":
+    template:
+      - name: Series label
+        series: "The Lego Movies (2014)"
+        title_list:
+          - Lego Movie (2014) 001
+          - Lego Movie (2014) 002
+
   "Series: The Lord of the Rings (2001)":
     template:
       - name: Series label
@@ -191,6 +290,31 @@ collections:
           - Lord of the Rings (2001) 001B
           - Lord of the Rings (2001) 002B
           - Lord of the Rings (2001) 003B
+
+  "Series: Machete (2010)":
+    template:
+      - name: Series label
+        series: "Machete (2010)"
+        title_list:
+          - Machete (2010) 001
+          - Machete (2010) 002
+
+  "Series: The Matrix (1999)":
+    template:
+      - name: Series label
+        series: "The Matrix (1999)"
+        title_list:
+          - Matrix (1999) 001
+          - Matrix (1999) 002
+          - Matrix (1999) 003
+
+  "Series: Men in Black (1997)":
+    template:
+      - name: Series label
+        series: "Men in Black (1997)"
+        title_list:
+          - Men in Black (1997) 001
+          - Men in Black (1997) 002
 
   "Series: Michael Bay's Transformers":
     template:
@@ -201,13 +325,47 @@ collections:
           - Transformers (2007) 002
           - Transformers (2007) 003
 
-  "Series: The Muppets":
+  "Series: The Mummy (1999)":
     template:
       - name: Series label
-        series: "The Muppets"
+        series: "The Mummy (1999)"
         title_list:
-          - Muppets from Space (1999)
-          - Muppet Treasure Island (1996)
+          - Mummy (1999) 001
+          - Mummy (1999) 002
+
+  "Series: The Naked Gun (1988)":
+    template:
+      - name: Series label
+        series: "The Naked Gun (1988)"
+        title_list:
+          - Naked Gun (1988) 001
+          - Naked Gun (1988) 002 The Smell of Fear
+          - Naked Gun (1988) 003 The Final Insult
+
+  "Series: Ocean's Eleven (2001)":
+    template:
+      - name: Series label
+        series: "Ocean's Eleven (2001)"
+        title_list:
+          - Ocean's 11 (2001) 001
+          - Ocean's 11 (2001) 002
+          - Ocean's 11 (2001) 003
+
+  "Series: Ong-Bak (2003)":
+    template:
+      - name: Series label
+        series: "Ong-Bak (2003)"
+        title_list:
+          - "Ong-Bak: Muay Thai Warrior (2003)"
+
+  "Series: Predator (1987)":
+    template:
+      - name: Series label
+        series: "Predator (1987)"
+        title_list:
+          - Predator (1987) 001
+          - Predator (1987) 002
+          - Predator (1987) 003
 
   "Series: Resident Evil (2002)":
     template:
@@ -242,12 +400,69 @@ collections:
           - Saw (2004) 007
           - Spiral (2021)
 
+  "Series: Scooby-Doo (2002)":
+    template:
+      - name: Series label
+        series: "Scooby-Doo (2002)"
+        title_list:
+          - "Scooby-Doo 2: Monsters Unleashed (2004)"
+
+  "Series: Scorpion King (2002)":
+    template:
+      - name: Series label
+        series: "Scorpion King (2002)"
+        title_list:
+
+  "Series: The Secret Life of Pets (2016)":
+    template:
+      - name: Series label
+        series: "The Secret Life of Pets (2016)"
+        title_list:
+          - Secret Life of Pets (2016) 001
+
+  "Series: Sherlock Holmes (2011)":
+    template:
+      - name: Series label
+        series: "Sherlock Holmes (2011)"
+        title_list:
+          - Sherlock Holmes (2009) 002
+
+  "Series: The Shining (1980)":
+    template:
+      - name: Series label
+        series: "The Shining (1980)"
+        title_list:
+          - Doctor Sleep (2019)
+          - Shining (1980)
+
+  "Series: Sin City (2005)":
+    template:
+      - name: Series label
+        series: "Sin City (2005)"
+        title_list:
+          - Sin City (2005) 001
+          - Sin City (2005) 002
+
+  "Series: Spider-Man (2002)":
+    template:
+      - name: Series label
+        series: "Spider-Man (2002)"
+        title_list:
+          - Spider-Man (2002) 002
+
   "Series: Spider-Man (2017)":
     template:
       - name: Series label
         series: "Spider-Man (2017)"
         title_list:
           - Spider-Man (2017) 001
+
+  "Series: Star Trek (2009)":
+    template:
+      - name: Series label
+        series: "Star Trek (2009)"
+        title_list:
+          - Star Trek (2009) 001
 
   "Series: Star Wars":
     template:
@@ -267,6 +482,20 @@ collections:
           - Star Wars 009
           - "Star Wars: The Clone Wars (2008)"
 
+  "Series: Suicide Squad (2016)":
+    template:
+      - name: Series label
+        series: "Suicide Squad (2016)"
+        title_list:
+          - Suicide Squad (2021)
+
+  "Series: Taken (2008)":
+    template:
+      - name: Series label
+        series: "Taken (2008)"
+        title_list:
+          - Taken (2008) 001
+
   "Series: Thor (2011)":
     template:
       - name: Series label
@@ -284,6 +513,13 @@ collections:
           - Batman (1989) 002
           - Batman (1989) 003
           - Batman (1989) 004
+
+  "Series: The Whole Nine Yards (2000)":
+    template:
+      - name: Series label
+        series: "The Whole Nine Yards (2000)"
+        title_list:
+          - Whole Nine Yards (2000)
 
   "Series: Wonder Woman (2017)":
     template:
