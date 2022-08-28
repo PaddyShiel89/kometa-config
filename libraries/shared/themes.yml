@@ -28,12 +28,12 @@ collections:
 
   Based on a True Story:
     template:
-      - name: imdb_keyword_list
-        keyword: based-on-true-story
       - name: Theme
         summary: "based, however loosely, on real events."
-        use_smart_label: true
-    schedule: weekly(monday)
+    smart_filter:
+      all:
+        label: "theme: based on a true story"
+      sort_by: title.asc
 
   Based on a Videogame:
     template:
