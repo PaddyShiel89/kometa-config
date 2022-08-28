@@ -1,0 +1,11 @@
+playlists:
+  Watched but unrated:
+    plex_all:
+      unplayed: false
+      rating.rated: false
+      sort_by: title.asc
+    libraries: Movies, TV shows, Stand-up comedy, Documentaries
+    minimum_items: 1
+    delete_below_minimum: true
+    summary: All media that has been watched but hasn't been rated.
+    sync_mode: sync
