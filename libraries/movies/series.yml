@@ -1,6 +1,5 @@
 external_templates:
   - repo: templates/collection_type/Series
-  - repo: templates/source/IMDb
 
 # Note 1: All summary text is prepended with the library type.
 
@@ -12,83 +11,90 @@ collections:
     template:
       - name: Series
         summary: "that are part of the Alien series."
-    smart_filter:
-      all:
-        label: "series: Alien (1979)"
+        label_list: "series: Alien (1979)"
+
   Back to the Future Collection:
     template:
       - name: Series
         summary: "that are part of the Back to the Future series."
-    smart_filter:
-      all:
-        label: "series: Back to the Future (1985)"
+        label_list: "series: Back to the Future (1985)"
+
   DC Extended Universe:
     template:
-      - name: imdb_keyword_list
-        keyword: dc-extended-universe
       - name: Series
         summary: "that are part of the DC Extended Universe."
-        use_smart_label: true
+        label_list:
+          - "series: Suicide Squad (2016)"
+          - "series: Wonder Woman (2017)"
+        title_list:
+          - Birds of Prey (2020)
+
   James Bond Collection:
     template:
       - name: Series
         summary: "that are part of Eon Production's James Bond series."
-    smart_filter:
-      all:
-        label: "series: James Bond (1962)"
+        label_list: "series: James Bond (Eon Productions)"
+
   Jurassic Park Collection:
     template:
       - name: Series
         summary: "that are part of the Jurassic Park series, including Jurassic World."
-    smart_filter:
-      all:
-        label: "series: Jurassic Park (1993)"
+        label_list:
+          - "series: Jurassic Park (1993)"
+          - "series: Jurassic World (2015)"
+
   Marvel Cinematic Universe:
     template:
-      - name: imdb_keyword_list
-        keyword: marvel-cinematic-universe
       - name: Series
         summary: "that are part of the Marvel Cinematic Universe."
-        use_smart_label: true
+        label_list:
+          - "series: Ant-Man (2015)"
+          - "series: Avengers (2012)"
+          - "series: Black Panther (2018)"
+          - "series: Captain America (2011)"
+          - "series: Guardians of the Galaxy (2014)"
+          - "series: The Incredible Hulk (2008)"
+          - "series: Iron Man (2008)"
+          - "series: Spider-Man (2017)"
+          - "series: Thor (2011)"
+
   Muppets Collection:
     template:
       - name: Series
         summary: "featuring Jim Henson's Muppets."
-    smart_filter:
-      all:
-        label: "series: Muppets"
+        label_list: "series: The Muppets"
+
   Resident Evil Collection:
     template:
       - name: Series
         summary: "that are based on the Resident Evil series of games."
-    smart_filter:
-      all:
-        label: "series: Resident Evil"
+        label_list:
+          - "series: Resident Evil (2002)"
+          - "series: Resident Evil (2021)"
+
   Saw Collection:
     template:
       - name: Series
         summary: "that are part of the Saw horror franchise."
-    smart_filter:
-      all:
-        label: "series: Saw (2004)"
+        label_list: "series: Saw (2004)"
+
   The Three Flavours Cornetto:
     template:
       - name: Series
         summary: "in the Three Flavours Cornetto trilogy by Edgar Wright and Simon Pegg."
-    smart_filter:
-      all:
-        label: "series: The Three Flavours Cornetto (2004)"
+        title_list:
+          - Hot Fuzz (2007)
+          - Shaun of the Dead (2004)
+          - World's End (2013)
+
   Transformers Collection:
     template:
       - name: Series
         summary: "that are part of Michael Bay's Transformers franchise."
-    smart_filter:
-      all:
-        label: "series: Transformers (2007)"
+        label_list: "series: Michael Bay's Transformers"
+
   Wizarding World:
     template:
       - name: Series
         summary: "that are part of the Harry Potter franchise."
-    smart_filter:
-      all:
-        label: "series: Wizarding World (2001)"
+        label_list: "series: Harry Potter (2001)"
