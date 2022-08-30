@@ -3,6 +3,26 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
+  "Theme: based on a book":
+    template:
+      - name: imdb_keyword_list
+        keyword: based-on-book
+        keyword2: based-on-novel
+        keyword3: based-on-novella
+        keyword4: based-on-short-story
+      - name: Theme label (external source)
+        theme: based on a book
+    schedule: weekly(tuesday)
+
+  "Theme: based on a comic book":
+    template:
+      - name: imdb_keyword_list
+        keyword: based-on-comic
+        keyword2: based-on-comic-book
+      - name: Theme label (external source)
+        theme: based on a comic book
+    schedule: weekly(wednesday)
+
   "Theme: based on a true story":
     template:
       - name: imdb_keyword_list
@@ -10,3 +30,18 @@ collections:
       - name: Theme label (external source)
         theme: based on a true story
     schedule: weekly(monday)
+
+  "Theme: based on a videogame":
+    template:
+      - name: imdb_keyword_list
+        keyword: based-on-video-game
+      - name: Theme label (external source)
+        theme: based on a videogame
+    schedule: weekly(thursday)
+
+  "Theme: Stephen King":
+    template:
+      - name: imdb_keyword_list
+        keyword: based-on-the-works-of-stephen-king
+      - name: Theme label (external source)
+        theme: based on Stephen King
