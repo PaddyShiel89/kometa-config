@@ -52,9 +52,6 @@ templates:
     plex_search:
       any:
         title: <<title_list>>
-    filters:
-      filepath: <<include_titles>>
-      filepath.not: <<exclude_titles>>
     item_label: "theme: <<theme>>"
     build_collection: false
     sync_mode: sync
@@ -63,3 +60,6 @@ templates:
     item_label: "theme: <<theme>>"
     build_collection: false
     sync_mode: sync
+    filters:
+      filepath: <<include_titles>>
+      filepath.not: <<exclude_titles>>
