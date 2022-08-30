@@ -12,8 +12,11 @@ collections:
       - name: Series
         summary: "on elements of Peter Jackson's Middle-earth saga."
     smart_filter:
-      all:
-        label: "series: Middle-earth (2001)"
+      any:
+        label:
+          - "series: The Hobbit (2012)"
+          - "series: The Lord of the Rings (2001)"
+
   Star Wars Collection:
     template:
       - name: Series
