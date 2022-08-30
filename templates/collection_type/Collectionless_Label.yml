@@ -46,9 +46,15 @@ templates:
     sync_mode: sync
 
   Theme label:
+    optional:
+      - include_titles
+      - exclude_titles
     plex_search:
       any:
         title: <<title_list>>
+    filters:
+      filepath: <<include_titles>>
+      filepath.not: <<exclude_titles>>
     item_label: "theme: <<theme>>"
     build_collection: false
     sync_mode: sync
