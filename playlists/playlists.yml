@@ -1,8 +1,9 @@
 playlists:
   Watched but unrated:
-    plex_all:
-      unplayed: false
-      rating.rated: false
+    plex_search:
+      all:
+        unplayed: false
+        user_rating.lte: 0.0
       sort_by: title.asc
     libraries: Movies, TV shows, Stand-up comedy, Documentaries
     minimum_items: 1

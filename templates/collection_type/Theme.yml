@@ -1,16 +1,7 @@
 templates:
   Theme:
-    conditionals:
-      title_sort:
-        conditions:
-          - use_smart_label: true
-            value: title.asc
-    default:
-      poster_folder: <<library_name>>
-      use_smart_label: false
     optional:
       - summary
-    smart_label: <<title_sort>>
     collection_mode: hide
     file_poster: /config/assets/themes/<<poster_folder>>/<<collection_name>>.png
     sort_title: "!02_<<collection_name>>"
