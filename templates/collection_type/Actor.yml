@@ -1,9 +1,11 @@
 templates:
   Actor:
-    actor: tmdb
+    smart_filter:
+      all:
+        actor: tmdb
+      sort_by: release.asc
     tmdb_actor_details: <<person>>
     tmdb_person: <<person>>
-    smart_label: release.asc
     collection_mode: hide
     file_poster: /config/assets/actors/<<person>>.png
     sort_title: "!03_<<collection_name>>"

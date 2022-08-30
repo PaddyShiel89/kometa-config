@@ -1,8 +1,11 @@
 templates:
   Director:
+    smart_filter:
+      all:
+        director: tmdb
+      sort_by: release.asc
     tmdb_director_details: <<person>>
     tmdb_person: <<person>>
-    smart_label: release.asc
     collection_mode: hide
     file_poster: /config/assets/directors/<<person>>.png
     sort_title: "!04_<<collection_name>>"
