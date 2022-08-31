@@ -412,6 +412,7 @@ collections:
       - name: Series label
         series: "Scorpion King (2002)"
         title_list:
+          - Scorpion King (2002) 001
 
   "Series: The Secret Life of Pets (2016)":
     template:
