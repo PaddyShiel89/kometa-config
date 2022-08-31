@@ -272,7 +272,7 @@ collections:
       - name: Series label
         series: "Lara Croft: Tomb Raider (2001)"
         title_list:
-          - Lara Croft: Tomb Raider (2001) 001
+          - "Lara Croft: Tomb Raider (2001) 001"
 
   "Series: The Lego Movies (2014)":
     template:
