@@ -4,7 +4,6 @@ templates:
       all:
         director: tmdb
       sort_by: release.asc
-    tmdb_director_details: <<person>>
     tmdb_person: <<person>>
     collection_mode: hide
     file_poster: /config/assets/directors/<<person>>.png

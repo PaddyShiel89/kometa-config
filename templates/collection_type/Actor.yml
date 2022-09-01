@@ -4,7 +4,6 @@ templates:
       all:
         actor: tmdb
       sort_by: release.asc
-    tmdb_actor_details: <<person>>
     tmdb_person: <<person>>
     collection_mode: hide
     file_poster: /config/assets/actors/<<person>>.png
