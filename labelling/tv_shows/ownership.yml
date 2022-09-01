@@ -1,0 +1,55 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Ownership: own":
+    template:
+      - name: Ownership label
+        status: "own"
+        title_list:
+          - Big Bang Theory (2006)
+          - Black Books (2000)
+          - Buffy the Vampire Slayer (1997)
+          - Dad's Army (1968)
+          - Euphoria (2019)
+          - Frankie Boyle's Tramadol Nights (2010)
+          - Friends (1994) # Mix
+          - Game of Thrones (2011)
+          - Heroes (2006)
+          - "Hyperdimension Neptunia: The Animation (2013)"
+          - IT Crowd (2006)
+          - Lenny Henry in Pieces (2000)
+          - Only Fools and Horses (1981) # Mix
+          - Porridge (1974)
+          - Robot Chicken (2001) # Mix
+          - Scrubs (2001)
+          - Spaced (1999)
+          - Star Wars Rebels (2014)
+          - "Star Wars: The Clone Wars (2008)"
+          - True Blood (2008)
+          - Westworld (2016) # Mix
+          - White Lotus (2021)
+
+  "Ownership: own different source":
+    template:
+      - name: Ownership label
+        status: "own different source"
+        title_list:
+          - Borgias (2011)
+          - Fawlty Towers (1975)
+
+  "Ownership: rented/loaned":
+    template:
+      - name: Ownership label
+        status: "rented/loaned"
+        title_list:
+          - Carnival Row (2019)
+          - Friends (1994) # Mix
+          - Haunting of Hill House (2018)
+          - Man in the High Castle (2015)
+          - Marvelous Mrs Maisel (2017)
+          - Only Fools and Horses (1981) # Mix
+          - Robot Chicken (2001) # Mix
+          - That 70s Show (1998)
+          - Westworld (2016) # Mix
+          - Wheel of Time (2021)
