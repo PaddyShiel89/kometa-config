@@ -10,11 +10,11 @@ collections:
         keyword2: based-on-novel
         keyword3: based-on-novella
         keyword4: based-on-short-story
-      - name: Theme label (external source)
-        theme: based on a book
         exclude_titles:
           - Watchmen (2009)
-    schedule: weekly(tuesday)
+      - name: Theme label (external source)
+        theme: based on a book
+  schedule: weekly(friday)
 
   "Theme: based on a comic book":
     template:
@@ -23,7 +23,7 @@ collections:
         keyword2: based-on-comic-book
       - name: Theme label (external source)
         theme: based on a comic book
-    schedule: weekly(wednesday)
+    schedule: weekly(saturday)
 
   "Theme: based on a true story":
     template:
@@ -31,7 +31,7 @@ collections:
         keyword: based-on-true-story
       - name: Theme label (external source)
         theme: based on a true story
-    schedule: weekly(monday)
+    schedule: weekly(sunday)
 
   "Theme: based on a videogame":
     template:
@@ -39,7 +39,7 @@ collections:
         keyword: based-on-video-game
       - name: Theme label (external source)
         theme: based on a videogame
-    schedule: weekly(thursday)
+    schedule: weekly(monday)
 
   "Theme: Stephen King":
     template:
@@ -47,3 +47,4 @@ collections:
         keyword: based-on-the-works-of-stephen-king
       - name: Theme label (external source)
         theme: based on Stephen King
+    schedule: weekly(tuesday)

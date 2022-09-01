@@ -8,6 +8,7 @@ templates:
 
   imdb_keyword_list:
     optional:
+      - exclude_titles
       - keyword2
       - keyword3
       - keyword4
@@ -36,6 +37,8 @@ templates:
       - https://www.imdb.com/search/keyword/?keywords=<<keyword8>><<title_type>>
       - https://www.imdb.com/search/keyword/?keywords=<<keyword9>><<title_type>>
       - https://www.imdb.com/search/keyword/?keywords=<<keyword10>><<title_type>>
+    filters:
+      filepath.not: <<exclude_titles>>
 
   imdb_user_list:
     optional:
