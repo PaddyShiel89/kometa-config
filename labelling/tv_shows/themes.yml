@@ -1,0 +1,51 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Theme: aliens":
+    template:
+      - name: Theme label
+        title_list:
+          - Star Wars Rebels (2014)
+          - "Star Wars: The Clone Wars (2008)"
+        theme: "aliens"
+
+  "Theme: foreign language":
+    template:
+      - name: Theme label
+        title_list:
+          - "Hyperdimension Neptunia: The Animation (2013)"
+        theme: "foreign language"
+
+  "Theme: magic":
+    template:
+      - name: Theme label
+        title_list:
+          - Buffy the Vampire Slayer (1997)
+          - "Hyperdimension Neptunia: The Animation (2013)"
+          - True Blood (2008)
+          - Wheel of Time (2021)
+        theme: "magic"
+
+  "Theme: spoof":
+    template:
+      - name: Theme label
+        title_list:
+          - Spaced (1999)
+        theme: "spoof"
+
+  "Theme: supernatural":
+    template:
+      - name: Theme label
+        title_list:
+          - Buffy the Vampire Slayer (1997)
+          - Carnival Row (2019)
+          - Haunting of Hill House (2018)
+        theme: "supernatural"
+
+  "Theme: videogames":
+    template:
+      - name: Theme label
+        title_list:
+          - "Hyperdimension Neptunia: The Animation (2013)"
+        theme: "videogames"
