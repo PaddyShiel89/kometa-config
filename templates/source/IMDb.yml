@@ -4,7 +4,9 @@ templates:
     sync_mode: sync
 
   imdb_group_list:
-    imdb_list: https://www.imdb.com/search/title/?groups=<<group>>
+    default:
+      search_string: ""
+    imdb_list: https://www.imdb.com/search/title/?groups=<<group>><<search_string>>
 
   imdb_keyword_list:
     optional:

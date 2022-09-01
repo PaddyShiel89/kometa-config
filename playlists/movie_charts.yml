@@ -1,0 +1,45 @@
+external_templates:
+  - repo: templates/source/IMDb
+
+playlists:
+  Empire's 100 Greatest Movies:
+    template:
+      - name: imdb_user_list
+        list_id: ls567669591
+    libraries: Movies
+    summary: "Empire asked readers to share their picks for the best films of all time - ones that comfort, challenge and pioneer. Films that blow your mind, help you see things from a new perspective, and that continue to shape cinema as we know it today. Films that make you feel something. Combining reader votes with critic's choices from Team Empire, here we have it - the latest version of the 100 Greatest Movies list."
+    sync_mode: sync
+    filter:
+      label.not: Secondary_Cut
+
+  IMDb Lowest Rated:
+    imdb_chart: lowest_rated
+    libraries: Movies
+    sync_mode: sync
+    filter:
+      label.not: Secondary_Cut
+
+  IMDb Popular:
+    imdb_chart: popular_movies
+    summary: "The most popular movies right now as determined by IMDb users."
+    libraries: Movies
+    sync_mode: sync
+    filter:
+      label.not: Secondary_Cut
+
+  IMDb Top 250:
+    imdb_chart: top_movies
+    libraries: Movies
+    sync_mode: sync
+    filter:
+      label.not: Secondary_Cut
+
+  Oscars Best Picture Winners:
+    template:
+      - name: imdb_group_list
+        group: oscar_best_picture_winners
+        search_string: "&sort=release_date,desc"
+    libraries: Movies
+    sync_mode: sync
+    filter:
+      label.not: Secondary_Cut
