@@ -10,11 +10,12 @@ collections:
         keyword2: based-on-novel
         keyword3: based-on-novella
         keyword4: based-on-short-story
-        exclude_titles:
-          - Watchmen (2009)
       - name: Theme label (external source)
         theme: based on a book
-  schedule: weekly(friday)
+    filters:
+      filepath.not:
+        - Watchmen (2009)
+    schedule: weekly(friday)
 
   "Theme: based on a comic book":
     template:
