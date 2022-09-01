@@ -12,6 +12,8 @@ collections:
         keyword4: based-on-short-story
       - name: Theme label (external source)
         theme: based on a book
+        exclude_titles:
+          - Watchmen (2009)
     schedule: weekly(tuesday)
 
   "Theme: based on a comic book":
