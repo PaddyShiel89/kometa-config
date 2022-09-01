@@ -1,0 +1,11 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: drug use (strong)":
+    template:
+      - name: Content label
+        content: drug use
+        level: strong
+        title_list:
+          - Marvelous Mrs Maisel (2017)

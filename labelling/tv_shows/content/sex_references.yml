@@ -1,0 +1,32 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: sex references (mild)":
+    template:
+      - name: Content label
+        content: sex references
+        level: mild
+        title_list:
+          - Friends (1994)
+
+  "Content: sex references (moderate)":
+    template:
+      - name: Content label
+        content: sex references
+        level: moderate
+        title_list:
+          - Big Bang Theory (2006)
+          - IT Crowd (2006)
+          - Scrubs (2001)
+          - That 70s Show (1998)
+
+  "Content: sex references (strong)":
+    template:
+      - name: Content label
+        content: sex references
+        level: strong
+        title_list:
+          - Carnival Row (2019)
+          - Marvelous Mrs Maisel (2017)
+          - Robot Chicken (2001)

@@ -1,0 +1,12 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: suicide":
+    template:
+      - name: Content label
+        content: suicide
+        level: none
+        title_list:
+          - Man in the High Castle (2015)
+          - Robot Chicken (2001)
