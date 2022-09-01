@@ -1,0 +1,49 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: violence (mild)":
+    template:
+      - name: Content label
+        content: violence
+        level: mild
+        title_list:
+          - Star Wars Rebels (2014)
+
+  "Content: violence (moderate)":
+    template:
+      - name: Content label
+        content: violence
+        level: moderate
+        title_list:
+          - "Star Wars: The Clone Wars (2008)"
+
+  "Content: violence (strong)":
+    template:
+      - name: Content label
+        content: violence
+        level: strong
+        title_list:
+          - Borgias (2011)
+          - Buffy the Vampire Slayer (1997)
+          - Carnival Row (2019)
+          - Heroes (2006)
+          - True Blood (2008)
+
+  "Content: violence (bloody)":
+    template:
+      - name: Content label
+        content: violence
+        level: bloody
+        title_list:
+          - Borgias (2011)
+          - Buffy the Vampire Slayer (1997)
+
+  "Content: violence (fantasy)":
+    template:
+      - name: Content label
+        content: violence
+        level: fantasy
+        title_list:
+          - Star Wars Rebels (2014)
+          - "Star Wars: The Clone Wars (2008)"

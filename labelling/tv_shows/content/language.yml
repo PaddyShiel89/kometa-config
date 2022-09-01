@@ -1,0 +1,41 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: language (mild)":
+    template:
+      - name: Content label
+        content: language
+        level: mild
+        title_list:
+          - Dad's Army (1968)
+          - Friends (1994)
+
+  "Content: language (strong)":
+    template:
+      - name: Content label
+        content: language
+        level: strong
+        title_list:
+          - Black Books (2000)
+          - IT Crowd (2006)
+          - Man in the High Castle (2015)
+          - Marvelous Mrs Maisel (2017)
+          - Robot Chicken (2001)
+
+  "Content: language (very strong)":
+    template:
+      - name: Content label
+        content: language
+        level: very strong
+        title_list:
+          - Carnival Row (2019)
+          - Game of Thrones (2011)
+
+  "Content: language (bleeped)":
+    template:
+      - name: Content label
+        content: language
+        level: bleeped
+        title_list:
+          - IT Crowd (2006)

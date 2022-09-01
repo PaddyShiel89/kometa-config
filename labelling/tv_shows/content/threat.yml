@@ -1,0 +1,19 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: threat (mild)":
+    template:
+      - name: Content label
+        content: threat
+        level: mild
+        title_list:
+          - Star Wars Rebels (2014)
+
+  "Content: threat (strong)":
+    template:
+      - name: Content label
+        content: threat
+        level: strong
+        title_list:
+          - Man in the High Castle (2015)

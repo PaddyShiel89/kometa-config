@@ -1,0 +1,12 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: gore (strong)":
+    template:
+      - name: Content label
+        content: gore
+        level: strong
+        title_list:
+          - Carnival Row (2019)
+          - True Blood (2008)

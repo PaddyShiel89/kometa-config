@@ -1,0 +1,19 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: drug references (moderate)":
+    template:
+      - name: Content label
+        content: drug references
+        level: moderate
+        title_list:
+          - That 70s Show (1998)
+
+  "Content: drug references (soft)":
+    template:
+      - name: Content label
+        content: drug references
+        level: soft
+        title_list:
+          - That 70s Show (1998)

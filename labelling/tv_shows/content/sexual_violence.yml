@@ -1,0 +1,11 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: sexual violence (strong)":
+    template:
+      - name: Content label
+        content: sexual violence
+        level: strong
+        title_list:
+          - Borgias (2011)
