@@ -11,9 +11,7 @@ collections:
     template:
       - name: Series
         summary: "on elements of Peter Jackson's Middle-earth saga."
-    smart_filter:
-      any:
-        label:
+        label_list:
           - "series: The Hobbit (2012)"
           - "series: The Lord of the Rings (2001)"
 
@@ -21,6 +19,5 @@ collections:
     template:
       - name: Series
         summary: "that are part of the Star Wars saga."
-    smart_filter:
-      all:
-        label: "series: Star Wars"
+        label_list:
+          - "series: Star Wars"
