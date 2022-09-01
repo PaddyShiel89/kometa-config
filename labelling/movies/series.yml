@@ -272,7 +272,7 @@ collections:
       - name: Series label
         series: "Lara Croft: Tomb Raider (2001)"
         title_list:
-          - Lara Croft: Tomb Raider (2001) 001
+          - "Lara Croft: Tomb Raider (2001) 001"
 
   "Series: The Lego Movies (2014)":
     template:
@@ -412,6 +412,7 @@ collections:
       - name: Series label
         series: "Scorpion King (2002)"
         title_list:
+          - Scorpion King (2002) 001
 
   "Series: The Secret Life of Pets (2016)":
     template:
