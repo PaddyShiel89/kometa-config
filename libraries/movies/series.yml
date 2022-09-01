@@ -62,7 +62,9 @@ collections:
     template:
       - name: Series
         summary: "featuring Jim Henson's Muppets."
-        label_list: "series: The Muppets"
+        title_list:
+          - Muppet Treasure Island (1996)
+          - Muppets from Space (1999)
 
   Resident Evil Collection:
     template:
