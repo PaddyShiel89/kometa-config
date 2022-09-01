@@ -50,6 +50,14 @@ collections:
     tmdb_movie: 10867
     summary: "Amidst the war climate, a teenage boy discovering himself becomes love-stricken by Malèna, a sensual woman living in a small, narrow-minded Italian town."
 
+  Police Story 2:
+    template:
+      - name: Edition
+        poster_file_name: "Police Story (1985) 002"
+    sort_title: "Police Story (1985) 002"
+    tmdb_movie: 10753
+    summary: "The Hong Kong supercop must stop a group of blackmailing bombers, while old enemies are out for revenge."
+
   Salt:
     template:
       - name: Edition

@@ -358,6 +358,15 @@ collections:
         title_list:
           - "Ong-Bak: Muay Thai Warrior (2003)"
 
+  "Series: Police Story (1985)":
+    template:
+      - name: Series label
+        series: "Police Story (1985)"
+        title_list:
+          - Police Story (1985) 001
+          - Police Story (1985) 002A
+          - Police Story (1985) 002B
+
   "Series: Predator (1987)":
     template:
       - name: Series label
