@@ -53,7 +53,7 @@ collections:
   Police Story 2:
     template:
       - name: Edition
-        poster_file_name: "Police Story (1985) 002"
+        poster_file_name: "Police Story 2 (1988)"
     sort_title: "Police Story (1985) 002"
     tmdb_movie: 10753
     summary: "The Hong Kong supercop must stop a group of blackmailing bombers, while old enemies are out for revenge."
