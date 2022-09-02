@@ -9,6 +9,7 @@ playlists:
     libraries: Movies
     summary: "Empire asked readers to share their picks for the best films of all time - ones that comfort, challenge and pioneer. Films that blow your mind, help you see things from a new perspective, and that continue to shape cinema as we know it today. Films that make you feel something. Combining reader votes with critic's choices from Team Empire, here we have it - the latest version of the 100 Greatest Movies list."
     sync_mode: sync
+    file_poster: /config/assets/playlists/Empire's 100 Greatest Movies.png
     filter:
       label.not: Secondary_Cut
 
@@ -16,6 +17,7 @@ playlists:
     imdb_chart: lowest_rated
     libraries: Movies
     sync_mode: sync
+    file_poster: /config/assets/playlists/IMDb Lowest Rated.png
     filter:
       label.not: Secondary_Cut
 
@@ -24,6 +26,7 @@ playlists:
     summary: "The most popular movies right now as determined by IMDb users."
     libraries: Movies
     sync_mode: sync
+    file_poster: /config/assets/playlists/IMDb Popular.png
     filter:
       label.not: Secondary_Cut
 
@@ -31,6 +34,7 @@ playlists:
     imdb_chart: top_movies
     libraries: Movies
     sync_mode: sync
+    file_poster: /config/assets/playlists/IMDb Top 250.png
     filter:
       label.not: Secondary_Cut
 
@@ -41,5 +45,6 @@ playlists:
         search_string: "&sort=release_date,desc"
     libraries: Movies
     sync_mode: sync
+    file_poster: /config/assets/playlists/Oscars Best Picture Winners.png
     filter:
       label.not: Secondary_Cut
