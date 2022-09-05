@@ -15,14 +15,6 @@ templates:
     build_collection: false
     sync_mode: sync
 
-  Edition label:
-    plex_search:
-      any:
-        title: <<title_list>>
-    item_label: "edition: <<edition>>"
-    build_collection: false
-    sync_mode: sync
-
   Ownership label:
     plex_search:
       any:
