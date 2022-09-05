@@ -1,14 +1,11 @@
-external_templates:
-  - repo: templates/collection_type/Collectionless_Label
-
 collections:
-  # Assign the "edition: secondary" label to movies with multiple editions so
-  # that they can be excluded from certain collections.
+  # Assign the "Secondary_Cut" label to movies with multiple editions so that
+  # they can be excluded from certain collections. Formatting as "edition:
+  # secondary" does not appear to work for for some reason.
   "Edition: Secondary":
-    template:
-      - name: Edition label
-        edition: secondary
-        title_list:
+    plex_search:
+      any:
+        title:
           - Alien (1979) 001 2003 Director's cut
           - Alien (1979) 002 1990 Special Edition
           - Alien (1979) 003B
@@ -34,3 +31,6 @@ collections:
           - Star Wars 006 (1983) 2016
           - Star Wars 006 (1983) 2019
           - Sucker Punch (2011) 001B
+    item_label: "Secondary_Cut"
+    build_collection: false
+    sync_mode: sync
