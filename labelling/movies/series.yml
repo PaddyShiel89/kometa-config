@@ -453,6 +453,13 @@ collections:
           - Sin City (2005) 001
           - Sin City (2005) 002
 
+  "Series: Species (1995)":
+    template:
+      - name: Series label
+        series: "Species (1995)"
+        title_list:
+          - Species (1995) 001
+
   "Series: Spider-Man (2002)":
     template:
       - name: Series label

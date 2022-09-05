@@ -1,0 +1,36 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  # Assign the "edition: secondary" label to movies with multiple editions so
+  # that they can be excluded from certain collections.
+  "Edition: Secondary":
+    template:
+      - name: Edition label
+        edition: secondary
+        title_list:
+          - Alien (1979) 001 2003 Director's cut
+          - Alien (1979) 002 1990 Special Edition
+          - Alien (1979) 003B
+          - Alien (1979) 004B
+          - American Gangster (2007) 001B
+          - Salt (2010) 001B
+          - Salt (2010) 001C
+          - Star Wars 001 (1999) 2001
+          - Star Wars 002 (2002) 2002B
+          - Star Wars 003 (2005) 2005B
+          - Star Wars 004 (1977) 1997
+          - Star Wars 004 (1977) 2004
+          - Star Wars 004 (1977) 2011
+          - Star Wars 004 (1977) 2016
+          - Star Wars 004 (1977) 2018
+          - Star Wars 005 (1980) 1997
+          - Star Wars 005 (1980) 2004
+          - Star Wars 005 (1980) 2011
+          - Star Wars 005 (1980) 2016
+          - Star Wars 006 (1983) 1997
+          - Star Wars 006 (1983) 2004
+          - Star Wars 006 (1983) 2011
+          - Star Wars 006 (1983) 2016
+          - Star Wars 006 (1983) 2019
+          - Sucker Punch (2011) 001B

@@ -11,7 +11,7 @@ playlists:
     sync_mode: sync
     file_poster: /config/assets/playlists/Empire's 100 Greatest Movies.png
     filter:
-      label.not: Secondary_Cut
+      label.not: "edition: secondary"
 
   IMDb Lowest Rated:
     imdb_chart: lowest_rated
@@ -19,7 +19,7 @@ playlists:
     sync_mode: sync
     file_poster: /config/assets/playlists/IMDb Lowest Rated.png
     filter:
-      label.not: Secondary_Cut
+      label.not: "edition: secondary"
 
   IMDb Popular:
     imdb_chart: popular_movies
@@ -28,7 +28,7 @@ playlists:
     sync_mode: sync
     file_poster: /config/assets/playlists/IMDb Popular.png
     filter:
-      label.not: Secondary_Cut
+      label.not: "edition: secondary"
 
   IMDb Top 250:
     imdb_chart: top_movies
@@ -36,7 +36,7 @@ playlists:
     sync_mode: sync
     file_poster: /config/assets/playlists/IMDb Top 250.png
     filter:
-      label.not: Secondary_Cut
+      label.not: "edition: secondary"
 
   Oscars Best Picture Winners:
     template:
@@ -47,4 +47,4 @@ playlists:
     sync_mode: sync
     file_poster: /config/assets/playlists/Oscars Best Picture Winners.png
     filter:
-      label.not: Secondary_Cut
+      label.not: "edition: secondary"

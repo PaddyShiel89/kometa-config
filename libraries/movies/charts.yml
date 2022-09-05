@@ -9,5 +9,5 @@ collections:
         chart: popular
       - name: Smart Shared Chart
         sort: random
-        exclude_label: Secondary_Cut
+        exclude_label: "edition: secondary"
     summary: "The most popular movies right now as determined by IMDb users."

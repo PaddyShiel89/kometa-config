@@ -24,6 +24,9 @@ collections:
         keyword2: based-on-comic-book
       - name: Theme label (external source)
         theme: based on a comic book
+    filters:
+      filepath.not:
+        - Robot Chicken (2001)
     schedule: weekly(saturday)
 
   "Theme: based on a true story":
