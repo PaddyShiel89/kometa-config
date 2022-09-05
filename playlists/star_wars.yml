@@ -1,0 +1,9 @@
+playlists:
+  "Star Wars: The Machete Order":
+    sync_mode: sync
+    libraries: Movies
+    trakt_list: https://trakt.tv/users/drogsahqoom/lists/star-wars-the-machete-order?sort=rank,asc
+    summary: 'The fan-inspired "Machete Order" is the suggested way for newcomers to watch Star Wars. It removes the spoilers from watching the prequels first, with episodes II & III sandwiched between episodes V and VI, working as flashbacks after the big reveals of the original trilogy. For more info, check out the original blog post at https://tinyurl.com/starwars-machete'
+    file_poster: /config/assets/playlists/Star Wars The Machete Order.png
+    filter:
+      label.not: "edition: secondary"
