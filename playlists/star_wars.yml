@@ -7,3 +7,12 @@ playlists:
     file_poster: /config/assets/playlists/Star Wars The Machete Order.png
     filter:
       label.not: "edition: secondary"
+
+  "Star Wars: Definitive Movie Playlist":
+    sync_mode: sync
+    libraries: Movies
+    trakt_list: https://trakt.tv/users/drogsahqoom/lists/star-wars-definitive-movie-playlist?sort=rank,asc
+    summary: All films from the Star Wars saga in chronological order, and using their best editions.
+    file_poster: /config/assets/playlists/Star Wars Definitive Movie Playlist.png
+    filter:
+      label.not: "edition: secondary"
