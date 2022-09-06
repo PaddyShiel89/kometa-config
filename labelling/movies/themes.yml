@@ -140,6 +140,13 @@ collections:
           - Spiral (2021)
         theme: "murder mystery"
 
+  "Theme: parody":
+    template:
+      - name: Theme label
+        title_list:
+          - Mafia! (1998)
+        theme: "parody"
+
   "Theme: spoof":
     template:
       - name: Theme label

@@ -38,7 +38,7 @@ collections:
     smart_filter:
       any:
         label:
-          # - "theme: parody" - Currently no theme: parody label
+          - "theme: parody"
           - "theme: spoof"
       sort_by: title.asc
 
