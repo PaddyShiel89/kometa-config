@@ -31,6 +31,8 @@ collections:
           - Star Wars 006 (1983) 2016
           - Star Wars 006 (1983) 2019
           - Sucker Punch (2011) 001B
+          - Wicker Man (19973) 001B
+          - Wicker Man (19973) 001C
     item_label: "Secondary_Cut"
     build_collection: false
     sync_mode: sync

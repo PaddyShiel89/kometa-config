@@ -129,3 +129,11 @@ collections:
     sort_title: "Sucker Punch (2011) 001"
     tmdb_movie: 23629
     summary: "A young girl institutionalized by her abusive stepfather retreats to an alternative reality as a coping strategy and envisions a plan to help her escape."
+
+  "Wicker Man":
+    template:
+      - name: Edition
+        poster_file_name: "Wicker Man (1973)"
+    sort_title: "Wicker Man (1973) 001"
+    tmdb_movie: 16307
+    summary: "A puritan police sergeant arrives in a Scottish island village in search of a missing girl, who the Pagan locals claim never existed."

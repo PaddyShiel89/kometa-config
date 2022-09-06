@@ -78,3 +78,8 @@ metadata:
   23629:
     file_background: /config/assets/editions/backgrounds/Sucker Punch (2011).jpg
     summary: "A young girl institutionalized by her abusive stepfather retreats to an alternative reality as a coping strategy and envisions a plan to help her escape."
+
+  # "The Wicker Man (1973)"
+  16307:
+    file_background: /config/assets/editions/backgrounds/Wicker Man (1973).jpg
+    summary: "A puritan police sergeant arrives in a Scottish island village in search of a missing girl, who the Pagan locals claim never existed."

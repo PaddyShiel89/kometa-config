@@ -14,6 +14,7 @@ collections:
           - Avengers (2012) 001
           - Avengers (2012) 003
           - District 9 (2009)
+          - Faculty (1998)
           - Fifth Element (1997)
           - Guardians of the Galaxy (2014) 001
           - IT (2017) 001
@@ -140,12 +141,20 @@ collections:
           - Spiral (2021)
         theme: "murder mystery"
 
+  "Theme: parody":
+    template:
+      - name: Theme label
+        title_list:
+          - Mafia! (1998)
+        theme: "parody"
+
   "Theme: spoof":
     template:
       - name: Theme label
         title_list:
           - Black Dynamite (2010)
           - Hot Fuzz (2007)
+          - Fatal Instinct (1993)
           - Juan of the Dead (2012)
           - Kung Fu Hustle (2004)
           - Naked Gun (1988) 001
