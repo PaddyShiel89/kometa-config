@@ -12,6 +12,9 @@ collections:
           - Lego Movie (2014) 002
           - Toy Story (1995) 001
           - Vertigo (1958)
+          - Wicker Man (19973) 001A
+          - Wicker Man (19973) 001B
+          - Wicker Man (19973) 001C
 
   "Content: language (mild)":
     template:
@@ -134,11 +137,13 @@ collections:
           - Die Hard (1988) 001
           - Doctor Sleep (2019)
           - Ex Machina (2015)
+          - Faculty (1998)
           - Farewell, My Queen (2012)
           - Fight Club (1999)
           - French Dispatch (2021)
           - Goodfellas (1990)
           - Grand Central (2013)
+          - Hard Boiled (1992)
           - Her (2014)
           - High Fidelity (2000)
           - Hobo with a Shotgun (2011)
@@ -158,6 +163,7 @@ collections:
           - Lie (2020)
           - Machete (2010) 001
           - Machete (2010) 002
+          - Mafia! (1998)
           - Malena (2000) 001A
           - Malena (2000) 001B
           - Martha Marcy May Marlene (2011)
