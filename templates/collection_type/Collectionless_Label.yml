@@ -23,6 +23,14 @@ templates:
     build_collection: false
     sync_mode: sync
 
+  Playlist label:
+    plex_search:
+      any:
+        title: <<title_list>>
+    item_label: "playlist: <<playlist_name>>"
+    build_collection: false
+    sync_mode: sync
+
   Restriction label:
     # No search as restrictions may be complex and assorted
     item_label: "restriction: <<restriction>>"
