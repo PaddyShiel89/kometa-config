@@ -3,7 +3,7 @@ playlists:
     plex_search:
       all:
         unplayed: false
-        user_rating.lte: 0.0
+        user_rating.rating: false
       sort_by: title.asc
     libraries: Movies, TV shows, Stand-up comedy, Documentaries
     minimum_items: 1
