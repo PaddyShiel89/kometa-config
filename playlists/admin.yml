@@ -10,3 +10,4 @@ playlists:
     delete_below_minimum: true
     summary: All media that has been watched but hasn't been rated.
     sync_mode: sync
+    validate_builders: false
