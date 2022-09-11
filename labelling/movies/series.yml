@@ -423,6 +423,13 @@ collections:
         title_list:
           - Scorpion King (2002) 001
 
+  "Series: Scream (1996)":
+    template:
+      - name: Series label
+        series: "Scream (1996)"
+        title_list:
+          - Scream (1996) 001
+
   "Series: The Secret Life of Pets (2016)":
     template:
       - name: Series label
