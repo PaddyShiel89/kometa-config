@@ -22,6 +22,15 @@ collections:
         label: "theme: foreign language"
       sort_by: title.asc
 
+  Martial Arts:
+    template:
+      - name: Theme
+        summary: "prominently featuring martial arts."
+    smart_filter:
+      all:
+        label: "theme: martial arts"
+      sort_by: title.asc
+
   Murder Mystery:
     template:
       - name: Theme
