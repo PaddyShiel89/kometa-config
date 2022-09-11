@@ -1,0 +1,95 @@
+libraries:
+  Movies:
+    operations:
+      content_rating_mapper:
+        "gb/12A": "gb/12"
+        None: "gb/Unrated"
+      genre_mapper:
+        Biography: Biopic
+        "Sci-Fi": Science Fiction
+    metadata_path:
+      - repo: labelling/movies/content/discrimination
+      - repo: labelling/movies/content/domestic_threat
+      - repo: labelling/movies/content/drug_references
+      - repo: labelling/movies/content/drug_use
+      - repo: labelling/movies/content/flashing_images
+      - repo: labelling/movies/content/gore
+      - repo: labelling/movies/content/horror
+      - repo: labelling/movies/content/humour
+      - repo: labelling/movies/content/incest_theme
+      - repo: labelling/movies/content/injury_detail
+      - repo: labelling/movies/content/language
+      - repo: labelling/movies/content/nudity
+      - repo: labelling/movies/content/sex_references
+      - repo: labelling/movies/content/sex
+      - repo: labelling/movies/content/sexual_threat
+      - repo: labelling/movies/content/sexual_violence
+      - repo: labelling/movies/content/sexually_abusive_behaviour
+      - repo: labelling/movies/content/suicide_references
+      - repo: labelling/movies/content/suicide
+      - repo: labelling/movies/content/threat
+      - repo: labelling/movies/content/torture
+      - repo: labelling/movies/content/violence
+      - repo: labelling/movies/editions
+      - repo: labelling/movies/ownership
+      - repo: labelling/movies/restrictions
+      - repo: labelling/movies/series
+      - repo: labelling/movies/sources
+      - repo: labelling/shared/themes
+      - repo: labelling/movies/themes
+      - repo: libraries/shared/actors
+      - repo: libraries/movies/directors
+      - repo: libraries/shared/content_ratings
+      - repo: libraries/movies/editions
+      - repo: libraries/movies/editions_metadata
+      - repo: libraries/shared/genres
+      - repo: libraries/shared/series
+      - repo: libraries/movies/series
+      - repo: libraries/shared/themes
+      - repo: libraries/movies/themes
+      - repo: libraries/movies/charts
+  TV shows:
+    operations:
+      content_rating_mapper:
+        "gb/12A": "gb/12"
+      genre_mapper:
+        Biography: Biopic
+        "Sci-Fi": Science Fiction
+    metadata_path:
+      - repo: labelling/tv_shows/content/drug_references
+      - repo: labelling/tv_shows/content/drug_use
+      - repo: labelling/tv_shows/content/gore
+      - repo: labelling/tv_shows/content/language
+      - repo: labelling/tv_shows/content/sex_references
+      - repo: labelling/tv_shows/content/sex
+      - repo: labelling/tv_shows/content/sexual_violence
+      - repo: labelling/tv_shows/content/suicide
+      - repo: labelling/tv_shows/content/threat
+      - repo: labelling/tv_shows/content/violence
+      - repo: labelling/tv_shows/ownership
+      - repo: labelling/tv_shows/sources
+      - repo: labelling/tv_shows/themes
+      - repo: labelling/shared/themes
+      - repo: libraries/shared/actors
+      - repo: libraries/shared/content_ratings
+      - repo: libraries/shared/genres
+      - repo: libraries/shared/series
+      - repo: libraries/shared/themes
+  Stand-up comedy:
+    metadata_path:
+      - repo: libraries/shared/content_ratings
+  Documentaries:
+    operations:
+      content_rating_mapper:
+        "gb/12A": "gb/12"
+      genre_mapper:
+        Biography: Biopic
+        "Sci-Fi": Science Fiction
+    metadata_path:
+      - repo: libraries/shared/content_ratings
+      - repo: libraries/shared/series
+      - repo: libraries/documentaries/themes
+playlist_files:
+  - repo: playlists/admin
+  - repo: playlists/movie_charts
+  - repo: playlists/star_wars
