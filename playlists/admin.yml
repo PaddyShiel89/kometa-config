@@ -1,11 +1,15 @@
 playlists:
+  # Currently only working with develop-15 release and later, not the current
+  # latest release (1.17.3). Will test with next release
   Watched but unrated:
     plex_search:
       all:
         unplayed: false
-        user_rating.rating: false
+        user_rating.rated: false
       sort_by: title.asc
-    libraries: Movies, TV shows, Stand-up comedy, Documentaries
+    # TV shows do not use the unplayed flag, so are not included in the
+    # libraries list
+    libraries: Movies, Stand-up comedy, Documentaries
     minimum_items: 1
     delete_below_minimum: true
     summary: All media that has been watched but hasn't been rated.
