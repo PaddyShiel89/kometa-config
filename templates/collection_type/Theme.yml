@@ -1,5 +1,7 @@
 templates:
   Theme:
+    default:
+      poster_folder: <<library_name>>
     optional:
       - summary
     collection_mode: hide
