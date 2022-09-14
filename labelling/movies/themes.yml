@@ -183,6 +183,7 @@ collections:
     template:
       - name: Theme label
         title_list:
+          - Cabin in the Woods (2012)
           - Card Player (2004)
           - I Spit on Your Grave (1978)
           - Psycho (1960)
@@ -222,6 +223,7 @@ collections:
     template:
       - name: Theme label
         title_list:
+          - Cabin in the Woods (2012)
           - Juan of the Dead (2012)
           - Planet Terror (2007)
           - Resident Evil (2002) 001
