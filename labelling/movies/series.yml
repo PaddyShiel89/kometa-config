@@ -143,6 +143,13 @@ collections:
         title_list:
           - Guardians of the Galaxy (2014) 001
 
+  "Series: Halloween (1978)":
+    template:
+      - name: Series label
+        series: "Halloween (1978) 001"
+        title_list:
+          - Halloween (1978) 001
+
   "Series: Harry Potter (2001)":
     template:
       - name: Series label
