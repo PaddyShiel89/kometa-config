@@ -54,6 +54,7 @@ collections:
           - Thunderball (1965)
           - Toy Story (1995) 001
           - Toy Story (1995) 003
+          - View to a Kill (1985)
           - You Only Live Twice (1967)
 
   "Content: violence (moderate)":
@@ -105,6 +106,7 @@ collections:
           - Jurassic World (2015) 001
           - Jurassic World (2015) 002
           - "Lara Croft: Tomb Raider (2001) 001"
+          - Living Daylights (1987)
           - Lord of the Rings (2001) 001B
           - Lord of the Rings (2001) 002B
           - Lord of the Rings (2001) 003B
@@ -196,6 +198,7 @@ collections:
           - Fight Club (1999)
           - Gangs of New York (2002)
           - Goodfellas (1990)
+          - Halloween (1978) 001
           - Hard Boiled (1992)
           - Harry Brown (2009)
           - Hobo with a Shotgun (2011)
@@ -297,6 +300,7 @@ collections:
         title_list:
           - Jurassic World (2015) 001
           - Jurassic World (2015) 002
+          - Living Daylights (1987)
           - On Her Majesty's Secret Service (1969)
           - Quantum of Solace (2008)
           - Skyfall (2012)
@@ -304,6 +308,7 @@ collections:
           - Transformers (2007) 001
           - Transformers (2007) 002
           - Transformers (2007) 003
+          - View to a Kill (1985)
 
   "Content: violence (adventure)":
     template:
