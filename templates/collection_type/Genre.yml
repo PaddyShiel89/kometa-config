@@ -7,7 +7,7 @@ templates:
         genre: <<value>>
     collection_mode: hide
     file_poster: /config/assets/genres/<<library_name>>/<<collection_name>>.png
-    sort_title: "!02_<<collection_name>>"
+    sort_title: "!04_<<collection_name>>"
     sync_mode: sync
 
   Multi-Genre:
@@ -23,5 +23,5 @@ templates:
           - <<genre3>>
     collection_mode: hide
     file_poster: /config/assets/genres/<<library_name>>/<<collection_name>>.png
-    sort_title: "!02_<<collection_name>>"
+    sort_title: "!04_<<collection_name>>"
     sync_mode: sync

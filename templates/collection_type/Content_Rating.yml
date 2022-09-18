@@ -44,6 +44,6 @@ templates:
         content_rating: <<value>>
     collection_mode: hide
     file_poster: /config/assets/content-rating/<<collection_name>>.png
-    sort_title: "!01_<<title_order>>_<<collection_name>>"
+    sort_title: "!00_<<title_order>>_<<collection_name>>"
     sync_mode: sync
     summary: <<conditional_summary>>
