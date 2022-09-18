@@ -58,13 +58,6 @@ collections:
         title_list:
           - Birds (1963)
 
-  "Theme: creature feature":
-    template:
-      - name: Theme label
-        theme: "creature feature"
-        title_list:
-          - Birds (1963)
-
   "Theme: erotic":
     template:
       - name: Theme label
