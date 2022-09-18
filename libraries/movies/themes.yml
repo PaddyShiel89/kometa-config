@@ -60,6 +60,15 @@ collections:
         label: "theme: slasher"
       sort_by: title.asc
 
+  Splatter:
+    template:
+      - name: Theme
+        summary: "that deliberately focuses on graphic portrayals of gore and graphic violence. These films, usually through the use of special effects, display a fascination with the vulnerability of the human body and the theatricality of its mutilation."
+    smart_filter:
+      all:
+        label: "theme: splatter"
+      sort_by: title.asc
+
   Supernatural Horror:
     template:
       - name: Theme
