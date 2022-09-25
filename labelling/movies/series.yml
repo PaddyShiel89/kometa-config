@@ -227,8 +227,10 @@ collections:
           - Diamonds Are Forever (1971)
           - Dr. No (1962)
           - Goldfinger (1964)
+          - GoldenEye (1995)
           - For Your Eyes Only (1981)
           - From Russia with Love (1963)
+          - Licence to Kill (1989)
           - Live and Let Die (1973)
           - Living Daylights (1987)
           - Man with the Golden Gun (1974)
@@ -438,6 +440,7 @@ collections:
         series: "Scream (1996)"
         title_list:
           - Scream (1996) 001
+          - Scream (1996) 002
 
   "Series: The Secret Life of Pets (2016)":
     template:
