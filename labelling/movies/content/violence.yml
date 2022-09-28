@@ -145,6 +145,7 @@ collections:
           - Sucker Punch (2011) 001
           - Thor (2011) 002
           - Thor (2011) 003
+          - Tomorrow Never Dies (1997)
           - Transformers (2007) 001
           - Transformers (2007) 002
           - Transformers (2007) 003
@@ -155,6 +156,7 @@ collections:
           - Wonder Woman (2017) 001
           - Wonder Woman (2017) 002
           - World's End (2013)
+          - World is Not Enough (1999)
 
   "Content: violence (strong)":
     template:
@@ -245,6 +247,7 @@ collections:
           - Promising Young Woman (2020)
           - Psycho (1960)
           - Pulp Fiction (1994)
+          - Ready or Not (2019)
           - Red Sparrow (2018)
           - Reservoir Dogs (1992)
           - Resident Evil (2002) 002
@@ -309,10 +312,12 @@ collections:
           - Quantum of Solace (2008)
           - Skyfall (2012)
           - Spectre (2015)
+          - Tomorrow Never Dies (1997)
           - Transformers (2007) 001
           - Transformers (2007) 002
           - Transformers (2007) 003
           - View to a Kill (1985)
+          - World is Not Enough (1999)
 
   "Content: violence (adventure)":
     template:
@@ -370,6 +375,7 @@ collections:
           - Paul (2011)
           - Pet Sematary (2019)
           - Predator (1987) 001
+          - Ready or Not (2019)
           - Red Sparrow (2018)
           - Reservoir Dogs (1992)
           - Resident Evil (2002) 003
