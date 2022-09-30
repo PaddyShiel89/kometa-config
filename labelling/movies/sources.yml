@@ -309,6 +309,7 @@ collections:
       - name: Source label
         source: "download"
         title_list:
+          - Blonde (2022)
           - Deep Water (2022)
           - Grand Central (2013)
           - Jolene (2008)
@@ -407,3 +408,10 @@ collections:
           - Wake Up, Ron Burgundy (2004)
           - Whole Nine Yards (2000)
           - Wind that Shakes the Barley (2006)
+
+  "Source: Netflix":
+    template:
+      - name: Source label
+        source: "Netflix"
+        title_list:
+          - Blonde (2022)
