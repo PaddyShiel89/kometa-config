@@ -44,6 +44,7 @@ collections:
           - Muppets from Space (1999)
           - Rear Window (1954)
           - Remember the Titans (2000)
+          - Rope (1948)
           - Saboteur (1942)
           - Shame (2011)
           - Star Wars 001
@@ -53,6 +54,7 @@ collections:
           - Thunderball (1965)
           - Toy Story (1995) 001
           - Toy Story (1995) 003
+          - View to a Kill (1985)
           - You Only Live Twice (1967)
 
   "Content: violence (moderate)":
@@ -104,6 +106,8 @@ collections:
           - Jurassic World (2015) 001
           - Jurassic World (2015) 002
           - "Lara Croft: Tomb Raider (2001) 001"
+          - Licence to Kill (1989)
+          - Living Daylights (1987)
           - Lord of the Rings (2001) 001B
           - Lord of the Rings (2001) 002B
           - Lord of the Rings (2001) 003B
@@ -141,16 +145,19 @@ collections:
           - Sucker Punch (2011) 001
           - Thor (2011) 002
           - Thor (2011) 003
+          - Tomorrow Never Dies (1997)
           - Transformers (2007) 001
           - Transformers (2007) 002
           - Transformers (2007) 003
           - Tuxedo (2002)
           - Uncharted (2022) 001
           - Under the Skin (2014)
+          - Wasp Network (2020)
           - Whole Nine Yards (2000)
           - Wonder Woman (2017) 001
           - Wonder Woman (2017) 002
           - World's End (2013)
+          - World is Not Enough (1999)
 
   "Content: violence (strong)":
     template:
@@ -177,6 +184,7 @@ collections:
           - Blade Runner (1982) 001
           - Blade Runner (1982) 002
           - Boogie Nights (1997)
+          - Cabin in the Woods (2012)
           - Card Player (2004)
           - Casino (1995)
           - Casino Royale (2006)
@@ -185,6 +193,7 @@ collections:
           - Dark Knight (2008)
           - Deep Water (2022)
           - Departed (2006)
+          - Devil's Backbone (2001)
           - Die Hard (1988) 001
           - Disappearance of Alice Creed (2010)
           - District 9 (2009)
@@ -193,7 +202,9 @@ collections:
           - Ex Machina (2015)
           - Fight Club (1999)
           - Gangs of New York (2002)
+          - GoldenEye (1995)
           - Goodfellas (1990)
+          - Halloween (1978) 001
           - Hard Boiled (1992)
           - Harry Brown (2009)
           - Hobo with a Shotgun (2011)
@@ -228,6 +239,7 @@ collections:
           - "Ong-Bak: Muay Thai Warrior (2003)"
           - Pan's Labyrinth (2006)
           - Parasite (2019)
+          - Pet Sematary (2019)
           - Planet Terror (2007)
           - Platoon (1986)
           - Predator (1987) 001
@@ -236,6 +248,7 @@ collections:
           - Promising Young Woman (2020)
           - Psycho (1960)
           - Pulp Fiction (1994)
+          - Ready or Not (2019)
           - Red Sparrow (2018)
           - Reservoir Dogs (1992)
           - Resident Evil (2002) 002
@@ -251,6 +264,8 @@ collections:
           - Saw (2004) 005
           - Saw (2004) 006
           - Saw (2004) 007
+          - Scream (1996) 001
+          - Scream (1996) 002
           - Seven (1995)
           - Shank (2010)
           - Songbird (2020)
@@ -293,13 +308,17 @@ collections:
         title_list:
           - Jurassic World (2015) 001
           - Jurassic World (2015) 002
+          - Living Daylights (1987)
           - On Her Majesty's Secret Service (1969)
           - Quantum of Solace (2008)
           - Skyfall (2012)
           - Spectre (2015)
+          - Tomorrow Never Dies (1997)
           - Transformers (2007) 001
           - Transformers (2007) 002
           - Transformers (2007) 003
+          - View to a Kill (1985)
+          - World is Not Enough (1999)
 
   "Content: violence (adventure)":
     template:
@@ -332,6 +351,7 @@ collections:
           - Big Nothing (2006)
           - Black Dahlia (2006)
           - Black Dynamite (2010)
+          - Cabin in the Woods (2012)
           - Che (2008) 001
           - District 9 (2009)
           - Doctor Sleep (2019)
@@ -346,6 +366,7 @@ collections:
           - Kick-Ass (2010) 002
           - Kingsman (2014) 001
           - Last Night in Soho (2021)
+          - Licence to Kill (1989)
           - Lucy (2014)
           - Machete (2010) 001
           - Machete (2010) 002
@@ -353,7 +374,9 @@ collections:
           - Pan's Labyrinth (2006)
           - Parasite (2019)
           - Paul (2011)
+          - Pet Sematary (2019)
           - Predator (1987) 001
+          - Ready or Not (2019)
           - Red Sparrow (2018)
           - Reservoir Dogs (1992)
           - Resident Evil (2002) 003
@@ -368,6 +391,8 @@ collections:
           - Saw (2004) 005
           - Saw (2004) 006
           - Saw (2004) 007
+          - Scream (1996) 001
+          - Scream (1996) 002
           - Seven (1995)
           - Sin City (2005) 001
           - Sin City (2005) 002

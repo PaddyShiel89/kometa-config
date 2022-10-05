@@ -8,6 +8,7 @@ collections:
         content: drug use
         level: mild
         title_list:
+          - Halloween (1978) 001
           - Jaws (1975) 001
           - Jurassic Park (1993) 001
           - Spiral (2021)
@@ -32,6 +33,7 @@ collections:
           - Kick-Ass (2010) 001
           - Last Night in Soho (2021)
           - Paul (2011)
+          - Ready or Not (2019)
           - Shame (2011)
           - Sleeping Beauty (2011)
           - Suicide Squad (2021)
@@ -47,9 +49,11 @@ collections:
         title_list:
           - American Beauty (1999)
           - American Gangster (2007) 001
+          - Blonde (2022)
           - Boogie Nights (1997)
           - Boogie Woogie (2009)
           - Boss'n Up (2005)
+          - Cabin in the Woods (2012)
           - Complicity (2000)
           - Die Hard (1988) 001
           - Harry Brown (2009)
@@ -88,6 +92,7 @@ collections:
           - Predator (1987) 002
           - Promising Young Woman (2020)
           - Pulp Fiction (1994)
+          - Ready or Not (2019)
           - Shame (2011)
           - Sweet Karma (2010)
           - Wolf of Wall Street (2013)
@@ -98,6 +103,8 @@ collections:
         content: drug use
         level: soft
         title_list:
+          - Cabin in the Woods (2012)
+          - Halloween (1978) 001
           - Jaws (1975) 001
           - Platoon (1986)
           - Super 8 (2011)

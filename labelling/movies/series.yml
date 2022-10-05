@@ -143,6 +143,13 @@ collections:
         title_list:
           - Guardians of the Galaxy (2014) 001
 
+  "Series: Halloween (1978)":
+    template:
+      - name: Series label
+        series: "Halloween (1978) 001"
+        title_list:
+          - Halloween (1978) 001
+
   "Series: Harry Potter (2001)":
     template:
       - name: Series label
@@ -220,9 +227,12 @@ collections:
           - Diamonds Are Forever (1971)
           - Dr. No (1962)
           - Goldfinger (1964)
+          - GoldenEye (1995)
           - For Your Eyes Only (1981)
           - From Russia with Love (1963)
+          - Licence to Kill (1989)
           - Live and Let Die (1973)
+          - Living Daylights (1987)
           - Man with the Golden Gun (1974)
           - Moonraker (1979)
           - No Time to Die (2021)
@@ -233,7 +243,10 @@ collections:
           - Spectre (2015)
           - Spy Who Loved Me (1977)
           - Thunderball (1965)
+          - Tomorrow Never Dies (1997)
           - You Only Live Twice (1967)
+          - View to a Kill (1985)
+          - World is Not Enough (1999)
 
   "Series: Jurassic Park (1993)":
     template:
@@ -422,6 +435,14 @@ collections:
         series: "Scorpion King (2002)"
         title_list:
           - Scorpion King (2002) 001
+
+  "Series: Scream (1996)":
+    template:
+      - name: Series label
+        series: "Scream (1996)"
+        title_list:
+          - Scream (1996) 001
+          - Scream (1996) 002
 
   "Series: The Secret Life of Pets (2016)":
     template:

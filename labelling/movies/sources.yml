@@ -50,6 +50,7 @@ collections:
           - Blades of Glory (2007)
           - Blue is the Warmest Colour (2013)
           - Boogie Nights (1997)
+          - Cabin in the Woods (2012)
           - Captain America (2011) 002
           - Captain America (2011) 003
           - Casino (1995)
@@ -62,6 +63,7 @@ collections:
           - Dark Knight (2008)
           - Dark Knight Rises (2012)
           - Departed (2006)
+          - Devil's Backbone (2001)
           - Diamonds Are Forever (1971)
           - Die Hard (1988) 001
           - Disappearance of Alice Creed (2010)
@@ -87,8 +89,10 @@ collections:
           - Gangs of New York (2002)
           - Get Him to the Greek (2010)
           - Goldfinger (1964)
+          - GoldenEye (1995)
           - Goodfellas (1990)
           - Guardians of the Galaxy (2014) 001
+          - Halloween (1978) 001
           - Harry Brown (2009)
           - Harry Potter (2001) 001
           - Harry Potter (2001) 002
@@ -134,8 +138,10 @@ collections:
           - Leave No Trace (2018)
           - Lego Movie (2014) 001
           - Lego Movie (2014) 002
+          - Licence to Kill (1989)
           - Lion King (1994) 001
           - Live and Let Die (1973)
+          - Living Daylights (1987)
           - Lord of the Rings (2001) 001B
           - Lord of the Rings (2001) 002B
           - Lord of the Rings (2001) 003B
@@ -177,6 +183,7 @@ collections:
           - Pan's Labyrinth (2006)
           - Parasite (2019)
           - Paul (2011)
+          - Pet Sematary (2019)
           - Planet Terror (2007)
           - Platoon (1986)
           - Police Story (1985) 001
@@ -190,6 +197,7 @@ collections:
           - Pulp Fiction (1994)
           - Q (2011)
           - Quantum of Solace (2008)
+          - Ready or Not (2019)
           - Rear Window (1954)
           - Red Sparrow (2018)
           - Reservoir Dogs (1992)
@@ -201,6 +209,7 @@ collections:
           - Resident Evil (2002) 006
           - Resident Evil (2021) 001
           - "Rogue One: A Star Wars Story (2016)"
+          - Rope (1948)
           - Room in Rome (2010)
           - Rules of Engagement (2000)
           - Saboteur (1942)
@@ -216,6 +225,8 @@ collections:
           - Saw (2004) 007
           - Scorpion King (2002) 001
           - Scott Pilgrim vs. the World (2010)
+          - Scream (1996) 001
+          - Scream (1996) 002
           - Secret Life of Pets (2016) 001
           - Seven (1995)
           - Shadow of a Doubt (1943)
@@ -260,6 +271,7 @@ collections:
           - Thor (2011) 002
           - Thor (2011) 003
           - Thunderball (1965)
+          - Tomorrow Never Dies (1997)
           - Toy Story (1995) 001
           - Toy Story (1995) 002
           - Toy Story (1995) 003
@@ -275,6 +287,7 @@ collections:
           - Uncharted (2022) 001
           - Under the Skin (2014)
           - Vertigo (1958)
+          - View to a Kill (1985)
           - War Dogs (2016)
           - Watchmen (2009)
           - Wicker Man (19973) 001A
@@ -285,6 +298,7 @@ collections:
           - Wonder Woman (2017) 001
           - Wonder Woman (2017) 002
           - World's End (2013)
+          - World is Not Enough (1999)
           - X (2022)
           - You Only Live Twice (1967)
           - Zero Dark Thirty (2013)
@@ -295,12 +309,14 @@ collections:
       - name: Source label
         source: "download"
         title_list:
+          - Blonde (2022)
           - Deep Water (2022)
           - Grand Central (2013)
           - Jolene (2008)
           - Lie (2020)
           - Nocturne (2020)
           - Palm Springs (2020)
+          - Sergio (2020)
           - Songbird (2020)
           - Star Wars 004 (1977) 1997
           - Star Wars 004 (1977) 2016
@@ -311,6 +327,7 @@ collections:
           - Star Wars 006 (1983) 2016
           - Star Wars 006 (1983) 2019
           - Voyeurs (2021)
+          - Wasp Network (2020)
 
   "Source: Amazon Prime":
     template:
@@ -393,3 +410,12 @@ collections:
           - Wake Up, Ron Burgundy (2004)
           - Whole Nine Yards (2000)
           - Wind that Shakes the Barley (2006)
+
+  "Source: Netflix":
+    template:
+      - name: Source label
+        source: "Netflix"
+        title_list:
+          - Blonde (2022)
+          - Sergio (2020)
+          - Wasp Network (2020)
