@@ -14,6 +14,6 @@ playlists:
     libraries: Movies, TV shows
     trakt_list: https://trakt.tv/users/ruben_vw_/lists/star-wars-canon-timeline?sort=rank,asc
     summary: "The complete Star Wars saga, featuring all movies and TV shows and ordered chronologically."
-    file_poster: /config/assets/playlists/Star Wars The Clone Wars chronology.png
+    file_poster: /config/assets/playlists/Star Wars Star Wars The Complete Saga.png
     filter:
       label.not: "Secondary_Cut"
