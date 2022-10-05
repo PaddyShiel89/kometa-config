@@ -1,0 +1,18 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Playlist: Star Wars: Definitive Movie Playlist":
+    template:
+      - name: Playlist label
+        title_list:
+          - Star Wars 001 (1999) 2011
+          - Star Wars 002 (2002) 2011
+          - Star Wars 003 (2005) 2011
+          - Star Wars 004 (1977) 2018
+          - Star Wars 005 (1980) 2016
+          - Star Wars 006 (1983) 2019
+          - Star Wars 007 (2015)
+          - Star Wars 008 (2017)
+          - Star Wars 009 (2019)
+        playlist_name: "Star Wars: Definitive Movie Playlist"
