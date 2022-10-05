@@ -1,13 +1,4 @@
 playlists:
-  "Star Wars: Definitive Movie Playlist":
-    sync_mode: sync
-    libraries: Movies
-    trakt_list: https://trakt.tv/users/drogsahqoom/lists/star-wars-definitive-movie-playlist?sort=rank,asc
-    summary: All films from the Star Wars saga in chronological order, and using their best editions.
-    file_poster: /config/assets/playlists/Star Wars Definitive Movie Playlist.png
-    filter:
-      label: "playlist: Star Wars: Definitive Movie Playlist"
-
   "Star Wars: The Machete Order":
     sync_mode: sync
     libraries: Movies
