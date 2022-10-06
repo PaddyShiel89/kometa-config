@@ -8,6 +8,7 @@ collections:
         content: horror
         level: mild
         title_list:
+          - Casper (1995)
           - Men in Black (1997) 001
           - Men in Black (1997) 002
           - Scorpion King (2002) 001
@@ -70,6 +71,14 @@ collections:
         level: fantasy
         title_list:
           - Jurassic Park (1993) 001
+
+  "Content: horror (ghost)":
+    template:
+      - name: Content label
+        content: horror
+        level: ghost
+        title_list:
+          - Casper (1995)
 
   "Content: horror (war)":
     template:
