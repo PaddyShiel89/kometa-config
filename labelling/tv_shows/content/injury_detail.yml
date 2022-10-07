@@ -1,0 +1,11 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: injury detail (moderate)":
+    template:
+      - name: Content label
+        content: injury detail
+        level: moderate
+        title_list:
+          - Final Space (2018)
