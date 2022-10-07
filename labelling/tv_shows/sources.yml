@@ -2,18 +2,6 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  "Source: Amazon Prime":
-    template:
-      - name: Source label
-        source: "Amazon Prime"
-        title_list:
-          - Carnival Row (2019)
-          - Euphoria (2019)
-          - Man in the High Castle (2015)
-          - Marvelous Mrs Maisel (2017)
-          - Wheel of Time (2021)
-          - White Lotus (2021)
-
   "Source: blu-ray":
     template:
       - name: Source label
@@ -40,6 +28,7 @@ collections:
         title_list:
           - Carnival Row (2019)
           - Euphoria (2019)
+          - Final Space (2018)
           - Man in the High Castle (2015)
           - Marvelous Mrs Maisel (2017)
           - Wheel of Time (2021)
@@ -63,3 +52,22 @@ collections:
           - Scrubs (2001)
           - Spaced (1999)
           - That 70s Show (1998)
+
+  "Source: Amazon Prime":
+    template:
+      - name: Source label
+        source: "Amazon Prime"
+        title_list:
+          - Carnival Row (2019)
+          - Euphoria (2019)
+          - Man in the High Castle (2015)
+          - Marvelous Mrs Maisel (2017)
+          - Wheel of Time (2021)
+          - White Lotus (2021)
+
+  "Source: Netflix":
+    template:
+      - name: Source label
+        source: "Netflix"
+        title_list:
+          - Final Space (2018)
