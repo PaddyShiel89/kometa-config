@@ -1,0 +1,6 @@
+playlists:
+  "Halloween Original Continuity":
+    sync_mode: sync
+    libraries: Movies
+    trakt_list: https://trakt.tv/users/drogsahqoom/lists/halloween-original-continuity?sort=rank,asc
+    summary: "The original canon of Halloween films. Halloween III: Season of the Witch is not included as it is unrelated to the story of the other films."
