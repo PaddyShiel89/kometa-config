@@ -33,7 +33,10 @@ collections:
     template:
       - name: Series
         summary: "that are part of the Halloween franchise."
-        label_list: "series: Halloween (1978)"
+        label_list:
+          - "series: Halloween (1978)"
+          - "series: Halloween H20 reboot"
+          - "series: Halloween (2018)"
 
   James Bond Collection:
     template:
