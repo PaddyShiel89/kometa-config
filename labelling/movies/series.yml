@@ -146,10 +146,28 @@ collections:
   "Series: Halloween (1978)":
     template:
       - name: Series label
-        series: "Halloween (1978) 001"
+        series: "Halloween (1978)"
         title_list:
           - Halloween (1978) 001
           - Halloween (1978) 002
+          - Halloween (1978) 006
+
+  "Series: Halloween H20 reboot":
+    template:
+      - name: Series label
+        series: "Halloween H20 reboot"
+        title_list:
+          - Halloween (1978) 001
+          - Halloween (1978) 002
+          - Halloween (1978) 007
+          - Halloween (1978) 008
+
+  "Series: Halloween (2018)":
+    template:
+      - name: Series label
+        series: "Halloween (2018)"
+        title_list:
+          - Halloween (1978) 001
 
   "Series: Harry Potter (2001)":
     template:
