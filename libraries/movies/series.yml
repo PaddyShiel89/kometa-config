@@ -29,6 +29,12 @@ collections:
         title_list:
           - Birds of Prey (2020)
 
+  Halloween Collection:
+    template:
+      - name: Series
+        summary: "that are part of the Halloween franchise."
+        label_list: "series: Halloween (1978)"
+
   James Bond Collection:
     template:
       - name: Series

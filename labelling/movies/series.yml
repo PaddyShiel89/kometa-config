@@ -146,7 +146,7 @@ collections:
   "Series: Halloween (1978)":
     template:
       - name: Series label
-        series: "Halloween (1978) 001"
+        series: "Halloween (1978)"
         title_list:
           - Halloween (1978) 001
           - Halloween (1978) 002
