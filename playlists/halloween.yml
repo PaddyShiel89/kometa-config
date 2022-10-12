@@ -10,3 +10,10 @@ playlists:
     libraries: Movies
     trakt_list: https://trakt.tv/users/drogsahqoom/lists/halloween-h20-reboot?sort=rank,asc
     summary: "The Halloween films that are canon to the 1998 Halloween: 20 Years Later reboot."
+
+  "Halloween OG test":
+    sync_mode: sync
+    libraries: Movies
+    summary: "The original canon of Halloween films. Halloween III: Season of the Witch is not included as it is unrelated to the story of the other films."
+    filter:
+      label: "series: Halloween (1978)"
