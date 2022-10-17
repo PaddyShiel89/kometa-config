@@ -54,6 +54,13 @@ collections:
           - Under the Skin (2014)
           - World's End (2013)
 
+  "Theme: body horror":
+    template:
+      - name: Theme label
+        theme: "body horror"
+        title_list:
+          - Thing (1982)
+
   "Theme: creature feature":
     template:
       - name: Theme label
