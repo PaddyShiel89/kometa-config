@@ -54,6 +54,13 @@ collections:
           - Under the Skin (2014)
           - World's End (2013)
 
+  "Theme: body horror":
+    template:
+      - name: Theme label
+        theme: "body horror"
+        title_list:
+          - Thing (1982)
+
   "Theme: creature feature":
     template:
       - name: Theme label
@@ -139,6 +146,7 @@ collections:
           - Harry Potter (2001) 006
           - Harry Potter (2001) 007
           - Harry Potter (2001) 008
+          - Hook (1991)
           - Scorpion King (2002) 001
           - Witch (2015)
 
@@ -155,6 +163,14 @@ collections:
           - Police Story (1985) 001
           - Police Story (1985) 002
           - Tuxedo (2002)
+
+  "Theme: mockumentary":
+    template:
+      - name: Theme label
+        theme: "mockumentary"
+        title_list:
+          - District 9 (2009)
+          - What We Do in the Shadows (2014)
 
   "Theme: monsters":
     template:
@@ -187,6 +203,13 @@ collections:
         theme: "parody"
         title_list:
           - Mafia! (1998)
+
+  "Theme: pirates":
+    template:
+      - name: Theme label
+        theme: "pirates"
+        title_list:
+          - Hook (1991)
 
   "Theme: psychological":
     template:
@@ -277,6 +300,7 @@ collections:
         theme: "vampires"
         title_list:
           - Dracula (1992)
+          - What We Do in the Shadows (2014)
 
   "Theme: videogames":
     template:
