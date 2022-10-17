@@ -164,6 +164,14 @@ collections:
           - Police Story (1985) 002
           - Tuxedo (2002)
 
+  "Theme: mockumentary":
+    template:
+      - name: Theme label
+        theme: "mockumentary"
+        title_list:
+          - District 9 (2009)
+          - What We Do in the Shadows (2014)
+
   "Theme: monsters":
     template:
       - name: Theme label
@@ -292,6 +300,7 @@ collections:
         theme: "vampires"
         title_list:
           - Dracula (1992)
+          - What We Do in the Shadows (2014)
 
   "Theme: videogames":
     template:
