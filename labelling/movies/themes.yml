@@ -139,6 +139,7 @@ collections:
           - Harry Potter (2001) 006
           - Harry Potter (2001) 007
           - Harry Potter (2001) 008
+          - Hook (1991)
           - Scorpion King (2002) 001
           - Witch (2015)
 
@@ -187,6 +188,13 @@ collections:
         theme: "parody"
         title_list:
           - Mafia! (1998)
+
+  "Theme: pirates":
+    template:
+      - name: Theme label
+        theme: "pirates"
+        title_list:
+          - Hook (1991)
 
   "Theme: psychological":
     template:
