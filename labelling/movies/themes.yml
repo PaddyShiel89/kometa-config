@@ -312,6 +312,14 @@ collections:
           - Metal Gear Saga (2006) 002
           - Raising Kratos (2019)
 
+  "Theme: western":
+    template:
+      - name: Theme label
+        theme: "western"
+        title_list:
+          - Back to the Future (1985) 003
+          - True Grit (2010)
+
   "Theme: zombies":
     template:
       - name: Theme label

@@ -8,6 +8,7 @@ libraries:
         Biography: Biopic
         "Sci-Fi": Science Fiction
         Martial Arts:
+        Western:
     metadata_path:
       - repo: labelling/movies/content/discrimination
       - repo: labelling/movies/content/domestic_threat
@@ -57,6 +58,7 @@ libraries:
         Biography: Biopic
         "Sci-Fi": Science Fiction
         Martial Arts:
+        Western:
     metadata_path:
       - repo: labelling/tv_shows/content/drug_references
       - repo: labelling/tv_shows/content/drug_use
@@ -89,6 +91,7 @@ libraries:
         Biography: Biopic
         "Sci-Fi": Science Fiction
         Martial Arts:
+        Western:
     metadata_path:
       - repo: libraries/shared/content_ratings
       - repo: libraries/shared/series
