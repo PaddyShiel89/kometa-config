@@ -8,6 +8,7 @@ libraries:
         Biography: Biopic
         "Sci-Fi": Science Fiction
         Martial Arts:
+        Western:
     metadata_path:
       - repo: labelling/movies/content/discrimination
       - repo: labelling/movies/content/domestic_threat
@@ -57,10 +58,12 @@ libraries:
         Biography: Biopic
         "Sci-Fi": Science Fiction
         Martial Arts:
+        Western:
     metadata_path:
       - repo: labelling/tv_shows/content/drug_references
       - repo: labelling/tv_shows/content/drug_use
       - repo: labelling/tv_shows/content/gore
+      - repo: labelling/tv_shows/content/injury_detail
       - repo: labelling/tv_shows/content/language
       - repo: labelling/tv_shows/content/sex_references
       - repo: labelling/tv_shows/content/sex
@@ -77,6 +80,7 @@ libraries:
       - repo: libraries/shared/genres
       - repo: libraries/shared/series
       - repo: libraries/shared/themes
+      - repo: libraries/tv_shows/themes
   Stand-up comedy:
     metadata_path:
       - repo: libraries/shared/content_ratings
@@ -88,11 +92,14 @@ libraries:
         Biography: Biopic
         "Sci-Fi": Science Fiction
         Martial Arts:
+        Western:
     metadata_path:
+      - repo: labelling/documentaries/themes
       - repo: libraries/shared/content_ratings
       - repo: libraries/shared/series
       - repo: libraries/documentaries/themes
 playlist_files:
   - repo: playlists/admin
+  - repo: playlists/halloween
   - repo: playlists/movie_charts
   - repo: playlists/star_wars

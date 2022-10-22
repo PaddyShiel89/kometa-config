@@ -60,10 +60,19 @@ collections:
         label: "theme: slasher"
       sort_by: title.asc
 
+  Splatter:
+    template:
+      - name: Theme
+        summary: "that deliberately focuses on graphic portrayals of gore and graphic violence. These films, usually through the use of special effects, display a fascination with the vulnerability of the human body and the theatricality of its mutilation."
+    smart_filter:
+      all:
+        label: "theme: splatter"
+      sort_by: title.asc
+
   Supernatural Horror:
     template:
       - name: Theme
-        summary: "in the horror genre primarily featuring phenomena that are outside the realm of scientific explanation, such as magic, angels & demons, and the soul."
+        summary: "in the horror genre primarily featuring phenomena that are outside the realm of scientific explanation, such as ghosts, magic, angels & demons, and the soul."
     smart_filter:
       all:
         any:
@@ -71,6 +80,15 @@ collections:
             - "theme: magic"
             - "theme: supernatural"
         genre: Horror
+      sort_by: title.asc
+
+  Western:
+    template:
+      - name: Theme
+        summary: 'set in the American frontier. Commonly referred to as the "Old West" or the "Wild West" and depicted as a hostile, sparsely populated frontier in a state of near-total lawlessness patrolled by outlaws, sheriffs, and numerous other stock "gunslinger" characters.'
+    smart_filter:
+      all:
+        label: "theme: western"
       sort_by: title.asc
 
   Zombies:

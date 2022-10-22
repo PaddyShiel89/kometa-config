@@ -1,0 +1,14 @@
+playlists:
+  "Halloween Original Continuity":
+    sync_mode: sync
+    libraries: Movies
+    summary: "The original canon of Halloween films. Halloween III: Season of the Witch is not included as it is unrelated to the story of the other films."
+    plex_search:
+      label: "series: Halloween (1978)"
+
+  "Halloween H20 Continuity":
+    sync_mode: sync
+    libraries: Movies
+    summary: "The Halloween films that are canon to the 1998 Halloween: 20 Years Later reboot."
+    plex_search:
+      label: "series: Halloween H20 reboot"

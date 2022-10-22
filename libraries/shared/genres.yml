@@ -6,6 +6,10 @@ dynamic_collections:
     type: genre
     title_format: <<key_name>>
     template: Dynamic Genre
+    template_variables:
+      home_pin_schedule:
+        Horror: range(10/01-10/31)
+        Romance: range(02/01-02/29)
 
 collections:
   Horror Comedy:

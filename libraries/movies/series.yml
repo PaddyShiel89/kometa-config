@@ -29,6 +29,15 @@ collections:
         title_list:
           - Birds of Prey (2020)
 
+  Halloween Collection:
+    template:
+      - name: Series
+        summary: "that are part of the Halloween franchise."
+        label_list:
+          - "series: Halloween (1978)"
+          - "series: Halloween H20 reboot"
+          - "series: Halloween (2018)"
+
   James Bond Collection:
     template:
       - name: Series
@@ -79,6 +88,12 @@ collections:
       - name: Series
         summary: "that are part of the Saw horror franchise."
         label_list: "series: Saw (2004)"
+
+  Scream Collection:
+    template:
+      - name: Series
+        summary: "that are part of the Scream horror franchise."
+        label_list: "series: Scream (1996)"
 
   The Three Flavours Cornetto:
     template:

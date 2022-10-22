@@ -37,6 +37,7 @@ collections:
         title_list:
           - Borgias (2011)
           - Fawlty Towers (1975)
+          - Wire (2002)
 
   "Ownership: rented/loaned":
     template:
@@ -44,11 +45,13 @@ collections:
         status: "rented/loaned"
         title_list:
           - Carnival Row (2019)
+          - Final Space (2018)
           - Friends (1994) # Mix
           - Haunting of Hill House (2018)
           - Man in the High Castle (2015)
           - Marvelous Mrs Maisel (2017)
           - Only Fools and Horses (1981) # Mix
+          - Open All Hours (1976)
           - Robot Chicken (2001) # Mix
           - That 70s Show (1998)
           - Westworld (2016) # Mix

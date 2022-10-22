@@ -17,6 +17,7 @@ collections:
         level: moderate
         title_list:
           - "Star Wars: The Clone Wars (2008)"
+          - Wire (2002)
 
   "Content: violence (strong)":
     template:

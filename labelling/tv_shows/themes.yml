@@ -6,6 +6,7 @@ collections:
     template:
       - name: Theme label
         title_list:
+          - Final Space (2018)
           - Star Wars Rebels (2014)
           - "Star Wars: The Clone Wars (2008)"
         theme: "aliens"

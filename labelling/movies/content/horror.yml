@@ -8,6 +8,7 @@ collections:
         content: horror
         level: mild
         title_list:
+          - Casper (1995)
           - Men in Black (1997) 001
           - Men in Black (1997) 002
           - Scorpion King (2002) 001
@@ -49,6 +50,10 @@ collections:
           - Doctor Sleep (2019)
           - Dracula (1992)
           - Faculty (1998)
+          - Green Mile (1999)
+          - Halloween (1978) 002
+          - Halloween (1978) 006
+          - Halloween (1978) 007
           - IT (2017) 001
           - IT (2017) 002
           - Last Night in Soho (2021)
@@ -57,8 +62,10 @@ collections:
           - Resident Evil (2021) 001
           - Rules of Engagement (2000)
           - Saw (2004) 007
+          - Scream (1996) 002
           - Seven (1995)
           - Shaun of the Dead (2004)
+          - Thing (1982)
           - Witch (2015)
           - X (2022)
 
@@ -69,6 +76,14 @@ collections:
         level: fantasy
         title_list:
           - Jurassic Park (1993) 001
+
+  "Content: horror (ghost)":
+    template:
+      - name: Content label
+        content: horror
+        level: ghost
+        title_list:
+          - Casper (1995)
 
   "Content: horror (war)":
     template:
