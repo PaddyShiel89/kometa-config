@@ -5,7 +5,7 @@ collections:
   Christmas:
     template:
       - name: Theme
-        summary: "set at Christmas. This collectyion doesn't include Christmas specials that aren't set at Christmas-time."
+        summary: "set at Christmas. This collection doesn't include Christmas specials that aren't set at Christmas-time."
     builder_level: episode
     collection_order: custom
     trakt_list: https://trakt.tv/users/drogsahqoom/lists/christmas?sort=rank,asc
