@@ -1,5 +1,7 @@
 templates:
   Dynamic Genre:
+    optional:
+      - home_pin_schedule
     smart_filter:
       sort_by: title.asc
       limit: 300
@@ -9,6 +11,7 @@ templates:
     file_poster: /config/assets/genres/<<library_name>>/<<collection_name>>.png
     sort_title: "!04_<<collection_name>>"
     sync_mode: sync
+    visible_home: <<home_pin_schedule>>
 
   Multi-Genre:
     optional:

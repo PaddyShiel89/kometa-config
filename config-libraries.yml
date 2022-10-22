@@ -94,6 +94,7 @@ libraries:
         Martial Arts:
         Western:
     metadata_path:
+      - repo: labelling/documentaries/themes
       - repo: libraries/shared/content_ratings
       - repo: libraries/shared/series
       - repo: libraries/documentaries/themes

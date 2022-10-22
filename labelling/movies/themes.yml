@@ -304,16 +304,6 @@ collections:
           - Dracula (1992)
           - What We Do in the Shadows (2014)
 
-  "Theme: videogames":
-    template:
-      - name: Theme label
-        theme: "videogames"
-        title_list:
-          # Documentaries
-          - Metal Gear Saga (2006) 001
-          - Metal Gear Saga (2006) 002
-          - Raising Kratos (2019)
-
   "Theme: western":
     template:
       - name: Theme label
