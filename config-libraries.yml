@@ -80,6 +80,7 @@ libraries:
       - repo: libraries/shared/genres
       - repo: libraries/shared/series
       - repo: libraries/shared/themes
+      - repo: libraries/tv_shows/themes
   Stand-up comedy:
     metadata_path:
       - repo: libraries/shared/content_ratings
