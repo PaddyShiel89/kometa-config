@@ -1,0 +1,12 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Theme: videogames":
+    template:
+      - name: Theme label
+        theme: "videogames"
+        title_list:
+          - Metal Gear Saga (2006) 001
+          - Metal Gear Saga (2006) 002
+          - Raising Kratos (2019)
