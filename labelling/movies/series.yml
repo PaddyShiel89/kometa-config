@@ -244,6 +244,7 @@ collections:
         title_list:
           - Casino Royale (2006)
           - Diamonds Are Forever (1971)
+          - Die Another Day (2002)
           - Dr. No (1962)
           - Goldfinger (1964)
           - GoldenEye (1995)
@@ -486,6 +487,13 @@ collections:
         title_list:
           - Doctor Sleep (2019)
           - Shining (1980)
+
+  "Series: Silent Hill (2006)":
+    template:
+      - name: Series label
+        series: "Silent Hill (2006)"
+        title_list:
+          - Silent Hill (2006) 001
 
   "Series: Sin City (2005)":
     template:
