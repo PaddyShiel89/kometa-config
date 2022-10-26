@@ -59,6 +59,7 @@ collections:
       - name: Theme label
         theme: "body horror"
         title_list:
+          - Silent Hill (2006) 001
           - Thing (1982)
 
   "Theme: creature feature":
@@ -293,6 +294,7 @@ collections:
           - Nocturne (2020)
           - Pet Sematary (2019)
           - Shining (1980)
+          - Silent Hill (2006) 001
           - Tenacious D in the Pick of Destiny (2006)
           - Witch (2015)
 

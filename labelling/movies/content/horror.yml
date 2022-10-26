@@ -65,9 +65,18 @@ collections:
           - Scream (1996) 002
           - Seven (1995)
           - Shaun of the Dead (2004)
+          - Silent Hill (2006) 001
           - Thing (1982)
           - Witch (2015)
           - X (2022)
+
+  "Content: horror (bloody)":
+    template:
+      - name: Content label
+        content: horror
+        level: bloody
+        title_list:
+          - Silent Hill (2006) 001
 
   "Content: horror (fantasy)":
     template:

@@ -487,6 +487,13 @@ collections:
           - Doctor Sleep (2019)
           - Shining (1980)
 
+  "Series: Silent Hill (2006)":
+    template:
+      - name: Series label
+        series: "Silent Hill (2006)"
+        title_list:
+          - Silent Hill (2006) 001
+
   "Series: Sin City (2005)":
     template:
       - name: Series label
