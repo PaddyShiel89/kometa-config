@@ -23,6 +23,7 @@ collections:
         title_list:
           - Batman Begins (2005)
           - Birds (1963)
+          - Freaked (1994)
           - Harry Potter (2001) 004
           - Harry Potter (2001) 005
           - Harry Potter (2001) 008
@@ -77,6 +78,14 @@ collections:
         level: bloody
         title_list:
           - Silent Hill (2006) 001
+
+  "Content: horror (comic)":
+    template:
+      - name: Content label
+        content: horror
+        level: comic
+        title_list:
+          - Freaked (1994)
 
   "Content: horror (fantasy)":
     template:
