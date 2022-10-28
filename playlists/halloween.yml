@@ -12,3 +12,10 @@ playlists:
     summary: "The Halloween films that are canon to the 1998 Halloween: 20 Years Later reboot."
     plex_search:
       label: "series: Halloween H20 reboot"
+
+  "Halloween 2018 Continuity":
+    sync_mode: sync
+    libraries: Movies
+    summary: "The Halloween films that are canon to the 2018 Halloween reboot."
+    plex_search:
+      label: "series: Halloween (2018)"
