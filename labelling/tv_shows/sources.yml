@@ -9,6 +9,7 @@ collections:
         title_list:
           - Big Bang Theory (2006)
           - Borgias (2011)
+          - Community (2009) # Mix
           - Fawlty Towers (1975)
           - Friends (1994) # Mix
           - Game of Thrones (2011)
@@ -72,4 +73,5 @@ collections:
       - name: Source label
         source: "Netflix"
         title_list:
+          - Community (2009) # Mix
           - Final Space (2018)
