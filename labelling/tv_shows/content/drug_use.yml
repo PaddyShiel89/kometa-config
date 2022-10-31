@@ -2,6 +2,14 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  "Content: drug use (mild)":
+    template:
+      - name: Content label
+        content: drug use
+        level: mild
+        title_list:
+          - Community (2009)
+
   "Content: drug use (strong)":
     template:
       - name: Content label
