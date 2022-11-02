@@ -218,6 +218,7 @@ collections:
       - name: Theme label
         theme: "psychological"
         title_list:
+          - Invisible Man (2020)
           - Last Night in Soho (2021)
 
   "Theme: slasher":
