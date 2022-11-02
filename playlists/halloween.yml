@@ -19,3 +19,5 @@ playlists:
     summary: "The Halloween films that are canon to the 2018 Halloween reboot."
     plex_search:
       label: "series: Halloween (2018)"
+    filter:
+      label.not: "Secondary_Cut"

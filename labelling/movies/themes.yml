@@ -218,6 +218,7 @@ collections:
       - name: Theme label
         theme: "psychological"
         title_list:
+          - Invisible Man (2020)
           - Last Night in Soho (2021)
 
   "Theme: slasher":
@@ -233,6 +234,7 @@ collections:
           - Halloween (1978) 007
           - Halloween (1978) 008
           - Halloween (2018) 001
+          - Halloween (2018) 002
           - I Spit on Your Grave (1978)
           - Psycho (1960)
           - Ready or Not (2019)
