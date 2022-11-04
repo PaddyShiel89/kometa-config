@@ -63,6 +63,13 @@ collections:
           - Silent Hill (2006) 001
           - Thing (1982)
 
+  "Theme: cannibals":
+    template:
+      - name: Theme label
+        theme: "cannibals"
+        title_list:
+          - Bone Tomahawk (2015)
+
   "Theme: creature feature":
     template:
       - name: Theme label
@@ -251,6 +258,7 @@ collections:
       - name: Theme label
         theme: "splatter"
         title_list:
+          - Bone Tomahawk (2015)
           - Hobo with a Shotgun (2011)
           - Saw (2004) 001
           - Saw (2004) 002
@@ -317,6 +325,7 @@ collections:
         theme: "western"
         title_list:
           - Back to the Future (1985) 003
+          - Bone Tomahawk (2015)
           - True Grit (2010)
 
   "Theme: zombies":
