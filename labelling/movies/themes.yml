@@ -105,6 +105,13 @@ collections:
         title_list:
           - Wicker Man (19973) 001
 
+  "Theme: found footage":
+    template:
+      - name: Theme label
+        theme: "found footage"
+        title_list:
+          - Blair Witch Project (1999) 001
+
   "Theme: foreign language":
     template:
       - name: Theme label
@@ -178,7 +185,6 @@ collections:
       - name: Theme label
         theme: "mockumentary"
         title_list:
-          - Blair Witch Project (1999) 001
           - District 9 (2009)
           - What We Do in the Shadows (2014)
 
