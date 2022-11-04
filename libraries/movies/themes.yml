@@ -13,6 +13,16 @@ collections:
         genre: Horror
       sort_by: title.asc
 
+  "Found Footage & Mockumentary":
+    template:
+      - name: Theme
+        summary: "depicting fictional events but presented as a documentary."
+    smart_filter:
+      any: 
+        label: "theme: found footage"
+        label: "theme: mockumentary"
+      sort_by: title.asc
+
   Foreign Language:
     template:
       - name: Theme
@@ -49,6 +59,16 @@ collections:
         label:
           - "theme: parody"
           - "theme: spoof"
+      sort_by: title.asc
+
+  Psychological Horror:
+    template:
+      - name: Theme
+        summary: "in the horror genre with a particular focus on mental, emotional, and psychological states to frighten, disturb, or unsettle its audience."
+    smart_filter:
+      all:
+        label: "theme: psychological"
+        genre: Horror
       sort_by: title.asc
 
   Slasher:

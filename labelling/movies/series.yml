@@ -2,6 +2,13 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  "Series: 28 Days Later (2002)":
+    template:
+      - name: Series label
+        series: "28 Days Later (2002)"
+        title_list:
+          - 28 Days Later (2002) 001
+
   "Series: 300 (2007)":
     template:
       - name: Series label
@@ -82,6 +89,13 @@ collections:
         title_list:
           - Blade Runner (1982) 001 2007
           - Blade Runner (1982) 002
+
+  "Series: The Blair Witch Project (1999)":
+    template:
+      - name: Series label
+        series: "The Blair Witch Project (1999)"
+        title_list:
+          - Blair Witch Project (1999) 001
 
   "Series: Captain America (2011)":
     template:
@@ -466,6 +480,7 @@ collections:
           - Scream (1996) 001
           - Scream (1996) 002
           - Scream (1996) 003
+          - Scream (1996) 004
           - Scream (1996) 005
 
   "Series: The Secret Life of Pets (2016)":

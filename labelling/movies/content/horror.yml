@@ -23,6 +23,7 @@ collections:
         title_list:
           - Batman Begins (2005)
           - Birds (1963)
+          - Blair Witch Project (1999) 001
           - Freaked (1994)
           - Harry Potter (2001) 004
           - Harry Potter (2001) 005
@@ -44,6 +45,7 @@ collections:
         content: horror
         level: strong
         title_list:
+          - 28 Days Later (2002) 001
           - Alien (1979) 001
           - Alien (1979) 002
           - Alien (1979) 004

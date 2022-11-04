@@ -266,6 +266,7 @@ collections:
       - name: Ownership label
         status: "rented/loaned"
         title_list:
+          - 28 Days Later (2002) 001
           - After Sex (2007)
           - "Alien: Covenant (2017)"
           - Amazing Spider-Man (2012) 002
@@ -280,8 +281,10 @@ collections:
           - Black Panther (2018) 001
           - Blade Runner (1982) 001 2007
           - Blade Runner (1982) 002
+          - Blair Witch Project (1999) 001
           - Blonde (2022)
           - Blue is the Warmest Colour (2013)
+          - Bone Tomahawk (2015)
           - Boogie Woogie (2009)
           - Boss'n Up (2005)
           - Cabin in the Woods (2012)
@@ -379,6 +382,7 @@ collections:
           - Scream (1996) 001
           - Scream (1996) 002
           - Scream (1996) 003
+          - Scream (1996) 004
           - Scream (1996) 005
           - Secret Life of Pets (2016) 001
           - Sergio (2020)
