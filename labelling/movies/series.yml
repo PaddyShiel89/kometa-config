@@ -90,6 +90,13 @@ collections:
           - Blade Runner (1982) 001 2007
           - Blade Runner (1982) 002
 
+  "Series: The Blair Witch Project (1999)":
+    template:
+      - name: Series label
+        series: "The Blair Witch Project (1999)"
+        title_list:
+          - Blair Witch Project (1999) 001
+
   "Series: Captain America (2011)":
     template:
       - name: Series label

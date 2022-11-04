@@ -178,6 +178,7 @@ collections:
       - name: Theme label
         theme: "mockumentary"
         title_list:
+          - Blair Witch Project (1999) 001
           - District 9 (2009)
           - What We Do in the Shadows (2014)
 
@@ -225,6 +226,7 @@ collections:
       - name: Theme label
         theme: "psychological"
         title_list:
+          - Blair Witch Project (1999) 001
           - Invisible Man (2020)
           - Last Night in Soho (2021)
 
@@ -293,6 +295,7 @@ collections:
         title_list:
           - Angel-A (2005)
           - Aventure (2009)
+          - Blair Witch Project (1999) 001
           - Casper (1995)
           - Devil's Backbone (2001)
           - Doctor Sleep (2019)
