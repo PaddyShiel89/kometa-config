@@ -18,9 +18,10 @@ collections:
       - name: Theme
         summary: "depicting fictional events but presented as a documentary."
     smart_filter:
-      any: 
-        label: "theme: found footage"
-        label: "theme: mockumentary"
+      any:
+        label:
+          - "theme: found footage"
+          - "theme: mockumentary"
       sort_by: title.asc
 
   Foreign Language:
