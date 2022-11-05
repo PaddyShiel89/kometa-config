@@ -13,10 +13,10 @@ playlists:
     plex_search:
       label: "series: Halloween H20 reboot"
 
-  "Halloween 2018 Continuity":
+  "Halloween Blumhouse Continuity":
     sync_mode: sync
     libraries: Movies
-    summary: "The Halloween films that are canon to the 2018 Halloween reboot."
+    summary: "The Halloween films that are canon to the 2018 Halloween reboot by Blumhouse Productions."
     plex_search:
       label: "series: Halloween (2018)"
     filter:
