@@ -14,6 +14,24 @@ playlists:
     libraries: Movies, TV shows
     trakt_list: https://trakt.tv/users/ruben_vw_/lists/star-wars-canon-timeline?sort=rank,asc
     summary: "The complete Star Wars saga, featuring all movies and TV shows and ordered chronologically."
-    file_poster: /config/assets/playlists/Star Wars Star Wars The Complete Saga.png
+    file_poster: /config/assets/playlists/Star Wars The Complete Saga.png
     filter:
       label.not: "Secondary_Cut"
+
+  "Star Wars: Definitive Movie Playlist":
+    sync_mode: sync
+    libraries: Movies
+    trakt_list: https://trakt.tv/users/ruben_vw_/lists/star-wars-canon-timeline?sort=rank,asc
+    summary: "The Star Wars movies in chronological order and using their best versions."
+    file_poster: /config/assets/playlists/Star Wars Definitive Movie Playlist.png
+    filter:
+      label: "Edition_Star_Wars_Definitive"
+
+  "Star Wars: The Machete Order":
+    sync_mode: sync
+    libraries: Movies
+    trakt_list: https://trakt.tv/users/hgferr/lists/star-wars-machete-order?sort=added,asc
+    summary: "The complete Star Wars saga, featuring all movies and TV shows and ordered chronologically."
+    file_poster: /config/assets/playlists/Star Wars The Machete Order.png
+    filter:
+      label: "Edition_Star_Wars_Definitive"
