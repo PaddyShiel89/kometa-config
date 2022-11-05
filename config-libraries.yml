@@ -99,7 +99,6 @@ libraries:
       - repo: libraries/shared/series
       - repo: libraries/documentaries/themes
 playlist_files:
-  - repo: playlists/admin
   - repo: playlists/halloween
   - repo: playlists/movie_charts
   - repo: playlists/star_wars

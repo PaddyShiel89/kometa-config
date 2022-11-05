@@ -10,7 +10,14 @@ templates:
         conditions:
           # Horror
           - collection_name:
-              [Alien Horror, Slasher, Splatter, Supernatural Horror, Zombies]
+              [
+                Alien Horror,
+                Psychological Horror,
+                Slasher,
+                Splatter,
+                Supernatural Horror,
+                Zombies,
+              ]
             value: "01"
     collection_mode: hide
     file_poster: /config/assets/themes/<<poster_folder>>/<<collection_name>>.png
