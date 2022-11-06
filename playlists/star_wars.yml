@@ -21,7 +21,7 @@ playlists:
   "Star Wars: Definitive Movie Playlist":
     sync_mode: sync
     libraries: Movies
-    trakt_list: https://trakt.tv/users/ruben_vw_/lists/star-wars-canon-timeline?sort=rank,asc
+    trakt_list: https://trakt.tv/users/sonicwarrior/lists/star-wars-canon-timeline?sort=rank,asc
     summary: "The Star Wars movies in chronological order and using their best versions."
     file_poster: /config/assets/playlists/Star Wars Definitive Movie Playlist.png
     filter:
