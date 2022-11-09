@@ -266,6 +266,7 @@ collections:
       - name: Ownership label
         status: "rented/loaned"
         title_list:
+          - 28 Days Later (2002) 001
           - After Sex (2007)
           - "Alien: Covenant (2017)"
           - Amazing Spider-Man (2012) 002
@@ -280,8 +281,10 @@ collections:
           - Black Panther (2018) 001
           - Blade Runner (1982) 001 2007
           - Blade Runner (1982) 002
+          - Blair Witch Project (1999) 001
           - Blonde (2022)
           - Blue is the Warmest Colour (2013)
+          - Bone Tomahawk (2015)
           - Boogie Woogie (2009)
           - Boss'n Up (2005)
           - Cabin in the Woods (2012)
@@ -295,6 +298,7 @@ collections:
           - Corrina, Corrina (1994)
           - Deep Water (2022)
           - Devil's Backbone (2001)
+          - Die Another Day (2002)
           - Doctor Sleep (2019)
           - Dracula (1992)
           - Dune (2021) 001
@@ -303,8 +307,11 @@ collections:
           - Fatal Instinct (1993)
           - Favourite (2018)
           - Fifth Element (1997)
+          - Freaked (1994)
           - Green Mile (1999)
           - Halloween (1978) 001
+          - Halloween (2018) 001
+          - Halloween (2018) 002
           - Hard Boiled (1992)
           - Harry Potter (2001) 001
           - Harry Potter (2001) 002
@@ -324,6 +331,7 @@ collections:
           - I Spit on Your Grave (1978)
           - Incredible Hulk (2008) 001
           - Incredibles (2004) 001
+          - Invisible Man (2020)
           - IT (2017) 001
           - IT (2017) 002
           - It Follows (2015)
@@ -374,9 +382,11 @@ collections:
           - Scream (1996) 001
           - Scream (1996) 002
           - Scream (1996) 003
+          - Scream (1996) 004
           - Scream (1996) 005
           - Secret Life of Pets (2016) 001
           - Sergio (2020)
+          - Silent Hill (2006) 001
           - Shame (2011)
           - Sherlock Holmes (2009) 002
           - Shining (1980)

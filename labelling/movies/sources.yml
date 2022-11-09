@@ -8,6 +8,7 @@ collections:
         source: "blu-ray"
         title_list:
           - 4.3.2.1 (2010)
+          - 28 Days Later (2002) 001
           - 300 (2007) 001
           - 300 (2007) 002
           - Alien (1979) 001 1979 Theatrical cut
@@ -48,7 +49,9 @@ collections:
           - Blade Runner (1982) 001 2007 Final Cut
           - Blade Runner (1982) 002
           - Blades of Glory (2007)
+          - Blair Witch Project (1999) 001
           - Blue is the Warmest Colour (2013)
+          - Bone Tomahawk (2015)
           - Boogie Nights (1997)
           - Cabin in the Woods (2012)
           - Captain America (2011) 002
@@ -66,6 +69,7 @@ collections:
           - Departed (2006)
           - Devil's Backbone (2001)
           - Diamonds Are Forever (1971)
+          - Die Another Day (2002)
           - Die Hard (1988) 001
           - Disappearance of Alice Creed (2010)
           - District 9 (2009)
@@ -99,6 +103,8 @@ collections:
           - Halloween (1978) 006
           - Halloween (1978) 007
           - Halloween (1978) 008
+          - Halloween (2018) 001
+          - Halloween (2018) 002
           - Harry Brown (2009)
           - Harry Potter (2001) 001
           - Harry Potter (2001) 002
@@ -123,6 +129,7 @@ collections:
           - Incredibles (2004) 001
           - Inglourious Basterds (2009)
           - Inhale (2010)
+          - Invisible Man (2020)
           - Iron Man (2008) 001
           - Iron Man (2008) 002
           - IT (2017) 001
@@ -236,6 +243,7 @@ collections:
           - Scream (1996) 001
           - Scream (1996) 002
           - Scream (1996) 003
+          - Scream (1996) 004
           - Scream (1996) 005
           - Secret Life of Pets (2016) 001
           - Seven (1995)
@@ -247,6 +255,7 @@ collections:
           - Sherlock Holmes (2009) 002
           - Shining (1980)
           - Silence of the Lambs (1991)
+          - Silent Hill (2006) 001
           - Sin City (2005) 001
           - Sin City (2005) 002
           - Single Man (2009)
@@ -386,6 +395,7 @@ collections:
           - Exterminating Angels (2006)
           - Fatal Instinct (1993)
           - Fausto 5.0 (2001)
+          - Freaked (1994)
           - Hard Boiled (1992)
           - Head in the Clouds (2004)
           - High Fidelity (2000)

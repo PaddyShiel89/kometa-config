@@ -23,6 +23,8 @@ collections:
         title_list:
           - Batman Begins (2005)
           - Birds (1963)
+          - Blair Witch Project (1999) 001
+          - Freaked (1994)
           - Harry Potter (2001) 004
           - Harry Potter (2001) 005
           - Harry Potter (2001) 008
@@ -43,6 +45,7 @@ collections:
         content: horror
         level: strong
         title_list:
+          - 28 Days Later (2002) 001
           - Alien (1979) 001
           - Alien (1979) 002
           - Alien (1979) 004
@@ -65,9 +68,26 @@ collections:
           - Scream (1996) 002
           - Seven (1995)
           - Shaun of the Dead (2004)
+          - Silent Hill (2006) 001
           - Thing (1982)
           - Witch (2015)
           - X (2022)
+
+  "Content: horror (bloody)":
+    template:
+      - name: Content label
+        content: horror
+        level: bloody
+        title_list:
+          - Silent Hill (2006) 001
+
+  "Content: horror (comic)":
+    template:
+      - name: Content label
+        content: horror
+        level: comic
+        title_list:
+          - Freaked (1994)
 
   "Content: horror (fantasy)":
     template:

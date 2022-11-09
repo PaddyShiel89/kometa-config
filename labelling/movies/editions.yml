@@ -11,6 +11,7 @@ collections:
           - Alien (1979) 003B
           - Alien (1979) 004B
           - American Gangster (2007) 001B
+          - Halloween (2018) 002A
           - Salt (2010) 001B
           - Salt (2010) 001C
           - Star Wars 001 (1999) 2001
@@ -34,5 +35,25 @@ collections:
           - Wicker Man (19973) 001B
           - Wicker Man (19973) 001C
     item_label: "Secondary_Cut"
+    build_collection: false
+    sync_mode: sync
+
+  # Personal preferred versions of Star Wars movies to use in Playlists
+  "Edition: Star Wars Definitive":
+    plex_search:
+      any:
+        title:
+          - "Rogue One: A Star Wars Story (2016)"
+          - "Solo: A Star Wars Story (2018)"
+          - Star Wars 001 (1999) 2011
+          - Star Wars 002 (2002) 2011
+          - Star Wars 003 (2005) 2011
+          - Star Wars 004 (1977) 2018
+          - Star Wars 005 (1980) 2016
+          - Star Wars 006 (1983) 2019
+          - Star Wars 007 (2015)
+          - Star Wars 008 (2017)
+          - Star Wars 009 (2019)
+    item_label: "Edition_Star_Wars_Definitive"
     build_collection: false
     sync_mode: sync
