@@ -172,6 +172,7 @@ collections:
         level: strong
         title_list:
           - 28 Days Later (2002) 001
+          - 28 Days Later (2002) 002
           - 300 (2007) 001
           - 300 (2007) 002
           - Alien (1979) 001
@@ -365,6 +366,7 @@ collections:
         content: violence
         level: bloody
         title_list:
+          - 28 Days Later (2002) 002
           - 300 (2007) 001
           - 300 (2007) 002
           - Alien (1979) 004
