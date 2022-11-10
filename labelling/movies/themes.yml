@@ -70,6 +70,14 @@ collections:
         title_list:
           - Bone Tomahawk (2015)
 
+  "Theme: Christmas":
+    template:
+      - name: Theme label
+        theme: "Christmas"
+        title_list:
+          - Die Hard (1988) 001
+          - Muppet Christmas Carol (1992)
+
   "Theme: creature feature":
     template:
       - name: Theme label
@@ -312,7 +320,9 @@ collections:
           - IT (2017) 002
           - It Follows (2015)
           - "Lara Croft: Tomb Raider (2001) 001"
+          - Mist (2007)
           - Mummy (1999) 001
+          - Muppet Christmas Carol (1992)
           - Nocturne (2020)
           - Pet Sematary (2019)
           - Shining (1980)
@@ -343,6 +353,7 @@ collections:
         theme: "zombies"
         title_list:
           - 28 Days Later (2002) 001
+          - 28 Days Later (2002) 002
           - Cabin in the Woods (2012)
           - Juan of the Dead (2012)
           - Planet Terror (2007)
