@@ -189,6 +189,14 @@ collections:
           - Police Story (1985) 002
           - Tuxedo (2002)
 
+  "Theme: mental illness":
+    template:
+      - name: Theme label
+        theme: "mental illness"
+        title_list:
+          - One Flew Over the Cuckoo's Nest (1975)
+          - Shutter Island (2010)
+
   "Theme: mockumentary":
     template:
       - name: Theme label
@@ -251,6 +259,7 @@ collections:
           - Blair Witch Project (1999) 001
           - Invisible Man (2020)
           - Last Night in Soho (2021)
+          - Shutter Island (2010)
 
   "Theme: religion":
     template:
