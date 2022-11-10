@@ -69,6 +69,7 @@ collections:
         theme: "cannibals"
         title_list:
           - Bone Tomahawk (2015)
+          - Book of Eli (2010)
 
   "Theme: Christmas":
     template:
@@ -235,6 +236,13 @@ collections:
         title_list:
           - Hook (1991)
 
+  "Theme: post-apocalyptic":
+    template:
+      - name: Theme label
+        theme: "post-apocalyptic"
+        title_list:
+          - Book of Eli (2010)
+
   "Theme: psychological":
     template:
       - name: Theme label
@@ -243,6 +251,13 @@ collections:
           - Blair Witch Project (1999) 001
           - Invisible Man (2020)
           - Last Night in Soho (2021)
+
+  "Theme: religion":
+    template:
+      - name: Theme label
+        theme: "religion"
+        title_list:
+          - Book of Eli (2010)
 
   "Theme: slasher":
     template:
@@ -345,6 +360,7 @@ collections:
         title_list:
           - Back to the Future (1985) 003
           - Bone Tomahawk (2015)
+          - Book of Eli (2010)
           - True Grit (2010)
 
   "Theme: zombies":
