@@ -496,6 +496,7 @@ collections:
       - name: Series label
         series: "Sherlock Holmes (2011)"
         title_list:
+          - Sherlock Holmes (2009) 001
           - Sherlock Holmes (2009) 002
 
   "Series: The Shining (1980)":
