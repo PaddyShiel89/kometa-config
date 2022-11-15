@@ -95,9 +95,18 @@ collections:
           - It Follows (2015)
           - Jolene (2008)
           - Knock Knock (2015)
+          - Look of Love (2013)
           - Malena (2000) 001A
           - Room in Rome (2010)
           - Secret Things (2002)
           - Sin City (2005) 002
           - Sleeping Beauty (2011)
           - Under the Skin (2014)
+
+  "Content: nudity (sexualised)":
+    template:
+      - name: Content label
+        content: nudity
+        level: sexualised
+        title_list:
+          - Look of Love (2013)
