@@ -1,0 +1,11 @@
+collections:
+  Quick Flicks:
+    smart_filter:
+      all:
+        duration.lte: 100
+      sort_by: duration.asc
+    collection_mode: hide
+    file_poster: /config/assets/general/<<library_name>>/Quick Flicks.png
+    sort_title: "!10_<<collection_name>>"
+    summary: "<<library_name>> no longer than 100 minutes in length, ordered from shortest to longest."
+    sync_mode: sync

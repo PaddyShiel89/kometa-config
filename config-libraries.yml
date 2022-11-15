@@ -41,6 +41,7 @@ libraries:
       - repo: labelling/movies/themes
       - repo: libraries/shared/actors
       - repo: libraries/movies/directors
+      - repo: libraries/movies/general
       - repo: libraries/shared/content_ratings
       - repo: libraries/movies/editions
       - repo: libraries/movies/editions_metadata
