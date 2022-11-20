@@ -22,6 +22,7 @@ collections:
           - Shawshank Redemption (1994)
           - Skyfall (2012)
           - Spectre (2015)
+          - Zoolander (2001) 001
 
   "Content: sex (moderate)":
     template:
@@ -130,6 +131,7 @@ collections:
         level: comic
         title_list:
           - Night at the Roxbury (1998)
+          - Zoolander (2001) 001
 
   "Content: sex (real)":
     template:
