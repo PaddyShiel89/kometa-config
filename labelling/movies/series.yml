@@ -616,3 +616,10 @@ collections:
         title_list:
           - Wonder Woman (2017) 001
           - Wonder Woman (2017) 002
+
+  "Series: Zoolander (2001)":
+    template:
+      - name: Series label
+        series: "Zoolander (2001)"
+        title_list:
+          - Zoolander (2001) 001
