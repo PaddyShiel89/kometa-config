@@ -13,6 +13,16 @@ collections:
         genre: Horror
       sort_by: title.asc
 
+  Christmas:
+    template:
+      - name: Theme
+        summary: "set primarily at Christmastime."
+    smart_filter:
+      all:
+        label: "theme: christmas"
+      sort_by: title.asc
+    visible_home: range(11/24-01/7)
+
   "Found Footage & Mockumentary":
     template:
       - name: Theme
