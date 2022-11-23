@@ -392,6 +392,13 @@ collections:
           - Naked Gun (1988) 002 The Smell of Fear
           - Naked Gun (1988) 003 The Final Insult
 
+  "Series: Nativity! (2009)":
+    template:
+      - name: Series label
+        series: "Nativity! (2009)"
+        title_list:
+          - Nativity! (2009) 001
+
   "Series: Ocean's Eleven (2001)":
     template:
       - name: Series label

@@ -1,0 +1,13 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: innuendo (mild)":
+    template:
+      - name: Content label
+        content: innuendo
+        level: mild
+        title_list:
+          - Elf (2003)
+          - Gilda (1946)
+          - Nativity! (2009) 001
