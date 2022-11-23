@@ -27,10 +27,12 @@ collections:
           - Casper (1995)
           - Cool Runnings (1993)
           - Dr. No (1962)
+          - Elf (2003)
           - Favourite (2018)
           - Fifth Element (1997)
           - For Your Eyes Only (1981)
           - Freaked (1994)
+          - Gilda (1946)
           - Goldfinger (1964)
           - Harry Potter (2001) 001
           - Harry Potter (2001) 002
@@ -489,3 +491,11 @@ collections:
         title_list:
           - I Spit on Your Grave (1978)
           - Saw (2004) 007
+
+  "Content: violence (slapstick)":
+    template:
+      - name: Content label
+        content: violence
+        level: slapstick
+        title_list:
+          - Elf (2003)

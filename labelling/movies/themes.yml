@@ -77,7 +77,9 @@ collections:
         theme: "Christmas"
         title_list:
           - Die Hard (1988) 001
+          - Elf (2003)
           - Muppet Christmas Carol (1992)
+          - Nativity! (2009) 001
 
   "Theme: creature feature":
     template:
@@ -106,6 +108,14 @@ collections:
           - Sliver (1993)
           - Species (1995) 001
           - Voyeurs (2021)
+
+  "Theme: film noir":
+    template:
+      - name: Theme label
+        theme: "film noir"
+        title_list:
+          - Gilda (1946)
+          - Shadow of a Doubt (1943)
 
   "Theme: folk & cult":
     template:
@@ -229,6 +239,41 @@ collections:
           - Seven (1995)
           - Silence of the Lambs (1991)
           - Spiral (2021)
+
+  "Theme: neo-noir":
+    template:
+      - name: Theme label
+        theme: "neo-noir"
+        title_list:
+          - American Gangster (2007) 001
+          - Baise-moi (2000)
+          - Basic Instinct (1992) 001
+          - Batman (1989) 002
+          - Batman (2022) 001
+          - Batman Begins (2005)
+          - Black Dahlia (2006)
+          - Blade Runner (1982) 001 2007
+          - Blade Runner (1982) 002
+          - Dark Knight (2008)
+          - Dark Knight Rises (2012)
+          - Departed (2006)
+          - Fight Club (1999)
+          - Frenzy (1972)
+          - Hard Boiled (1992)
+          - Marnie (1964)
+          - Match Point (2005)
+          - Mystic River (2003)
+          - No Country for Old Men (2007)
+          - Psycho (1960)
+          - Pulp Fiction (1994)
+          - Reservoir Dogs (1992)
+          - Seven (1995)
+          - Shutter Island (2010)
+          - Silence of the Lambs (1991)
+          - Sin City (2005) 001
+          - Sin City (2005) 002
+          - Taxi Driver (1976)
+          - Watchmen (2009)
 
   "Theme: parody":
     template:
