@@ -20,6 +20,7 @@ libraries:
       - repo: labelling/movies/content/humour
       - repo: labelling/movies/content/incest_theme
       - repo: labelling/movies/content/injury_detail
+      - repo: labelling/movies/content/innuendo
       - repo: labelling/movies/content/language
       - repo: labelling/movies/content/nudity
       - repo: labelling/movies/content/sex_references
