@@ -107,6 +107,13 @@ collections:
           - Species (1995) 001
           - Voyeurs (2021)
 
+  "Theme: film noir":
+    template:
+      - name: Theme label
+        theme: "film noir"
+        title_list:
+          - Gilda (1946)
+
   "Theme: folk & cult":
     template:
       - name: Theme label
