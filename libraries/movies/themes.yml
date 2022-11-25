@@ -23,10 +23,10 @@ collections:
       sort_by: title.asc
     visible_home: range(11/24-01/7)
 
-  "Film Noir & Neo Noir":
+  "Film Noir & Neo-Noir":
     template:
       - name: Theme
-        summary: "in the crime genre associated with a low-key, black-and-white visual style and which emphasize cynical attitudes and motivations. Also includes subgenres of offshoots of film noir, such as neo-noir."
+        summary: "in the crime genre associated with a low-key, black-and-white visual style and which emphasize cynical attitudes and motivations. Also includes subgenres and offshoots of film noir, such as neo-noir."
     smart_filter:
       any:
         label:
