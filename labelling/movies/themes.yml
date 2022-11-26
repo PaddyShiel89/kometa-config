@@ -43,6 +43,7 @@ collections:
           - Star Wars Rebels (2014) 001
           - Star Wars Rebels (2014) 002
           - "Star Wars: The Clone Wars (2008)"
+          - Star Wars Holiday Special (1978)
           - Suicide Squad (2021)
           - Super 8 (2011)
           - Thing (1982)
@@ -80,6 +81,7 @@ collections:
           - Elf (2003)
           - Muppet Christmas Carol (1992)
           - Nativity! (2009) 001
+          - Star Wars Holiday Special (1978)
 
   "Theme: creature feature":
     template:
