@@ -79,8 +79,10 @@ collections:
         title_list:
           - Die Hard (1988) 001
           - Elf (2003)
+          - Holiday (2006)
           - Muppet Christmas Carol (1992)
           - Nativity! (2009) 001
+          - "Santa Claus: The Movie (1985)"
           - Star Wars Holiday Special (1978)
 
   "Theme: creature feature":
@@ -290,6 +292,7 @@ collections:
         theme: "pirates"
         title_list:
           - Hook (1991)
+          - Muppet Treasure Island (1996)
 
   "Theme: post-apocalyptic":
     template:
