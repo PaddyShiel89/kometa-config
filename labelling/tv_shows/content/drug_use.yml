@@ -10,6 +10,14 @@ collections:
         title_list:
           - Community (2009)
 
+  "Content: drug use (moderate)":
+    template:
+      - name: Content label
+        content: drug use
+        level: moderate
+        title_list:
+          - Gavin & Stacey (2007)
+
   "Content: drug use (strong)":
     template:
       - name: Content label

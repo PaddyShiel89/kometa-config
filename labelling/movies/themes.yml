@@ -307,6 +307,7 @@ collections:
         theme: "psychological"
         title_list:
           - Blair Witch Project (1999) 001
+          - Bone Collector (1999)
           - Invisible Man (2020)
           - Last Night in Soho (2021)
           - Shutter Island (2010)
@@ -317,6 +318,13 @@ collections:
         theme: "religion"
         title_list:
           - Book of Eli (2010)
+
+  "Theme: serial killer":
+    template:
+      - name: Theme label
+        theme: "serial killer"
+        title_list:
+          - Bone Collector (1999)
 
   "Theme: slasher":
     template:
