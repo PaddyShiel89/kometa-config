@@ -126,7 +126,7 @@ collections:
       - name: Theme label
         theme: "folk & cult"
         title_list:
-          - Wicker Man (19973) 001
+          - Wicker Man (1973) 001
 
   "Theme: found footage":
     template:
