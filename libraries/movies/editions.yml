@@ -42,6 +42,14 @@ collections:
     tmdb_movie: 4982
     summary: "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas, whose real life inspired this partly biographical film."
 
+  Gladiator:
+    template:
+      - name: Edition
+        poster_file_name: "Gladiator (2000)"
+    sort_title: "Gladiator (2000) 001"
+    tmdb_movie: 98
+    summary: "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+
   Halloween Kills:
     template:
       - name: Edition
