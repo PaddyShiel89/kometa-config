@@ -11,6 +11,7 @@ collections:
           - Alien (1979) 003B
           - Alien (1979) 004B
           - American Gangster (2007) 001B
+          - Gladiator (2000) 001B
           - Halloween (2018) 002A
           - Salt (2010) 001B
           - Salt (2010) 001C
@@ -32,8 +33,8 @@ collections:
           - Star Wars 006 (1983) 2016
           - Star Wars 006 (1983) 2019
           - Sucker Punch (2011) 001B
-          - Wicker Man (19973) 001B
-          - Wicker Man (19973) 001C
+          - Wicker Man (1973) 001B
+          - Wicker Man (1973) 001C
     item_label: "Secondary_Cut"
     build_collection: false
     sync_mode: sync

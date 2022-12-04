@@ -14,9 +14,9 @@ collections:
           - Sherlock Holmes (2009) 001
           - Toy Story (1995) 001
           - Vertigo (1958)
-          - Wicker Man (19973) 001A
-          - Wicker Man (19973) 001B
-          - Wicker Man (19973) 001C
+          - Wicker Man (1973) 001A
+          - Wicker Man (1973) 001B
+          - Wicker Man (1973) 001C
 
   "Content: language (mild)":
     template:
@@ -96,6 +96,8 @@ collections:
           - Black Panther (2018) 001
           - Dark Knight Rises (2012)
           - Diamonds Are Forever (1971)
+          - Dolce Vita (1960)
+          - Gladiator (2000)
           - Guardians of the Galaxy (2014) 001
           - Incredible Hulk (2008) 001
           - Iron Man (2008) 001
