@@ -99,6 +99,7 @@ collections:
         title_list:
           - Aventure (2009)
           - Basic Instinct (1992) 001
+          - Benedetta (2021)
           - Chloe (2009)
           - Deep Water (2022)
           - Dressage (1986)
@@ -144,6 +145,7 @@ collections:
           - Anything For Her (2008)
           - Aventure (2009)
           - Baise-moi (2000)
+          - Benedetta (2021)
           - Blue is the Warmest Colour (2013)
           - Che (2008) 001
           - Che (2008) 002
@@ -318,6 +320,7 @@ collections:
       - name: Theme label
         theme: "religion"
         title_list:
+          - Benedetta (2021)
           - Book of Eli (2010)
 
   "Theme: serial killer":
