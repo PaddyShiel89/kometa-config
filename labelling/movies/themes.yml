@@ -80,6 +80,7 @@ collections:
           - Die Hard (1988) 001
           - Elf (2003)
           - Holiday (2006)
+          - Miracle on 34th Street (1994)
           - Muppet Christmas Carol (1992)
           - Nativity! (2009) 001
           - "Santa Claus: The Movie (1985)"
@@ -99,6 +100,7 @@ collections:
         title_list:
           - Aventure (2009)
           - Basic Instinct (1992) 001
+          - Benedetta (2021)
           - Chloe (2009)
           - Deep Water (2022)
           - Dressage (1986)
@@ -144,6 +146,7 @@ collections:
           - Anything For Her (2008)
           - Aventure (2009)
           - Baise-moi (2000)
+          - Benedetta (2021)
           - Blue is the Warmest Colour (2013)
           - Che (2008) 001
           - Che (2008) 002
@@ -318,6 +321,7 @@ collections:
       - name: Theme label
         theme: "religion"
         title_list:
+          - Benedetta (2021)
           - Book of Eli (2010)
 
   "Theme: serial killer":
