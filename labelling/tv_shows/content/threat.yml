@@ -10,6 +10,14 @@ collections:
         title_list:
           - Star Wars Rebels (2014)
 
+  "Content: threat (moderate)":
+    template:
+      - name: Content label
+        content: threat
+        level: moderate
+        title_list:
+          - Sherlock (2010)
+
   "Content: threat (strong)":
     template:
       - name: Content label
