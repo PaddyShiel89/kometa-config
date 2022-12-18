@@ -2,6 +2,14 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  "Content: innuendo (very mild)":
+    template:
+      - name: Content label
+        content: innuendo
+        level: very mild
+        title_list:
+          - Indiana Jones (1981) 003
+
   "Content: innuendo (mild)":
     template:
       - name: Content label
