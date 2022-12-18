@@ -48,3 +48,17 @@ playlists:
     file_poster: /config/assets/playlists/Oscars Best Picture Winners.png
     filter:
       label.not: "Secondary_Cut"
+
+  Top of the Crock:
+    plex_search:
+      all:
+        user_rating.gte: 8
+      limit: 50
+      sort_by:
+        - audience_rating.desc
+        - title.asc
+    libraries: Movies
+    summary: My top-rated movies.
+    sync_mode: sync
+    filter:
+      label.not: "Secondary_Cut"
