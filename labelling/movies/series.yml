@@ -238,6 +238,13 @@ collections:
         title_list:
           - Incredibles (2004) 001
 
+  "Series: Indiana Jones (1981)":
+    template:
+      - name: Series label
+        series: "Indiana Jones (1981)"
+        title_list:
+          - Indiana Jones (1981) 001
+
   "Series: Iron Man (2008)":
     template:
       - name: Series label
