@@ -114,6 +114,7 @@ collections:
           - Indiana Jones (1981) 001
           - Indiana Jones (1981) 002
           - Indiana Jones (1981) 003
+          - Indiana Jones (1981) 004
           - Iron Man (2008) 001
           - Iron Man (2008) 002
           - Jojo Rabbit (2019)
@@ -350,6 +351,7 @@ collections:
         content: violence
         level: action
         title_list:
+          - Indiana Jones (1981) 004
           - Jurassic World (2015) 001
           - Jurassic World (2015) 002
           - Living Daylights (1987)
