@@ -28,6 +28,10 @@ collections:
           - Harry Potter (2001) 004
           - Harry Potter (2001) 005
           - Harry Potter (2001) 008
+          - Indiana Jones (1981) 001
+          - Indiana Jones (1981) 002
+          - Indiana Jones (1981) 003
+          - Indiana Jones (1981) 004
           - Jurassic Park (1993) 001
           - Jurassic Park (1993) 003
           - Lord of the Rings (2001) 003B
@@ -50,6 +54,7 @@ collections:
           - Alien (1979) 002
           - Alien (1979) 004
           - Complicity (2000)
+          - Devil's Advocate (1997)
           - Doctor Sleep (2019)
           - Dracula (1992)
           - Faculty (1998)
@@ -96,6 +101,8 @@ collections:
         content: horror
         level: fantasy
         title_list:
+          - Indiana Jones (1981) 001
+          - Indiana Jones (1981) 002
           - Jurassic Park (1993) 001
 
   "Content: horror (ghost)":

@@ -111,6 +111,10 @@ collections:
           - Hobbit (2012) 003
           - Hot Tub Time Machine (2010)
           - Incredible Hulk (2008) 001
+          - Indiana Jones (1981) 001
+          - Indiana Jones (1981) 002
+          - Indiana Jones (1981) 003
+          - Indiana Jones (1981) 004
           - Iron Man (2008) 001
           - Iron Man (2008) 002
           - Jojo Rabbit (2019)
@@ -215,6 +219,7 @@ collections:
           - Complicity (2000)
           - Dark Knight (2008)
           - Deep Water (2022)
+          - Devil's Advocate (1997)
           - Departed (2006)
           - Devil's Backbone (2001)
           - Die Hard (1988) 001
@@ -255,6 +260,7 @@ collections:
           - Kingsman (2014) 001
           - Kung Fu Hustle (2004)
           - Last Night in Soho (2021)
+          - Léon The Professional (1994)
           - Lie (2020)
           - Lucy (2014)
           - Machete (2010) 001
@@ -345,6 +351,7 @@ collections:
         content: violence
         level: action
         title_list:
+          - Indiana Jones (1981) 004
           - Jurassic World (2015) 001
           - Jurassic World (2015) 002
           - Living Daylights (1987)
@@ -412,6 +419,7 @@ collections:
           - Kick-Ass (2010) 002
           - Kingsman (2014) 001
           - Last Night in Soho (2021)
+          - Léon The Professional (1994) 001
           - Licence to Kill (1989)
           - Lucy (2014)
           - Machete (2010) 001

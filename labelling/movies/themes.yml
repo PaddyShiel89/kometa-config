@@ -18,6 +18,7 @@ collections:
           - Faculty (1998)
           - Fifth Element (1997)
           - Guardians of the Galaxy (2014) 001
+          - Indiana Jones (1981) 004
           - IT (2017) 001
           - IT (2017) 002
           - Men in Black (1997) 001
@@ -128,6 +129,7 @@ collections:
       - name: Theme label
         theme: "folk & cult"
         title_list:
+          - Indiana Jones (1981) 002
           - Wicker Man (1973) 001
 
   "Theme: found footage":
@@ -323,6 +325,8 @@ collections:
         title_list:
           - Benedetta (2021)
           - Book of Eli (2010)
+          - Indiana Jones (1981) 001
+          - Indiana Jones (1981) 003
 
   "Theme: serial killer":
     template:
@@ -399,11 +403,15 @@ collections:
           - Aventure (2009)
           - Blair Witch Project (1999) 001
           - Casper (1995)
+          - Devil's Advocate (1997)
           - Devil's Backbone (2001)
           - Doctor Sleep (2019)
           - Exterminating Angels (2006)
           - Fausto 5.0 (2001)
           - Green Mile (1999)
+          - Indiana Jones (1981) 001
+          - Indiana Jones (1981) 002
+          - Indiana Jones (1981) 003
           - IT (2017) 001
           - IT (2017) 002
           - It Follows (2015)
