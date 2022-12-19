@@ -55,7 +55,7 @@ playlists:
         user_rating.gte: 8
       limit: 50
       sort_by:
-        - audience_rating.desc
+        - user_rating.desc
         - title.asc
     libraries: Movies
     summary: My top-rated movies.
