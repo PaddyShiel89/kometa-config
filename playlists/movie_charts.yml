@@ -60,5 +60,6 @@ playlists:
     libraries: Movies
     summary: My top-rated movies.
     sync_mode: sync
+    file_poster: /config/assets/playlists/Top of the Crock.png
     filter:
       label.not: "Secondary_Cut"
