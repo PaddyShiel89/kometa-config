@@ -38,6 +38,13 @@ collections:
           - "series: Halloween H20 reboot"
           - "series: Halloween (2018)"
 
+  Indiana Jones Collection:
+    template:
+      - name: Series
+        summary: "that are part of the Indiana Jones series."
+        label_list:
+          - "series: Indiana Jones (1981)"
+
   James Bond Collection:
     template:
       - name: Series
