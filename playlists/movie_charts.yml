@@ -55,10 +55,11 @@ playlists:
         user_rating.gte: 8
       limit: 50
       sort_by:
-        - audience_rating.desc
+        - user_rating.desc
         - title.asc
     libraries: Movies
     summary: My top-rated movies.
     sync_mode: sync
+    file_poster: /config/assets/playlists/Top of the Crock.png
     filter:
       label.not: "Secondary_Cut"
