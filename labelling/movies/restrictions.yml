@@ -16,6 +16,7 @@ collections:
           - Novo (2002)
           - Room in Rome (2010)
           - Secret Things (2002)
+          - What the Peeper Saw (1972)
     template:
       - name: Restriction label
         restriction: "all"
