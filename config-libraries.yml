@@ -91,6 +91,7 @@ libraries:
       - repo: libraries/shared/content_ratings
   Documentaries:
     operations:
+      assets_for_all: true
       content_rating_mapper:
         "gb/12A": "gb/12"
       genre_mapper:
