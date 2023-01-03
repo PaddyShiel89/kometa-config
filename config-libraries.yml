@@ -1,6 +1,7 @@
 libraries:
   Movies:
     operations:
+      assets_for_all: true
       content_rating_mapper:
         "gb/12A": "gb/12"
         None: "gb/Unrated"
@@ -84,6 +85,8 @@ libraries:
       - repo: libraries/shared/themes
       - repo: libraries/tv_shows/themes
   Stand-up comedy:
+    operations:
+      assets_for_all: true
     metadata_path:
       - repo: libraries/shared/content_ratings
   Documentaries:
