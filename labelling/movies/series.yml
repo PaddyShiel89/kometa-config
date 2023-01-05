@@ -219,6 +219,13 @@ collections:
         title_list:
           - Hot Tub Time Machine (2010)
 
+  "Series: The Hunger Games (2012)":
+    template:
+      - name: Series label
+        series: "The Hunger Games (2012)"
+        title_list:
+          - Hunger Games (2012) 001
+
   "Series: I Am Curious (1968)":
     template:
       - name: Series label
