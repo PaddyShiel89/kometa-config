@@ -52,7 +52,7 @@ playlists:
   Top of the Crock:
     plex_search:
       all:
-        user_rating.gte: 8
+        user_rating.rated: true
       limit: 50
       sort_by:
         - user_rating.desc

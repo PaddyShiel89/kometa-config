@@ -307,6 +307,9 @@ collections:
         theme: "post-apocalyptic"
         title_list:
           - Book of Eli (2010)
+          - Hunger Games (2012) 001
+          - Hunger Games (2012) 002
+          - Hunger Games (2012) 003
 
   "Theme: psychological":
     template:
