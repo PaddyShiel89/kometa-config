@@ -115,6 +115,7 @@ collections:
   The Three Flavours Cornetto:
     template:
       - name: Series
+        sort_name: "Three Flavours Cornetto"
         summary: "in the Three Flavours Cornetto trilogy by Edgar Wright and Simon Pegg."
         title_list:
           - Hot Fuzz (2007)
