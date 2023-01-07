@@ -38,9 +38,10 @@ collections:
           - "series: Halloween H20 reboot"
           - "series: Halloween (2018)"
 
-  Hunger Games Collection:
+  The Hunger Games Collection:
     template:
       - name: Series
+        sort_name: "Hunger Games Collection"
         summary: "that are part of the Hunger Games franchise."
         label_list:
           - "series: The Hunger Games (2012)"
