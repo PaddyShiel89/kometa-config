@@ -1,5 +1,7 @@
 templates:
   Series:
+    default:
+      sort_name: <<collection_name>>
     optional:
       - label_list
       - summary
@@ -11,6 +13,6 @@ templates:
       sort_by: release.asc
     collection_mode: hide
     file_poster: /config/assets/series/<<collection_name>>.png
-    sort_title: "!20_<<collection_name>>"
+    sort_title: "!20_<<sort_name>>"
     summary: "<<library_name>> <<summary>>"
     sync_mode: sync
