@@ -53,7 +53,6 @@ playlists:
     plex_search:
       all:
         user_rating.rated: true
-        label.not: "Secondary_Cut"
       limit: 50
       sort_by:
         - user_rating.desc
