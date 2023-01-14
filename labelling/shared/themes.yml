@@ -26,7 +26,7 @@ collections:
         theme: based on a comic book
     filters:
       filepath.not:
-        - Robot Chicken (2001)
+        - Robot Chicken (2005) # Filepath is 2005, whereas sort_title is 2001
     schedule: weekly(saturday)
 
   "Theme: based on a true story":
