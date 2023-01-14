@@ -489,6 +489,13 @@ collections:
           - Saw (2004) 007
           - Spiral (2021)
 
+  "Series: Scary Movie (2000)":
+    template:
+      - name: Series label
+        series: "Scary Movie (2000)"
+        title_list:
+          - Scary Movie (2000) 001
+
   "Series: Scooby-Doo (2002)":
     template:
       - name: Series label
