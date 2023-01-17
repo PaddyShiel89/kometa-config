@@ -48,5 +48,6 @@ collections:
     template:
       - name: Theme label
         title_list:
+          - Cyberpunk Edgerunners (2022)
           - "Hyperdimension Neptunia: The Animation (2013)"
         theme: "videogames"

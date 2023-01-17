@@ -31,6 +31,7 @@ collections:
         source: "download"
         title_list:
           - Carnival Row (2019)
+          - Cyberpunk Edgerunners (2022)
           - Euphoria (2019)
           - Final Space (2018)
           - Man in the High Castle (2015)
@@ -76,4 +77,5 @@ collections:
         source: "Netflix"
         title_list:
           - Community (2009) # Mix
+          - Cyberpunk Edgerunners (2022)
           - Final Space (2018)
