@@ -69,6 +69,7 @@ libraries:
       - repo: labelling/tv_shows/content/gore
       - repo: labelling/tv_shows/content/injury_detail
       - repo: labelling/tv_shows/content/language
+      - repo: labelling/tv_shows/content/nudity
       - repo: labelling/tv_shows/content/sex_references
       - repo: labelling/tv_shows/content/sex
       - repo: labelling/tv_shows/content/sexual_violence

@@ -2,11 +2,10 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  "Content: sex (strong)":
+  "Content: nudity (moderate)":
     template:
       - name: Content label
-        content: sex
-        level: strong
+        content: nudity
+        level: moderate
         title_list:
-          - Borgias (2011)
           - Cyberpunk Edgerunners (2022)
