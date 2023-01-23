@@ -92,6 +92,27 @@ libraries:
       assets_for_all: true
     metadata_path:
       - repo: libraries/shared/content_ratings
+  Short films:
+    operations:
+      assets_for_all: true
+      content_rating_mapper:
+        "gb/12A": "gb/12"
+        None: "gb/Unrated"
+      genre_mapper:
+        Biography: Biopic
+        "Sci-Fi": Science Fiction
+        Martial Arts:
+        Short:
+        Western:
+    metadata_path:
+      - repo: labelling/short_films/ownership
+      - repo: labelling/short_films/restrictions
+      - repo: labelling/short_films/series
+      - repo: labelling/short_films/sources
+      - repo: labelling/short_films/themes
+      - repo: libraries/shared/actors
+      - repo: libraries/short_films/series
+      - repo: libraries/short_films/themes
   Documentaries:
     operations:
       assets_for_all: true
