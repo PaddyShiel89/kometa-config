@@ -11,6 +11,7 @@ libraries:
         Martial Arts:
         Western:
     metadata_path:
+      - repo: labelling/movies/content/child_abuse_references
       - repo: labelling/movies/content/discrimination
       - repo: labelling/movies/content/domestic_threat
       - repo: labelling/movies/content/drug_references
