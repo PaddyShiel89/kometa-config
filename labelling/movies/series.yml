@@ -495,6 +495,7 @@ collections:
         series: "Scary Movie (2000)"
         title_list:
           - Scary Movie (2000) 001
+          - Scary Movie (2000) 002
 
   "Series: Scooby-Doo (2002)":
     template:
