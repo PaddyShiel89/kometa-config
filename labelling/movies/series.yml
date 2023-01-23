@@ -629,6 +629,7 @@ collections:
       - name: Series label
         series: "Thor (2011)"
         title_list:
+          - Thor (2011) 001
           - Thor (2011) 002
           - Thor (2011) 003
 
