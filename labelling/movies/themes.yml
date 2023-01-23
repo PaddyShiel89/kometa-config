@@ -30,6 +30,7 @@ collections:
           - Predator (1987) 003
           - Prometheus (2012)
           - "Rogue One: A Star Wars Story (2016)"
+          - Scary Movie (2000) 003
           - "Solo: A Star Wars Story (2018)"
           - Species (1995) 001
           - Star Trek (2009) 001
@@ -49,6 +50,7 @@ collections:
           - Suicide Squad (2021)
           - Super 8 (2011)
           - Thing (1982)
+          - Thor (2011) 001
           - Thor (2011) 002
           - Thor (2011) 003
           - Transformers (2007) 001
@@ -108,6 +110,7 @@ collections:
           - Dressage (1986)
           - Emmanuelle (1974) 001
           - Exterminating Angels (2006)
+          - Gerald's Game (2017)
           - Ma mere (2004)
           - Q (2011)
           - Room in Rome (2010)
@@ -293,6 +296,8 @@ collections:
         title_list:
           - Mafia! (1998)
           - Scary Movie (2000) 001
+          - Scary Movie (2000) 002
+          - Scary Movie (2000) 003
 
   "Theme: pirates":
     template:
@@ -320,6 +325,7 @@ collections:
         title_list:
           - Blair Witch Project (1999) 001
           - Bone Collector (1999)
+          - Gerald's Game (2017)
           - Invisible Man (2020)
           - Last Night in Soho (2021)
           - Shutter Island (2010)
@@ -431,6 +437,8 @@ collections:
           - Muppet Christmas Carol (1992)
           - Nocturne (2020)
           - Pet Sematary (2019)
+          - Scary Movie (2000) 002
+          - Scary Movie (2000) 003
           - Shining (1980)
           - Silent Hill (2006) 001
           - Tenacious D in the Pick of Destiny (2006)

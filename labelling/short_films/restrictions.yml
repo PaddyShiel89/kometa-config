@@ -1,0 +1,13 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  # Restriction placed on all users
+  "Restriction: all":
+    plex_search:
+      any:
+        title:
+          - "Ánima (2011)"
+    template:
+      - name: Restriction label
+        restriction: "all"

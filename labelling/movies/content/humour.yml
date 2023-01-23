@@ -2,6 +2,15 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  "Content: humour (crude)":
+    template:
+      - name: Content label
+        content: humour
+        level: crude
+        title_list:
+          - Scary Movie (2000) 003
+          - Suicide Squad (2021)
+
   "Content: humour (rude)":
     template:
       - name: Content label
@@ -12,10 +21,10 @@ collections:
           - Secret Life of Pets (2016) 001
           - Star Wars 001
 
-  "Content: humour (crude)":
+  "Content: humour (sexual)":
     template:
       - name: Content label
         content: humour
-        level: crude
+        level: sexual
         title_list:
-          - Suicide Squad (2021)
+          - Scary Movie (2000) 003

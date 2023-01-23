@@ -106,6 +106,12 @@ collections:
         summary: "that are part of the Saw horror franchise."
         label_list: "series: Saw (2004)"
 
+  Scary Movie Collection:
+    template:
+      - name: Series
+        summary: "in the Scary Movie series."
+        label_list: "series: Scary Movie (2000)"
+
   Scream Collection:
     template:
       - name: Series

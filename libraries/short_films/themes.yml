@@ -1,0 +1,13 @@
+external_templates:
+  - repo: templates/collection_type/Theme
+  - repo: templates/source/IMDb
+
+collections:
+  Foreign Language:
+    template:
+      - name: Theme
+        summary: "where the original audio language is not in English. English audio dub tracks may be available."
+    smart_filter:
+      all:
+        label: "theme: foreign language"
+      sort_by: title.asc

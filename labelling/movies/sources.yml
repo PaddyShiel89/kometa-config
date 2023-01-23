@@ -276,6 +276,8 @@ collections:
           - Saw (2004) 006
           - Saw (2004) 007
           - Scary Movie (2000) 001
+          - Scary Movie (2000) 002
+          - Scary Movie (2000) 003
           - Schindler's List (1993)
           - Scorpion King (2002) 001
           - Scott Pilgrim vs. the World (2010)
@@ -331,6 +333,7 @@ collections:
           - Taxi Driver (1976)
           - There Will Be Blood (2008)
           - Thing (1982)
+          - Thor (2011) 001
           - Thor (2011) 002
           - Thor (2011) 003
           - Thunderball (1965)
@@ -382,6 +385,7 @@ collections:
         title_list:
           - Blonde (2022)
           - Deep Water (2022)
+          - Gerald's Game (2017)
           - Grand Central (2013)
           - Jolene (2008)
           - Lie (2020)
@@ -487,5 +491,6 @@ collections:
         source: "Netflix"
         title_list:
           - Blonde (2022)
+          - Gerald's Game (2017)
           - Sergio (2020)
           - Wasp Network (2020)

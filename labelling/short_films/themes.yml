@@ -1,0 +1,26 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Theme: foreign language":
+    template:
+      - name: Theme label
+        theme: "foreign language"
+        title_list:
+          - "Ánima (2011)"
+
+  "Theme: mockumentary":
+    template:
+      - name: Theme label
+        theme: "mockumentary"
+        title_list:
+          - Team Darryl (2018)
+
+  "Theme: neo-noir":
+    template:
+      - name: Theme label
+        theme: "neo-noir"
+        title_list:
+          - "2036: Nexus Dawn (2017)"
+          - "2048: Nowhere to Run (2017)"
+          - "Blade Runner: Black Out 2022 (2017)"

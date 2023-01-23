@@ -2,12 +2,10 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  "Content: incest theme":
+  "Content: child abuse references":
     template:
       - name: Content label
-        content: incest theme
+        content: child abuse references
         level: none
         title_list:
           - Gerald's Game (2017)
-          - Ma mere (2004)
-          - What the Peeper Saw (1972)
