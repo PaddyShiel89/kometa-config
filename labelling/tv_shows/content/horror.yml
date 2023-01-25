@@ -1,0 +1,11 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  "Content: horror (moderate)":
+    template:
+      - name: Content label
+        content: horror
+        level: moderate
+        title_list:
+          - Resident Evil (2022)
