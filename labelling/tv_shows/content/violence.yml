@@ -8,6 +8,7 @@ collections:
         content: violence
         level: mild
         title_list:
+          - GLOW (2017)
           - Star Wars Rebels (2014)
 
   "Content: violence (moderate)":

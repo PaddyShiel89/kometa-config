@@ -11,6 +11,14 @@ collections:
           - Community (2009)
           - That 70s Show (1998)
 
+  "Content: drug references (very strong)":
+    template:
+      - name: Content label
+        content: drug references
+        level: very strong
+        title_list:
+          - GLOW (2017)
+
   "Content: drug references (soft)":
     template:
       - name: Content label
