@@ -32,6 +32,7 @@ collections:
         title_list:
           - Carnival Row (2019)
           - Cyberpunk Edgerunners (2022)
+          - Dimension 20 (2018)
           - Euphoria (2019)
           - Final Space (2018)
           - GLOW (2017)
@@ -72,6 +73,13 @@ collections:
           - Marvelous Mrs Maisel (2017)
           - Wheel of Time (2021)
           - White Lotus (2021)
+
+  "Source: CollegeHumor":
+    template:
+      - name: Source label
+        source: "CollegeHumor"
+        title_list:
+          - Dimension 20 (2018)
 
   "Source: Netflix":
     template:

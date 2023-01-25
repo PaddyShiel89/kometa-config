@@ -23,6 +23,7 @@ collections:
       - name: Theme label
         title_list:
           - Buffy the Vampire Slayer (1997)
+          - Dimension 20 (2018)
           - "Hyperdimension Neptunia: The Animation (2013)"
           - True Blood (2008)
           - Wheel of Time (2021)
@@ -41,6 +42,7 @@ collections:
         title_list:
           - Buffy the Vampire Slayer (1997)
           - Carnival Row (2019)
+          - Dimension 20 (2018)
           - Haunting of Hill House (2018)
         theme: "supernatural"
 
