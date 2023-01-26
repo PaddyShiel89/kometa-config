@@ -22,6 +22,7 @@ collections:
           - IT Crowd (2006)
           - Man in the High Castle (2015)
           - Marvelous Mrs Maisel (2017)
+          - Resident Evil (2022)
           - Robot Chicken (2001)
           - Wire (2002)
 
@@ -32,7 +33,9 @@ collections:
         level: very strong
         title_list:
           - Carnival Row (2019)
+          - Dimension 20 (2018)
           - Game of Thrones (2011)
+          - GLOW (2017)
 
   "Content: language (bleeped)":
     template:

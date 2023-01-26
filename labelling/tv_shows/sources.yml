@@ -32,10 +32,13 @@ collections:
         title_list:
           - Carnival Row (2019)
           - Cyberpunk Edgerunners (2022)
+          - Dimension 20 (2018)
           - Euphoria (2019)
           - Final Space (2018)
+          - GLOW (2017)
           - Man in the High Castle (2015)
           - Marvelous Mrs Maisel (2017)
+          - Resident Evil (2022)
           - Wheel of Time (2021)
           - White Lotus (2021)
 
@@ -71,6 +74,13 @@ collections:
           - Wheel of Time (2021)
           - White Lotus (2021)
 
+  "Source: CollegeHumor":
+    template:
+      - name: Source label
+        source: "CollegeHumor"
+        title_list:
+          - Dimension 20 (2018)
+
   "Source: Netflix":
     template:
       - name: Source label
@@ -79,3 +89,5 @@ collections:
           - Community (2009) # Mix
           - Cyberpunk Edgerunners (2022)
           - Final Space (2018)
+          - GLOW (2017)
+          - Resident Evil (2022)

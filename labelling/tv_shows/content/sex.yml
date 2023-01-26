@@ -2,6 +2,14 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  "Content: sex (moderate)":
+    template:
+      - name: Content label
+        content: sex
+        level: strong
+        title_list:
+          - GLOW (2017)
+
   "Content: sex (strong)":
     template:
       - name: Content label

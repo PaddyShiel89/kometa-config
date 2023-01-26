@@ -2,11 +2,10 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  "Content: nudity (moderate)":
+  "Content: horror (moderate)":
     template:
       - name: Content label
-        content: nudity
+        content: horror
         level: moderate
         title_list:
-          - Cyberpunk Edgerunners (2022)
-          - GLOW (2017)
+          - Resident Evil (2022)
