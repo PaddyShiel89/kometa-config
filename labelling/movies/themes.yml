@@ -182,6 +182,16 @@ collections:
           - Secret Things (2002)
           - Train to Busan (2016)
 
+  "Theme: heist":
+    template:
+      - name: Theme label
+        theme: "heist"
+        title_list:
+          - National Treasure (2004) 001
+          - Ocean's 11 (2001) 001
+          - Ocean's 11 (2001) 002
+          - Ocean's 11 (2001) 003
+
   "Theme: magic":
     template:
       - name: Theme label

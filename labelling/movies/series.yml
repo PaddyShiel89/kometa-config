@@ -416,6 +416,13 @@ collections:
           - Naked Gun (1988) 002 The Smell of Fear
           - Naked Gun (1988) 003 The Final Insult
 
+  "Series: National Treasure (2004)":
+    template:
+      - name: Series label
+        series: "National Treasure (2004)"
+        title_list:
+          - National Treasure (2004) 001
+
   "Series: Nativity! (2009)":
     template:
       - name: Series label
