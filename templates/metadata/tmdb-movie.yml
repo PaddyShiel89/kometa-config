@@ -1,4 +1,6 @@
 templates:
   TMDB Movie:
+    optional:
+      - edition
     tmdb_movie: <<id>>
     edition_filter: <<edition>>

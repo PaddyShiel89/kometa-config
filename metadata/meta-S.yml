@@ -3,4 +3,4 @@ external_templates:
 
 metadata:
   "Star Wars: Episode IV - A New Hope [Theatrical cut]":
-    template: { name: TMDB Movie, id: 11 }
+    template: { name: TMDB Movie, id: 11, edition: Theatrical cut }
