@@ -3,7 +3,7 @@ external_templates:
 
 metadata:
   "Star Wars: Episode IV - A New Hope":
-    { name: TMDB movie multi-editions, id: 11, year: 1977 }
+    { name: TMDB movie multi-editions, id: 11, year: 1977, content_rating: U }
 
   "Star Wars: Episode IV - A New Hope [Theatrical cut]":
     { name: TMDB movie single edition, edition: Theatrical cut }
