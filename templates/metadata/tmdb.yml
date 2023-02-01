@@ -11,6 +11,7 @@ templates:
     originally_available: <<originally_available>> # YYYY-MM-DD
     sort_title: <<sort_title>>
     studio: <<studio>>
+    tagline: <<tagline>>
 
   # Update the shared data of a movie with multiple editions, to save repeating
   # lines for each of them.
@@ -24,6 +25,7 @@ templates:
     original_title: <<original_title>>
     originally_available: <<originally_available>> # YYYY-MM-DD
     studio: <<studio>>
+    tagline: <<tagline>>
 
   # Update only the unique data for a specific edition of a movie.
   TMDB movie single edition:
