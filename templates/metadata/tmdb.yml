@@ -1,0 +1,18 @@
+templates:
+  # Update all data for a movie that doesn't have multiple editions.
+  TMDB movie:
+    optional:
+      - edition
+    tmdb_movie: <<id>>
+    year: <<year>>
+
+  # Update only the unique data for a specific edition of a movie.
+  TMDB movie single edition:
+    tmdb_movie: <<id>>
+    edition_filter: <<edition>>
+
+  # Update the shared data of a movie with multiple editions, to save repeating
+  # lines for each of them.
+  TMDB movie multi-editions:
+    tmdb_movie: <<id>>
+    year: <<year>>
