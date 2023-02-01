@@ -8,6 +8,7 @@ templates:
     year: <<year>>
     content_rating: <<content_rating>>
     original_title: <<original_title>>
+    originally_available: <<originally_available>> # YYYY-MM-DD
     sort_title: <<sort_title>>
 
   # Update the shared data of a movie with multiple editions, to save repeating
@@ -15,10 +16,12 @@ templates:
   TMDB movie multi-editions:
     optional:
       - original_title
+      - originally_available
     tmdb_movie: <<id>>
     year: <<year>>
     content_rating: <<content_rating>>
     original_title: <<original_title>>
+    originally_available: <<originally_available>> # YYYY-MM-DD
 
   # Update only the unique data for a specific edition of a movie.
   TMDB movie single edition:
@@ -29,4 +32,5 @@ templates:
     edition_filter: <<edition>>
     content_rating: <<content_rating>>
     original_title: <<original_title>>
+    originally_available: <<originally_available>> # YYYY-MM-DD
     sort_title: <<sort_title>>

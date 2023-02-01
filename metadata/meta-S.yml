@@ -9,5 +9,46 @@ metadata:
     {
       name: TMDB movie single edition,
       edition: Theatrical cut,
+      originally_available: 1977-12-27,
       sort_title: Star Wars 004A,
+    }
+
+  "Star Wars: Episode IV - A New Hope [Special edition]":
+    {
+      name: TMDB movie single edition,
+      edition: Special edition,
+      originally_available: 1997-01-31,
+      sort_title: Star Wars 004B,
+    }
+
+  "Star Wars: Episode IV - A New Hope [DVD cut]":
+    {
+      name: TMDB movie single edition,
+      edition: DVD cut,
+      originally_available: 2004-09-21,
+      sort_title: Star Wars 004C,
+    }
+
+  "Star Wars: Episode IV - A New Hope [Blu-ray cut]":
+    {
+      name: TMDB movie single edition,
+      edition: Blu-ray cut,
+      originally_available: 2011-09-12,
+      sort_title: Star Wars 004D,
+    }
+
+  "Star Wars: Episode IV - A New Hope [Despecialized edition]":
+    {
+      name: TMDB movie single edition,
+      edition: Despecialized edition,
+      originally_available: 2016-02-14,
+      sort_title: Star Wars 004E,
+    }
+
+  "Star Wars: Episode IV - A New Hope [Project 4K77]":
+    {
+      name: TMDB movie single edition,
+      edition: Project 4K77,
+      originally_available: 2018-05-16,
+      sort_title: Star Wars 004F,
     }
