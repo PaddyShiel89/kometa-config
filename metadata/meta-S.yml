@@ -1,0 +1,6 @@
+external_templates:
+  - repo: templates/metadata/tmdb-movie
+
+metadata:
+  "Star Wars: Episode IV - A New Hope [Theatrical cut]":
+    template: { name: TMDB Movie, id: 11 }
