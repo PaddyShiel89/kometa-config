@@ -1,6 +1,8 @@
-external_templates:
-  - repo: templates/metadata/tmdb-movie
-
 metadata:
+  "Star Wars: Episode IV - A New Hope":
+    tmdb_movie: 11
+    year: 1977
+
   "Star Wars: Episode IV - A New Hope [Theatrical cut]":
-    template: { name: TMDB Movie, id: 11, edition: Theatrical cut }
+    tmdb_movie: 11
+    edition_filter: Theatrical cut
