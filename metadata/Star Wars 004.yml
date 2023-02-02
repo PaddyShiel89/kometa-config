@@ -7,10 +7,14 @@ metadata:
     content_rating: U
     country.sync: United States of America
     director.sync: George Lucas
-    genre.sync: [Science Fiction, Action, Adventure, Fantasy]
+    genre.sync: [Action, Adventure, Fantasy, Science Fiction]
     original_title: Star Wars
+    originally_available: 1977-12-27
+    producer.sync: Gary Kurtz
     studio: Lucasfilm Ltd.
-    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the evil Empire, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    tagline: A long time ago in a galaxy far, far away...
+    writer.sync: George Lucas
 
   "Star Wars: Episode IV - A New Hope [Special edition]":
     title: "Star Wars: Episode IV - A New Hope"
@@ -20,10 +24,14 @@ metadata:
     content_rating: U
     country.sync: United States of America
     director.sync: George Lucas
-    genre.sync: [Science Fiction, Action, Adventure, Fantasy]
+    genre.sync: [Action, Adventure, Fantasy, Science Fiction]
     original_title: Star Wars
+    originally_available: 1977-12-27
+    producer.sync: [Gary Kurtz, Rick McCallum]
     studio: Lucasfilm Ltd.
-    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the evil Empire, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    tagline: A long time ago in a galaxy far, far away...
+    writer.sync: George Lucas
 
   "Star Wars: Episode IV - A New Hope [DVD cut]":
     title: "Star Wars: Episode IV - A New Hope"
@@ -33,10 +41,14 @@ metadata:
     content_rating: U
     country.sync: United States of America
     director.sync: George Lucas
-    genre.sync: [Science Fiction, Action, Adventure, Fantasy]
+    genre.sync: [Action, Adventure, Fantasy, Science Fiction]
     original_title: Star Wars
+    originally_available: 1977-12-27
+    producer.sync: Gary Kurtz
     studio: Lucasfilm Ltd.
-    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the evil Empire, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    tagline: A long time ago in a galaxy far, far away...
+    writer.sync: George Lucas
 
   "Star Wars: Episode IV - A New Hope [Blu-ray cut]":
     title: "Star Wars: Episode IV - A New Hope"
@@ -46,10 +58,14 @@ metadata:
     content_rating: U
     country.sync: United States of America
     director.sync: George Lucas
-    genre.sync: [Science Fiction, Action, Adventure, Fantasy]
+    genre.sync: [Action, Adventure, Fantasy, Science Fiction]
     original_title: Star Wars
+    originally_available: 1977-12-27
+    producer.sync: Gary Kurtz
     studio: Lucasfilm Ltd.
-    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the evil Empire, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    tagline: A long time ago in a galaxy far, far away...
+    writer.sync: George Lucas
 
   "Star Wars: Episode IV - A New Hope [Despecialized edition]":
     title: "Star Wars: Episode IV - A New Hope"
@@ -59,10 +75,14 @@ metadata:
     content_rating: U
     country.sync: United States of America
     director.sync: George Lucas
-    genre.sync: [Science Fiction, Action, Adventure, Fantasy]
+    genre.sync: [Action, Adventure, Fantasy, Science Fiction]
     original_title: Star Wars
+    originally_available: 1977-12-27
+    producer.sync: [Gary Kurtz, Petr Harmáček]
     studio: Lucasfilm Ltd.
-    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the evil Empire, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    tagline: A long time ago in a galaxy far, far away...
+    writer.sync: George Lucas
 
   "Star Wars: Episode IV - A New Hope [Project 4K77]":
     title: "Star Wars: Episode IV - A New Hope"
@@ -72,7 +92,11 @@ metadata:
     content_rating: U
     country.sync: United States of America
     director.sync: George Lucas
-    genre.sync: [Science Fiction, Action, Adventure, Fantasy]
+    genre.sync: [Action, Adventure, Fantasy, Science Fiction]
     original_title: Star Wars
+    originally_available: 1977-12-27
+    producer.sync: [Gary Kurtz, Phoenix Films LLC]
     studio: Lucasfilm Ltd.
-    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the evil Empire, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+    tagline: A long time ago in a galaxy far, far away...
+    writer.sync: George Lucas
