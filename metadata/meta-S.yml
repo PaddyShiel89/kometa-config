@@ -10,7 +10,7 @@ metadata:
         year: 1977,
         content_rating: U,
         director: George Lucas,
-        studio: Lucasfilm,
+        studio: Lucasfilm Ltd.,
         summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
         tagline: "A long time ago in a galaxy far, far away...",
       }
@@ -21,6 +21,7 @@ metadata:
         name: TMDB movie single edition,
         id: 11,
         edition: Theatrical cut,
+        original_title: Star Wars,
         originally_available: 1977-12-27,
         sort_title: Star Wars 004A,
       }
