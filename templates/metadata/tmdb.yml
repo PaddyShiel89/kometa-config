@@ -7,7 +7,7 @@ templates:
     tmdb_movie: <<id>>
     year: <<year>>
     content_rating: <<content_rating>>
-    director: <<director>>
+    director.sync: <<director>>
     original_title: <<original_title>>
     originally_available: <<originally_available>> # YYYY-MM-DD
     sort_title: <<sort_title>>
@@ -24,7 +24,7 @@ templates:
     tmdb_movie: <<id>>
     year: <<year>>
     content_rating: <<content_rating>>
-    director: <<director>>
+    director.sync: <<director>>
     original_title: <<original_title>>
     originally_available: <<originally_available>> # YYYY-MM-DD
     studio: <<studio>>
@@ -41,7 +41,7 @@ templates:
     tmdb_movie: <<id>>
     edition_filter: <<edition>>
     content_rating: <<content_rating>>
-    director: <<director>>
+    director.sync: <<director>>
     original_title: <<original_title>>
     originally_available: <<originally_available>> # YYYY-MM-DD
     sort_title: <<sort_title>>
