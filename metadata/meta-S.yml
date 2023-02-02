@@ -3,60 +3,73 @@ external_templates:
 
 metadata:
   "Star Wars: Episode IV - A New Hope":
-    {
-      name: TMDB movie multi-editions,
-      id: 11,
-      year: 1977,
-      content_rating: U,
-      studio: Lucasfilm,
-      tagline: "A long time ago in a galaxy far, far away...",
-      summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
-    }
+    template:
+      {
+        name: TMDB movie multi-editions,
+        id: 11,
+        year: 1977,
+        content_rating: U,
+        studio: Lucasfilm,
+        summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+        tagline: "A long time ago in a galaxy far, far away...",
+      }
 
   "Star Wars: Episode IV - A New Hope [Theatrical cut]":
-    {
-      name: TMDB movie single edition,
-      edition: Theatrical cut,
-      originally_available: 1977-12-27,
-      sort_title: Star Wars 004A,
-    }
+    template:
+      {
+        name: TMDB movie single edition,
+        id: 11,
+        edition: Theatrical cut,
+        originally_available: 1977-12-27,
+        sort_title: Star Wars 004A,
+      }
 
   "Star Wars: Episode IV - A New Hope [Special edition]":
-    {
-      name: TMDB movie single edition,
-      edition: Special edition,
-      originally_available: 1997-01-31,
-      sort_title: Star Wars 004B,
-    }
+    template:
+      {
+        name: TMDB movie single edition,
+        id: 11,
+        edition: Special edition,
+        originally_available: 1997-01-31,
+        sort_title: Star Wars 004B,
+      }
 
   "Star Wars: Episode IV - A New Hope [DVD cut]":
-    {
-      name: TMDB movie single edition,
-      edition: DVD cut,
-      originally_available: 2004-09-21,
-      sort_title: Star Wars 004C,
-    }
+    template:
+      {
+        name: TMDB movie single edition,
+        id: 11,
+        edition: DVD cut,
+        originally_available: 2004-09-21,
+        sort_title: Star Wars 004C,
+      }
 
   "Star Wars: Episode IV - A New Hope [Blu-ray cut]":
-    {
-      name: TMDB movie single edition,
-      edition: Blu-ray cut,
-      originally_available: 2011-09-12,
-      sort_title: Star Wars 004D,
-    }
+    template:
+      {
+        name: TMDB movie single edition,
+        id: 11,
+        edition: Blu-ray cut,
+        originally_available: 2011-09-12,
+        sort_title: Star Wars 004D,
+      }
 
   "Star Wars: Episode IV - A New Hope [Despecialized edition]":
-    {
-      name: TMDB movie single edition,
-      edition: Despecialized edition,
-      originally_available: 2016-02-14,
-      sort_title: Star Wars 004E,
-    }
+    template:
+      {
+        name: TMDB movie single edition,
+        id: 11,
+        edition: Despecialized edition,
+        originally_available: 2016-02-14,
+        sort_title: Star Wars 004E,
+      }
 
   "Star Wars: Episode IV - A New Hope [Project 4K77]":
-    {
-      name: TMDB movie single edition,
-      edition: Project 4K77,
-      originally_available: 2018-05-16,
-      sort_title: Star Wars 004F,
-    }
+    template:
+      {
+        name: TMDB movie single edition,
+        id: 11,
+        edition: Project 4K77,
+        originally_available: 2018-05-16,
+        sort_title: Star Wars 004F,
+      }
