@@ -1,0 +1,78 @@
+metadata:
+  "Star Wars: Episode IV - A New Hope [Theatrical cut]":
+    title: "Star Wars: Episode IV - A New Hope"
+    year: 1977
+    edition_filter: Theatrical cut
+    sort_title: Star Wars 004A
+    content_rating: U
+    country.sync: United States of America
+    director.sync: George Lucas
+    genre.sync: [Science Fiction, Action, Adventure, Fantasy]
+    original_title: Star Wars
+    studio: Lucasfilm Ltd.
+    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+
+  "Star Wars: Episode IV - A New Hope [Special edition]":
+    title: "Star Wars: Episode IV - A New Hope"
+    year: 1977
+    edition_filter: Special edition
+    sort_title: Star Wars 004B
+    content_rating: U
+    country.sync: United States of America
+    director.sync: George Lucas
+    genre.sync: [Science Fiction, Action, Adventure, Fantasy]
+    original_title: Star Wars
+    studio: Lucasfilm Ltd.
+    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+
+  "Star Wars: Episode IV - A New Hope [DVD cut]":
+    title: "Star Wars: Episode IV - A New Hope"
+    year: 1977
+    edition_filter: DVD cut
+    sort_title: Star Wars 004C
+    content_rating: U
+    country.sync: United States of America
+    director.sync: George Lucas
+    genre.sync: [Science Fiction, Action, Adventure, Fantasy]
+    original_title: Star Wars
+    studio: Lucasfilm Ltd.
+    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+
+  "Star Wars: Episode IV - A New Hope [Blu-ray cut]":
+    title: "Star Wars: Episode IV - A New Hope"
+    year: 1977
+    edition_filter: Blu-ray cut
+    sort_title: Star Wars 004D
+    content_rating: U
+    country.sync: United States of America
+    director.sync: George Lucas
+    genre.sync: [Science Fiction, Action, Adventure, Fantasy]
+    original_title: Star Wars
+    studio: Lucasfilm Ltd.
+    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+
+  "Star Wars: Episode IV - A New Hope [Despecialized edition]":
+    title: "Star Wars: Episode IV - A New Hope"
+    year: 1977
+    edition_filter: Despecialized edition
+    sort_title: Star Wars 004E
+    content_rating: U
+    country.sync: United States of America
+    director.sync: George Lucas
+    genre.sync: [Science Fiction, Action, Adventure, Fantasy]
+    original_title: Star Wars
+    studio: Lucasfilm Ltd.
+    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+
+  "Star Wars: Episode IV - A New Hope [Project 4K77]":
+    title: "Star Wars: Episode IV - A New Hope"
+    year: 1977
+    edition_filter: Project 4K77
+    sort_title: Star Wars 004F
+    content_rating: U
+    country.sync: United States of America
+    director.sync: George Lucas
+    genre.sync: [Science Fiction, Action, Adventure, Fantasy]
+    original_title: Star Wars
+    studio: Lucasfilm Ltd.
+    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
