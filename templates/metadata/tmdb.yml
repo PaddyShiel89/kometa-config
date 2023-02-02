@@ -9,6 +9,7 @@ templates:
     content_rating: <<content_rating>>
     country.sync: <<country>>
     director.sync: <<director>>
+    genre.sync: <<genre>> # Set the most important genre first, then list the rest alphabetically
     original_title: <<original_title>>
     originally_available: <<originally_available>> # YYYY-MM-DD
     sort_title: <<sort_title>>
@@ -27,6 +28,7 @@ templates:
     content_rating: <<content_rating>>
     country.sync: <<country>>
     director.sync: <<director>>
+    genre.sync: <<genre>> # Set the most important genre first, then list the rest alphabetically
     original_title: <<original_title>>
     originally_available: <<originally_available>> # YYYY-MM-DD
     studio: <<studio>>
@@ -39,6 +41,7 @@ templates:
       - content_rating
       - country
       - director
+      - genre
       - original_title
       - summary
     tmdb_movie: <<id>>
@@ -46,6 +49,7 @@ templates:
     content_rating: <<content_rating>>
     country.sync: <<country>>
     director.sync: <<director>>
+    genre.sync: <<genre>> # Set the most important genre first, then list the rest alphabetically
     original_title: <<original_title>>
     originally_available: <<originally_available>> # YYYY-MM-DD
     sort_title: <<sort_title>>
