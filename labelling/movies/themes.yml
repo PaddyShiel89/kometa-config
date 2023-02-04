@@ -199,6 +199,7 @@ collections:
       - name: Theme label
         theme: "magic"
         title_list:
+          - Doctor Strange (2016) 001
           - Harry Potter (2001) 001
           - Harry Potter (2001) 002
           - Harry Potter (2001) 003
@@ -216,6 +217,7 @@ collections:
       - name: Theme label
         theme: "martial arts"
         title_list:
+          - Doctor Strange (2016) 001
           - Kung Fu Hustle (2004)
           - Matrix (1999) 001
           - Matrix (1999) 002

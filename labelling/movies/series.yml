@@ -132,6 +132,13 @@ collections:
         title_list:
           - Die Hard (1988) 001
 
+  "Series: Doctor Strange (2016)":
+    template:
+      - name: Series label
+        series: "Doctor Strange (2016)"
+        title_list:
+          - Doctor Strange (2016) 001
+
   "Series: Dune (2021)":
     template:
       - name: Series label
