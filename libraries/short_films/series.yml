@@ -13,9 +13,9 @@ collections:
         summary: "that are part of the Blade Runner series."
         label_list: "series: Blade Runner (1982)"
 
-  Marvel Cinematic Universe:
+  Marvel One-Shots:
     template:
       - name: Series
         summary: "that are part of the Marvel Cinematic Universe."
         label_list:
-          - "series: Marvel Cinematic Universe"
+          - "series: Marvel One-Shots"
