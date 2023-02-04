@@ -454,6 +454,13 @@ collections:
         title_list:
           - "Ong-Bak: Muay Thai Warrior (2003)"
 
+  "Series: Pirates of the Caribbean (2003)":
+    template:
+      - name: Series label
+        series: "Pirates of the Caribbean (2003)"
+        title_list:
+          - Pirates of the Caribbean (2003) 001
+
   "Series: Police Story (1985)":
     template:
       - name: Series label
