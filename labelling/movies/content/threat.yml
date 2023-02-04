@@ -20,6 +20,7 @@ collections:
           - Bugsy Malone (1976)
           - Chicken Run (2000)
           - Dad's Army (1971) 001
+          - Doctor Strange (2016) 001
           - Harry Potter (2001) 001
           - Harry Potter (2001) 002
           - Harry Potter (2001) 003
@@ -86,6 +87,7 @@ collections:
           - Monster (2004)
           - No Time to Die (2021)
           - Pan's Labyrinth (2006)
+          - Pirates of the Caribbean (2003) 001
           - Single Man (2009)
           - Spectre (2015)
           - Star Trek (2009) 001
@@ -145,6 +147,14 @@ collections:
           - Songbird (2020)
           - Titanic (1997)
           - Witch (2015)
+
+  "Content: threat (fantasy)":
+    template:
+      - name: Content label
+        content: threat
+        level: fantasy
+        title_list:
+          - Doctor Strange (2016) 001
 
   "Content: threat (sadistic)":
     template:
