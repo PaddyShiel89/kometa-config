@@ -602,13 +602,13 @@ collections:
     template:
       - name: Series label
         series: "Star Wars"
+        tmdb_movie: 11
         title_list:
           - "Rogue One: A Star Wars Story (2016)"
           - "Solo: A Star Wars Story (2018)"
           - Star Wars 001
           - Star Wars 002
           - Star Wars 003
-          - Star Wars 004
           - Star Wars 005
           - Star Wars 006
           - Star Wars 007
