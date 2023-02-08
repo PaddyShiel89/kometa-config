@@ -1,9 +1,6 @@
-external_templates:
-  - file: config/templates/metadata/Edition
-
 metadata:
   "Ant-Man and the Wasp":
-    title: "SAnt-Man and the Wasp"
+    title: "Ant-Man and the Wasp"
     year: 2018
     edition_filter: Theatrical cut
     sort_title: Ant-Man (2015) 002
