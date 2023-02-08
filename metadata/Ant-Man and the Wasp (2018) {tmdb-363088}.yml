@@ -1,0 +1,20 @@
+external_templates:
+  - file: config/templates/metadata/Edition
+
+metadata:
+  "Ant-Man and the Wasp":
+    title: "SAnt-Man and the Wasp"
+    year: 2018
+    edition_filter: Theatrical cut
+    sort_title: Ant-Man (2015) 002
+    content_rating: gb/12
+    country.sync: [Canada, United States of America]
+    director.sync: Peyton Reed
+    genre.sync: [Action, Adventure, Comedy, Science Fiction]
+    originally_available: 2018-08-02
+    producer.sync: [Kevin Feige, Stephen Broussard]
+    studio: Marvel Studios
+    summary: "As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past."
+    tagline: Real heroes. Not actual size.
+    writer.sync: [Chris McKenna, Erik Sommers, Paul Rudd]
+    label.sync: [ID__000000011A, ownership__rented, source__blu-ray]
