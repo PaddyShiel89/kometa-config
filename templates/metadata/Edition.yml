@@ -1,0 +1,5 @@
+templates:
+  Edition:
+    collection_mode: hide_items
+    collection_order: alpha
+    sync_mode: sync
