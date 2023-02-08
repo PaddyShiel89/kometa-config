@@ -199,6 +199,7 @@ collections:
       - name: Theme label
         theme: "magic"
         title_list:
+          - Doctor Strange (2016) 001
           - Harry Potter (2001) 001
           - Harry Potter (2001) 002
           - Harry Potter (2001) 003
@@ -216,6 +217,7 @@ collections:
       - name: Theme label
         theme: "martial arts"
         title_list:
+          - Doctor Strange (2016) 001
           - Kung Fu Hustle (2004)
           - Matrix (1999) 001
           - Matrix (1999) 002
@@ -299,6 +301,7 @@ collections:
           - Silence of the Lambs (1991)
           - Sin City (2005) 001
           - Sin City (2005) 002
+          - Spirit (2008)
           - Taxi Driver (1976)
           - Watchmen (2009)
 
@@ -319,6 +322,7 @@ collections:
         title_list:
           - Hook (1991)
           - Muppet Treasure Island (1996)
+          - Pirates of the Caribbean (2003) 001
 
   "Theme: post-apocalyptic":
     template:
@@ -450,6 +454,7 @@ collections:
           - Muppet Christmas Carol (1992)
           - Nocturne (2020)
           - Pet Sematary (2019)
+          - Pirates of the Caribbean (2003) 001
           - Scary Movie (2000) 002
           - Scary Movie (2000) 003
           - Shining (1980)
