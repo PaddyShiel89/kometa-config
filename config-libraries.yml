@@ -42,6 +42,7 @@ libraries:
       - repo: labelling/movies/sources
       - repo: labelling/shared/themes
       - repo: labelling/movies/themes
+      - repo: metadata/Ant-Man and the Wasp (2018) {tmdb-363088}
       - repo: metadata/Star Wars (1977) {tmdb-11}
       - repo: libraries/shared/actors
       - repo: libraries/movies/directors
