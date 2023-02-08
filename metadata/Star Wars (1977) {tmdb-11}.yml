@@ -7,7 +7,7 @@ metadata:
     year: 1977
     edition_filter: Theatrical cut
     sort_title: Star Wars 004A
-    content_rating: U
+    content_rating: gb/U
     country.sync: United States of America
     director.sync: George Lucas
     genre.sync: [Action, Adventure, Fantasy, Science Fiction]
@@ -25,7 +25,7 @@ metadata:
     year: 1977
     edition_filter: Special edition
     sort_title: Star Wars 004B
-    content_rating: U
+    content_rating: gb/U
     country.sync: United States of America
     director.sync: George Lucas
     genre.sync: [Action, Adventure, Fantasy, Science Fiction]
@@ -44,7 +44,7 @@ metadata:
     year: 1977
     edition_filter: DVD cut
     sort_title: Star Wars 004C
-    content_rating: U
+    content_rating: gb/U
     country.sync: United States of America
     director.sync: George Lucas
     genre.sync: [Action, Adventure, Fantasy, Science Fiction]
@@ -62,7 +62,7 @@ metadata:
     year: 1977
     edition_filter: Blu-ray cut
     sort_title: Star Wars 004D
-    content_rating: U
+    content_rating: gb/U
     country.sync: United States of America
     director.sync: George Lucas
     genre.sync: [Action, Adventure, Fantasy, Science Fiction]
@@ -81,7 +81,7 @@ metadata:
     year: 1977
     edition_filter: Despecialized edition
     sort_title: Star Wars 004E
-    content_rating: U
+    content_rating: gb/U
     country.sync: United States of America
     director.sync: George Lucas
     genre.sync: [Action, Adventure, Fantasy, Science Fiction]
@@ -100,7 +100,7 @@ metadata:
     year: 1977
     edition_filter: Project 4K77
     sort_title: Star Wars 004F
-    content_rating: U
+    content_rating: gb/U
     country.sync: United States of America
     director.sync: George Lucas
     genre.sync: [Action, Adventure, Fantasy, Science Fiction]
