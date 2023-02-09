@@ -122,14 +122,6 @@ collections:
     tmdb_movie: 1895
     summary: "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-Wan pursues a new threat, Anakin is lured into a sinister plan to rule the galaxy."
 
-  "Star Wars: Episode IV - A New Hope":
-    template:
-      - name: Edition
-        poster_file_name: "Star Wars Episode IV - A New Hope"
-    sort_title: "Star Wars 004"
-    tmdb_movie: 11
-    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
-
   "Star Wars: Episode V - The Empire Strikes Back":
     template:
       - name: Edition

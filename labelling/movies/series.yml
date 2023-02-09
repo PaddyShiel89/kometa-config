@@ -46,11 +46,12 @@ collections:
           - Wake Up, Ron Burgundy (2004)
 
   "Series: Ant-Man (2015)":
-    template:
-      - name: Series label
-        series: "Ant-Man (2015)"
-        title_list:
-          - Ant-Man (2015) 001
+    tmdb_movie:
+      - 102899 # Ant-Man (2015)
+      - 363088 # Ant-Man and the Wasp (2018)
+    item_label: "series: Ant-Man (2015)"
+    build_collection: false
+    sync_mode: sync
 
   "Series: Avengers (2012)":
     template:
@@ -616,13 +617,13 @@ collections:
     template:
       - name: Series label
         series: "Star Wars"
+        tmdb_movie: 11
         title_list:
           - "Rogue One: A Star Wars Story (2016)"
           - "Solo: A Star Wars Story (2018)"
           - Star Wars 001
           - Star Wars 002
           - Star Wars 003
-          - Star Wars 004
           - Star Wars 005
           - Star Wars 006
           - Star Wars 007

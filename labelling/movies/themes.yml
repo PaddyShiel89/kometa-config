@@ -6,6 +6,7 @@ collections:
     template:
       - name: Theme label
         theme: "aliens"
+        tmdb_movie: 11
         title_list:
           - Alien (1979) 001
           - Alien (1979) 002
@@ -37,7 +38,6 @@ collections:
           - Star Wars 001 (1999)
           - Star Wars 002 (2002)
           - Star Wars 003 (2005)
-          - Star Wars 004 (1977)
           - Star Wars 005 (1980)
           - Star Wars 006 (1983)
           - Star Wars 007 (2015)
