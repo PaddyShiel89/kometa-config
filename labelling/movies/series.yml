@@ -45,13 +45,12 @@ collections:
           - Anchorman (2004) 001
           - Wake Up, Ron Burgundy (2004)
 
-  "Series: Ant-Man (2015)":
+  series__Ant_Man_2015:
+    template:
+      { name: TMDB series label, series_name: Ant_Man, series_year: 2015 }
     tmdb_movie:
       - 102899 # Ant-Man (2015)
       - 363088 # Ant-Man and the Wasp (2018)
-    item_label: "series: Ant-Man (2015)"
-    build_collection: false
-    sync_mode: sync
 
   "Series: Avengers (2012)":
     template:
