@@ -74,10 +74,10 @@ collections:
         label_list:
           - series__Ant_Man_2015
           - series__Captain_Marvel_2019
+          - series__Doctor Strange_2016
           - "series: Avengers (2012)"
           - "series: Black Panther (2018)"
           - "series: Captain America (2011)"
-          - "series: Doctor Strange (2016)"
           - "series: Guardians of the Galaxy (2014)"
           - "series: The Incredible Hulk (2008)"
           - "series: Iron Man (2008)"
