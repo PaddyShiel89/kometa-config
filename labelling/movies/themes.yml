@@ -8,6 +8,21 @@ collections:
       - 299537 # Captain Marvel (2019)
       - 11 # Star Wars (1977)
 
+  theme__con_artists:
+    template: { name: TMDB theme label, theme_name: con_artists }
+    tmdb_movie:
+      - 629 # The Usual Suspects (1995)
+
+  theme__heist:
+    template: { name: TMDB theme label, theme_name: heist }
+    tmdb_movie:
+      - 629 # The Usual Suspects (1995)
+
+  theme__neo_noir:
+    template: { name: TMDB theme label, theme_name: neo_noir }
+    tmdb_movie:
+      - 629 # The Usual Suspects (1995)
+
   theme__superheroes:
     template: { name: TMDB theme label, theme_name: superheroes }
     tmdb_movie:
