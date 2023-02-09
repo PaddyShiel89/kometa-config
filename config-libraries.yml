@@ -12,6 +12,7 @@ libraries:
         Western:
     metadata_path:
       - repo: metadata/Ant-Man and the Wasp (2018) {tmdb-363088}
+      - repo: metadata/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/Star Wars (1977) {tmdb-11}
       - repo: labelling/movies/content/child_abuse_references
       - repo: labelling/movies/content/discrimination

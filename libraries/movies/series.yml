@@ -73,6 +73,7 @@ collections:
         summary: "that are part of the Marvel Cinematic Universe."
         label_list:
           - series__Ant_Man_2015
+          - series__Captain_Marvel_2019
           - "series: Avengers (2012)"
           - "series: Black Panther (2018)"
           - "series: Captain America (2011)"

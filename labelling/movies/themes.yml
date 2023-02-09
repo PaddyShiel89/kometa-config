@@ -2,16 +2,22 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  theme__aliens:
+    template: { name: TMDB theme label, theme_name: aliens }
+    tmdb_movie:
+      - 299537 # Captain Marvel (2019)
+      - 11 # Star Wars (1977)
+
   theme__superheroes:
     template: { name: TMDB theme label, theme_name: superheroes }
     tmdb_movie:
       - 363088 # Ant-Man and The Wasp (2018)
+      - 299537 # Captain Marvel (2019)
 
   "Theme: aliens":
     template:
       - name: Theme label
         theme: "aliens"
-        tmdb_movie: 11
         title_list:
           - Alien (1979) 001
           - Alien (1979) 002
