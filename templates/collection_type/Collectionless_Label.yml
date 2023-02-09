@@ -65,3 +65,15 @@ templates:
     item_label: "theme: <<theme>>"
     build_collection: false
     sync_mode: sync
+
+    # ------------------------------- New labelling ------------------------------ #
+
+  TMDB series label:
+    item_label: "series__<<series_name>>_<<series_year>>"
+    build_collection: false
+    sync_mode: sync
+
+  TMDB theme label:
+    item_label: "theme__<<theme_name>>"
+    build_collection: false
+    sync_mode: sync

@@ -2,11 +2,48 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  theme__aliens:
+    template: { name: TMDB theme label, theme_name: aliens }
+    tmdb_movie:
+      - 299537 # Captain Marvel (2019)
+      - 11 # Star Wars (1977)
+
+  theme__con_artists:
+    template: { name: TMDB theme label, theme_name: con_artists }
+    tmdb_movie:
+      - 629 # The Usual Suspects (1995)
+
+  theme__heist:
+    template: { name: TMDB theme label, theme_name: heist }
+    tmdb_movie:
+      - 629 # The Usual Suspects (1995)
+
+  theme__magic:
+    template: { name: TMDB theme label, theme_name: magic }
+    tmdb_movie:
+      - 284052 # Doctor Strange (2016)
+
+  theme__martial_arts:
+    template: { name: TMDB theme label, theme_name: martial_arts }
+    tmdb_movie:
+      - 284052 # Doctor Strange (2016)
+
+  theme__neo_noir:
+    template: { name: TMDB theme label, theme_name: neo_noir }
+    tmdb_movie:
+      - 629 # The Usual Suspects (1995)
+
+  theme__superheroes:
+    template: { name: TMDB theme label, theme_name: superheroes }
+    tmdb_movie:
+      - 363088 # Ant-Man and The Wasp (2018)
+      - 299537 # Captain Marvel (2019)
+      - 284052 # Doctor Strange (2016)
+
   "Theme: aliens":
     template:
       - name: Theme label
         theme: "aliens"
-        tmdb_movie: 11
         title_list:
           - Alien (1979) 001
           - Alien (1979) 002
@@ -199,7 +236,6 @@ collections:
       - name: Theme label
         theme: "magic"
         title_list:
-          - Doctor Strange (2016) 001
           - Harry Potter (2001) 001
           - Harry Potter (2001) 002
           - Harry Potter (2001) 003
@@ -217,7 +253,6 @@ collections:
       - name: Theme label
         theme: "martial arts"
         title_list:
-          - Doctor Strange (2016) 001
           - Kung Fu Hustle (2004)
           - Matrix (1999) 001
           - Matrix (1999) 002

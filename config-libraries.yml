@@ -12,31 +12,9 @@ libraries:
         Western:
     metadata_path:
       - repo: metadata/Ant-Man and the Wasp (2018) {tmdb-363088}
+      - repo: metadata/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/Star Wars (1977) {tmdb-11}
-      - repo: labelling/movies/content/child_abuse_references
-      - repo: labelling/movies/content/discrimination
-      - repo: labelling/movies/content/domestic_threat
-      - repo: labelling/movies/content/drug_references
-      - repo: labelling/movies/content/drug_use
-      - repo: labelling/movies/content/flashing_images
-      - repo: labelling/movies/content/gore
-      - repo: labelling/movies/content/horror
-      - repo: labelling/movies/content/humour
-      - repo: labelling/movies/content/incest_theme
-      - repo: labelling/movies/content/injury_detail
-      - repo: labelling/movies/content/innuendo
-      - repo: labelling/movies/content/language
-      - repo: labelling/movies/content/nudity
-      - repo: labelling/movies/content/sex_references
-      - repo: labelling/movies/content/sex
-      - repo: labelling/movies/content/sexual_threat
-      - repo: labelling/movies/content/sexual_violence
-      - repo: labelling/movies/content/sexually_abusive_behaviour
-      - repo: labelling/movies/content/suicide_references
-      - repo: labelling/movies/content/suicide
-      - repo: labelling/movies/content/threat
-      - repo: labelling/movies/content/torture
-      - repo: labelling/movies/content/violence
+      - repo: metadata/The Usual Suspects (1995) {tmdb-629}
       - repo: labelling/movies/editions
       - repo: labelling/movies/ownership
       - repo: labelling/movies/restrictions
@@ -44,8 +22,6 @@ libraries:
       - repo: labelling/movies/sources
       - repo: labelling/shared/themes
       - repo: labelling/movies/themes
-      - repo: metadata/Ant-Man and the Wasp (2018) {tmdb-363088}
-      - repo: metadata/Star Wars (1977) {tmdb-11}
       - repo: libraries/shared/actors
       - repo: libraries/movies/directors
       - repo: libraries/movies/general

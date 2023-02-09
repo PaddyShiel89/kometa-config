@@ -2,6 +2,33 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  series__Ant_Man_2015:
+    template:
+      { name: TMDB series label, series_name: Ant_Man, series_year: 2015 }
+    tmdb_movie:
+      - 102899 # Ant-Man (2015)
+      - 363088 # Ant-Man and the Wasp (2018)
+
+  series__Captain_Marvel_2019:
+    template:
+      {
+        name: TMDB series label,
+        series_name: Captain_Marvel,
+        series_year: 2019,
+      }
+    tmdb_movie:
+      - 299537 # Captain Marvel (2019)
+
+  series__Doctor Strange_2016:
+    template:
+      {
+        name: TMDB series label,
+        series_name: Doctor Strange,
+        series_year: 2016,
+      }
+    tmdb_movie:
+      - 284052 # Doctor Strange (2016)
+
   "Series: 28 Days Later (2002)":
     template:
       - name: Series label
@@ -44,14 +71,6 @@ collections:
         title_list:
           - Anchorman (2004) 001
           - Wake Up, Ron Burgundy (2004)
-
-  "Series: Ant-Man (2015)":
-    tmdb_movie:
-      - 102899 # Ant-Man (2015)
-      - 363088 # Ant-Man and the Wasp (2018)
-    item_label: "series: Ant-Man (2015)"
-    build_collection: false
-    sync_mode: sync
 
   "Series: Avengers (2012)":
     template:
@@ -132,13 +151,6 @@ collections:
         series: "Die Hard (1988)"
         title_list:
           - Die Hard (1988) 001
-
-  "Series: Doctor Strange (2016)":
-    template:
-      - name: Series label
-        series: "Doctor Strange (2016)"
-        title_list:
-          - Doctor Strange (2016) 001
 
   "Series: Dune (2021)":
     template:
