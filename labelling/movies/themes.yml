@@ -2,6 +2,11 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  theme__superheroes:
+    template: { name: TMDB theme label, theme_name: superheroes }
+    tmdb_movie:
+      - 363088 # Ant-Man and The Wasp (2018)
+
   "Theme: aliens":
     template:
       - name: Theme label
