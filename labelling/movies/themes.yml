@@ -9,6 +9,11 @@ collections:
       - 299537 # Captain Marvel (2019)
       - 11 # Star Wars (1977)
 
+  theme__coming_of_age:
+    template: { name: TMDB theme label, theme_name: coming_of_age }
+    tmdb_movie:
+      - 429617 # Spider-Man: Far from Home (2019)
+
   theme__con_artists:
     template: { name: TMDB theme label, theme_name: con_artists }
     tmdb_movie:
@@ -57,6 +62,7 @@ collections:
       - 299534 # Avengers: Endgame (2019)
       - 299537 # Captain Marvel (2019)
       - 284052 # Doctor Strange (2016)
+      - 429617 # Spider-Man: Far from Home (2019)
 
   theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }

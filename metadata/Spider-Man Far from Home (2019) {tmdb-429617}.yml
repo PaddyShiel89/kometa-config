@@ -1,0 +1,20 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Spider-Man: Far from Home":
+    title: "Spider-Man: Far from Home"
+    year: 2019
+    edition_filter: Theatrical cut
+    sort_title: Spider-Man (2017) 002
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Jon Watts]
+    genre.sync: [Action, Adventure, Comedy, Science Fiction]
+    originally_available: 2019-07-02
+    producer.sync: [Kevin Feige, Amy Pascal]
+    studio: Columbia Pictures
+    summary: 'Following the events of "Avengers: Endgame", Spider-Man must step up to take on new threats in a world that has changed forever.'
+    tagline: It's time to step up.
+    writer.sync: [Chris McKenna, Erik Sommers]
+    label.sync: [ID__XXXXXXXXXA, ownership__rented, source__bluray]
