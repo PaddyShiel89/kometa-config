@@ -50,6 +50,17 @@ collections:
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
 
+  series__Guardians_of_the_Galaxy_2014:
+    template:
+      {
+        name: TMDB series label,
+        series_name: Guardians_of_the_Galaxy,
+        series_year: 2014,
+      }
+    tmdb_movie:
+      - 118340 # Guardians of the Galaxy (2014)
+      - 283995 # Guardians of the Galaxy Vol. 2 (2017)
+
   series__Iron_Man_2008:
     template:
       { name: TMDB series label, series_name: Iron_Man, series_year: 2008 }
@@ -202,13 +213,6 @@ collections:
         title_list:
           - Get Him to the Greek (2010)
 
-  "Series: Guardians of the Galaxy (2014)":
-    template:
-      - name: Series label
-        series: "Guardians of the Galaxy (2014)"
-        title_list:
-          - Guardians of the Galaxy (2014) 001
-
   "Series: Halloween (1978)":
     template:
       - name: Series label
@@ -310,14 +314,6 @@ collections:
           - Indiana Jones (1981) 002
           - Indiana Jones (1981) 003
           - Indiana Jones (1981) 004
-
-  "Series: Iron Man (2008)":
-    template:
-      - name: Series label
-        series: "Iron Man (2008)"
-        title_list:
-          - Iron Man (2008) 001
-          - Iron Man (2008) 002
 
   "Series: IT (2017)":
     template:
@@ -632,13 +628,6 @@ collections:
         series: "Spider-Man (2002)"
         title_list:
           - Spider-Man (2002) 002
-
-  "Series: Spider-Man (2017)":
-    template:
-      - name: Series label
-        series: "Spider-Man (2017)"
-        title_list:
-          - Spider-Man (2017) 001
 
   "Series: Star Trek (2009)":
     template:

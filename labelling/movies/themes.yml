@@ -7,6 +7,7 @@ collections:
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
       - 299537 # Captain Marvel (2019)
+      - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 11 # Star Wars (1977)
 
   theme__christmas:
@@ -74,6 +75,7 @@ collections:
       - 1771 # Captain America: The First Avenger (2011)
       - 299537 # Captain Marvel (2019)
       - 284052 # Doctor Strange (2016)
+      - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 68721 # Iron Man 3 (2013)
       - 429617 # Spider-Man: Far from Home (2019)
 
