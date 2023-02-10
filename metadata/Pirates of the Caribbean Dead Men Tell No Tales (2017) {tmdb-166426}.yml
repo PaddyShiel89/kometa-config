@@ -1,0 +1,21 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Pirates of the Caribbean: Dead Men Tell No Tales":
+    title: "Pirates of the Caribbean: Salazar's Revenge"
+    year: 2017
+    edition_filter: Theatrical cut
+    sort_title: Pirates of the Caribbean (2003) 005
+    content_rating: gb/12
+    country.sync: [Australia, Canada, United Kingdom, United States of America]
+    director.sync: [Joachim Rønning, Espen Sandberg]
+    genre.sync: [Action, Adventure, Fantasy]
+    original_title: "Pirates of the Caribbean: Dead Men Tell No Tales"
+    originally_available: 2017-05-26
+    producer.sync: [Jerry Bruckheimer]
+    studio: Jerry Bruckheimer Films
+    summary: "Captain Jack Sparrow is pursued by old rival Captain Salazar and a crew of deadly ghosts who have escaped from the Devil's Triangle."
+    tagline: All pirates must die.
+    writer.sync: [Jeff Nathanson, Terry Rossio]
+    label.sync: [ID__XXX166426A, ownership__rented, source__bluray]

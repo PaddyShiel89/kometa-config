@@ -5,17 +5,36 @@ collections:
   theme__aliens:
     template: { name: TMDB theme label, theme_name: aliens }
     tmdb_movie:
+      - 299534 # Avengers: Endgame (2019)
       - 299537 # Captain Marvel (2019)
+      - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 11 # Star Wars (1977)
+
+  theme__christmas:
+    template: { name: TMDB theme label, theme_name: christmas }
+    tmdb_movie:
+      - 68721 # Iron Man 3 (2013)
+
+  theme__coming_of_age:
+    template: { name: TMDB theme label, theme_name: coming_of_age }
+    tmdb_movie:
+      - 1771 # Captain America: The First Avenger (2011)
+      - 429617 # Spider-Man: Far from Home (2019)
 
   theme__con_artists:
     template: { name: TMDB theme label, theme_name: con_artists }
     tmdb_movie:
       - 629 # The Usual Suspects (1995)
 
+  theme__ghosts:
+    template: { name: TMDB theme label, theme_name: ghosts }
+    tmdb_movie:
+      - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+
   theme__heist:
     template: { name: TMDB theme label, theme_name: heist }
     tmdb_movie:
+      - 299534 # Avengers: Endgame (2019)
       - 629 # The Usual Suspects (1995)
 
   theme__magic:
@@ -28,17 +47,62 @@ collections:
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
 
+  theme__mental_health:
+    template: { name: TMDB theme label, theme_name: mental_health }
+    tmdb_movie:
+      - 68721 # Iron Man 3 (2013)
+
   theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }
     tmdb_movie:
       - 629 # The Usual Suspects (1995)
 
+  theme__pirates:
+    template: { name: TMDB theme label, theme_name: pirates }
+    tmdb_movie:
+      - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+
+  theme__post_apocalyptic:
+    template: { name: TMDB theme label, theme_name: post_apocalyptic }
+    tmdb_movie:
+      - 299534 # Avengers: Endgame (2019)
+
   theme__superheroes:
     template: { name: TMDB theme label, theme_name: superheroes }
     tmdb_movie:
       - 363088 # Ant-Man and The Wasp (2018)
+      - 299534 # Avengers: Endgame (2019)
+      - 1771 # Captain America: The First Avenger (2011)
       - 299537 # Captain Marvel (2019)
       - 284052 # Doctor Strange (2016)
+      - 283995 # Guardians of the Galaxy Vol. 2 (2017)
+      - 68721 # Iron Man 3 (2013)
+      - 429617 # Spider-Man: Far from Home (2019)
+
+  theme__supernatural:
+    template: { name: TMDB theme label, theme_name: supernatural }
+    tmdb_movie:
+      - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+
+  theme__terrorism:
+    template: { name: TMDB theme label, theme_name: terrorism }
+    tmdb_movie:
+      - 68721 # Iron Man 3 (2013)
+
+  theme__time_travel:
+    template: { name: TMDB theme label, theme_name: time_travel }
+    tmdb_movie:
+      - 299534 # Avengers: Endgame (2019)
+
+  theme__treasure_hunt:
+    template: { name: TMDB theme label, theme_name: treasure_hunt }
+    tmdb_movie:
+      - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+
+  theme__world_war_ii:
+    template: { name: TMDB theme label, theme_name: world_war_ii }
+    tmdb_movie:
+      - 1771 # Captain America: The First Avenger (2011)
 
   "Theme: aliens":
     template:

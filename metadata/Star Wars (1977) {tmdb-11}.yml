@@ -1,5 +1,5 @@
 external_templates:
-  - file: config/templates/metadata/Edition
+  - repo: templates/metadata/Edition
 
 metadata:
   "Star Wars: Episode IV - A New Hope [Theatrical cut]":
@@ -74,7 +74,7 @@ metadata:
     tagline: A long time ago in a galaxy far, far away...
     writer.sync: George Lucas
     label.sync:
-      [ID__000000011D, ownership__owned, Secondary_Cut, source__blu-ray]
+      [ID__000000011D, ownership__owned, Secondary_Cut, source__bluray]
 
   "Star Wars: Episode IV - A New Hope [Despecialized edition]":
     title: "Star Wars: Episode IV - A New Hope"

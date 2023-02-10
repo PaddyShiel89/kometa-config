@@ -1,0 +1,20 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Captain America: The First Avenger":
+    title: "Captain America: The First Avenger"
+    year: 2011
+    edition_filter: Theatrical cut
+    sort_title: Captain America (2011) 001
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Joe Johnston]
+    genre.sync: [Action, Adventure, Science Fiction, War]
+    originally_available: 2011-07-29
+    producer.sync: [Kevin Feige]
+    studio: Paramount Pictures
+    summary: "Steve Rogers transforms into Captain America after taking a dose of a "Super-Soldier serum". But being the Cap comes at a price as he attempts to take down a warmonger and a terrorist organization."
+    tagline: When patriots become heroes
+    writer.sync: [Christopher Markus, Stephen McFeely]
+    label.sync: [ID__XXXXX1771A, ownership__rented, source__bluray]
