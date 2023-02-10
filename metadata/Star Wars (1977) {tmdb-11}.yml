@@ -1,5 +1,5 @@
 external_templates:
-  - file: config/templates/metadata/Edition
+  - repo: templates/metadata/Edition
 
 metadata:
   "Star Wars: Episode IV - A New Hope [Theatrical cut]":
