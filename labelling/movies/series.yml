@@ -9,6 +9,15 @@ collections:
       - 102899 # Ant-Man (2015)
       - 363088 # Ant-Man and the Wasp (2018)
 
+  series__Avengers_2012:
+    template:
+      { name: TMDB series label, series_name: Avengers, series_year: 2012 }
+    tmdb_movie:
+      - 24428 # The Avengers (2012)
+      - 99861 # Avengers: Age of Ultron (2015)
+      - 299536 # Avengers: Infinity War (2018)
+      - 299534 # Avengers: Endgame (2019)
+
   series__Captain_Marvel_2019:
     template:
       {
@@ -82,15 +91,6 @@ collections:
         title_list:
           - Anchorman (2004) 001
           - Wake Up, Ron Burgundy (2004)
-
-  "Series: Avengers (2012)":
-    template:
-      - name: Series label
-        series: "Avengers (2012)"
-        title_list:
-          - Avengers (2012) 001
-          - Avengers (2012) 002
-          - Avengers (2012) 003
 
   "Series: Back to the Future (1985)":
     template:

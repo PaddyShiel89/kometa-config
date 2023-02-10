@@ -1,0 +1,20 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Avengers: Endgame":
+    title: "Avengers: Endgame"
+    year: 2019
+    edition_filter: Theatrical cut
+    sort_title: Avengers (2012) 004
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Anthony Russo, Joe Russo]
+    genre.sync: [Action, Adventure, Science Fiction]
+    originally_available: 2019-04-25
+    producer.sync: [Kevin Feige]
+    studio: Marvel Studios
+    summary: "The universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+    tagline: Avenge the fallen.
+    writer.sync: [Christopher Markus, Stephen McFeely]
+    label.sync: [ID__XXX299534A, ownership__rented, source__bluray]

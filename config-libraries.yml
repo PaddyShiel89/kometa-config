@@ -12,6 +12,7 @@ libraries:
         Western:
     metadata_path:
       - repo: metadata/Ant-Man and the Wasp (2018) {tmdb-363088}
+      - repo: metadata/Avengers Endgame (2019) {tmdb-299534}
       - repo: metadata/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426}
       - repo: metadata/Star Wars (1977) {tmdb-11}
