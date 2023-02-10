@@ -50,6 +50,14 @@ collections:
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
 
+  series__Iron_Man_2008:
+    template:
+      { name: TMDB series label, series_name: Iron_Man, series_year: 2008 }
+    tmdb_movie:
+      - 1726 # Iron Man (2008)
+      - 10138 # Iron Man 2 (2010)
+      - 68721 # Iron Man 3 (2013)
+
   series__Pirates_of_the_Caribbean_2003:
     template:
       {

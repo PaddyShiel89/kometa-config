@@ -77,11 +77,11 @@ collections:
           - series__Captain_America_2011
           - series__Captain_Marvel_2019
           - series__Doctor Strange_2016
+          - series__Iron_Man_2008
           - series__Spider_Man_2017
           - "series: Black Panther (2018)"
           - "series: Guardians of the Galaxy (2014)"
           - "series: The Incredible Hulk (2008)"
-          - "series: Iron Man (2008)"
           - "series: Thor (2011)"
 
   Muppets Collection:
