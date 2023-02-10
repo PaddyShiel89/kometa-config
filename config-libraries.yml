@@ -13,6 +13,7 @@ libraries:
     metadata_path:
       - repo: metadata/Ant-Man and the Wasp (2018) {tmdb-363088}
       - repo: metadata/Avengers Endgame (2019) {tmdb-299534}
+      - repo: metadata/Captain America The First Avenger (2011) {tmdb-1771}
       - repo: metadata/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/Doctor Strange (2016) {tmdb-284052}
       - repo: metadata/Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426}
