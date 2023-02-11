@@ -2,14 +2,14 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  series__Ant_Man_2015:
+  Series__Ant_Man_2015:
     template:
       { name: TMDB series label, series_name: Ant_Man, series_year: 2015 }
     tmdb_movie:
       - 102899 # Ant-Man (2015)
       - 363088 # Ant-Man and the Wasp (2018)
 
-  series__Avengers_2012:
+  Series__Avengers_2012:
     template:
       { name: TMDB series label, series_name: Avengers, series_year: 2012 }
     tmdb_movie:
@@ -18,7 +18,7 @@ collections:
       - 299536 # Avengers: Infinity War (2018)
       - 299534 # Avengers: Endgame (2019)
 
-  series__Captain_America_2011:
+  Series__Captain_America_2011:
     template:
       {
         name: TMDB series label,
@@ -30,7 +30,7 @@ collections:
       - 100402 # Captain America: The Winter Soldier (2014)
       - 271110 # Captain America: Civil War (2016)
 
-  series__Captain_Marvel_2019:
+  Series__Captain_Marvel_2019:
     template:
       {
         name: TMDB series label,
@@ -40,7 +40,7 @@ collections:
     tmdb_movie:
       - 299537 # Captain Marvel (2019)
 
-  series__Doctor Strange_2016:
+  Series__Doctor Strange_2016:
     template:
       {
         name: TMDB series label,
@@ -50,7 +50,7 @@ collections:
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
 
-  series__Guardians_of_the_Galaxy_2014:
+  Series__Guardians_of_the_Galaxy_2014:
     template:
       {
         name: TMDB series label,
@@ -61,7 +61,7 @@ collections:
       - 118340 # Guardians of the Galaxy (2014)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
 
-  series__Iron_Man_2008:
+  Series__Iron_Man_2008:
     template:
       { name: TMDB series label, series_name: Iron_Man, series_year: 2008 }
     tmdb_movie:
@@ -69,7 +69,7 @@ collections:
       - 10138 # Iron Man 2 (2010)
       - 68721 # Iron Man 3 (2013)
 
-  series__Pirates_of_the_Caribbean_2003:
+  Series__Pirates_of_the_Caribbean_2003:
     template:
       {
         name: TMDB series label,
@@ -80,7 +80,7 @@ collections:
       - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 
-  series__Spider_Man_2017:
+  Series__Spider_Man_2017:
     template:
       { name: TMDB series label, series_name: Spider_Man, series_year: 2017 }
     tmdb_movie:

@@ -74,7 +74,7 @@ templates:
     sync_mode: sync
 
   TMDB series label:
-    item_label: "series__<<series_name>>_<<series_year>>"
+    item_label: "Series__<<series_name>>_<<series_year>>"
     build_collection: false
     sync_mode: sync
 
