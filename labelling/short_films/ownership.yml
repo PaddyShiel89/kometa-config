@@ -11,12 +11,20 @@ collections:
         label:
           - ID__000211387A # Marvel One-Shot: Agent Carter
 
+  Ownership__own:
+    template:
+      - name: TMDB ownership label
+        ownership_status: own
+    plex_search:
+      any:
+        label:
+          - ID__000253980A # Marvel One-Shot: All Hail the King (2014)
+
   "Ownership: own":
     template:
       - name: Ownership label
         status: "own"
         title_list:
-          - All Hail the King (2014)
           - Item 47 (2012)
 
   "Ownership: rented/loaned":
