@@ -78,6 +78,11 @@ templates:
     build_collection: false
     sync_mode: sync
 
+  TMDB source label:
+    item_label: "Source__<<source_type>>"
+    build_collection: false
+    sync_mode: sync
+
   TMDB theme label:
     item_label: "Theme__<<theme_name>>"
     build_collection: false

@@ -18,7 +18,7 @@ metadata:
     summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the evil Empire, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
     tagline: A long time ago in a galaxy far, far away...
     writer.sync: George Lucas
-    label.sync: [ID__000000011A, Source__dvd]
+    label.sync: [ID__000000011A]
 
   "Star Wars: Episode IV - A New Hope [Special edition]":
     title: "Star Wars: Episode IV - A New Hope"
@@ -36,7 +36,7 @@ metadata:
     summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the evil Empire, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
     tagline: A long time ago in a galaxy far, far away...
     writer.sync: George Lucas
-    label.sync: [ID__000000011B, Source__download]
+    label.sync: [ID__000000011B]
 
   "Star Wars: Episode IV - A New Hope [DVD cut]":
     title: "Star Wars: Episode IV - A New Hope"
@@ -54,7 +54,7 @@ metadata:
     summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the evil Empire, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
     tagline: A long time ago in a galaxy far, far away...
     writer.sync: George Lucas
-    label.sync: [ID__000000011C, Source__dvd]
+    label.sync: [ID__000000011C]
 
   "Star Wars: Episode IV - A New Hope [Blu-ray cut]":
     title: "Star Wars: Episode IV - A New Hope"
@@ -72,7 +72,7 @@ metadata:
     summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the evil Empire, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
     tagline: A long time ago in a galaxy far, far away...
     writer.sync: George Lucas
-    label.sync: [ID__000000011D, Source__bluray]
+    label.sync: [ID__000000011D]
 
   "Star Wars: Episode IV - A New Hope [Despecialized edition]":
     title: "Star Wars: Episode IV - A New Hope"
@@ -90,7 +90,7 @@ metadata:
     summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the evil Empire, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
     tagline: A long time ago in a galaxy far, far away...
     writer.sync: George Lucas
-    label.sync: [ID__000000011E, Source__download]
+    label.sync: [ID__000000011E]
 
   "Star Wars: Episode IV - A New Hope [Project 4K77]":
     title: "Star Wars: Episode IV - A New Hope"
@@ -108,7 +108,7 @@ metadata:
     summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the evil Empire, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
     tagline: A long time ago in a galaxy far, far away...
     writer.sync: George Lucas
-    label.sync: [ID__000000011F, Source__download]
+    label.sync: [ID__000000011F]
 
 collections:
   "Star Wars: Episode IV - A New Hope":
