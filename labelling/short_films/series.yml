@@ -2,6 +2,22 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  Series__Marvel_One_Shots_2011:
+    template:
+      {
+        name: TMDB series label,
+        series_name: Marvel_One_Shots,
+        series_year: 2011,
+      }
+    tmdb_movie:
+      - 76535 # Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011)
+      - 253980 # Marvel One-Shot: All Hail the King (2014)
+      - 211387 # Marvel One-Shot: Agent Carter (2013)
+      - 119569 # Marvel One-Shot: Item 47 (2012)
+      - 76122 # Marvel One-Shot: The Consultant (2011)
+      - 441829 # Team Thor: Part 2 (2017)
+      - 505945 # Team Darryl (2018)
+
   "Series: Blade Runner (1982)":
     template:
       - name: Series label
@@ -10,15 +26,3 @@ collections:
           - "Blade Runner 2036: Nexus Dawn (2017)"
           - "Blade Runner 2048: Nowhere to Run (2017)"
           - "Blade Runner: Black Out 2022 (2017)"
-
-  "Series: Marvel One-Shots":
-    template:
-      - name: Series label
-        series: "Marvel One-Shots"
-        title_list:
-          - All Hail the King (2014)
-          - Item 47 (2012)
-          - Consultant (2011)
-          - Funny Thing Happened on the Way to Thor's Hammer (2011)
-          - Team Darryl (2018)
-          - Team Thor (2016) 002

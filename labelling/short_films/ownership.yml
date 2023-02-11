@@ -2,6 +2,15 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  Ownership__loaned:
+    template:
+      - name: TMDB ownership label
+        ownership_status: loaned
+    plex_search:
+      any:
+        label:
+          - ID__000211387A # Marvel One-Shot: Agent Carter
+
   "Ownership: own":
     template:
       - name: Ownership label
