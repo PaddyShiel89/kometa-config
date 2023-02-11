@@ -74,6 +74,6 @@ templates:
     sync_mode: sync
 
   TMDB theme label:
-    item_label: "theme__<<theme_name>>"
+    item_label: "Theme__<<theme_name>>"
     build_collection: false
     sync_mode: sync
