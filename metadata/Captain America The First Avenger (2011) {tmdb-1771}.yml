@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Captain America: The First Avenger":
     title: "Captain America: The First Avenger"

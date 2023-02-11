@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Guardians of the Galaxy Vol. 2":
     title: Guardians of the Galaxy Vol. 2

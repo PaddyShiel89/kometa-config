@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Spider-Man: Far from Home":
     title: "Spider-Man: Far from Home"

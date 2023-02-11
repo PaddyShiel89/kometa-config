@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Pirates of the Caribbean: Dead Men Tell No Tales":
     title: "Pirates of the Caribbean: Salazar's Revenge"

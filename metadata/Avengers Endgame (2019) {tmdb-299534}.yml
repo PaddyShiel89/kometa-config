@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Avengers: Endgame":
     title: "Avengers: Endgame"
