@@ -12,6 +12,24 @@ collections:
           - 211387 # Marvel One-Shot: Agent Carter (2013)
           - 253980 # Marvel One-Shot: All Hail the King (2014)
 
+  Source__download:
+    template:
+      - name: TMDB source label
+        source_type: download
+    plex_search:
+      any:
+        label:
+          - 416185 # Ánima (2011)
+
+  Source__vimeo:
+    template:
+      - name: TMDB source label
+        source_type: vimeo
+    plex_search:
+      any:
+        label:
+          - 416185 # Ánima (2011)
+
   "Source: blu-ray":
     template:
       - name: Source label
@@ -25,17 +43,3 @@ collections:
           - Item 47 (2012)
           - Team Darryl (2018)
           - Team Thor (2016) 002
-
-  "Source: download":
-    template:
-      - name: Source label
-        source: "download"
-        title_list:
-          - "Ánima (2011)"
-
-  "Source: Vimeo":
-    template:
-      - name: Source label
-        source: "Vimeo"
-        title_list:
-          - "Ánima (2011)"

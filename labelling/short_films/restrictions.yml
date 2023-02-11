@@ -2,12 +2,9 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  # Restriction placed on all users
-  "Restriction: all":
-    plex_search:
-      any:
-        title:
-          - "Ánima (2011)"
+  Restriction__all:
     template:
-      - name: Restriction label
-        restriction: "all"
+      - name: TMDB restriction label
+        restriction_level: all
+    tmdb_movie:
+      - 416185 # Ánima (2011)

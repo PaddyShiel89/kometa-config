@@ -1,0 +1,19 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Ánima":
+    title: Ánima
+    year: 2011
+    sort_title: Ánima (2011)
+    content_rating: gb/Unrated
+    country.sync: [Spain]
+    director.sync: [Ana Victoria Pérez]
+    genre.sync: [Drama]
+    originally_available: 2011-07-08
+    producer.sync: [Toni Viñas]
+    studio: Besa Films
+    summary: "Julieta goes with her cello to a luthier's workshop, and feels that her soul also asks to be healed."
+    tagline:
+    writer.sync: [Ana Victoria Pérez]
+    label.sync: [ID__000416185A]
