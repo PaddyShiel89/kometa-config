@@ -2,6 +2,46 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  Ownership__loaned:
+    template:
+      - name: TMDB ownership label
+        ownership_status: loaned
+    plex_search:
+      any:
+        label:
+          - ID__000283995A # Guardians of the Galaxy Vol. 2
+          - ID__000068721A # Iron Man 3
+
+  Ownership__own:
+    template:
+      - name: TMDB ownership label
+        ownership_status: own
+    plex_search:
+      any:
+        label:
+          - ID__000000011A # Star Wars: Episode IV - A New Hope [Theatrical cut]
+          - ID__000000011B # Star Wars: Episode IV - A New Hope [Special edition]
+          - ID__000000011C # Star Wars: Episode IV - A New Hope [DVD cut]
+          - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
+          - ID__000000011E # Star Wars: Episode IV - A New Hope [Despecialized edition]
+          - ID__000000011F # Star Wars: Episode IV - A New Hope [Project 4K77]
+
+  Ownership__rented:
+    template:
+      - name: TMDB ownership label
+        ownership_status: rented
+    plex_search:
+      any:
+        label:
+          - ID__000363088A # Ant-Man and the Wasp
+          - ID__000299534A # Avengers: Endgame
+          - ID__000001771A # Captain America: The First Avenger
+          - ID__000299537A # Captain Marvel
+          - ID__000284052A # Doctor Strange
+          - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales
+          - ID__000634649A # Spider-Man: Far from Home
+          - ID__000000629A # The Usual Suspects
+
   "Ownership: own":
     template:
       - name: Ownership label

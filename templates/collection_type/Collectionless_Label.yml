@@ -68,6 +68,11 @@ templates:
 
     # ------------------------------- New labelling ------------------------------ #
 
+  TMDB ownership label:
+    item_label: "Ownership__<<ownership_status>>"
+    build_collection: false
+    sync_mode: sync
+
   TMDB series label:
     item_label: "series__<<series_name>>_<<series_year>>"
     build_collection: false
