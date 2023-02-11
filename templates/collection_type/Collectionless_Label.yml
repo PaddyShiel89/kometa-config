@@ -68,12 +68,27 @@ templates:
 
     # ------------------------------- New labelling ------------------------------ #
 
+  TMDB ownership label:
+    item_label: "Ownership__<<ownership_status>>"
+    build_collection: false
+    sync_mode: sync
+
   TMDB series label:
-    item_label: "series__<<series_name>>_<<series_year>>"
+    item_label: "Series__<<series_name>>_<<series_year>>"
+    build_collection: false
+    sync_mode: sync
+
+  TMDB source label:
+    item_label: "Source__<<source_type>>"
+    build_collection: false
+    sync_mode: sync
+
+  TMDB restriction label:
+    item_label: "Restriction__<<restriction_level>>"
     build_collection: false
     sync_mode: sync
 
   TMDB theme label:
-    item_label: "theme__<<theme_name>>"
+    item_label: "Theme__<<theme_name>>"
     build_collection: false
     sync_mode: sync

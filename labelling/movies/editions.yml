@@ -5,6 +5,12 @@ collections:
   "Edition: Secondary":
     plex_search:
       any:
+        label:
+          - ID__000000011B # Star Wars: Episode IV - A New Hope [Special edition]
+          - ID__000000011C # Star Wars: Episode IV - A New Hope [DVD cut]
+          - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
+          - ID__000000011E # Star Wars: Episode IV - A New Hope [Despecialized edition]
+          - ID__000000011F # Star Wars: Episode IV - A New Hope [Project 4K77]
         title:
           - Alien (1979) 001 2003 Director's cut
           - Alien (1979) 002 1990 Special Edition
@@ -40,6 +46,8 @@ collections:
   "Edition: Star Wars Definitive":
     plex_search:
       any:
+        label:
+          - ID__000000011F # Star Wars: Episode IV - A New Hope [Project 4K77]
         title:
           - "Rogue One: A Star Wars Story (2016)"
           - "Solo: A Star Wars Story (2018)"

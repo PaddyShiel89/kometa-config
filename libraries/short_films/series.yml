@@ -18,4 +18,4 @@ collections:
       - name: Series
         summary: "that are part of the Marvel Cinematic Universe."
         label_list:
-          - "series: Marvel One-Shots"
+          - Series__Marvel_One_Shots_2011

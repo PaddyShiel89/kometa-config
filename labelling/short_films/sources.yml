@@ -2,12 +2,39 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  Source__bluray:
+    template:
+      - name: TMDB source label
+        source_type: bluray
+    plex_search:
+      any:
+        label:
+          - 211387 # Marvel One-Shot: Agent Carter (2013)
+          - 253980 # Marvel One-Shot: All Hail the King (2014)
+
+  Source__download:
+    template:
+      - name: TMDB source label
+        source_type: download
+    plex_search:
+      any:
+        label:
+          - 416185 # Ánima (2011)
+
+  Source__vimeo:
+    template:
+      - name: TMDB source label
+        source_type: vimeo
+    plex_search:
+      any:
+        label:
+          - 416185 # Ánima (2011)
+
   "Source: blu-ray":
     template:
       - name: Source label
         source: "blu-ray"
         title_list:
-          - All Hail the King (2014)
           - "Blade Runner 2036: Nexus Dawn (2017)"
           - "Blade Runner 2048: Nowhere to Run (2017)"
           - "Blade Runner: Black Out 2022 (2017)"
@@ -16,17 +43,3 @@ collections:
           - Item 47 (2012)
           - Team Darryl (2018)
           - Team Thor (2016) 002
-
-  "Source: download":
-    template:
-      - name: Source label
-        source: "download"
-        title_list:
-          - "Ánima (2011)"
-
-  "Source: Vimeo":
-    template:
-      - name: Source label
-        source: "Vimeo"
-        title_list:
-          - "Ánima (2011)"

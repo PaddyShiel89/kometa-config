@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Pirates of the Caribbean: Dead Men Tell No Tales":
     title: "Pirates of the Caribbean: Salazar's Revenge"
@@ -18,4 +15,4 @@ metadata:
     summary: "Captain Jack Sparrow is pursued by old rival Captain Salazar and a crew of deadly ghosts who have escaped from the Devil's Triangle."
     tagline: All pirates must die.
     writer.sync: [Jeff Nathanson, Terry Rossio]
-    label.sync: [ID__XXX166426A, ownership__rented, source__bluray]
+    label.sync: [ID__000166426A]

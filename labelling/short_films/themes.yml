@@ -2,12 +2,20 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  "Theme: foreign language":
-    template:
-      - name: Theme label
-        theme: "foreign language"
-        title_list:
-          - "Ánima (2011)"
+  Theme__erotic:
+    template: { name: TMDB theme label, theme_name: erotic }
+    tmdb_movie:
+      - 416185 # Ánima (2011)
+
+  Theme__foreign_language:
+    template: { name: TMDB theme label, theme_name: foreign_language }
+    tmdb_movie:
+      - 416185 # Ánima (2011)
+
+  Theme__secret_agent:
+    template: { name: TMDB theme label, theme_name: secret_agent }
+    tmdb_movie:
+      - 211387 # Marvel One-Shot: Agent Carter (2013)
 
   "Theme: mockumentary":
     template:
