@@ -29,6 +29,7 @@ collections:
       any:
         label:
           - ID__000473072A # 2036: Nexus Dawn (2017)
+          - ID__000475759A # 2048: Nowhere to Run (2017)
 
   "Ownership: own":
     template:
@@ -42,7 +43,6 @@ collections:
       - name: Ownership label
         status: "rented/loaned"
         title_list:
-          - "Blade Runner 2048: Nowhere to Run (2017)"
           - "Blade Runner: Black Out 2022 (2017)"
           - Consultant (2011)
           - Funny Thing Happened on the Way to Thor's Hammer (2011)

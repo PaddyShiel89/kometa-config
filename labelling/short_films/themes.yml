@@ -6,11 +6,13 @@ collections:
     template: { name: TMDB theme label, theme_name: cyberpunk }
     tmdb_movie:
       - 473072 # 2036: Nexus Dawn (2017)
+      - 475759 # 2048: Nowhere to Run (2017)
 
   Theme__dystopian:
     template: { name: TMDB theme label, theme_name: dystopian }
     tmdb_movie:
       - 473072 # 2036: Nexus Dawn (2017)
+      - 475759 # 2048: Nowhere to Run (2017)
 
   Theme__erotic:
     template: { name: TMDB theme label, theme_name: erotic }

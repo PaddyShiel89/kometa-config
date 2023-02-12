@@ -10,6 +10,7 @@ collections:
       any:
         label:
           - 473072 # 2036: Nexus Dawn (2017)
+          - 475759 # 2048: Nowhere to Run (2017)
           - 211387 # Marvel One-Shot: Agent Carter (2013)
           - 253980 # Marvel One-Shot: All Hail the King (2014)
 
@@ -36,7 +37,6 @@ collections:
       - name: Source label
         source: "blu-ray"
         title_list:
-          - "Blade Runner 2048: Nowhere to Run (2017)"
           - "Blade Runner: Black Out 2022 (2017)"
           - Consultant (2011)
           - Funny Thing Happened on the Way to Thor's Hammer (2011)
