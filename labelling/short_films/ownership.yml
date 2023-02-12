@@ -35,11 +35,4 @@ collections:
           - ID__000475946A # Blade Runner: Black Out 2022 (2017)
           - ID__000076535A # Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011)
           - ID__000076122A # Marvel One-Shot: The Consultant (2011)
-
-  "Ownership: rented/loaned":
-    template:
-      - name: Ownership label
-        status: "rented/loaned"
-        title_list:
-          - Team Darryl (2018)
-          - Team Thor (2016) 002
+          - ID__000441829A # Team Thor (2017) 002

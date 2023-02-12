@@ -18,6 +18,7 @@ collections:
           - 119569 # Marvel One-Shot: Item 47 (2012)
           - 76122 # Marvel One-Shot: The Consultant (2011)
           - 505945 # Team Darryl (2018)
+          - 441829 # Team Thor: Part 2
 
   Source__download:
     template:
@@ -36,10 +37,3 @@ collections:
       any:
         label:
           - 416185 # Ánima (2011)
-
-  "Source: blu-ray":
-    template:
-      - name: Source label
-        source: "blu-ray"
-        title_list:
-          - Team Thor (2016) 002

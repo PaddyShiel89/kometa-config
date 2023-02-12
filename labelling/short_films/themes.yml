@@ -30,6 +30,7 @@ collections:
     template: { name: TMDB theme label, theme_name: mockumentary }
     tmdb_movie:
       - 505945 # Team Darryl (2018)
+      - 441829 # Team Thor: Part 2
 
   Theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }
@@ -46,10 +47,3 @@ collections:
     template: { name: TMDB theme label, theme_name: tech_noir }
     tmdb_movie:
       - 475946 # Blade Runner: Black Out 2022 (2017)
-
-  "Theme: mockumentary":
-    template:
-      - name: Theme label
-        theme: "mockumentary"
-        title_list:
-          - Team Thor (2016) 002
