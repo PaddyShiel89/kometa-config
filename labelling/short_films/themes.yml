@@ -7,12 +7,14 @@ collections:
     tmdb_movie:
       - 473072 # 2036: Nexus Dawn (2017)
       - 475759 # 2048: Nowhere to Run (2017)
+      - 475946 # Blade Runner: Black Out 2022 (2017)
 
   Theme__dystopian:
     template: { name: TMDB theme label, theme_name: dystopian }
     tmdb_movie:
       - 473072 # 2036: Nexus Dawn (2017)
       - 475759 # 2048: Nowhere to Run (2017)
+      - 475946 # Blade Runner: Black Out 2022 (2017)
 
   Theme__erotic:
     template: { name: TMDB theme label, theme_name: erotic }
@@ -24,10 +26,21 @@ collections:
     tmdb_movie:
       - 416185 # Ánima (2011)
 
+  Theme__neo_noir:
+    template: { name: TMDB theme label, theme_name: neo_noir }
+    tmdb_movie:
+      - 475759 # 2048: Nowhere to Run (2017)
+      - 475946 # Blade Runner: Black Out 2022 (2017)
+
   Theme__secret_agent:
     template: { name: TMDB theme label, theme_name: secret_agent }
     tmdb_movie:
       - 211387 # Marvel One-Shot: Agent Carter (2013)
+
+  Theme__tech_noir:
+    template: { name: TMDB theme label, theme_name: tech_noir }
+    tmdb_movie:
+      - 475946 # Blade Runner: Black Out 2022 (2017)
 
   "Theme: mockumentary":
     template:
