@@ -20,6 +20,7 @@ collections:
         label:
           - ID__000416185A # Ánima (2011)
           - ID__000253980A # Marvel One-Shot: All Hail the King (2014)
+          - ID__000119569A # Marvel One-Shot: Item 47 (2012)
 
   Ownership__rented:
     template:
@@ -33,13 +34,6 @@ collections:
           - ID__000475946A # Blade Runner: Black Out 2022 (2017)
           - ID__000076535A # Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011)
           - ID__000076122A # Marvel One-Shot: The Consultant (2011)
-
-  "Ownership: own":
-    template:
-      - name: Ownership label
-        status: "own"
-        title_list:
-          - Item 47 (2012)
 
   "Ownership: rented/loaned":
     template:
