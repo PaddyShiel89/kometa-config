@@ -93,6 +93,7 @@ libraries:
         Short:
         Western:
     metadata_path:
+      - repo: metadata/short_films/2036 Nexus Dawn (2017) {tmdb-473072}
       - repo: metadata/short_films/Ánima (2011) {tmdb-416185}
       - repo: metadata/short_films/Marvel One-Shot Agent Carter (2013) {tmdb-211387}
       - repo: metadata/short_films/Marvel One-Shot All Hail the King (2014) {tmdb-253980}

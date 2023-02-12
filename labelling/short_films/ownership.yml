@@ -21,6 +21,15 @@ collections:
           - ID__000416185A # Ánima (2011)
           - ID__000253980A # Marvel One-Shot: All Hail the King (2014)
 
+  Ownership__rented:
+    template:
+      - name: TMDB ownership label
+        ownership_status: own
+    plex_search:
+      any:
+        label:
+          - ID__000473072A # 2036: Nexus Dawn (2017)
+
   "Ownership: own":
     template:
       - name: Ownership label
@@ -33,7 +42,6 @@ collections:
       - name: Ownership label
         status: "rented/loaned"
         title_list:
-          - "Blade Runner 2036: Nexus Dawn (2017)"
           - "Blade Runner 2048: Nowhere to Run (2017)"
           - "Blade Runner: Black Out 2022 (2017)"
           - Consultant (2011)

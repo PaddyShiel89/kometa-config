@@ -2,6 +2,16 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  Theme__cyberpunk:
+    template: { name: TMDB theme label, theme_name: cyberpunk }
+    tmdb_movie:
+      - 473072 # 2036: Nexus Dawn (2017)
+
+  Theme__dystopian:
+    template: { name: TMDB theme label, theme_name: dystopian }
+    tmdb_movie:
+      - 473072 # 2036: Nexus Dawn (2017)
+
   Theme__erotic:
     template: { name: TMDB theme label, theme_name: erotic }
     tmdb_movie:
@@ -30,6 +40,5 @@ collections:
       - name: Theme label
         theme: "neo-noir"
         title_list:
-          - "Blade Runner 2036: Nexus Dawn (2017)"
           - "Blade Runner 2048: Nowhere to Run (2017)"
           - "Blade Runner: Black Out 2022 (2017)"

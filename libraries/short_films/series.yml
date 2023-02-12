@@ -11,7 +11,8 @@ collections:
     template:
       - name: Series
         summary: "that are part of the Blade Runner series."
-        label_list: "series: Blade Runner (1982)"
+        label_list:
+          - Series__Blade_Runner_1982
 
   Marvel One-Shots:
     template:
