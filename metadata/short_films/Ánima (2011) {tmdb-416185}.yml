@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Ánima":
     title: Ánima
@@ -16,4 +13,4 @@ metadata:
     summary: "Julieta goes with her cello to a luthier's workshop, and feels that her soul also asks to be healed."
     tagline:
     writer.sync: [Ana Victoria Pérez]
-    label.sync: [ID__000416185A]
+    label: [ID__000416185A]

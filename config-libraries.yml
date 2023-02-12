@@ -17,7 +17,7 @@ libraries:
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
-      - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
+      # - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
       - repo: metadata/movies/Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426}
       - repo: metadata/movies/Spider-Man Far from Home (2019) {tmdb-429617}
       - repo: metadata/movies/Star Wars (1977) {tmdb-11}
@@ -93,9 +93,17 @@ libraries:
         Short:
         Western:
     metadata_path:
+      - repo: metadata/short_films/2036 Nexus Dawn (2017) {tmdb-473072}
+      - repo: metadata/short_films/2048 Nowhere to Run (2017) {tmdb-475759}
       - repo: metadata/short_films/Ánima (2011) {tmdb-416185}
+      - repo: metadata/short_films/Blade Runner Black Out 2022 (2017) {tmdb-475946}
+      - repo: metadata/short_films/Marvel One-Shot A Funny Thing Happened on the Way to Thor's Hammer (2011) {tmdb-76535}
       - repo: metadata/short_films/Marvel One-Shot Agent Carter (2013) {tmdb-211387}
       - repo: metadata/short_films/Marvel One-Shot All Hail the King (2014) {tmdb-253980}
+      - repo: metadata/short_films/Marvel One-Shot Item 47 (2012) {tmdb-119569}
+      - repo: metadata/short_films/Marvel One-Shot The Consultant (2011) {tmdb-76122}
+      - repo: metadata/short_films/Team Darryl (2018) {tmdb-505945}
+      - repo: metadata/short_films/Team Thor Part 2 (2017) {tmdb-441829}
       - repo: labelling/short_films/ownership
       - repo: labelling/short_films/restrictions
       - repo: labelling/short_films/series

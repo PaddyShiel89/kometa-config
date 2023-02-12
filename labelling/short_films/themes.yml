@@ -2,6 +2,20 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  Theme__cyberpunk:
+    template: { name: TMDB theme label, theme_name: cyberpunk }
+    tmdb_movie:
+      - 473072 # 2036: Nexus Dawn (2017)
+      - 475759 # 2048: Nowhere to Run (2017)
+      - 475946 # Blade Runner: Black Out 2022 (2017)
+
+  Theme__dystopian:
+    template: { name: TMDB theme label, theme_name: dystopian }
+    tmdb_movie:
+      - 473072 # 2036: Nexus Dawn (2017)
+      - 475759 # 2048: Nowhere to Run (2017)
+      - 475946 # Blade Runner: Black Out 2022 (2017)
+
   Theme__erotic:
     template: { name: TMDB theme label, theme_name: erotic }
     tmdb_movie:
@@ -12,24 +26,24 @@ collections:
     tmdb_movie:
       - 416185 # Ánima (2011)
 
+  Theme__mockumentary:
+    template: { name: TMDB theme label, theme_name: mockumentary }
+    tmdb_movie:
+      - 505945 # Team Darryl (2018)
+      - 441829 # Team Thor: Part 2
+
+  Theme__neo_noir:
+    template: { name: TMDB theme label, theme_name: neo_noir }
+    tmdb_movie:
+      - 475759 # 2048: Nowhere to Run (2017)
+      - 475946 # Blade Runner: Black Out 2022 (2017)
+
   Theme__secret_agent:
     template: { name: TMDB theme label, theme_name: secret_agent }
     tmdb_movie:
       - 211387 # Marvel One-Shot: Agent Carter (2013)
 
-  "Theme: mockumentary":
-    template:
-      - name: Theme label
-        theme: "mockumentary"
-        title_list:
-          - Team Darryl (2018)
-          - Team Thor (2016) 002
-
-  "Theme: neo-noir":
-    template:
-      - name: Theme label
-        theme: "neo-noir"
-        title_list:
-          - "Blade Runner 2036: Nexus Dawn (2017)"
-          - "Blade Runner 2048: Nowhere to Run (2017)"
-          - "Blade Runner: Black Out 2022 (2017)"
+  Theme__tech_noir:
+    template: { name: TMDB theme label, theme_name: tech_noir }
+    tmdb_movie:
+      - 475946 # Blade Runner: Black Out 2022 (2017)

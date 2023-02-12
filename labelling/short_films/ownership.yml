@@ -10,6 +10,7 @@ collections:
       any:
         label:
           - ID__000211387A # Marvel One-Shot: Agent Carter
+          - ID__000505945A # Team Darryl (2018)
 
   Ownership__own:
     template:
@@ -20,23 +21,18 @@ collections:
         label:
           - ID__000416185A # Ánima (2011)
           - ID__000253980A # Marvel One-Shot: All Hail the King (2014)
+          - ID__000119569A # Marvel One-Shot: Item 47 (2012)
 
-  "Ownership: own":
+  Ownership__rented:
     template:
-      - name: Ownership label
-        status: "own"
-        title_list:
-          - Item 47 (2012)
-
-  "Ownership: rented/loaned":
-    template:
-      - name: Ownership label
-        status: "rented/loaned"
-        title_list:
-          - "Blade Runner 2036: Nexus Dawn (2017)"
-          - "Blade Runner 2048: Nowhere to Run (2017)"
-          - "Blade Runner: Black Out 2022 (2017)"
-          - Consultant (2011)
-          - Funny Thing Happened on the Way to Thor's Hammer (2011)
-          - Team Darryl (2018)
-          - Team Thor (2016) 002
+      - name: TMDB ownership label
+        ownership_status: own
+    plex_search:
+      any:
+        label:
+          - ID__000473072A # 2036: Nexus Dawn (2017)
+          - ID__000475759A # 2048: Nowhere to Run (2017)
+          - ID__000475946A # Blade Runner: Black Out 2022 (2017)
+          - ID__000076535A # Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011)
+          - ID__000076122A # Marvel One-Shot: The Consultant (2011)
+          - ID__000441829A # Team Thor (2017) 002

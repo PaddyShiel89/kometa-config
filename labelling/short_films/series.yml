@@ -18,11 +18,10 @@ collections:
       - 441829 # Team Thor: Part 2 (2017)
       - 505945 # Team Darryl (2018)
 
-  "Series: Blade Runner (1982)":
+  Series__Blade_Runner_1982:
     template:
-      - name: Series label
-        series: "Blade Runner (1982)"
-        title_list:
-          - "Blade Runner 2036: Nexus Dawn (2017)"
-          - "Blade Runner 2048: Nowhere to Run (2017)"
-          - "Blade Runner: Black Out 2022 (2017)"
+      { name: TMDB series label, series_name: Blade_Runner, series_year: 1982 }
+    tmdb_movie:
+      - 473072 # 2036: Nexus Dawn (2017)
+      - 475759 # 2048: Nowhere to Run (2017)
+      - 475946 # Blade Runner: Black Out 2022 (2017)
