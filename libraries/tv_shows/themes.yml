@@ -10,4 +10,4 @@ collections:
     collection_order: custom
     trakt_list: https://trakt.tv/users/drogsahqoom/lists/christmas?sort=rank,asc
     sync_mode: sync
-    visible_home: range(12/01-12-31)
+    visible_home: range(12/01-12/31)
