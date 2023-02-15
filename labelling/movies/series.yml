@@ -78,6 +78,7 @@ collections:
       }
     tmdb_movie:
       - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+      - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 
   Series__Spider_Man_2017:

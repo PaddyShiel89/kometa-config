@@ -10,6 +10,11 @@ collections:
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 11 # Star Wars (1977)
 
+  Theme__cannibalism:
+    template: { name: TMDB theme label, theme_name: cannibalism }
+    tmdb_movie:
+      - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
+
   Theme__christmas:
     template: { name: TMDB theme label, theme_name: christmas }
     tmdb_movie:
@@ -19,6 +24,7 @@ collections:
     template: { name: TMDB theme label, theme_name: coming_of_age }
     tmdb_movie:
       - 1771 # Captain America: The First Avenger (2011)
+      - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
 
   Theme__con_artists:
@@ -41,6 +47,8 @@ collections:
     template: { name: TMDB theme label, theme_name: magic }
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
+      - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
+      - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 
   Theme__martial_arts:
     template: { name: TMDB theme label, theme_name: martial_arts }
@@ -60,6 +68,7 @@ collections:
   Theme__pirates:
     template: { name: TMDB theme label, theme_name: pirates }
     tmdb_movie:
+      - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 
   Theme__post_apocalyptic:
@@ -82,6 +91,7 @@ collections:
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }
     tmdb_movie:
+      - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 
   Theme__terrorism:
@@ -98,6 +108,11 @@ collections:
     template: { name: TMDB theme label, theme_name: treasure_hunt }
     tmdb_movie:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+
+  Theme__voodoo:
+    template: { name: TMDB theme label, theme_name: voodoo }
+    tmdb_movie:
+      - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
 
   Theme__world_war_ii:
     template: { name: TMDB theme label, theme_name: world_war_ii }
