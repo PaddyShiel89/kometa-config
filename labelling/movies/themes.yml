@@ -10,10 +10,10 @@ collections:
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 11 # Star Wars (1977)
 
-  # Theme__christmas:
-  #   template: { name: TMDB theme label, theme_name: christmas }
-  #   tmdb_movie:
-  #     - 68721 # Iron Man 3 (2013)
+  Theme__christmas:
+    template: { name: TMDB theme label, theme_name: christmas }
+    tmdb_movie:
+      - 68721 # Iron Man 3 (2013)
 
   Theme__coming_of_age:
     template: { name: TMDB theme label, theme_name: coming_of_age }
@@ -47,10 +47,10 @@ collections:
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
 
-  # Theme__mental_health:
-  #   template: { name: TMDB theme label, theme_name: mental_health }
-  #   tmdb_movie:
-  #     - 68721 # Iron Man 3 (2013)
+  Theme__mental_health:
+    template: { name: TMDB theme label, theme_name: mental_health }
+    tmdb_movie:
+      - 68721 # Iron Man 3 (2013)
 
   Theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }
@@ -76,7 +76,7 @@ collections:
       - 299537 # Captain Marvel (2019)
       - 284052 # Doctor Strange (2016)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
-      # - 68721 # Iron Man 3 (2013)
+      - 68721 # Iron Man 3 (2013)
       - 429617 # Spider-Man: Far from Home (2019)
 
   Theme__supernatural:
@@ -84,10 +84,10 @@ collections:
     tmdb_movie:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 
-  # Theme__terrorism:
-  #   template: { name: TMDB theme label, theme_name: terrorism }
-  #   tmdb_movie:
-  #     - 68721 # Iron Man 3 (2013)
+  Theme__terrorism:
+    template: { name: TMDB theme label, theme_name: terrorism }
+    tmdb_movie:
+      - 68721 # Iron Man 3 (2013)
 
   Theme__time_travel:
     template: { name: TMDB theme label, theme_name: time_travel }

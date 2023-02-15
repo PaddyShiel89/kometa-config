@@ -67,7 +67,7 @@ collections:
     tmdb_movie:
       - 1726 # Iron Man (2008)
       - 10138 # Iron Man 2 (2010)
-      # - 68721 # Iron Man 3 (2013)
+      - 68721 # Iron Man 3 (2013)
 
   Series__Pirates_of_the_Caribbean_2003:
     template:
