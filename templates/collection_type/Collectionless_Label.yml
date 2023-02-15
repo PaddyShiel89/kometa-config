@@ -92,3 +92,9 @@ templates:
     item_label: "Theme__<<theme_name>>"
     build_collection: false
     sync_mode: sync
+
+  # Creates a label on a 0-5 scale for given content
+  Content rating numeric label:
+    item_label: "Content__<<ratings_board>>_<<content>>_lvl<<level>>"
+    build_collection: false
+    sync_mode: sync

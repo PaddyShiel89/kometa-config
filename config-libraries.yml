@@ -23,6 +23,13 @@ libraries:
       - repo: metadata/movies/Spider-Man Far from Home (2019) {tmdb-429617}
       - repo: metadata/movies/Star Wars (1977) {tmdb-11}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
+      - repo: labelling/movies/content_rating/alcohol_and_tobacco
+      - repo: labelling/movies/content_rating/disturbing_images
+      - repo: labelling/movies/content_rating/injury_detail
+      - repo: labelling/movies/content_rating/language
+      - repo: labelling/movies/content_rating/sex
+      - repo: labelling/movies/content_rating/threat_and_horror
+      - repo: labelling/movies/content_rating/violence
       - repo: labelling/movies/editions
       - repo: labelling/movies/ownership
       - repo: labelling/movies/restrictions
