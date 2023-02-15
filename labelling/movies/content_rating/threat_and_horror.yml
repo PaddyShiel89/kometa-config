@@ -2,6 +2,17 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  BBFC lvl 2:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: threat_and_horror
+        level: 2
+    plex_search:
+      any:
+        label:
+          - ID__000299534A # Avengers: Endgame (2019)
+
   BBFC lvl 3:
     template:
       - name: Content rating numeric label

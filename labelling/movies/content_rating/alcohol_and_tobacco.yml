@@ -11,5 +11,6 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000299534A # Avengers: Endgame (2019)
           - ID__000068721A # Iron Man 3 (2013)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
