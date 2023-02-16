@@ -9,6 +9,7 @@ collections:
       - 299537 # Captain Marvel (2019)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 11 # Star Wars (1977)
+      - 181812 # Star Wars: The Rise of Skywalker (2019)
 
   Theme__cannibalism:
     template: { name: TMDB theme label, theme_name: cannibalism }
@@ -158,7 +159,6 @@ collections:
           - Star Wars 006 (1983)
           - Star Wars 007 (2015)
           - Star Wars 008 (2017)
-          - Star Wars 009 (2019)
           - Star Wars Rebels (2014) 001
           - Star Wars Rebels (2014) 002
           - "Star Wars: The Clone Wars (2008)"

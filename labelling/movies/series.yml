@@ -88,6 +88,26 @@ collections:
       - 315635 # Spider-Man: Homecoming (2017)
       - 429617 # Spider-Man: Far from Home (2019)
 
+  Series__Star_Wars_1977:
+    template:
+      { name: TMDB series label, series_name: Star_Wars, series_year: 1977 }
+    tmdb_movie:
+      - 330459 # Rogue One: A Star Wars Story (2016)
+      - 348350 # Solo: A Star Wars Story (2018)
+      - 1893 # Star Wars: Episode I - The Phantom Menace (1999)
+      - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
+      - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
+      - 11 # Star Wars: Episode IV - A New Hope
+      - 1891 # The Empire Strikes Back (1980)
+      - 1892 # Return of the Jedi (1983)
+      - 140607 # Star Wars: The Force Awakens (2015)
+      - 181808 # Star Wars: The Last Jedi (2017)
+      - 181812 # Star Wars: The Rise of Skywalker (2019)
+      - 12180 # Star Wars: The Clone Wars (2008)
+      - 287663 # Star Wars Rebels: Spark of Rebellion (2014)
+      - 337755 # Star Wars Rebels: The Siege of Lothal (2015)
+      - 74849 # The Star Wars Holiday Special (1978)
+
   "Series: 28 Days Later (2002)":
     template:
       - name: Series label
@@ -636,27 +656,6 @@ collections:
         series: "Star Trek (2009)"
         title_list:
           - Star Trek (2009) 001
-
-  "Series: Star Wars":
-    template:
-      - name: Series label
-        series: "Star Wars"
-        tmdb_movie: 11
-        title_list:
-          - "Rogue One: A Star Wars Story (2016)"
-          - "Solo: A Star Wars Story (2018)"
-          - Star Wars 001
-          - Star Wars 002
-          - Star Wars 003
-          - Star Wars 005
-          - Star Wars 006
-          - Star Wars 007
-          - Star Wars 008
-          - Star Wars 009
-          - Star Wars Rebels (2014) 001
-          - Star Wars Rebels (2014) 002
-          - "Star Wars: The Clone Wars (2008)"
-          - Star Wars Holiday Special (1978)
 
   "Series: Suicide Squad (2016)":
     template:

@@ -22,6 +22,7 @@ libraries:
       - repo: metadata/movies/Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426}
       - repo: metadata/movies/Spider-Man Far from Home (2019) {tmdb-429617}
       - repo: metadata/movies/Star Wars (1977) {tmdb-11}
+      - repo: metadata/movies/Star Wars The Rise of Skywalker (2019) {tmdb-181812}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
       - repo: labelling/movies/content_rating/alcohol_and_tobacco
       - repo: labelling/movies/content_rating/disturbing_images

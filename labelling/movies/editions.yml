@@ -48,6 +48,7 @@ collections:
       any:
         label:
           - ID__000000011F # Star Wars: Episode IV - A New Hope [Project 4K77]
+          - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
         title:
           - "Rogue One: A Star Wars Story (2016)"
           - "Solo: A Star Wars Story (2018)"
@@ -58,7 +59,6 @@ collections:
           - Star Wars 006 (1983) 2019
           - Star Wars 007 (2015)
           - Star Wars 008 (2017)
-          - Star Wars 009 (2019)
     item_label: "Edition_Star_Wars_Definitive"
     build_collection: false
     sync_mode: sync

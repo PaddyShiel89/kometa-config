@@ -12,6 +12,7 @@ collections:
       any:
         label:
           - ID__000299534A # Avengers: Endgame (2019)
+          - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
 
   BBFC lvl 2:
     template:
