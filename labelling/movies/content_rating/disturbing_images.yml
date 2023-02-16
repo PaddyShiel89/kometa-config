@@ -1,0 +1,14 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  BBFC lvl 2:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: disturbing_images
+        level: 2
+    plex_search:
+      any:
+        label:
+          - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)

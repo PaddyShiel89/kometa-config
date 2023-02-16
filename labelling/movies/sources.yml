@@ -10,15 +10,17 @@ collections:
       any:
         label:
           - ID__000363088A # Ant-Man and the Wasp
-          - ID__000299534A # Avengers: Endgame
+          - ID__000299534A # Avengers: Endgame (2019)
           - ID__000001771A # Captain America: The First Avenger
           - ID__000299537A # Captain Marvel
           - ID__000284052A # Doctor Strange
           - ID__000283995A # Guardians of the Galaxy Vol. 2
-          # - ID__000068721A # Iron Man 3
+          - ID__000068721A # Iron Man 3 (2013)
+          - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales
           - ID__000634649A # Spider-Man: Far from Home
           - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
+          - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000000629A # The Usual Suspects
 
   Source__download:
@@ -367,7 +369,6 @@ collections:
           - Star Wars 006 (1983) 2011
           - Star Wars 007 (2015)
           - Star Wars 008 (2017)
-          - Star Wars 009 (2019)
           - Star Wars Rebels (2014) 001
           - Star Wars Rebels (2014) 002
           - "Star Wars: The Clone Wars (2008)"

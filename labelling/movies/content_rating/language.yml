@@ -1,0 +1,27 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  BBFC lvl 2:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: language
+        level: 2
+    plex_search:
+      any:
+        label:
+          - ID__000299534A # Avengers: Endgame (2019)
+          - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
+          - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
+
+  BBFC lvl 3:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: language
+        level: 3
+    plex_search:
+      any:
+        label:
+          - ID__000068721A # Iron Man 3 (2013)

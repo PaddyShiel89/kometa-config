@@ -20,4 +20,5 @@ collections:
       - name: Series
         summary: "that are part of the Star Wars saga."
         label_list:
+          - Series__Star_Wars_1977
           - "series: Star Wars"

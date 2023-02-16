@@ -9,16 +9,23 @@ collections:
       - 299537 # Captain Marvel (2019)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 11 # Star Wars (1977)
+      - 181812 # Star Wars: The Rise of Skywalker (2019)
 
-  # Theme__christmas:
-  #   template: { name: TMDB theme label, theme_name: christmas }
-  #   tmdb_movie:
-  #     - 68721 # Iron Man 3 (2013)
+  Theme__cannibalism:
+    template: { name: TMDB theme label, theme_name: cannibalism }
+    tmdb_movie:
+      - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
+
+  Theme__christmas:
+    template: { name: TMDB theme label, theme_name: christmas }
+    tmdb_movie:
+      - 68721 # Iron Man 3 (2013)
 
   Theme__coming_of_age:
     template: { name: TMDB theme label, theme_name: coming_of_age }
     tmdb_movie:
       - 1771 # Captain America: The First Avenger (2011)
+      - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
 
   Theme__con_artists:
@@ -41,16 +48,18 @@ collections:
     template: { name: TMDB theme label, theme_name: magic }
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
+      - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
+      - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 
   Theme__martial_arts:
     template: { name: TMDB theme label, theme_name: martial_arts }
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
 
-  # Theme__mental_health:
-  #   template: { name: TMDB theme label, theme_name: mental_health }
-  #   tmdb_movie:
-  #     - 68721 # Iron Man 3 (2013)
+  Theme__mental_health:
+    template: { name: TMDB theme label, theme_name: mental_health }
+    tmdb_movie:
+      - 68721 # Iron Man 3 (2013)
 
   Theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }
@@ -60,6 +69,7 @@ collections:
   Theme__pirates:
     template: { name: TMDB theme label, theme_name: pirates }
     tmdb_movie:
+      - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 
   Theme__post_apocalyptic:
@@ -76,18 +86,19 @@ collections:
       - 299537 # Captain Marvel (2019)
       - 284052 # Doctor Strange (2016)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
-      # - 68721 # Iron Man 3 (2013)
+      - 68721 # Iron Man 3 (2013)
       - 429617 # Spider-Man: Far from Home (2019)
 
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }
     tmdb_movie:
+      - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 
-  # Theme__terrorism:
-  #   template: { name: TMDB theme label, theme_name: terrorism }
-  #   tmdb_movie:
-  #     - 68721 # Iron Man 3 (2013)
+  Theme__terrorism:
+    template: { name: TMDB theme label, theme_name: terrorism }
+    tmdb_movie:
+      - 68721 # Iron Man 3 (2013)
 
   Theme__time_travel:
     template: { name: TMDB theme label, theme_name: time_travel }
@@ -98,6 +109,11 @@ collections:
     template: { name: TMDB theme label, theme_name: treasure_hunt }
     tmdb_movie:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+
+  Theme__voodoo:
+    template: { name: TMDB theme label, theme_name: voodoo }
+    tmdb_movie:
+      - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
 
   Theme__world_war_ii:
     template: { name: TMDB theme label, theme_name: world_war_ii }
@@ -143,7 +159,6 @@ collections:
           - Star Wars 006 (1983)
           - Star Wars 007 (2015)
           - Star Wars 008 (2017)
-          - Star Wars 009 (2019)
           - Star Wars Rebels (2014) 001
           - Star Wars Rebels (2014) 002
           - "Star Wars: The Clone Wars (2008)"
