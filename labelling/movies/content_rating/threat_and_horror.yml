@@ -14,6 +14,12 @@ collections:
           - ID__000299534A # Avengers: Endgame (2019)
           - ID__000299537A # Captain Marvel (2019)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+          - ID__000000011A # Star Wars: Episode IV - A New Hope (1977) [Theatrical cut]
+          - ID__000000011B # Star Wars: Episode IV - A New Hope (1977) [Special edition]
+          - ID__000000011C # Star Wars: Episode IV - A New Hope (1977) [DVD cut]
+          - ID__000000011D # Star Wars: Episode IV - A New Hope (1977) [Blu-ray cut]
+          - ID__000000011E # Star Wars: Episode IV - A New Hope (1977) [Despecialized edition]
+          - ID__000000011F # Star Wars: Episode IV - A New Hope (1977) [Project 4K77]
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
 
   BBFC lvl 3:

@@ -2,6 +2,23 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  BBFC lvl 2:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: violence
+        level: 2
+    plex_search:
+      any:
+        label:
+          - ID__000000011A # Star Wars: Episode IV - A New Hope (1977) [Theatrical cut]
+          - ID__000000011B # Star Wars: Episode IV - A New Hope (1977) [Special edition]
+          - ID__000000011C # Star Wars: Episode IV - A New Hope (1977) [DVD cut]
+          - ID__000000011D # Star Wars: Episode IV - A New Hope (1977) [Blu-ray cut]
+          - ID__000000011E # Star Wars: Episode IV - A New Hope (1977) [Despecialized edition]
+          - ID__000000011F # Star Wars: Episode IV - A New Hope (1977) [Project 4K77]
+
+collections:
   BBFC lvl 3:
     template:
       - name: Content rating numeric label
