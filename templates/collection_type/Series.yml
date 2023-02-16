@@ -16,3 +16,11 @@ templates:
     sort_title: "!20_<<sort_name>>"
     summary: "<<library_name>> <<summary>>"
     sync_mode: sync
+
+  Smart label series:
+    smart_label:
+      sort_by: release.asc
+      any:
+        label: <<label_list>>
+    collection_mode: show_items
+    sync_mode: sync

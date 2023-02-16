@@ -7,6 +7,25 @@ external_templates:
 # duplicates with Editions. Collections with unique collection names, e.g.
 # "Wizarding World" instead of "Harry Potter", do not need the suffix.
 collections:
+  The Marvel Cinematic Universe:
+    template:
+      - name: Smart label series
+        label_list:
+          - Series__Ant_Man_2015
+          - Series__Avengers_2012
+          - Series__Captain_America_2011
+          - Series__Captain_Marvel_2019
+          - Series__Doctor Strange_2016
+          - Series__Guardians_of_the_Galaxy_2014
+          - Series__Iron_Man_2008
+          - Series__Spider_Man_2017
+          - "series: Black Panther (2018)"
+          - "series: The Incredible Hulk (2008)"
+          - "series: Thor (2011)"
+    sort_name: Marvel Cinematic Universe
+    content_rating: gb/12
+    summary: "From Iron Man to Captain America to Daredevil, Guardians of the Galaxy, Jessica Jones, and more, the MCU brings some of the most legendary comic heroes -- and some lesser known ones -- to vibrant, colorful, action-packed life."
+
   Alien Collection:
     template:
       - name: Series
@@ -66,23 +85,6 @@ collections:
         label_list:
           - "series: Jurassic Park (1993)"
           - "series: Jurassic World (2015)"
-
-  Marvel Cinematic Universe:
-    template:
-      - name: Series
-        summary: "that are part of the Marvel Cinematic Universe."
-        label_list:
-          - Series__Ant_Man_2015
-          - Series__Avengers_2012
-          - Series__Captain_America_2011
-          - Series__Captain_Marvel_2019
-          - Series__Doctor Strange_2016
-          - Series__Guardians_of_the_Galaxy_2014
-          - Series__Iron_Man_2008
-          - Series__Spider_Man_2017
-          - "series: Black Panther (2018)"
-          - "series: The Incredible Hulk (2008)"
-          - "series: Thor (2011)"
 
   Muppets Collection:
     template:
