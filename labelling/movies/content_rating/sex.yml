@@ -27,3 +27,14 @@ collections:
         label:
           - ID__000068721A # Iron Man 3 (2013)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
+
+  BBFC lvl 3:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: sex
+        level: 3
+    plex_search:
+      any:
+        label:
+          - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
