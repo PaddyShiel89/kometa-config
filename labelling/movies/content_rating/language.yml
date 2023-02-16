@@ -25,4 +25,5 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000299537A # Captain Marvel (2019)
           - ID__000068721A # Iron Man 3 (2013)
