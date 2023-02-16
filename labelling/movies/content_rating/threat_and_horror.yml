@@ -25,5 +25,6 @@ collections:
       any:
         label:
           - ID__000001771A # Captain America - The First Avenger
+          - ID__000284052A # Doctor Strange (2016)
           - ID__000068721A # Iron Man 3 (2013)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
