@@ -25,9 +25,11 @@ libraries:
       - repo: metadata/movies/Star Wars The Rise of Skywalker (2019) {tmdb-181812}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
       - repo: labelling/movies/content_rating/alcohol_and_tobacco
+      - repo: labelling/movies/content_rating/discrimination
       - repo: labelling/movies/content_rating/disturbing_images
       - repo: labelling/movies/content_rating/injury_detail
       - repo: labelling/movies/content_rating/language
+      - repo: labelling/movies/content_rating/rude_humour
       - repo: labelling/movies/content_rating/sex
       - repo: labelling/movies/content_rating/threat_and_horror
       - repo: labelling/movies/content_rating/violence
