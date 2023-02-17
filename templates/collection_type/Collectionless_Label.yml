@@ -68,6 +68,11 @@ templates:
 
     # ------------------------------- New labelling ------------------------------ #
 
+  TMDB restriction label:
+    item_label: "Restriction__<<restriction_level>>"
+    build_collection: false
+    sync_mode: sync
+
   TMDB ownership label:
     item_label: "Ownership__<<ownership_status>>"
     build_collection: false

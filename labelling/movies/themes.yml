@@ -11,6 +11,12 @@ collections:
       - 11 # Star Wars (1977)
       - 181812 # Star Wars: The Rise of Skywalker (2019)
 
+  Theme__based_on_works_by_stephen_king:
+    template:
+      { name: TMDB theme label, theme_name: based_on_works_by_stephen_king }
+    tmdb_movie:
+      - 343674 # Gerald's Game (2017)
+
   Theme__cannibalism:
     template: { name: TMDB theme label, theme_name: cannibalism }
     tmdb_movie:
@@ -32,6 +38,11 @@ collections:
     template: { name: TMDB theme label, theme_name: con_artists }
     tmdb_movie:
       - 629 # The Usual Suspects (1995)
+
+  Theme__erotic:
+    template: { name: TMDB theme label, theme_name: erotic }
+    tmdb_movie:
+      - 343674 # Gerald's Game (2017)
 
   Theme__ghosts:
     template: { name: TMDB theme label, theme_name: ghosts }
@@ -76,6 +87,11 @@ collections:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+
+  Theme__psychological:
+    template: { name: TMDB theme label, theme_name: psychological }
+    tmdb_movie:
+      - 343674 # Gerald's Game (2017)
 
   Theme__spies:
     template: { name: TMDB theme label, theme_name: spies }
@@ -232,7 +248,6 @@ collections:
           - Dressage (1986)
           - Emmanuelle (1974) 001
           - Exterminating Angels (2006)
-          - Gerald's Game (2017)
           - Ma mere (2004)
           - Q (2011)
           - Room in Rome (2010)
@@ -462,7 +477,6 @@ collections:
         title_list:
           - Blair Witch Project (1999) 001
           - Bone Collector (1999)
-          - Gerald's Game (2017)
           - Invisible Man (2020)
           - Last Night in Soho (2021)
           - Shutter Island (2010)

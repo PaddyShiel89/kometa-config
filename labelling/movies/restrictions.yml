@@ -2,6 +2,14 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  # Restriction placed on family users
+  Restriction__family:
+    template:
+      - name: TMDB restriction label
+        restriction_level: family
+    tmdb_movie:
+      - 343674 # Gerald's Game (2017)
+
   # Restriction placed on all users
   "Restriction: all":
     plex_search:
@@ -12,7 +20,6 @@ collections:
           - Dressage (1986)
           - Emmanuelle (1974) 001
           - Exterminating Angels (2006)
-          - Gerald's Game (2017)
           - Ma mere (2004)
           - Novo (2002)
           - Room in Rome (2010)

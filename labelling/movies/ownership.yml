@@ -2,6 +2,18 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  Ownership__downloaded:
+    template:
+      - name: TMDB ownership label
+        ownership_status: downloaded
+    plex_search:
+      any:
+        label:
+          - ID__000343674A # Gerald's Game (2017)
+          - ID__000000011B # Star Wars: Episode IV - A New Hope [Special edition]
+          - ID__000000011E # Star Wars: Episode IV - A New Hope [Despecialized edition]
+          - ID__000000011F # Star Wars: Episode IV - A New Hope [Project 4K77]
+
   Ownership__loaned:
     template:
       - name: TMDB ownership label
@@ -20,11 +32,8 @@ collections:
       any:
         label:
           - ID__000000011A # Star Wars: Episode IV - A New Hope [Theatrical cut]
-          - ID__000000011B # Star Wars: Episode IV - A New Hope [Special edition]
           - ID__000000011C # Star Wars: Episode IV - A New Hope [DVD cut]
           - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
-          - ID__000000011E # Star Wars: Episode IV - A New Hope [Despecialized edition]
-          - ID__000000011F # Star Wars: Episode IV - A New Hope [Project 4K77]
 
   Ownership__rented:
     template:
@@ -361,7 +370,6 @@ collections:
           - Favourite (2018)
           - Fifth Element (1997)
           - Freaked (1994)
-          - Gerald's Game (2017)
           - Gilda (1946)
           - Gladiator (2000)
           - Great Muppet Caper (1981)

@@ -31,6 +31,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000343674A # Gerald's Game (2017)
           - ID__000000011B # Star Wars: Episode IV - A New Hope [Special edition]
           - ID__000000011E # Star Wars: Episode IV - A New Hope [Despecialized edition]
           - ID__000000011F # Star Wars: Episode IV - A New Hope [Project 4K77]
@@ -44,6 +45,15 @@ collections:
         label:
           - ID__000000011A # Star Wars: Episode IV - A New Hope [Theatrical cut]
           - ID__000000011C # Star Wars: Episode IV - A New Hope [DVD cut]
+
+  Source__netflix:
+    template:
+      - name: TMDB source label
+        source_type: netflix
+    plex_search:
+      any:
+        label:
+          - ID__000343674A # Gerald's Game (2017)
 
   "Source: blu-ray":
     template:
@@ -433,7 +443,6 @@ collections:
         title_list:
           - Blonde (2022)
           - Deep Water (2022)
-          - Gerald's Game (2017)
           - Grand Central (2013)
           - Jolene (2008)
           - Lie (2020)
@@ -534,6 +543,5 @@ collections:
         source: "Netflix"
         title_list:
           - Blonde (2022)
-          - Gerald's Game (2017)
           - Sergio (2020)
           - Wasp Network (2020)
