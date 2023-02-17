@@ -16,8 +16,11 @@ libraries:
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
+      - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
+      - repo: metadata/movies/Hanna (2011) {tmdb-50456}
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
+      - repo: metadata/movies/Minority Report (2002) {tmdb-180}
       - repo: metadata/movies/Pirates of the Caribbean Dead Man's Chest (2006) {tmdb-58}
       - repo: metadata/movies/Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426}
       - repo: metadata/movies/Spider-Man Far from Home (2019) {tmdb-429617}

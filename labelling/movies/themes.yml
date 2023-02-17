@@ -11,10 +11,33 @@ collections:
       - 11 # Star Wars (1977)
       - 181812 # Star Wars: The Rise of Skywalker (2019)
 
+  Theme__alternate_timeline:
+    template: { name: TMDB theme label, theme_name: alternate_timeline }
+    tmdb_movie:
+      - 180 # Minority Report (2002)
+
+  Theme__based_on_works_by_philip_k_dick:
+    template:
+      { name: TMDB theme label, theme_name: based_on_works_by_philip_k_dick }
+    tmdb_movie:
+      - 180 # Minority Report (2002)
+
+  Theme__based_on_works_by_stephen_king:
+    template:
+      { name: TMDB theme label, theme_name: based_on_works_by_stephen_king }
+    tmdb_movie:
+      - 343674 # Gerald's Game (2017)
+
   Theme__cannibalism:
     template: { name: TMDB theme label, theme_name: cannibalism }
     tmdb_movie:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
+
+  Theme__chase:
+    template: { name: TMDB theme label, theme_name: chase }
+    tmdb_movie:
+      - 50456 # Hanna (2011)
+      - 180 # Minority Report (2002)
 
   Theme__christmas:
     template: { name: TMDB theme label, theme_name: christmas }
@@ -28,10 +51,20 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
 
+  Theme__dystopian:
+    template: { name: TMDB theme label, theme_name: dystopian }
+    tmdb_movie:
+      - 180 # Minority Report (2002)
+
   Theme__con_artists:
     template: { name: TMDB theme label, theme_name: con_artists }
     tmdb_movie:
       - 629 # The Usual Suspects (1995)
+
+  Theme__erotic:
+    template: { name: TMDB theme label, theme_name: erotic }
+    tmdb_movie:
+      - 343674 # Gerald's Game (2017)
 
   Theme__ghosts:
     template: { name: TMDB theme label, theme_name: ghosts }
@@ -64,6 +97,7 @@ collections:
   Theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }
     tmdb_movie:
+      - 180 # Minority Report (2002)
       - 629 # The Usual Suspects (1995)
 
   Theme__pirates:
@@ -76,6 +110,11 @@ collections:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+
+  Theme__psychological:
+    template: { name: TMDB theme label, theme_name: psychological }
+    tmdb_movie:
+      - 343674 # Gerald's Game (2017)
 
   Theme__spies:
     template: { name: TMDB theme label, theme_name: spies }
@@ -100,6 +139,11 @@ collections:
     tmdb_movie:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+
+  Theme__survival:
+    template: { name: TMDB theme label, theme_name: survival }
+    tmdb_movie:
+      - 50456 # Hanna (2011)
 
   Theme__terrorism:
     template: { name: TMDB theme label, theme_name: terrorism }
@@ -232,7 +276,6 @@ collections:
           - Dressage (1986)
           - Emmanuelle (1974) 001
           - Exterminating Angels (2006)
-          - Gerald's Game (2017)
           - Ma mere (2004)
           - Q (2011)
           - Room in Rome (2010)
@@ -462,7 +505,6 @@ collections:
         title_list:
           - Blair Witch Project (1999) 001
           - Bone Collector (1999)
-          - Gerald's Game (2017)
           - Invisible Man (2020)
           - Last Night in Soho (2021)
           - Shutter Island (2010)
