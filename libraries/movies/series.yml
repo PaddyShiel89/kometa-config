@@ -9,7 +9,7 @@ external_templates:
 collections:
   The Marvel Cinematic Universe:
     template:
-      - name: Smart label series
+      - name: Smart series
         label_list:
           - Series__Ant_Man_2015
           - Series__Avengers_2012
