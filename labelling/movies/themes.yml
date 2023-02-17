@@ -77,11 +77,17 @@ collections:
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
 
+  Theme__spies:
+    template: { name: TMDB theme label, theme_name: spies }
+    tmdb_movie:
+      - 497698 # Black Widow (2021)
+
   Theme__superheroes:
     template: { name: TMDB theme label, theme_name: superheroes }
     tmdb_movie:
       - 363088 # Ant-Man and The Wasp (2018)
       - 299534 # Avengers: Endgame (2019)
+      - 497698 # Black Widow (2021)
       - 1771 # Captain America: The First Avenger (2011)
       - 299537 # Captain Marvel (2019)
       - 284052 # Doctor Strange (2016)

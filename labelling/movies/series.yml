@@ -18,6 +18,12 @@ collections:
       - 299536 # Avengers: Infinity War (2018)
       - 299534 # Avengers: Endgame (2019)
 
+  Series__Black_Widow_2021:
+    template:
+      { name: TMDB series label, series_name: Black_Widow, series_year: 2021 }
+    tmdb_movie:
+      - 497698 # Black Widow (2021)
+
   Series__Captain_America_2011:
     template:
       {
