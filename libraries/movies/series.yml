@@ -9,7 +9,7 @@ external_templates:
 collections:
   The Marvel Cinematic Universe:
     template:
-      - name: Smart label series
+      - name: Smart series
         label_list:
           - Series__Ant_Man_2015
           - Series__Avengers_2012
@@ -22,7 +22,7 @@ collections:
           - "series: Black Panther (2018)"
           - "series: The Incredible Hulk (2008)"
           - "series: Thor (2011)"
-    sort_name: Marvel Cinematic Universe
+    sort_title: Marvel Cinematic Universe
     content_rating: gb/12
     summary: "From Iron Man to Captain America to Daredevil, Guardians of the Galaxy, Jessica Jones, and more, the MCU brings some of the most legendary comic heroes -- and some lesser known ones -- to vibrant, colorful, action-packed life."
 

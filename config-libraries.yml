@@ -44,8 +44,6 @@ libraries:
       - repo: libraries/movies/directors
       - repo: libraries/movies/general
       - repo: libraries/shared/content_ratings
-      - repo: libraries/movies/editions
-      - repo: libraries/movies/editions_metadata
       - repo: libraries/shared/genres
       - repo: libraries/shared/series
       - repo: libraries/movies/series

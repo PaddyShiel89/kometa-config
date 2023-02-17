@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  BBFC lvl 1:
+  BBFC language lvl 1:
     template:
       - name: Content rating numeric label
         ratings_board: BBFC
@@ -18,7 +18,7 @@ collections:
           - ID__000000011E # Star Wars: Episode IV - A New Hope (1977) [Despecialized edition]
           - ID__000000011F # Star Wars: Episode IV - A New Hope (1977) [Project 4K77]
 
-  BBFC lvl 2:
+  BBFC language lvl 2:
     template:
       - name: Content rating numeric label
         ratings_board: BBFC
@@ -34,7 +34,7 @@ collections:
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
 
-  BBFC lvl 3:
+  BBFC language lvl 3:
     template:
       - name: Content rating numeric label
         ratings_board: BBFC

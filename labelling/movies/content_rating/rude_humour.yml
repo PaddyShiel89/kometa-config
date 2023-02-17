@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  BBFC lvl 1:
+  BBFC rude humour lvl 1:
     template:
       - name: Content rating numeric label
         ratings_board: BBFC

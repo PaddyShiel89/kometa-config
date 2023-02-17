@@ -17,8 +17,8 @@ templates:
     summary: "<<library_name>> <<summary>>"
     sync_mode: sync
 
-  Smart label series:
-    smart_label:
+  Smart series:
+    smart_filter:
       sort_by: release.asc
       any:
         label: <<label_list>>
