@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  BBFC lvl 2:
+  BBFC threat and horror lvl 2:
     template:
       - name: Content rating numeric label
         ratings_board: BBFC
@@ -22,7 +22,7 @@ collections:
           - ID__000000011F # Star Wars: Episode IV - A New Hope (1977) [Project 4K77]
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
 
-  BBFC lvl 3:
+  BBFC threat and horror lvl 3:
     template:
       - name: Content rating numeric label
         ratings_board: BBFC
