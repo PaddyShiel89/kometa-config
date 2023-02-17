@@ -31,6 +31,7 @@ libraries:
       - repo: labelling/movies/content_rating/language
       - repo: labelling/movies/content_rating/rude_humour
       - repo: labelling/movies/content_rating/sex
+      - repo: labelling/movies/content_rating/theme
       - repo: labelling/movies/content_rating/threat_and_horror
       - repo: labelling/movies/content_rating/violence
       - repo: labelling/movies/editions
