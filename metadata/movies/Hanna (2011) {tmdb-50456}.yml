@@ -1,0 +1,21 @@
+metadata:
+  "Hanna":
+    title: Hanna
+    year: 2011
+    edition_filter: Theatrical cut
+    sort_title: Hanna (2011)
+    content_rating: gb/12
+    country.sync: [United States of America, United Kingdom, Germany]
+    director.sync: [Joe Wright]
+    genre.sync: [Action, Adventure, Drama, Thriller]
+    originally_available: 2011-05-05
+    producer.sync: [Marty Adelstein, Leslie Holleran, Scott Nemes]
+    studio: Focus Features
+    summary: "A sixteen-year-old girl who was raised by her father to be the perfect assassin is dispatched on a mission across Europe, tracked by a ruthless intelligence agent and her operatives."
+    tagline: Adapt or Die
+    writer.sync: [Seth Lochhead, David Farr, Seth Lochhead]
+    label: [ID__000050456A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

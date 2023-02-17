@@ -117,6 +117,11 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 
+  Theme__survival:
+    template: { name: TMDB theme label, theme_name: survival }
+    tmdb_movie:
+      - 50456 # Hanna (2011)
+
   Theme__terrorism:
     template: { name: TMDB theme label, theme_name: terrorism }
     tmdb_movie:
