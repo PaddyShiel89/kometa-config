@@ -30,6 +30,7 @@ collections:
     smart_filter:
       any:
         label:
+          - Theme__neo_noir
           - "theme: film noir"
           - "theme: neo-noir"
       sort_by: title.asc
