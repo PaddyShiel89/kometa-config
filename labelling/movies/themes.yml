@@ -60,6 +60,11 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
 
+  Theme__drugs:
+    template: { name: TMDB theme label, theme_name: drugs }
+    tmdb_movie:
+      - 4982 # American Gangster (2007)
+
   Theme__dystopian:
     template: { name: TMDB theme label, theme_name: dystopian }
     tmdb_movie:
@@ -114,6 +119,7 @@ collections:
   Theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }
     tmdb_movie:
+      - 4982 # American Gangster (2007)
       - 180 # Minority Report (2002)
       - 629 # The Usual Suspects (1995)
 
@@ -137,6 +143,11 @@ collections:
     template: { name: TMDB theme label, theme_name: psychological }
     tmdb_movie:
       - 343674 # Gerald's Game (2017)
+
+  Theme__race_and_ethnicity:
+    template: { name: TMDB theme label, theme_name: race_and_ethnicity }
+    tmdb_movie:
+      - 4982 # American Gangster (2007)
 
   Theme__spies:
     template: { name: TMDB theme label, theme_name: spies }
@@ -201,8 +212,6 @@ collections:
       - name: Theme label
         theme: "aliens"
         title_list:
-          - Alien (1979) 003
-          - Alien (1979) 004
           - "Alien: Covenant (2017)"
           - Avengers (2012) 001
           - Avengers (2012) 003
@@ -460,7 +469,6 @@ collections:
       - name: Theme label
         theme: "neo-noir"
         title_list:
-          - American Gangster (2007) 001
           - Baise-moi (2000)
           - Basic Instinct (1992) 001
           - Batman (1989) 002

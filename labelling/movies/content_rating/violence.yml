@@ -40,3 +40,15 @@ collections:
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
           - ID__000634649A # Spider-Man: Far from Home (2019)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
+
+  BBFC violence lvl 4:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: violence
+        level: 4
+    plex_search:
+      any:
+        label:
+          - ID__000004982A # American Gangster (2007) [Theatrical cut]
+          - ID__000004982B # American Gangster (2007) [Extended edition]

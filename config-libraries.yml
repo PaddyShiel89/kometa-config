@@ -15,6 +15,7 @@ libraries:
       - repo: metadata/movies/Alien Resurrection (1997) {tmdb-8078}
       - repo: metadata/movies/Alien³ (1992) {tmdb-8077}
       - repo: metadata/movies/Aliens (1986) {tmdb-679}
+      - repo: metadata/movies/American Gangster (2007) {tmdb-4982}
       - repo: metadata/movies/Ant-Man and the Wasp (2018) {tmdb-363088}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
@@ -34,6 +35,7 @@ libraries:
       - repo: labelling/movies/content_rating/alcohol_and_tobacco
       - repo: labelling/movies/content_rating/discrimination
       - repo: labelling/movies/content_rating/disturbing_images
+      - repo: labelling/movies/content_rating/drugs
       - repo: labelling/movies/content_rating/injury_detail
       - repo: labelling/movies/content_rating/language
       - repo: labelling/movies/content_rating/nudity

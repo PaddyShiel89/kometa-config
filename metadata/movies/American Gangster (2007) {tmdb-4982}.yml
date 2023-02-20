@@ -1,0 +1,44 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "American Gangster [Theatrical cut]":
+    title: "American Gangster"
+    year: 2007
+    edition_filter: Theatrical cut
+    sort_title: American Gangster (2007) 001A
+    content_rating: gb/18
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Ridley Scott]
+    genre.sync: [Biopic, Crime, Drama]
+    originally_available: 2007-11-16
+    producer.sync: [Brian Grazer, Dan Griffin, Ridley Scott]
+    studio: Scott Free Productions
+    summary: "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas."
+    tagline: "There are two sides to the American dream."
+    writer.sync: [Steven Zaillian, Mark Jacobson]
+    label: [ID__000004982A]
+
+  "American Gangster [Extended edition]":
+    title: "American Gangster"
+    year: 2007
+    edition_filter: Extended edition
+    sort_title: American Gangster (2007) 001B
+    content_rating: gb/18
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Ridley Scott]
+    genre.sync: [Biopic, Crime, Drama]
+    originally_available: 2007-11-16
+    producer.sync: [Brian Grazer, Dan Griffin, Ridley Scott]
+    studio: Scott Free Productions
+    summary: "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas."
+    tagline: "There are two sides to the American dream."
+    writer.sync: [Steven Zaillian, Mark Jacobson]
+    label: [ID__000004982B]
+
+collections:
+  "American Gangster":
+    template: { name: Edition }
+    tmdb_movie: 4982
+    sort_title: American Gangster (2007) 001
+    summary: "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas."

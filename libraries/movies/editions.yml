@@ -2,14 +2,6 @@ external_templates:
   - repo: templates/collection_type/Edition
 
 collections:
-  American Gangster:
-    template:
-      - name: Edition
-        poster_file_name: "American Gangster (2007)"
-    sort_title: "American Gangster (2007) 001"
-    tmdb_movie: 4982
-    summary: "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas, whose real life inspired this partly biographical film."
-
   Gladiator:
     template:
       - name: Edition
