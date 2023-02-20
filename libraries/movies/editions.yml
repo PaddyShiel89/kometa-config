@@ -2,14 +2,6 @@ external_templates:
   - repo: templates/collection_type/Edition
 
 collections:
-  "Alien: Resurrection":
-    template:
-      - name: Edition
-        poster_file_name: "Alien Resurrection (1997)"
-    sort_title: "Alien (1979) 004"
-    tmdb_movie: 8078
-    summary: "200 years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must again battle the deadly aliens and stop them from reaching Earth."
-
   American Gangster:
     template:
       - name: Edition

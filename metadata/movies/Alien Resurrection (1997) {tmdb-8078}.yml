@@ -1,0 +1,44 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Alien Resurrection [Theatrical cut]":
+    title: "Alien Resurrection"
+    year: 1997
+    edition_filter: Theatrical cut
+    sort_title: Alien (1979) 004A
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Jean-Pierre Jeunet]
+    genre.sync: [Action, Horror, Science Fiction]
+    originally_available: 1997-11-28
+    producer.sync: [Bill Badalato, Gordon Carroll, David Giler, Walter Hill]
+    studio: Brandywine Productions
+    summary: "200 years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must again battle the deadly aliens and stop them from reaching Earth."
+    tagline: "Witness the resurrection."
+    writer.sync: [Joss Whedon]
+    label: [ID__000008078A]
+
+  "Alien Resurrection [Special edition]":
+    title: "Alien Resurrection"
+    year: 1997
+    edition_filter: Special edition
+    sort_title: Alien (1979) 004B
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Jean-Pierre Jeunet]
+    genre.sync: [Action, Horror, Science Fiction]
+    originally_available: 1997-11-28
+    producer.sync: [Bill Badalato, Gordon Carroll, David Giler, Walter Hill]
+    studio: Brandywine Productions
+    summary: "200 years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must again battle the deadly aliens and stop them from reaching Earth."
+    tagline: "Witness the resurrection."
+    writer.sync: [Joss Whedon]
+    label: [ID__000008078B]
+
+collections:
+  "Alien Resurrection":
+    template: { name: Edition }
+    tmdb_movie: 8078
+    sort_title: Alien (1979) 004
+    summary: "200 years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must again battle the deadly aliens and stop them from reaching Earth."

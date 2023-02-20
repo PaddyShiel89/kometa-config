@@ -8,6 +8,7 @@ collections:
       - 348 # Alien (1979)
       - 679 # Aliens (1986)
       - 8077 # Alien³ (1992)
+      - 8078 # Alien Resurrection (1997)
       - 299534 # Avengers: Endgame (2019)
       - 299537 # Captain Marvel (2019)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
@@ -46,6 +47,11 @@ collections:
     template: { name: TMDB theme label, theme_name: christmas }
     tmdb_movie:
       - 68721 # Iron Man 3 (2013)
+
+  Theme__clones:
+    template: { name: TMDB theme label, theme_name: clones }
+    tmdb_movie:
+      - 8078 # Alien Resurrection (1997)
 
   Theme__coming_of_age:
     template: { name: TMDB theme label, theme_name: coming_of_age }
@@ -103,6 +109,7 @@ collections:
       - 348 # Alien (1979)
       - 679 # Aliens (1986)
       - 8077 # Alien³ (1992)
+      - 8078 # Alien Resurrection (1997)
 
   Theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }
@@ -160,6 +167,8 @@ collections:
     tmdb_movie:
       - 348 # Alien (1979)
       - 679 # Aliens (1986)
+      - 8077 # Alien³ (1992)
+      - 8078 # Alien Resurrection (1997)
       - 50456 # Hanna (2011)
 
   Theme__terrorism:

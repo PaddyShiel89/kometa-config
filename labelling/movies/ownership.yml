@@ -48,6 +48,8 @@ collections:
           - ID__000000679B # Aliens (1986) [Special edition]
           - ID__000008077A # Alien³ (1992) [Theatrical cut]
           - ID__000008077B # Alien³ (1992) [Assembley cut]
+          - ID__000008078A # Alien Resurrection (1997) [Theatrical cut]
+          - ID__000008078B # Alien Resurrection (1997) [Special edition]
 
   Ownership__rented:
     template:
@@ -62,6 +64,8 @@ collections:
           - ID__000000679B # Aliens (1986) [Special edition]
           - ID__000008077A # Alien³ (1992) [Theatrical cut]
           - ID__000008077B # Alien³ (1992) [Assembley cut]
+          - ID__000008078A # Alien Resurrection (1997) [Theatrical cut]
+          - ID__000008078B # Alien Resurrection (1997) [Special edition]
           - ID__000363088A # Ant-Man and the Wasp
           - ID__000299534A # Avengers: Endgame (2019)
           - ID__000497698A # Black Widow (2021)
@@ -213,8 +217,6 @@ collections:
       - name: Ownership label
         status: "own different source"
         title_list:
-          - Alien (1979) 004A
-          - Alien (1979) 004B
           - American Beauty (1999)
           - American Gangster (2007) 001A
           - American Gangster (2007) 001B
