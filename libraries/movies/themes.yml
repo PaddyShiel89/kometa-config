@@ -9,7 +9,10 @@ collections:
         summary: "in the horror genre featuring aliens as the primary antagonist."
     smart_filter:
       all:
-        label: "theme: aliens"
+        any:
+          label:
+            - Theme__aliens
+            - "theme: aliens"
         genre: Horror
       sort_by: title.asc
 
@@ -18,8 +21,10 @@ collections:
       - name: Theme
         summary: "set primarily at Christmastime."
     smart_filter:
-      all:
-        label: "theme: christmas"
+      any:
+        label:
+          - Theme__christmas
+          - "theme: christmas"
       sort_by: title.asc
     visible_home: range(11/24-01/7)
 
@@ -60,8 +65,10 @@ collections:
       - name: Theme
         summary: "prominently featuring martial arts."
     smart_filter:
-      all:
-        label: "theme: martial arts"
+      any:
+        label:
+          - Theme__martial_arts
+          - "theme: martial arts"
       sort_by: title.asc
 
   Murder Mystery:
@@ -90,7 +97,10 @@ collections:
         summary: "in the horror genre with a particular focus on mental, emotional, and psychological states to frighten, disturb, or unsettle its audience."
     smart_filter:
       all:
-        label: "theme: psychological"
+        any:
+          label:
+            - Theme__psychological
+            - "theme: psychological"
         genre: Horror
       sort_by: title.asc
 
@@ -120,6 +130,8 @@ collections:
       all:
         any:
           label:
+            - Theme__magic
+            - Theme__supernatural
             - "theme: magic"
             - "theme: supernatural"
         genre: Horror
