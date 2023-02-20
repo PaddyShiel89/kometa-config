@@ -2,19 +2,12 @@ libraries:
   Movies:
     operations:
       assets_for_all: true
-      content_rating_mapper:
-        "gb/12A": "gb/12"
-        None: "gb/Unrated"
-      genre_mapper:
-        Biography: Biopic
-        "Sci-Fi": Science Fiction
-        Martial Arts:
-        Western:
     metadata_path:
       - repo: metadata/movies/Alien (1979) {tmdb-348}
       - repo: metadata/movies/Aliens (1986) {tmdb-679}
       - repo: metadata/movies/Ant-Man and the Wasp (2018) {tmdb-363088}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
+      - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
@@ -99,15 +92,6 @@ libraries:
   Short films:
     operations:
       assets_for_all: true
-      content_rating_mapper:
-        "gb/12A": "gb/12"
-        None: "gb/Unrated"
-      genre_mapper:
-        Biography: Biopic
-        "Sci-Fi": Science Fiction
-        Martial Arts:
-        Short:
-        Western:
     metadata_path:
       - repo: metadata/short_films/2036 Nexus Dawn (2017) {tmdb-473072}
       - repo: metadata/short_films/2048 Nowhere to Run (2017) {tmdb-475759}
