@@ -15,6 +15,7 @@ libraries:
       - repo: metadata/movies/Aliens (1986) {tmdb-679}
       - repo: metadata/movies/Ant-Man and the Wasp (2018) {tmdb-363088}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
+      - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
