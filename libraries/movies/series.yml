@@ -56,9 +56,9 @@ collections:
       - name: Series
         summary: "that are part of the Halloween franchise."
         label_list:
-          - "series: Halloween (1978)"
-          - "series: Halloween H20 reboot"
-          - "series: Halloween (2018)"
+          - Series__Halloween_1978
+          - Series__Halloween_1998
+          - Series__Halloween_2018
 
   The Hunger Games Collection:
     template:

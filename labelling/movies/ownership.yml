@@ -78,6 +78,8 @@ collections:
           - ID__000284052A # Doctor Strange
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
           - ID__000000098B # Gladiator (2000) [Extended edition]
+          - ID__000610253A # Halloween Kills (2021) [Theatrical cut]
+          - ID__000610253B # Halloween Kills (2021) [Extended cut]
           - ID__000050456A # Hanna (2011)
           - ID__000000180A # Minority Report (2002)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
@@ -399,7 +401,6 @@ collections:
           - Halloween (1978) 004
           - Halloween (1978) 005
           - Halloween (2018) 001
-          - Halloween (2018) 002
           - Hanna (2011)
           - Hard Boiled (1992)
           - Harry Potter (2001) 001
