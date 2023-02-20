@@ -1,0 +1,48 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Alien³ [Theatrical cut]":
+    title: "Alien³"
+    year: 1992
+    edition_filter: Theatrical cut
+    sort_title: Alien (1979) 003A
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [David Fincher]
+    genre.sync: [Action, Horror, Science Fiction]
+    originally_available: 1992-08-21
+    producer.sync: [Gordon Carroll, David Giler, Walter Hill]
+    studio: Brandywine Productions
+    summary: "Ellen Ripley crash-lands on Fiorina 161, a maximum security prison. When a series of strange and deadly events occur shortly after her arrival, Ripley realizes that she has brought along an unwelcome visitor."
+    tagline: "3 times the suspense. 3 times the danger. 3 times the terror."
+    writer.sync: [Vincent Ward, David Giler, Walter Hill, Larry Ferguson]
+    label: [ID__000008077A]
+
+  "Alien³ [Assembley cut]":
+    title: "Alien³"
+    year: 1992
+    edition_filter: Assembly cut
+    sort_title: Alien (1979) 003B
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [David Fincher]
+    genre.sync: [Action, Horror, Science Fiction]
+    originally_available: 1992-08-21
+    producer.sync: [Gordon Carroll, David Giler, Walter Hill]
+    studio: Brandywine Productions
+    summary: "Ellen Ripley crash-lands on Fiorina 161, a maximum security prison. When a series of strange and deadly events occur shortly after her arrival, Ripley realizes that she has brought along an unwelcome visitor."
+    tagline: "3 times the suspense. 3 times the danger. 3 times the terror."
+    writer.sync: [Vincent Ward, David Giler, Walter Hill, Larry Ferguson]
+    label: [ID__000008077B]
+
+collections:
+  "Alien³":
+    template: { name: Edition }
+    tmdb_movie: 8077
+    sort_title: Alien (1979) 003
+    summary: "Ellen Ripley crash-lands on Fiorina 161, a maximum security prison. When a series of strange and deadly events occur shortly after her arrival, Ripley realizes that she has brought along an unwelcome visitor."
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

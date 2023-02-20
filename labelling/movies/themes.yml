@@ -7,6 +7,7 @@ collections:
     tmdb_movie:
       - 348 # Alien (1979)
       - 679 # Aliens (1986)
+      - 8077 # Alien³ (1992)
       - 299534 # Avengers: Endgame (2019)
       - 299537 # Captain Marvel (2019)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
@@ -101,6 +102,7 @@ collections:
     tmdb_movie:
       - 348 # Alien (1979)
       - 679 # Aliens (1986)
+      - 8077 # Alien³ (1992)
 
   Theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }
@@ -118,6 +120,11 @@ collections:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+
+  Theme__prison:
+    template: { name: TMDB theme label, theme_name: prison }
+    tmdb_movie:
+      - 8077 # Alien³ (1992)
 
   Theme__psychological:
     template: { name: TMDB theme label, theme_name: psychological }
