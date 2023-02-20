@@ -11,6 +11,7 @@ libraries:
         Martial Arts:
         Western:
     metadata_path:
+      - repo: metadata/movies/Alien (1979) {tmdb-348}
       - repo: metadata/movies/Ant-Man and the Wasp (2018) {tmdb-363088}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
@@ -32,6 +33,7 @@ libraries:
       - repo: labelling/movies/content_rating/disturbing_images
       - repo: labelling/movies/content_rating/injury_detail
       - repo: labelling/movies/content_rating/language
+      - repo: labelling/movies/content_rating/nudity
       - repo: labelling/movies/content_rating/rude_humour
       - repo: labelling/movies/content_rating/sex
       - repo: labelling/movies/content_rating/theme

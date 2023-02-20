@@ -2,14 +2,6 @@ external_templates:
   - repo: templates/collection_type/Edition
 
 collections:
-  Alien:
-    template:
-      - name: Edition
-        poster_file_name: "Alien (1979)"
-    sort_title: "Alien (1979) 001"
-    tmdb_movie: 348
-    summary: "The crew of a commercial spacecraft encounters a deadly lifeform after investigating an unknown transmission."
-
   Aliens:
     template:
       - name: Edition

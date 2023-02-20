@@ -1,9 +1,4 @@
 metadata:
-  # Alien
-  348:
-    file_background: /config/assets/editions/backgrounds/Alien (1979).jpg
-    summary: "The crew of a commercial spacecraft encounters a deadly lifeform after investigating an unknown transmission."
-
   # Aliens
   679:
     file_background: /config/assets/editions/backgrounds/Aliens (1986).jpg

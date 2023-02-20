@@ -2,6 +2,16 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  Series__Alien_1979:
+    template: { name: TMDB series label, series_name: Alien, series_year: 1979 }
+    tmdb_movie:
+      - 348 # Alien (1979)
+      - 679 # Aliens (1986)
+      - 8077 # Alien³ (1992)
+      - 8078 # Alien Resurrection (1997)
+      - 70981 # Prometheus (2012)
+      - 126889 # Alien: Covenant (2017)
+
   Series__Ant_Man_2015:
     template:
       { name: TMDB series label, series_name: Ant_Man, series_year: 2015 }
@@ -129,18 +139,6 @@ collections:
         title_list:
           - 300 (2007) 001
           - 300 (2007) 002
-
-  "Series: Alien (1979)":
-    template:
-      - name: Series label
-        series: "Alien (1979)"
-        title_list:
-          - Alien (1979) 001
-          - Alien (1979) 002
-          - Alien (1979) 003
-          - Alien (1979) 004
-          - Prometheus (2012)
-          - "Alien: Covenant (2017)"
 
   "Series: Amazing Spider-Man (2012)":
     template:

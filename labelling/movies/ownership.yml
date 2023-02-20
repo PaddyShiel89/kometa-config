@@ -35,6 +35,16 @@ collections:
           - ID__000000011C # Star Wars: Episode IV - A New Hope [DVD cut]
           - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
 
+  Ownership__own_different_source:
+    template:
+      - name: TMDB ownership label
+        ownership_status: own_different_source
+    plex_search:
+      any:
+        label:
+          - ID__000000348A # Alien (1979) [Theatrical cut]
+          - ID__000000348B # Alien (1979) [Director's cut]
+
   Ownership__rented:
     template:
       - name: TMDB ownership label
@@ -42,6 +52,8 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000348A # Alien (1979) [Theatrical cut]
+          - ID__000000348B # Alien (1979) [Director's cut]
           - ID__000363088A # Ant-Man and the Wasp
           - ID__000299534A # Avengers: Endgame (2019)
           - ID__000497698A # Black Widow (2021)

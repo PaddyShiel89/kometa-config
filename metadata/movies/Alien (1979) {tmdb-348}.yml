@@ -1,0 +1,44 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Alien [Theatrical cut]":
+    title: "Alien"
+    year: 1979
+    edition_filter: Theatrical cut
+    sort_title: Alien (1979) 001A
+    content_rating: gb/15
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Ridley Scott]
+    genre.sync: [Horror, Science Fiction]
+    originally_available: 1979-09-06
+    producer.sync: [Gordon Carroll, David Giler, Walter Hill]
+    studio: Brandywine Productions
+    summary: "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission."
+    tagline: In space no one can hear you scream.
+    writer.sync: [Dan O'Bannon, Dan O'Bannon, Ronald Shusett]
+    label: [ID__000000348A]
+
+  "Alien [Director's cut]":
+    title: "Alien"
+    year: 1979
+    edition_filter: Director's cut
+    sort_title: Alien (1979) 001B
+    content_rating: gb/15
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Ridley Scott]
+    genre.sync: [Horror, Science Fiction]
+    originally_available: 1979-09-06
+    producer.sync: [Gordon Carroll, David Giler, Walter Hill]
+    studio: Brandywine Productions
+    summary: "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission."
+    tagline: In space no one can hear you scream.
+    writer.sync: [Dan O'Bannon, Dan O'Bannon, Ronald Shusett]
+    label: [ID__000000348B]
+
+collections:
+  "Alien":
+    template: { name: Edition }
+    tmdb_movie: 348
+    sort_title: Alien (1979) 001
+    summary: "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission."

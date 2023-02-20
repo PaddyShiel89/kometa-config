@@ -5,6 +5,7 @@ collections:
   Theme__aliens:
     template: { name: TMDB theme label, theme_name: aliens }
     tmdb_movie:
+      - 348 # Alien (1979)
       - 299534 # Avengers: Endgame (2019)
       - 299537 # Captain Marvel (2019)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
@@ -94,6 +95,11 @@ collections:
     tmdb_movie:
       - 68721 # Iron Man 3 (2013)
 
+  Theme__monsters:
+    template: { name: TMDB theme label, theme_name: monsters }
+    tmdb_movie:
+      - 348 # Alien (1979)
+
   Theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }
     tmdb_movie:
@@ -143,6 +149,7 @@ collections:
   Theme__survival:
     template: { name: TMDB theme label, theme_name: survival }
     tmdb_movie:
+      - 348 # Alien (1979)
       - 50456 # Hanna (2011)
 
   Theme__terrorism:
@@ -175,7 +182,6 @@ collections:
       - name: Theme label
         theme: "aliens"
         title_list:
-          - Alien (1979) 001
           - Alien (1979) 002
           - Alien (1979) 003
           - Alien (1979) 004
