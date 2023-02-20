@@ -1,9 +1,4 @@
 metadata:
-  # Aliens
-  679:
-    file_background: /config/assets/editions/backgrounds/Aliens (1986).jpg
-    summary: "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators."
-
   # "Alien³"
   8077:
     file_background: /config/assets/editions/backgrounds/Alien³ (1992).jpg

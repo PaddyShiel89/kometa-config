@@ -1,0 +1,48 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Aliens [Theatrical cut]":
+    title: "Aliens"
+    year: 1986
+    edition_filter: Theatrical cut
+    sort_title: Alien (1979) 002A
+    content_rating: gb/15
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [James Cameron]
+    genre.sync: [Action, Adventure, Science Fiction, Thriller]
+    originally_available: 1986-08-29
+    producer.sync: [Gale Anne Hurd]
+    studio: Brandywine Productions
+    summary: "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators."
+    tagline: This time there's more.
+    writer.sync: [James Cameron, David Giler, Walter Hill]
+    label: [ID__000000679A]
+
+  "Aliens [Special edition]":
+    title: "Aliens"
+    year: 1986
+    edition_filter: Special edition
+    sort_title: Alien (1979) 002B
+    content_rating: gb/15
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [James Cameron]
+    genre.sync: [Action, Adventure, Science Fiction, Thriller]
+    originally_available: 1986-08-29
+    producer.sync: [Gale Anne Hurd]
+    studio: Brandywine Productions
+    summary: "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators."
+    tagline: This time there's more.
+    writer.sync: [James Cameron, David Giler, Walter Hill]
+    label: [ID__000000679B]
+
+collections:
+  "Aliens":
+    template: { name: Edition }
+    tmdb_movie: 679
+    sort_title: Alien (1979) 002
+    summary: "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators."
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

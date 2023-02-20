@@ -44,6 +44,8 @@ collections:
         label:
           - ID__000000348A # Alien (1979) [Theatrical cut]
           - ID__000000348B # Alien (1979) [Director's cut]
+          - ID__000000679A # Aliens (1986) [Theatrical cut]
+          - ID__000000679B # Aliens (1986) [Special edition]
 
   Ownership__rented:
     template:
@@ -54,6 +56,8 @@ collections:
         label:
           - ID__000000348A # Alien (1979) [Theatrical cut]
           - ID__000000348B # Alien (1979) [Director's cut]
+          - ID__000000679A # Aliens (1986) [Theatrical cut]
+          - ID__000000679B # Aliens (1986) [Special edition]
           - ID__000363088A # Ant-Man and the Wasp
           - ID__000299534A # Avengers: Endgame (2019)
           - ID__000497698A # Black Widow (2021)
@@ -205,10 +209,6 @@ collections:
       - name: Ownership label
         status: "own different source"
         title_list:
-          - Alien (1979) 001 1979 Theatrical cut
-          - Alien (1979) 001 2003 Director's cut
-          - Alien (1979) 002 1986 Theatrical cut
-          - Alien (1979) 002 1990 Special Edition
           - Alien (1979) 003A
           - Alien (1979) 003B
           - Alien (1979) 004A
