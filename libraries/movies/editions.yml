@@ -2,46 +2,6 @@ external_templates:
   - repo: templates/collection_type/Edition
 
 collections:
-  "Alien³":
-    template:
-      - name: Edition
-        poster_file_name: "Alien³ (1992)"
-    sort_title: "Alien (1979) 003"
-    tmdb_movie: 8077
-    summary: " Ellen Ripley crash-lands on Fiorina 161, a maximum security prison. When a series of strange and deadly events occur shortly after her arrival, Ripley realizes that she has brought along an unwelcome visitor."
-
-  "Alien: Resurrection":
-    template:
-      - name: Edition
-        poster_file_name: "Alien Resurrection (1997)"
-    sort_title: "Alien (1979) 004"
-    tmdb_movie: 8078
-    summary: "200 years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must again battle the deadly aliens and stop them from reaching Earth."
-
-  American Gangster:
-    template:
-      - name: Edition
-        poster_file_name: "American Gangster (2007)"
-    sort_title: "American Gangster (2007) 001"
-    tmdb_movie: 4982
-    summary: "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas, whose real life inspired this partly biographical film."
-
-  Gladiator:
-    template:
-      - name: Edition
-        poster_file_name: "Gladiator (2000)"
-    sort_title: "Gladiator (2000) 001"
-    tmdb_movie: 98
-    summary: "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
-
-  Halloween Kills:
-    template:
-      - name: Edition
-        poster_file_name: "Halloween Kills (2021)"
-    sort_title: "Halloween (2018) 002"
-    tmdb_movie: 610253
-    summary: "Surviving victims of Michael Myers form a vigilante mob and vow to end his reign of terror."
-
   "Léon: The Professional":
     template:
       - name: Edition

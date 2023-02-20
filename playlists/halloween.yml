@@ -5,7 +5,7 @@ playlists:
     summary: "The original canon of Halloween films. Halloween III: Season of the Witch is not included as it is unrelated to the story of the other films."
     file_poster: /config/assets/playlists/Halloween Original Continuity.png
     plex_search:
-      label: "series: Halloween (1978)"
+      label: Series__Halloween_1978
 
   "Halloween H20 Continuity":
     sync_mode: sync
@@ -13,7 +13,7 @@ playlists:
     summary: "The Halloween films that are canon to the 1998 Halloween: 20 Years Later reboot."
     file_poster: /config/assets/playlists/Halloween H20 Continuity.png
     plex_search:
-      label: "series: Halloween H20 reboot"
+      label: Series__Halloween_1998
 
   "Halloween Blumhouse Continuity":
     sync_mode: sync
@@ -23,4 +23,4 @@ playlists:
     plex_search:
       label: "series: Halloween (2018)"
     filter:
-      label.not: "Secondary_Cut"
+      label.not: Series__Halloween_2018

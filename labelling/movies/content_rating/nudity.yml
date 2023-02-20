@@ -13,3 +13,15 @@ collections:
         label:
           - ID__000000348A # Alien (1979) [Theatrical cut]
           - ID__000000348B # Alien (1979) [Director's cut]
+
+  BBFC nudity lvl 4:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: nudity
+        level: 4
+    plex_search:
+      any:
+        label:
+          - ID__000004982A # American Gangster (2007) [Theatrical cut]
+          - ID__000004982B # American Gangster (2007) [Extended edition]

@@ -4,7 +4,10 @@ libraries:
       assets_for_all: true
     metadata_path:
       - repo: metadata/movies/Alien (1979) {tmdb-348}
+      - repo: metadata/movies/Alien Resurrection (1997) {tmdb-8078}
+      - repo: metadata/movies/Alien³ (1992) {tmdb-8077}
       - repo: metadata/movies/Aliens (1986) {tmdb-679}
+      - repo: metadata/movies/American Gangster (2007) {tmdb-4982}
       - repo: metadata/movies/Ant-Man and the Wasp (2018) {tmdb-363088}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
       - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
@@ -12,7 +15,9 @@ libraries:
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
+      - repo: metadata/movies/Gladiator (2000) {tmdb-98}
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
+      - repo: metadata/movies/Halloween Kills (2021) {tmdb-610253}
       - repo: metadata/movies/Hanna (2011) {tmdb-50456}
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
       - repo: metadata/movies/Minority Report (2002) {tmdb-180}
@@ -25,6 +30,7 @@ libraries:
       - repo: labelling/movies/content_rating/alcohol_and_tobacco
       - repo: labelling/movies/content_rating/discrimination
       - repo: labelling/movies/content_rating/disturbing_images
+      - repo: labelling/movies/content_rating/drugs
       - repo: labelling/movies/content_rating/injury_detail
       - repo: labelling/movies/content_rating/language
       - repo: labelling/movies/content_rating/nudity

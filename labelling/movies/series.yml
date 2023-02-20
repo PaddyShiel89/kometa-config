@@ -77,6 +77,33 @@ collections:
       - 118340 # Guardians of the Galaxy (2014)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
 
+  Series__Halloween_1978:
+    template:
+      { name: TMDB series label, series_name: Halloween, series_year: 1978 }
+    tmdb_movie:
+      - 948 # Halloween (1978)
+      - 11281 # Halloween II (1981)
+      - 11357 # Halloween 4: The Return of Michael Myers (1988)
+      - 11361 # Halloween 5: The Revenge of Michael Myers (1989)
+      - 10987 # Halloween: The Curse of Michael Myers (1995)
+
+  Series__Halloween_1998:
+    template:
+      { name: TMDB series label, series_name: Halloween, series_year: 1998 }
+    tmdb_movie:
+      - 948 # Halloween (1978)
+      - 11281 # Halloween II (1981)
+      - 11675 # Halloween H20: 20 Years Later (1998)
+      - 11442 # Halloween: Resurrection (2002)
+
+  Series__Halloween_2018:
+    template:
+      { name: TMDB series label, series_name: Halloween, series_year: 2018 }
+    tmdb_movie:
+      - 948 # Halloween (1978)
+      - 424139 # Halloween (2018)
+      - 610253 # Halloween Kills (2021)
+
   Series__Iron_Man_2008:
     template:
       { name: TMDB series label, series_name: Iron_Man, series_year: 2008 }
@@ -237,36 +264,6 @@ collections:
         series: "Forgetting Sarah Marshall (2008)"
         title_list:
           - Get Him to the Greek (2010)
-
-  "Series: Halloween (1978)":
-    template:
-      - name: Series label
-        series: "Halloween (1978)"
-        title_list:
-          - Halloween (1978) 001
-          - Halloween (1978) 002
-          - Halloween (1978) 004
-          - Halloween (1978) 005
-          - Halloween (1978) 006
-
-  "Series: Halloween H20 reboot":
-    template:
-      - name: Series label
-        series: "Halloween H20 reboot"
-        title_list:
-          - Halloween (1978) 001
-          - Halloween (1978) 002
-          - Halloween (1978) 007
-          - Halloween (1978) 008
-
-  "Series: Halloween (2018)":
-    template:
-      - name: Series label
-        series: "Halloween (2018)"
-        title_list:
-          - Halloween (1978) 001
-          - Halloween (2018) 001
-          - Halloween (2018) 002
 
   "Series: Harry Potter (2001)":
     template:

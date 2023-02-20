@@ -1,29 +1,4 @@
 metadata:
-  # "Alien³"
-  8077:
-    file_background: /config/assets/editions/backgrounds/Alien³ (1992).jpg
-    summary: " Ellen Ripley crash-lands on Fiorina 161, a maximum security prison. When a series of strange and deadly events occur shortly after her arrival, Ripley realizes that she has brought along an unwelcome visitor."
-
-  # "Alien: Resurrection"
-  8078:
-    file_background: /config/assets/editions/backgrounds/Alien Resurrection (1997).jpg
-    summary: "200 years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must again battle the deadly aliens and stop them from reaching Earth."
-
-  # American Gangster
-  4982:
-    file_background: /config/assets/editions/backgrounds/American Gangster (2007).jpg
-    summary: "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas, whose real life inspired this partly biographical film."
-
-  # Gladiator
-  98:
-    file_background: /config/assets/editions/backgrounds/Gladiator (2000).jpg
-    summary: "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
-
-  # Halloween Kills
-  610253:
-    file_background: /config/assets/editions/backgrounds/Halloween Kills (2021).jpg
-    summary: "Surviving victims of Michael Myers form a vigilante mob and vow to end his reign of terror."
-
   # Léon: The Professional
   101:
     file_background: /config/assets/editions/backgrounds/Leon The Professional (1994).jpg

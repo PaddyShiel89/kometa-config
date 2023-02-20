@@ -7,6 +7,8 @@ collections:
     tmdb_movie:
       - 348 # Alien (1979)
       - 679 # Aliens (1986)
+      - 8077 # Alien³ (1992)
+      - 8078 # Alien Resurrection (1997)
       - 299534 # Avengers: Endgame (2019)
       - 299537 # Captain Marvel (2019)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
@@ -46,12 +48,22 @@ collections:
     tmdb_movie:
       - 68721 # Iron Man 3 (2013)
 
+  Theme__clones:
+    template: { name: TMDB theme label, theme_name: clones }
+    tmdb_movie:
+      - 8078 # Alien Resurrection (1997)
+
   Theme__coming_of_age:
     template: { name: TMDB theme label, theme_name: coming_of_age }
     tmdb_movie:
       - 1771 # Captain America: The First Avenger (2011)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
+
+  Theme__drugs:
+    template: { name: TMDB theme label, theme_name: drugs }
+    tmdb_movie:
+      - 4982 # American Gangster (2007)
 
   Theme__dystopian:
     template: { name: TMDB theme label, theme_name: dystopian }
@@ -101,10 +113,13 @@ collections:
     tmdb_movie:
       - 348 # Alien (1979)
       - 679 # Aliens (1986)
+      - 8077 # Alien³ (1992)
+      - 8078 # Alien Resurrection (1997)
 
   Theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }
     tmdb_movie:
+      - 4982 # American Gangster (2007)
       - 180 # Minority Report (2002)
       - 629 # The Usual Suspects (1995)
 
@@ -119,10 +134,38 @@ collections:
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
 
+  Theme__prison:
+    template: { name: TMDB theme label, theme_name: prison }
+    tmdb_movie:
+      - 8077 # Alien³ (1992)
+
   Theme__psychological:
     template: { name: TMDB theme label, theme_name: psychological }
     tmdb_movie:
       - 343674 # Gerald's Game (2017)
+
+  Theme__race_and_ethnicity:
+    template: { name: TMDB theme label, theme_name: race_and_ethnicity }
+    tmdb_movie:
+      - 4982 # American Gangster (2007)
+
+  Theme__revenge:
+    template: { name: TMDB theme label, theme_name: revenge }
+    tmdb_movie:
+      - 98 # Gladiator (2000)
+      - 610253 # Halloween Kills (2021)
+      - 68721 # Iron Man 3 (2013)
+      - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+
+  Theme__serial_killer:
+    template: { name: TMDB theme label, theme_name: serial_killer }
+    tmdb_movie:
+      - 610253 # Halloween Kills (2021)
+
+  Theme__slasher:
+    template: { name: TMDB theme label, theme_name: slasher }
+    tmdb_movie:
+      - 610253 # Halloween Kills (2021)
 
   Theme__spies:
     template: { name: TMDB theme label, theme_name: spies }
@@ -153,6 +196,8 @@ collections:
     tmdb_movie:
       - 348 # Alien (1979)
       - 679 # Aliens (1986)
+      - 8077 # Alien³ (1992)
+      - 8078 # Alien Resurrection (1997)
       - 50456 # Hanna (2011)
 
   Theme__terrorism:
@@ -185,8 +230,6 @@ collections:
       - name: Theme label
         theme: "aliens"
         title_list:
-          - Alien (1979) 003
-          - Alien (1979) 004
           - "Alien: Covenant (2017)"
           - Avengers (2012) 001
           - Avengers (2012) 003
@@ -444,7 +487,6 @@ collections:
       - name: Theme label
         theme: "neo-noir"
         title_list:
-          - American Gangster (2007) 001
           - Baise-moi (2000)
           - Basic Instinct (1992) 001
           - Batman (1989) 002
@@ -550,7 +592,6 @@ collections:
           - Halloween (1978) 007
           - Halloween (1978) 008
           - Halloween (2018) 001
-          - Halloween (2018) 002
           - I Spit on Your Grave (1978)
           - Psycho (1960)
           - Ready or Not (2019)

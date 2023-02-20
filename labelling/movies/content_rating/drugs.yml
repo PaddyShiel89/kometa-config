@@ -2,23 +2,12 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  BBFC discrimination lvl 2:
+  BBFC drugs lvl 5:
     template:
       - name: Content rating numeric label
         ratings_board: BBFC
-        content: discrimination
-        level: 2
-    plex_search:
-      any:
-        label:
-          - ID__000299537A # Captain Marvel (2019)
-
-  BBFC discrimination lvl 4:
-    template:
-      - name: Content rating numeric label
-        ratings_board: BBFC
-        content: discrimination
-        level: 4
+        content: drugs
+        level: 5
     plex_search:
       any:
         label:
