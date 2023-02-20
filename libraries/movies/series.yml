@@ -7,6 +7,14 @@ external_templates:
 # duplicates with Editions. Collections with unique collection names, e.g.
 # "Wizarding World" instead of "Harry Potter", do not need the suffix.
 collections:
+  Alien Collection:
+    template:
+      - name: Smart series
+        label_list:
+          - Series__Alien_1979
+    content_rating: gb/15
+    summary: 'The Alien series depicts warrant officer Ellen Ripley (Sigourney Weaver) and her battles with an extraterrestrial lifeform, commonly referred to as "the Alien" or Xenomorph.'
+
   The Marvel Cinematic Universe:
     template:
       - name: Smart series
@@ -26,12 +34,6 @@ collections:
     sort_title: Marvel Cinematic Universe
     content_rating: gb/12
     summary: "From Iron Man to Captain America to Daredevil, Guardians of the Galaxy, Jessica Jones, and more, the MCU brings some of the most legendary comic heroes -- and some lesser known ones -- to vibrant, colorful, action-packed life."
-
-  Alien Collection:
-    template:
-      - name: Series
-        summary: "that are part of the Alien series."
-        label_list: "series: Alien (1979)"
 
   Back to the Future Collection:
     template:

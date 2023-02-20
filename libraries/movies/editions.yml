@@ -2,22 +2,6 @@ external_templates:
   - repo: templates/collection_type/Edition
 
 collections:
-  Alien:
-    template:
-      - name: Edition
-        poster_file_name: "Alien (1979)"
-    sort_title: "Alien (1979) 001"
-    tmdb_movie: 348
-    summary: "The crew of a commercial spacecraft encounters a deadly lifeform after investigating an unknown transmission."
-
-  Aliens:
-    template:
-      - name: Edition
-        poster_file_name: "Aliens (1986)"
-    sort_title: "Alien (1979) 002"
-    tmdb_movie: 679
-    summary: "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators."
-
   "Alien³":
     template:
       - name: Edition

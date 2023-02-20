@@ -6,14 +6,14 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000348B # Alien (1979) [Director's cut]
+          - ID__000000679B # Aliens (1986) [Special edition]
           - ID__000000011B # Star Wars: Episode IV - A New Hope [Special edition]
           - ID__000000011C # Star Wars: Episode IV - A New Hope [DVD cut]
           - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
           - ID__000000011E # Star Wars: Episode IV - A New Hope [Despecialized edition]
           - ID__000000011F # Star Wars: Episode IV - A New Hope [Project 4K77]
         title:
-          - Alien (1979) 001 2003 Director's cut
-          - Alien (1979) 002 1990 Special Edition
           - Alien (1979) 003B
           - Alien (1979) 004B
           - American Gangster (2007) 001B
