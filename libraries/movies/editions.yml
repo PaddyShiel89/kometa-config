@@ -2,14 +2,6 @@ external_templates:
   - repo: templates/collection_type/Edition
 
 collections:
-  Gladiator:
-    template:
-      - name: Edition
-        poster_file_name: "Gladiator (2000)"
-    sort_title: "Gladiator (2000) 001"
-    tmdb_movie: 98
-    summary: "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
-
   Halloween Kills:
     template:
       - name: Edition

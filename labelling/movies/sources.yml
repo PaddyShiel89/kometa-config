@@ -25,6 +25,8 @@ collections:
           - ID__000001771A # Captain America: The First Avenger
           - ID__000299537A # Captain Marvel
           - ID__000284052A # Doctor Strange
+          - ID__000000098A # Gladiator (2000) [Theatrical cut]
+          - ID__000000098B # Gladiator (2000) [Extended cut]
           - ID__000283995A # Guardians of the Galaxy Vol. 2
           - ID__000050456A # Hanna (2011)
           - ID__000068721A # Iron Man 3 (2013)
@@ -162,7 +164,6 @@ collections:
           - Get Him to the Greek (2010)
           - Gia (1998)
           - Gilda (1946)
-          - Gladiator (2000)
           - Goldfinger (1964)
           - GoldenEye (1995)
           - Goodfellas (1990)

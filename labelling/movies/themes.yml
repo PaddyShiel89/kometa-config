@@ -149,6 +149,13 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
 
+  Theme__revenge:
+    template: { name: TMDB theme label, theme_name: revenge }
+    tmdb_movie:
+      - 98 # Gladiator (2000)
+      - 68721 # Iron Man 3 (2013)
+      - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+
   Theme__spies:
     template: { name: TMDB theme label, theme_name: spies }
     tmdb_movie:

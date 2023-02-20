@@ -39,6 +39,8 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000098A # Gladiator (2000) [Theatrical cut]
+          - ID__000000098B # Gladiator (2000) [Extended cut]
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
           - ID__000634649A # Spider-Man: Far from Home (2019)
 
