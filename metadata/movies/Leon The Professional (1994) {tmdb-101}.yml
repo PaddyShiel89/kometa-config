@@ -1,0 +1,50 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Léon: The Professional [Theatrical cut]":
+    title: "Léon: The Professional"
+    year: 1995
+    edition_filter: Theatrical cut
+    sort_title: "Leon: The Professional (1994) 001A"
+    content_rating: gb/15
+    country.sync: [France, United States of America]
+    director.sync: [Luc Besson]
+    genre.sync: [Action, Crime, Drama, Thriller]
+    original_title: "Léon"
+    originally_available: 1995-02-03
+    producer.sync: [Claude Besson]
+    studio: "Columbia Pictures"
+    summary: "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade."
+    tagline: "If you want the job done right, hire a professional.If you want the job done right, hire a professional."
+    writer.sync: [Luc Besson]
+    label: [ID__000000101A]
+
+  "Léon: The Professional [Director's cut]":
+    title: "Léon: The Professional"
+    year: 1995
+    edition_filter: Director's cut
+    sort_title: "Leon: The Professional (1994) 001B"
+    content_rating: gb/15
+    country.sync: [France, United States of America]
+    director.sync: [Luc Besson]
+    genre.sync: [Action, Crime, Drama, Thriller]
+    original_title: "Léon"
+    originally_available: 1995-02-03
+    producer.sync: [Claude Besson]
+    studio: "Columbia Pictures"
+    summary: "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade."
+    tagline: "If you want the job done right, hire a professional.If you want the job done right, hire a professional."
+    writer.sync: [Luc Besson]
+    label: [ID__000000101B]
+
+collections:
+  "Léon: The Professional":
+    template: { name: Edition }
+    tmdb_movie: 101
+    sort_title: "Leon: The Professional (1994) 001"
+    summary: "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade."
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -20,6 +20,11 @@ collections:
     tmdb_movie:
       - 180 # Minority Report (2002)
 
+  Theme__assassins:
+    template: { name: TMDB theme label, theme_name: assassins }
+    tmdb_movie:
+      - 101 # Léon: The Professional (1995)
+
   Theme__based_on_works_by_philip_k_dick:
     template:
       { name: TMDB theme label, theme_name: based_on_works_by_philip_k_dick }
@@ -123,6 +128,11 @@ collections:
       - 180 # Minority Report (2002)
       - 629 # The Usual Suspects (1995)
 
+  Theme__orphans:
+    template: { name: TMDB theme label, theme_name: orphans }
+    tmdb_movie:
+      - 101 # Léon: The Professional (1995)
+
   Theme__pirates:
     template: { name: TMDB theme label, theme_name: pirates }
     tmdb_movie:
@@ -155,6 +165,7 @@ collections:
       - 98 # Gladiator (2000)
       - 610253 # Halloween Kills (2021)
       - 68721 # Iron Man 3 (2013)
+      - 101 # Léon: The Professional (1995)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 
   Theme__serial_killer:
