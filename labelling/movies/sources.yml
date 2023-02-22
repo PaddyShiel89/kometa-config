@@ -34,6 +34,8 @@ collections:
           - ID__000068721A # Iron Man 3 (2013)
           - ID__000000101A # Léon: The Professional (1995) [Theatrical cut]
           - ID__000000101B # Léon: The Professional (1995) [Director's cut]
+          - ID__000010867A # Malèna (2000) [Original Italian cut]
+          - ID__000010867B # Malèna (2000) [International cut]
           - ID__000000180A # Minority Report (2002)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales
@@ -253,8 +255,6 @@ collections:
           - Lucy (2014)
           - Machete (2010) 001
           - Machete (2010) 002
-          - Malena (2000) 001A
-          - Malena (2000) 001B
           - Man on Fire (2004)
           - Man Who Knew Too Much (1956)
           - Man with the Golden Gun (1974)

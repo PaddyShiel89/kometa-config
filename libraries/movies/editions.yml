@@ -2,14 +2,6 @@ external_templates:
   - repo: templates/collection_type/Edition
 
 collections:
-  "Malèna":
-    template:
-      - name: Edition
-        poster_file_name: "Malena (2000)"
-    sort_title: "Malena (2000) 001"
-    tmdb_movie: 10867
-    summary: "Amidst the war climate, a teenage boy discovering himself becomes love-stricken by Malèna, a sensual woman living in a small, narrow-minded Italian town."
-
   Police Story 2:
     template:
       - name: Edition

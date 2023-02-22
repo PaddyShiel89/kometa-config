@@ -31,6 +31,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000010867A # Malèna (2000) [Original Italian cut]
           - ID__000000011A # Star Wars: Episode IV - A New Hope [Theatrical cut]
           - ID__000000011C # Star Wars: Episode IV - A New Hope [DVD cut]
           - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
@@ -83,6 +84,7 @@ collections:
           - ID__000050456A # Hanna (2011)
           - ID__000000101A # Léon: The Professional (1995) [Theatrical cut]
           - ID__000000101B # Léon: The Professional (1995) [Director's cut]
+          - ID__000010867B # Malèna (2000) [International cut]
           - ID__000000180A # Minority Report (2002)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales
@@ -151,7 +153,6 @@ collections:
           - Lost Girls and Love Hotels (2020)
           - Lucy (2014)
           - Ma mere (2004)
-          - Malena (2000) 001A
           - Martha Marcy May Marlene (2011)
           - Match Point (2005)
           - Mexican (2001)
@@ -273,7 +274,6 @@ collections:
           - Lord of the Rings (2001) 001B
           - Lord of the Rings (2001) 002B
           - Lord of the Rings (2001) 003B
-          - Malena (2000) 001B
           - Man Who Knew Too Much (1956)
           - Man with the Golden Gun (1974)
           - Marnie (1964)

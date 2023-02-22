@@ -62,8 +62,14 @@ collections:
     template: { name: TMDB theme label, theme_name: coming_of_age }
     tmdb_movie:
       - 1771 # Captain America: The First Avenger (2011)
+      - 10867 # Malèna (2000)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
+
+  Theme__con_artists:
+    template: { name: TMDB theme label, theme_name: con_artists }
+    tmdb_movie:
+      - 629 # The Usual Suspects (1995)
 
   Theme__drugs:
     template: { name: TMDB theme label, theme_name: drugs }
@@ -75,20 +81,21 @@ collections:
     tmdb_movie:
       - 180 # Minority Report (2002)
 
-  Theme__con_artists:
-    template: { name: TMDB theme label, theme_name: con_artists }
-    tmdb_movie:
-      - 629 # The Usual Suspects (1995)
-
   Theme__erotic:
     template: { name: TMDB theme label, theme_name: erotic }
     tmdb_movie:
       - 343674 # Gerald's Game (2017)
+      - 10867 # Malèna (2000)
 
   Theme__ghosts:
     template: { name: TMDB theme label, theme_name: ghosts }
     tmdb_movie:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+
+  Theme__foreign_language:
+    template: { name: TMDB theme label, theme_name: foreign_language }
+    tmdb_movie:
+      - 10867 # Malèna (2000)
 
   Theme__heist:
     template: { name: TMDB theme label, theme_name: heist }
@@ -235,6 +242,7 @@ collections:
     template: { name: TMDB theme label, theme_name: world_war_ii }
     tmdb_movie:
       - 1771 # Captain America: The First Avenger (2011)
+      - 10867 # Malèna (2000)
 
   "Theme: aliens":
     template:
@@ -397,7 +405,6 @@ collections:
           - Juan of the Dead (2012)
           - Kung Fu Hustle (2004)
           - Ma mere (2004)
-          - Malena (2000) 001
           - Novo (2002)
           - "Ong-Bak: Muay Thai Warrior (2003)"
           - Pan's Labyrinth (2006)

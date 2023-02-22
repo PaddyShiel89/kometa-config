@@ -56,8 +56,10 @@ collections:
       - name: Theme
         summary: "where the original audio language is not in English. English audio dub tracks may be available."
     smart_filter:
-      all:
-        label: "theme: foreign language"
+      any:
+        label:
+          - Theme__foreign_language
+          - "theme: foreign language"
       sort_by: title.asc
 
   Martial Arts:
