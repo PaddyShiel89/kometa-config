@@ -53,6 +53,7 @@ collections:
           - ID__000008078B # Alien Resurrection (1997) [Special edition]
           - ID__000004982A # American Gangster (2007) [Theatrical cut]
           - ID__000004982B # American Gangster (2007) [Extended edition]
+          - ID__000010867B # Malèna (2000) [International cut]
 
   Ownership__rented:
     template:
