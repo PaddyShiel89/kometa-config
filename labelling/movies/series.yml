@@ -124,6 +124,13 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 
+  Series__Police_Story_1985:
+    template:
+      { name: TMDB series label, series_name: Police_Story, series_year: 1985 }
+    tmdb_movie:
+      - 9056 # Police Story (1985)
+      - 10753 # Police Story 2 (1988)
+
   Series__Spider_Man_2017:
     template:
       { name: TMDB series label, series_name: Spider_Man, series_year: 2017 }

@@ -20,9 +20,12 @@ libraries:
       - repo: metadata/movies/Halloween Kills (2021) {tmdb-610253}
       - repo: metadata/movies/Hanna (2011) {tmdb-50456}
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
+      - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
+      - repo: metadata/movies/Malena (2000) {tmdb-10867}
       - repo: metadata/movies/Minority Report (2002) {tmdb-180}
       - repo: metadata/movies/Pirates of the Caribbean Dead Man's Chest (2006) {tmdb-58}
       - repo: metadata/movies/Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426}
+      - repo: metadata/movies/Police Story 2 (1988) {tmdb-10753}
       - repo: metadata/movies/Spider-Man Far from Home (2019) {tmdb-429617}
       - repo: metadata/movies/Star Wars (1977) {tmdb-11}
       - repo: metadata/movies/Star Wars The Rise of Skywalker (2019) {tmdb-181812}

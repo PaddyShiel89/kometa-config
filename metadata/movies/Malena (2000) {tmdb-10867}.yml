@@ -1,0 +1,48 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Malèna [Original Italian cut]":
+    title: Malèna
+    year: 2000
+    edition_filter: Original Italian cut
+    sort_title: Malena (2000) 001A
+    content_rating: gb/Unrated
+    country.sync: [Italy, United States of America]
+    director.sync: [Giuseppe Tornatore]
+    genre.sync: [Drama, Romance, War]
+    originally_available: 2000-10-26
+    producer.sync: [Carlo Bernasconi, Harvey Weinstein]
+    studio: Medusa Film
+    summary: "Amidst the war climate, a teenage boy discovering himself becomes love-stricken by Malèna - a sensual woman living in a small, narrow-minded Italian town."
+    tagline: "A world at war. A young man coming of age. And the woman who changed his life forever."
+    writer.sync: [Giuseppe Tornatore, Luciano Vincenzoni]
+    label: [ID__000010867A]
+
+  "Malèna [International cut]":
+    title: Malèna
+    year: 2000
+    edition_filter: International cut
+    sort_title: Malena (2000) 001B
+    content_rating: gb/15
+    country.sync: [Italy, United States of America]
+    director.sync: [Giuseppe Tornatore]
+    genre.sync: [Drama, Romance, War]
+    originally_available: 2000-10-26
+    producer.sync: [Carlo Bernasconi, Harvey Weinstein]
+    studio: Medusa Film
+    summary: "Amidst the war climate, a teenage boy discovering himself becomes love-stricken by Malèna - a sensual woman living in a small, narrow-minded Italian town."
+    tagline: "A world at war. A young man coming of age. And the woman who changed his life forever."
+    writer.sync: [Giuseppe Tornatore, Luciano Vincenzoni]
+    label: [ID__000010867B]
+
+collections:
+  "Malèna":
+    template: { name: Edition }
+    tmdb_movie: 10867
+    sort_title: Malena (2000) 001
+    summary: "Amidst the war climate, a teenage boy discovering himself becomes love-stricken by Malèna - a sensual woman living in a small, narrow-minded Italian town."
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

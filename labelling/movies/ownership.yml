@@ -31,6 +31,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000010867A # Malèna (2000) [Original Italian cut]
           - ID__000000011A # Star Wars: Episode IV - A New Hope [Theatrical cut]
           - ID__000000011C # Star Wars: Episode IV - A New Hope [DVD cut]
           - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
@@ -52,6 +53,7 @@ collections:
           - ID__000008078B # Alien Resurrection (1997) [Special edition]
           - ID__000004982A # American Gangster (2007) [Theatrical cut]
           - ID__000004982B # American Gangster (2007) [Extended edition]
+          - ID__000010867B # Malèna (2000) [International cut]
 
   Ownership__rented:
     template:
@@ -81,9 +83,14 @@ collections:
           - ID__000610253A # Halloween Kills (2021) [Theatrical cut]
           - ID__000610253B # Halloween Kills (2021) [Extended cut]
           - ID__000050456A # Hanna (2011)
+          - ID__000000101A # Léon: The Professional (1995) [Theatrical cut]
+          - ID__000000101B # Léon: The Professional (1995) [Director's cut]
+          - ID__000010867B # Malèna (2000) [International cut]
           - ID__000000180A # Minority Report (2002)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales
+          - ID__000010753A # Police Story 2 (1988) [Original Hong Kong cut]
+          - ID__000010753B # Police Story 2 (1988) [Uncut restoration]
           - ID__000634649A # Spider-Man: Far from Home
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000000629A # The Usual Suspects
@@ -149,7 +156,6 @@ collections:
           - Lost Girls and Love Hotels (2020)
           - Lucy (2014)
           - Ma mere (2004)
-          - Malena (2000) 001A
           - Martha Marcy May Marlene (2011)
           - Match Point (2005)
           - Mexican (2001)
@@ -271,7 +277,6 @@ collections:
           - Lord of the Rings (2001) 001B
           - Lord of the Rings (2001) 002B
           - Lord of the Rings (2001) 003B
-          - Malena (2000) 001B
           - Man Who Knew Too Much (1956)
           - Man with the Golden Gun (1974)
           - Marnie (1964)
@@ -445,7 +450,6 @@ collections:
           - Leave No Trace (2018)
           - Lego Movie (2014) 001
           - Lego Movie (2014) 002
-          - Leon The Professional (1994) 001
           - Lie (2020)
           - Live and Let Die (1973)
           - Living Daylights (1987)
@@ -472,8 +476,6 @@ collections:
           - Pirates of the Caribbean (2003) 001
           - Planet Terror (2007)
           - Police Story (1985) 001
-          - Police Story (1985) 002A
-          - Police Story (1985) 002B
           - Prometheus (2012)
           - Promising Young Woman (2020)
           - Ready or Not (2019)

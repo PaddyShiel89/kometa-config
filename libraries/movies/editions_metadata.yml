@@ -1,19 +1,4 @@
 metadata:
-  # Léon: The Professional
-  101:
-    file_background: /config/assets/editions/backgrounds/Leon The Professional (1994).jpg
-    summary: "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade."
-
-  # Malena
-  10867:
-    file_background: /config/assets/editions/backgrounds/Malena (2000).jpg
-    summary: "Amidst the war climate, a teenage boy discovering himself becomes love-stricken by Malèna, a sensual woman living in a small, narrow-minded Italian town."
-
-  # Police Story 2
-  10753:
-    file_background: /config/assets/editions/backgrounds/Police Story 2 (1988).jpg
-    summary: "The Hong Kong supercop must stop a group of blackmailing bombers, while old enemies are out for revenge."
-
   # Salt
   27576:
     file_background: /config/assets/editions/backgrounds/Salt (2010).jpg

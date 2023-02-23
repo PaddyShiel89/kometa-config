@@ -2,30 +2,6 @@ external_templates:
   - repo: templates/collection_type/Edition
 
 collections:
-  "Léon: The Professional":
-    template:
-      - name: Edition
-        poster_file_name: "Leon The Professional (1994)"
-    sort_title: "Léon: The Professional (1994) 001"
-    tmdb_movie: 101
-    summary: "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade."
-
-  "Malèna":
-    template:
-      - name: Edition
-        poster_file_name: "Malena (2000)"
-    sort_title: "Malena (2000) 001"
-    tmdb_movie: 10867
-    summary: "Amidst the war climate, a teenage boy discovering himself becomes love-stricken by Malèna, a sensual woman living in a small, narrow-minded Italian town."
-
-  Police Story 2:
-    template:
-      - name: Edition
-        poster_file_name: "Police Story 2 (1988)"
-    sort_title: "Police Story (1985) 002"
-    tmdb_movie: 10753
-    summary: "The Hong Kong supercop must stop a group of blackmailing bombers, while old enemies are out for revenge."
-
   Salt:
     template:
       - name: Edition
