@@ -42,3 +42,7 @@ collections:
     tmdb_movie: 10867
     sort_title: Malena (2000) 001
     summary: "Amidst the war climate, a teenage boy discovering himself becomes love-stricken by Malèna - a sensual woman living in a small, narrow-minded Italian town."
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

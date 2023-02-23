@@ -1,0 +1,50 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Police Story 2 [Original Hong Kong cut]":
+    title: "Police Story 2"
+    year: 1988
+    edition_filter: Original Hong Kong cut
+    sort_title: Police Story (1985) 002A
+    content_rating: gb/15
+    country.sync: [Hong Kong]
+    director.sync: [Jackie Chan]
+    genre.sync: [Action, Comedy, Crime, Thriller]
+    original_title: "警察故事續集"
+    originally_available: 1988-10-13
+    producer.sync: [Leonard Ho]
+    studio: Golden Harvest Company
+    summary: "The Hong Kong supercop must stop a group of blackmailing bombers, while old enemies are out for revenge."
+    tagline: "Jackie Chan escalates his one-man war on crime."
+    writer.sync: [Jackie Chan, Paul B. Clay, Edward Tang]
+    label: [ID__000010753A]
+
+  "Police Story 2 [Uncut restoration]":
+    title: "Police Story 2"
+    year: 1988
+    edition_filter: Uncut restoration
+    sort_title: Police Story (1985) 002B
+    content_rating: gb/15
+    country.sync: [Hong Kong]
+    director.sync: [Jackie Chan]
+    genre.sync: [Action, Comedy, Crime, Thriller]
+    original_title: "警察故事續集"
+    originally_available: 1988-10-13
+    producer.sync: [Leonard Ho]
+    studio: Golden Harvest Company
+    summary: "The Hong Kong supercop must stop a group of blackmailing bombers, while old enemies are out for revenge."
+    tagline: "Jackie Chan escalates his one-man war on crime."
+    writer.sync: [Jackie Chan, Paul B. Clay, Edward Tang]
+    label: [ID__000010753B]
+
+collections:
+  "Police Story 2":
+    template: { name: Edition }
+    tmdb_movie: 10753
+    sort_title: Police Story (1985) 002
+    summary: "The Hong Kong supercop must stop a group of blackmailing bombers, while old enemies are out for revenge."
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

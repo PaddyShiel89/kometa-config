@@ -39,6 +39,8 @@ collections:
           - ID__000000180A # Minority Report (2002)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales
+          - ID__000010753A # Police Story 2 (1988) [Original Hong Kong cut]
+          - ID__000010753B # Police Story 2 (1988) [Uncut restoration]
           - ID__000634649A # Spider-Man: Far from Home
           - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
@@ -301,8 +303,6 @@ collections:
           - Planet Terror (2007)
           - Platoon (1986)
           - Police Story (1985) 001
-          - Police Story (1985) 002A
-          - Police Story (1985) 002B
           - Predator (1987) 001
           - Predator (1987) 002
           - Predator (1987) 003
