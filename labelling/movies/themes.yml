@@ -19,6 +19,7 @@ collections:
     template: { name: TMDB theme label, theme_name: alternate_timeline }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 180 # Minority Report (2002)
       - 634649 # Spider-Man: No Way Home (2021)
 
@@ -74,6 +75,15 @@ collections:
     tmdb_movie:
       - 629 # The Usual Suspects (1995)
 
+  Theme__demons:
+    template: { name: TMDB theme label, theme_name: demons }
+    tmdb_movie:
+      - 284052 # Doctor Strange (2016)
+      - 453395 # Doctor Strange in the Multiverse of Madness (2022)
+      - 285 # Pirates of the Caribbean: At World's End (2007)
+      - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
+      - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
+
   Theme__drugs:
     template: { name: TMDB theme label, theme_name: drugs }
     tmdb_movie:
@@ -111,6 +121,7 @@ collections:
     template: { name: TMDB theme label, theme_name: magic }
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
+      - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 634649 # Spider-Man: No Way Home (2021)
@@ -221,6 +232,7 @@ collections:
       - 1771 # Captain America: The First Avenger (2011)
       - 299537 # Captain Marvel (2019)
       - 284052 # Doctor Strange (2016)
+      - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 68721 # Iron Man 3 (2013)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
@@ -230,6 +242,7 @@ collections:
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }
     tmdb_movie:
+      - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)

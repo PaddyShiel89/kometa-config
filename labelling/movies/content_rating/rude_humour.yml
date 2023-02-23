@@ -11,4 +11,5 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000453395A # Doctor Strange in the Multiverse of Madness (2022)
           - ID__000634649A # Spider-Man: Far from Home (2019)

@@ -2,6 +2,17 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  BBFC theme lvl 1:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: theme
+        level: 1
+    plex_search:
+      any:
+        label:
+          - ID__000453395A # Doctor Strange in the Multiverse of Madness (2022) - Scenes show characters dealing with grief.
+
   BBFC theme lvl 2:
     template:
       - name: Content rating numeric label

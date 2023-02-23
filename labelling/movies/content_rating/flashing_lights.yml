@@ -1,0 +1,16 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  BBFC flashing lights:
+    template:
+      - name: Content rating static label
+        ratings_board: BBFC
+        content: flashing_lights
+    plex_search:
+      any:
+        label:
+          - ID__000453395A # Doctor Strange in the Multiverse of Madness (2022)
+          - ID__000610253A # Halloween Kills (2021) [Theatrical cut]
+          - ID__000610253B # Halloween Kills (2021) [Extended cut]
+          - ID__000634649A # Spider-Man: No Way Home (2021)

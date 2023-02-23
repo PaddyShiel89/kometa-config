@@ -65,6 +65,7 @@ collections:
       }
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
+      - 453395 # Doctor Strange in the Multiverse of Madness (2022)
 
   Series__Guardians_of_the_Galaxy_2014:
     template:
