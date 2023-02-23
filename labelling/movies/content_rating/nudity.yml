@@ -2,6 +2,17 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  BBFC nudity lvl 1:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: nudity
+        level: 1
+    plex_search:
+      any:
+        label:
+          - ID__000001865A # Pirates of the Caribbean: On Stranger Tides (2011)
+
   BBFC nudity lvl 3:
     template:
       - name: Content rating numeric label

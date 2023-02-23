@@ -135,6 +135,12 @@ collections:
       - 8077 # Alien³ (1992)
       - 8078 # Alien Resurrection (1997)
 
+  Theme__mythical_creatures:
+    template: { name: TMDB theme label, theme_name: mythical_creatures }
+    tmdb_movie:
+      - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
+
   Theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }
     tmdb_movie:
@@ -152,6 +158,7 @@ collections:
     tmdb_movie:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
 
   Theme__police:
     template: { name: TMDB theme label, theme_name: police }
@@ -186,6 +193,7 @@ collections:
       - 68721 # Iron Man 3 (2013)
       - 101 # Léon: The Professional (1995)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 634649 # Spider-Man: No Way Home (2021)
 
   Theme__serial_killer:
@@ -248,17 +256,24 @@ collections:
     template: { name: TMDB theme label, theme_name: treasure_hunt }
     tmdb_movie:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
 
   Theme__voodoo:
     template: { name: TMDB theme label, theme_name: voodoo }
     tmdb_movie:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
+      - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
 
   Theme__world_war_ii:
     template: { name: TMDB theme label, theme_name: world_war_ii }
     tmdb_movie:
       - 1771 # Captain America: The First Avenger (2011)
       - 10867 # Malèna (2000)
+
+  Theme__zombies:
+    template: { name: TMDB theme label, theme_name: zombies }
+    tmdb_movie:
+      - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
 
   "Theme: aliens":
     template:
