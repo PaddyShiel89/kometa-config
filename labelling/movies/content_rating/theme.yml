@@ -12,3 +12,14 @@ collections:
       any:
         label:
           - ID__000497698A # Black Widow (2021) - There is a reference to young girls having to undergo forced hysterectomies.
+
+  BBFC theme lvl 3:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: theme
+        level: 3
+    plex_search:
+      any:
+        label:
+          - ID__000566525A # Shang-Chi and the Legend of the Ten Rings (2021) - A father's abusive treatment of his son is a theme of the film, including in a scene in which the man has the young boy whipped as a punishment. There are references to bereavement.

@@ -48,6 +48,7 @@ collections:
           - ID__000299537A # Captain Marvel (2019)
           - ID__000284052A # Doctor Strange (2016)
           - ID__000068721A # Iron Man 3 (2013)
+          - ID__000566525A # Shang-Chi and the Legend of the Ten Rings (2021)
 
   BBFC injury detail lvl 4:
     template:

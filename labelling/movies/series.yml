@@ -131,6 +131,12 @@ collections:
       - 9056 # Police Story (1985)
       - 10753 # Police Story 2 (1988)
 
+  Series__Shang_Chi_2021:
+    template:
+      { name: TMDB series label, series_name: Shang_Chi, series_year: 2021 }
+    tmdb_movie:
+      - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
+
   Series__Spider_Man_2017:
     template:
       { name: TMDB series label, series_name: Spider_Man, series_year: 2017 }
