@@ -137,6 +137,7 @@ collections:
     tmdb_movie:
       - 315635 # Spider-Man: Homecoming (2017)
       - 429617 # Spider-Man: Far from Home (2019)
+      - 634649 # Spider-Man: No Way Home (2021)
 
   Series__Star_Wars_1977:
     template:

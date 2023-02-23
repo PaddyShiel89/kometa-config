@@ -18,7 +18,9 @@ collections:
   Theme__alternate_timeline:
     template: { name: TMDB theme label, theme_name: alternate_timeline }
     tmdb_movie:
+      - 299534 # Avengers: Endgame (2019)
       - 180 # Minority Report (2002)
+      - 634649 # Spider-Man: No Way Home (2021)
 
   Theme__assassins:
     template: { name: TMDB theme label, theme_name: assassins }
@@ -65,6 +67,7 @@ collections:
       - 10867 # Malèna (2000)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
+      - 634649 # Spider-Man: No Way Home (2021)
 
   Theme__con_artists:
     template: { name: TMDB theme label, theme_name: con_artists }
@@ -110,6 +113,7 @@ collections:
       - 284052 # Doctor Strange (2016)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 634649 # Spider-Man: No Way Home (2021)
 
   Theme__martial_arts:
     template: { name: TMDB theme label, theme_name: martial_arts }
@@ -181,6 +185,7 @@ collections:
       - 68721 # Iron Man 3 (2013)
       - 101 # Léon: The Professional (1995)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 634649 # Spider-Man: No Way Home (2021)
 
   Theme__serial_killer:
     template: { name: TMDB theme label, theme_name: serial_killer }
@@ -209,6 +214,7 @@ collections:
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 68721 # Iron Man 3 (2013)
       - 429617 # Spider-Man: Far from Home (2019)
+      - 634649 # Spider-Man: No Way Home (2021)
 
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }
