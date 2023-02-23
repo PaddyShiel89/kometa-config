@@ -23,6 +23,7 @@ libraries:
       - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
       - repo: metadata/movies/Malena (2000) {tmdb-10867}
       - repo: metadata/movies/Minority Report (2002) {tmdb-180}
+      - repo: metadata/movies/Pirates of the Caribbean At World's End (2007) {tmdb-285}
       - repo: metadata/movies/Pirates of the Caribbean Dead Man's Chest (2006) {tmdb-58}
       - repo: metadata/movies/Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426}
       - repo: metadata/movies/Pirates of the Caribbean On Stranger Tides (2011) {tmdb-1865}

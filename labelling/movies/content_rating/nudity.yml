@@ -11,6 +11,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000001865A # Pirates of the Caribbean: On Stranger Tides (2011)
 
   BBFC nudity lvl 3:

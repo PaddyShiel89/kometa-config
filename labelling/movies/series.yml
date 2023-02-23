@@ -122,6 +122,7 @@ collections:
     tmdb_movie:
       - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
+      - 285 # Pirates of the Caribbean: At World's End (2007)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 

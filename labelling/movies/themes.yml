@@ -156,6 +156,7 @@ collections:
   Theme__pirates:
     template: { name: TMDB theme label, theme_name: pirates }
     tmdb_movie:
+      - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
@@ -229,6 +230,7 @@ collections:
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }
     tmdb_movie:
+      - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
@@ -261,6 +263,7 @@ collections:
   Theme__voodoo:
     template: { name: TMDB theme label, theme_name: voodoo }
     tmdb_movie:
+      - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
 
