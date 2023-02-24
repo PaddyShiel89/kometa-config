@@ -31,6 +31,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000059678A # Attack the Block (2011)
           - ID__000001771A # Captain America - The First Avenger
           - ID__000284052A # Doctor Strange (2016)
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
