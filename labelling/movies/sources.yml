@@ -58,6 +58,7 @@ collections:
           - ID__000001894C # Star Wars: Episode II - Attack of the Clones (2002) [Blu-ray cut]
           - ID__000001895C # Star Wars: Episode III - Revenge of the Sith (2005) [Blu-ray cut]
           - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
+          - ID__000001891D # Star Wars: Episode V - The Empire Strikes Back (1980) [Blu-ray cut]
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000023629A # Sucker Punch (2011) [Theatrical cut]
           - ID__000023629B # Sucker Punch (2011) [Extended cut]
@@ -77,6 +78,8 @@ collections:
           - ID__000000011B # Star Wars: Episode IV - A New Hope [Special edition]
           - ID__000000011E # Star Wars: Episode IV - A New Hope [Despecialized edition]
           - ID__000000011F # Star Wars: Episode IV - A New Hope [Project 4K77]
+          - ID__000001891B # Star Wars: Episode V - The Empire Strikes Back (1980) [Special edition]
+          - ID__000001891E # Star Wars: Episode V - The Empire Strikes Back (1980) [Despecialized edition]
 
   Source__dvd:
     template:
@@ -90,6 +93,8 @@ collections:
           - ID__000001895B # Star Wars: Episode III - Revenge of the Sith (2005) [DVD cut]
           - ID__000000011A # Star Wars: Episode IV - A New Hope [Theatrical cut]
           - ID__000000011C # Star Wars: Episode IV - A New Hope [DVD cut]
+          - ID__000001891A # Star Wars: Episode V - The Empire Strikes Back (1980) [Theatrical cut]
+          - ID__000001891C # Star Wars: Episode V - The Empire Strikes Back (1980) [DVD cut]
 
   Source__netflix:
     template:
@@ -396,7 +401,6 @@ collections:
           - Spirit (2008)
           - Spy Who Loved Me (1977)
           - Star Trek (2009) 001
-          - Star Wars 005 (1980) 2011
           - Star Wars 006 (1983) 2011
           - Star Wars 007 (2015)
           - Star Wars 008 (2017)
@@ -465,8 +469,6 @@ collections:
           - Palm Springs (2020)
           - Sergio (2020)
           - Songbird (2020)
-          - Star Wars 005 (1980) 1997
-          - Star Wars 005 (1980) 2016
           - Star Wars 006 (1983) 1997
           - Star Wars 006 (1983) 2016
           - Star Wars 006 (1983) 2019
@@ -538,8 +540,6 @@ collections:
           - Secretary (2002)
           - Sliver (1993)
           - "South Park: Bigger, Longer & Uncut (1999)"
-          - Star Wars 005 (1980) 1980
-          - Star Wars 005 (1980) 2004
           - Star Wars 006 (1983) 1983
           - Star Wars 006 (1983) 2004
           - Superstar (1999)

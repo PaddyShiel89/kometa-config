@@ -42,6 +42,7 @@ libraries:
       - repo: metadata/movies/Star Wars Episode III - Revenge of the Sith (2005) {tmdb-1895}
       - repo: metadata/movies/Star Wars The Rise of Skywalker (2019) {tmdb-181812}
       - repo: metadata/movies/Sucker Punch (2011) {tmdb-23629}
+      - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
       - repo: metadata/movies/The Wicker Man (1973) {tmdb-16307}
       - repo: labelling/movies/content_rating/alcohol_and_tobacco

@@ -2,14 +2,6 @@ external_templates:
   - repo: templates/collection_type/Edition
 
 collections:
-  "Star Wars: Episode V - The Empire Strikes Back":
-    template:
-      - name: Edition
-        poster_file_name: "Star Wars Episode V - The Empire Strikes Back"
-    sort_title: "Star Wars 005"
-    tmdb_movie: 1891
-    summary: "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett."
-
   "Star Wars: Episode VI - Return of the Jedi":
     template:
       - name: Edition

@@ -1,9 +1,4 @@
 metadata:
-  # "Star Wars: Episode V - The Empire Strikes Back"
-  1891:
-    file_background: /config/assets/editions/backgrounds/Star Wars Episode V - The Empire Strikes Back.jpg
-    summary: "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett."
-
   # "Star Wars: Episode VI - Return of the Jedi"
   1892:
     file_background: /config/assets/editions/backgrounds/Star Wars Episode VI - Return of the Jedi.jpg

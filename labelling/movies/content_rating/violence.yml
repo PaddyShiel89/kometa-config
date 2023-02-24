@@ -19,6 +19,11 @@ collections:
           - ID__000000011D # Star Wars: Episode IV - A New Hope (1977) [Blu-ray cut]
           - ID__000000011E # Star Wars: Episode IV - A New Hope (1977) [Despecialized edition]
           - ID__000000011F # Star Wars: Episode IV - A New Hope (1977) [Project 4K77]
+          - ID__000001891A # Star Wars: Episode V - The Empire Strikes Back (1980) [Theatrical cut]
+          - ID__000001891B # Star Wars: Episode V - The Empire Strikes Back (1980) [Special edition]
+          - ID__000001891C # Star Wars: Episode V - The Empire Strikes Back (1980) [DVD cut]
+          - ID__000001891D # Star Wars: Episode V - The Empire Strikes Back (1980) [Blu-ray cut]
+          - ID__000001891E # Star Wars: Episode V - The Empire Strikes Back (1980) [Despecialized edition]
 
   BBFC violence lvl 3:
     template:
