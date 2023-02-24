@@ -15,6 +15,7 @@ collections:
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 11 # Star Wars (1977)
       - 1893 # Star Wars: Episode I - The Phantom Menace (1999)
+      - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
       - 181812 # Star Wars: The Rise of Skywalker (2019)
 
   Theme__alien_invasion:
@@ -73,6 +74,7 @@ collections:
     template: { name: TMDB theme label, theme_name: clones }
     tmdb_movie:
       - 8078 # Alien Resurrection (1997)
+      - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
 
   Theme__cold_war:
     template: { name: TMDB theme label, theme_name: cold_war }

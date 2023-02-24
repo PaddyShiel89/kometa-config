@@ -1,0 +1,44 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Star Wars: Episode II - Attack of the Clones [DVD cut]":
+    title: "Star Wars: Episode II - Attack of the Clones"
+    year: 2002
+    edition_filter: DVD cut
+    sort_title: Star Wars 002B
+    content_rating: gb/PG
+    country.sync: [United States of America]
+    director.sync: [George Lucas]
+    genre.sync: [Action, Adventure, Fantasy, Science Fiction]
+    originally_available: 2002-05-16
+    producer.sync: [Rick McCallum]
+    studio: "Lucasfilm Ltd."
+    summary: "Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi investigates an assassination attempt on the senator and discovers a secret clone army crafted for the Jedi."
+    tagline: "A Jedi Shall Not Know Anger. Nor Hatred. Nor Love."
+    writer.sync: [George Lucas, Jonathan Hales]
+    label: [ID__000001894B]
+
+  "Star Wars: Episode II - Attack of the Clones [Blu-ray cut]":
+    title: "Star Wars: Episode II - Attack of the Clones"
+    year: 2002
+    edition_filter: Blu-ray cut
+    sort_title: Star Wars 002C
+    content_rating: gb/PG
+    country.sync: [United States of America]
+    director.sync: [George Lucas]
+    genre.sync: [Action, Adventure, Fantasy, Science Fiction]
+    originally_available: 2002-05-16
+    producer.sync: [Rick McCallum]
+    studio: "Lucasfilm Ltd."
+    summary: "Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi investigates an assassination attempt on the senator and discovers a secret clone army crafted for the Jedi."
+    tagline: "A Jedi Shall Not Know Anger. Nor Hatred. Nor Love."
+    writer.sync: [George Lucas, Jonathan Hales]
+    label: [ID__000001894C]
+
+collections:
+  "Star Wars: Episode II - Attack of the Clones":
+    template: { name: Edition }
+    tmdb_movie: 1894
+    sort_title: Star Wars 002
+    summary: "Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi investigates an assassination attempt on the senator and discovers a secret clone army crafted for the Jedi."

@@ -38,6 +38,7 @@ libraries:
       - repo: metadata/movies/Spider-Man No Way Home (2021) {tmdb-634649}
       - repo: metadata/movies/Star Wars (1977) {tmdb-11}
       - repo: metadata/movies/Star Wars Episode I - The Phantom Menace (1999) {tmdb-1893}
+      - repo: metadata/movies/Star Wars Episode II - Attack of the Clones (2002) {tmdb-1894}
       - repo: metadata/movies/Star Wars The Rise of Skywalker (2019) {tmdb-181812}
       - repo: metadata/movies/Sucker Punch (2011) {tmdb-23629}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}

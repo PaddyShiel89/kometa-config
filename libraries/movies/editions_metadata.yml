@@ -1,9 +1,4 @@
 metadata:
-  # "Star Wars: Episode II - Attack of the Clones"
-  1894:
-    file_background: /config/assets/editions/backgrounds/Star Wars Episode II - Attack of the Clones.jpg
-    summary: "Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi investigates an assassination attempt on the senator and discovers a secret clone army crafted for the Jedi."
-
   # "Star Wars: Episode III - Revenge of the Sith"
   1895:
     file_background: /config/assets/editions/backgrounds/Star Wars Episode III - Revenge of the Sith.jpg
