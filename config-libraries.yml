@@ -9,11 +9,14 @@ libraries:
       - repo: metadata/movies/Aliens (1986) {tmdb-679}
       - repo: metadata/movies/American Gangster (2007) {tmdb-4982}
       - repo: metadata/movies/Ant-Man and the Wasp (2018) {tmdb-363088}
+      - repo: metadata/movies/Attack the Block (2011) {tmdb-59678}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
       - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
+      - repo: metadata/movies/Doctor Strange in the Multiverse of Madness (2022) {tmdb-453395}
+      - repo: metadata/movies/Eternals (2021) {tmdb-524434}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
       - repo: metadata/movies/Gladiator (2000) {tmdb-98}
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
@@ -23,10 +26,14 @@ libraries:
       - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
       - repo: metadata/movies/Malena (2000) {tmdb-10867}
       - repo: metadata/movies/Minority Report (2002) {tmdb-180}
+      - repo: metadata/movies/Pirates of the Caribbean At World's End (2007) {tmdb-285}
       - repo: metadata/movies/Pirates of the Caribbean Dead Man's Chest (2006) {tmdb-58}
       - repo: metadata/movies/Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426}
+      - repo: metadata/movies/Pirates of the Caribbean On Stranger Tides (2011) {tmdb-1865}
       - repo: metadata/movies/Police Story 2 (1988) {tmdb-10753}
+      - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}
       - repo: metadata/movies/Spider-Man Far from Home (2019) {tmdb-429617}
+      - repo: metadata/movies/Spider-Man No Way Home (2021) {tmdb-634649}
       - repo: metadata/movies/Star Wars (1977) {tmdb-11}
       - repo: metadata/movies/Star Wars The Rise of Skywalker (2019) {tmdb-181812}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
@@ -34,11 +41,13 @@ libraries:
       - repo: labelling/movies/content_rating/discrimination
       - repo: labelling/movies/content_rating/disturbing_images
       - repo: labelling/movies/content_rating/drugs
+      - repo: labelling/movies/content_rating/flashing_lights
       - repo: labelling/movies/content_rating/injury_detail
       - repo: labelling/movies/content_rating/language
       - repo: labelling/movies/content_rating/nudity
       - repo: labelling/movies/content_rating/rude_humour
       - repo: labelling/movies/content_rating/sex
+      - repo: labelling/movies/content_rating/suicide
       - repo: labelling/movies/content_rating/theme
       - repo: labelling/movies/content_rating/threat_and_horror
       - repo: labelling/movies/content_rating/violence

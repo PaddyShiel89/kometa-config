@@ -65,6 +65,13 @@ collections:
       }
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
+      - 453395 # Doctor Strange in the Multiverse of Madness (2022)
+
+  Series__Eternals_2021:
+    template:
+      { name: TMDB series label, series_name: Eternals, series_year: 2021 }
+    tmdb_movie:
+      - 524434 # Eternals (2021)
 
   Series__Guardians_of_the_Galaxy_2014:
     template:
@@ -122,6 +129,8 @@ collections:
     tmdb_movie:
       - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
+      - 285 # Pirates of the Caribbean: At World's End (2007)
+      - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 
   Series__Police_Story_1985:
@@ -131,12 +140,19 @@ collections:
       - 9056 # Police Story (1985)
       - 10753 # Police Story 2 (1988)
 
+  Series__Shang_Chi_2021:
+    template:
+      { name: TMDB series label, series_name: Shang_Chi, series_year: 2021 }
+    tmdb_movie:
+      - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
+
   Series__Spider_Man_2017:
     template:
       { name: TMDB series label, series_name: Spider_Man, series_year: 2017 }
     tmdb_movie:
       - 315635 # Spider-Man: Homecoming (2017)
       - 429617 # Spider-Man: Far from Home (2019)
+      - 634649 # Spider-Man: No Way Home (2021)
 
   Series__Star_Wars_1977:
     template:

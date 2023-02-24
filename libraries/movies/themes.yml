@@ -156,6 +156,8 @@ collections:
       - name: Theme
         summary: "prominently featuring zombies."
     smart_filter:
-      all:
-        label: "theme: zombies"
+      any:
+        label:
+          - Theme__zombies
+          - "theme: zombies"
       sort_by: title.asc

@@ -1,0 +1,21 @@
+metadata:
+  "Spider-Man: No Way Home":
+    title: "Spider-Man: No Way Home"
+    year: 2021
+    edition_filter: Theatrical cut
+    sort_title: Spider-Man (2017) 003
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Jon Watts, Amy Pascal]
+    genre.sync: [Action, Adventure, Fantasy, Science Fiction]
+    originally_available: 2021-12-15
+    producer.sync: [Kevin Feige]
+    studio: Columbia Pictures
+    summary: "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man."
+    tagline: "The Multiverse Unleashed."
+    writer.sync: [Chris McKenna, Erik Sommers]
+    label: [ID__000634649A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

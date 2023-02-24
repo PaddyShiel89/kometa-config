@@ -12,7 +12,7 @@ collections:
       - name: Smart series
         label_list:
           - Series__Alien_1979
-    sort_title: Alien Collection
+    sort_title: Alien (1979) Collection
     content_rating: gb/15
     summary: 'The Alien series depicts warrant officer Ellen Ripley (Sigourney Weaver) and her battles with an extraterrestrial lifeform, commonly referred to as "the Alien" or Xenomorph.'
 
@@ -26,8 +26,10 @@ collections:
           - Series__Captain_America_2011
           - Series__Captain_Marvel_2019
           - Series__Doctor Strange_2016
+          - Series__Eternals_2021
           - Series__Guardians_of_the_Galaxy_2014
           - Series__Iron_Man_2008
+          - Series__Shang_Chi_2021
           - Series__Spider_Man_2017
           - "series: Black Panther (2018)"
           - "series: The Incredible Hulk (2008)"

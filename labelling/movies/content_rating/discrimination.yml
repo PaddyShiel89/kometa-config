@@ -12,6 +12,7 @@ collections:
       any:
         label:
           - ID__000299537A # Captain Marvel (2019)
+          - ID__000566525A # Shang-Chi and the Legend of the Ten Rings (2021)
 
   BBFC discrimination lvl 4:
     template:

@@ -29,8 +29,10 @@ collections:
         label:
           - ID__000299534A # Avengers: Endgame (2019)
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
+          - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+          - ID__000001865A # Pirates of the Caribbean: On Stranger Tides (2011)
           - ID__000634649A # Spider-Man: Far from Home (2019)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
 
@@ -43,11 +45,15 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000059678A # Attack the Block (2011)
           - ID__000497698A # Black Widow (2021)
           - ID__000001771A # Captain America - The First Avenger
           - ID__000299537A # Captain Marvel (2019)
           - ID__000284052A # Doctor Strange (2016)
+          - ID__000453395A # Doctor Strange in the Multiverse of Madness (2022)
+          - ID__000524434A # Eternals (2021)
           - ID__000068721A # Iron Man 3 (2013)
+          - ID__000566525A # Shang-Chi and the Legend of the Ten Rings (2021)
 
   BBFC injury detail lvl 4:
     template:

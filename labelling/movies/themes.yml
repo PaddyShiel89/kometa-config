@@ -11,14 +11,24 @@ collections:
       - 8078 # Alien Resurrection (1997)
       - 299534 # Avengers: Endgame (2019)
       - 299537 # Captain Marvel (2019)
+      - 524434 # Eternals (2021)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 11 # Star Wars (1977)
       - 181812 # Star Wars: The Rise of Skywalker (2019)
 
+  Theme__alien_invasion:
+    template: { name: TMDB theme label, theme_name: alien_invasion }
+    tmdb_movie:
+      - 59678 # Attack the Block (2011)
+      - 299534 # Avengers: Endgame (2019)
+
   Theme__alternate_timeline:
     template: { name: TMDB theme label, theme_name: alternate_timeline }
     tmdb_movie:
+      - 299534 # Avengers: Endgame (2019)
+      - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 180 # Minority Report (2002)
+      - 634649 # Spider-Man: No Way Home (2021)
 
   Theme__assassins:
     template: { name: TMDB theme label, theme_name: assassins }
@@ -61,20 +71,32 @@ collections:
   Theme__coming_of_age:
     template: { name: TMDB theme label, theme_name: coming_of_age }
     tmdb_movie:
+      - 59678 # Attack the Block (2011)
       - 1771 # Captain America: The First Avenger (2011)
       - 10867 # Malèna (2000)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
+      - 634649 # Spider-Man: No Way Home (2021)
 
   Theme__con_artists:
     template: { name: TMDB theme label, theme_name: con_artists }
     tmdb_movie:
       - 629 # The Usual Suspects (1995)
 
+  Theme__demons:
+    template: { name: TMDB theme label, theme_name: demons }
+    tmdb_movie:
+      - 284052 # Doctor Strange (2016)
+      - 453395 # Doctor Strange in the Multiverse of Madness (2022)
+      - 285 # Pirates of the Caribbean: At World's End (2007)
+      - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
+      - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
+
   Theme__drugs:
     template: { name: TMDB theme label, theme_name: drugs }
     tmdb_movie:
       - 4982 # American Gangster (2007)
+      - 59678 # Attack the Block (2011)
 
   Theme__dystopian:
     template: { name: TMDB theme label, theme_name: dystopian }
@@ -108,14 +130,17 @@ collections:
     template: { name: TMDB theme label, theme_name: magic }
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
+      - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 634649 # Spider-Man: No Way Home (2021)
 
   Theme__martial_arts:
     template: { name: TMDB theme label, theme_name: martial_arts }
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
       - 10753 # Police Story 2 (1988)
+      - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
 
   Theme__mental_health:
     template: { name: TMDB theme label, theme_name: mental_health }
@@ -129,6 +154,18 @@ collections:
       - 679 # Aliens (1986)
       - 8077 # Alien³ (1992)
       - 8078 # Alien Resurrection (1997)
+      - 59678 # Attack the Block (2011)
+
+  Theme__mythology:
+    template: { name: TMDB theme label, theme_name: mythology }
+    tmdb_movie:
+      - 524434 # Eternals (2021)
+
+  Theme__mythical_creatures:
+    template: { name: TMDB theme label, theme_name: mythical_creatures }
+    tmdb_movie:
+      - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
 
   Theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }
@@ -145,8 +182,10 @@ collections:
   Theme__pirates:
     template: { name: TMDB theme label, theme_name: pirates }
     tmdb_movie:
+      - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
 
   Theme__police:
     template: { name: TMDB theme label, theme_name: police }
@@ -181,6 +220,8 @@ collections:
       - 68721 # Iron Man 3 (2013)
       - 101 # Léon: The Professional (1995)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 634649 # Spider-Man: No Way Home (2021)
 
   Theme__serial_killer:
     template: { name: TMDB theme label, theme_name: serial_killer }
@@ -206,15 +247,22 @@ collections:
       - 1771 # Captain America: The First Avenger (2011)
       - 299537 # Captain Marvel (2019)
       - 284052 # Doctor Strange (2016)
+      - 453395 # Doctor Strange in the Multiverse of Madness (2022)
+      - 524434 # Eternals (2021)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 68721 # Iron Man 3 (2013)
+      - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 429617 # Spider-Man: Far from Home (2019)
+      - 634649 # Spider-Man: No Way Home (2021)
 
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }
     tmdb_movie:
+      - 453395 # Doctor Strange in the Multiverse of Madness (2022)
+      - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
 
   Theme__survival:
     template: { name: TMDB theme label, theme_name: survival }
@@ -239,17 +287,25 @@ collections:
     template: { name: TMDB theme label, theme_name: treasure_hunt }
     tmdb_movie:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
 
   Theme__voodoo:
     template: { name: TMDB theme label, theme_name: voodoo }
     tmdb_movie:
+      - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
+      - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
 
   Theme__world_war_ii:
     template: { name: TMDB theme label, theme_name: world_war_ii }
     tmdb_movie:
       - 1771 # Captain America: The First Avenger (2011)
       - 10867 # Malèna (2000)
+
+  Theme__zombies:
+    template: { name: TMDB theme label, theme_name: zombies }
+    tmdb_movie:
+      - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
 
   "Theme: aliens":
     template:
