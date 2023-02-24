@@ -2,10 +2,10 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "The Wicker Man [Theatrical cut]":
+  "The Wicker Man [UK theatrical cut]":
     title: The Wicker Man
     year: 1973
-    edition_filter: Theatrical cut
+    edition_filter: UK theatrical cut
     sort_title: The Wicker Man (1973) 001A
     content_rating: gb/15
     country.sync: [United Kingdom]
