@@ -15,6 +15,9 @@ collections:
           - ID__000000011F # Star Wars: Episode IV - A New Hope [Project 4K77]
           - ID__000001891B # Star Wars: Episode V - The Empire Strikes Back (1980) [Special edition]
           - ID__000001891E # Star Wars: Episode V - The Empire Strikes Back (1980) [Despecialized edition]
+          - ID__000001892B # Star Wars: Episode VI - Return of the Jedi (1983) [Special edition]
+          - ID__000001892E # Star Wars: Episode VI - Return of the Jedi (1983) [Despecialized edition]
+          - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
 
   Ownership__loaned:
     template:
@@ -46,6 +49,9 @@ collections:
           - ID__000001891A # Star Wars: Episode V - The Empire Strikes Back (1980) [Theatrical cut]
           - ID__000001891C # Star Wars: Episode V - The Empire Strikes Back (1980) [DVD cut]
           - ID__000001891D # Star Wars: Episode V - The Empire Strikes Back (1980) [Blu-ray cut]
+          - ID__000001892A # Star Wars: Episode VI - Return of the Jedi (1983) [Theatrical cut]
+          - ID__000001892C # Star Wars: Episode VI - Return of the Jedi (1983) [DVD cut]
+          - ID__000001892D # Star Wars: Episode VI - Return of the Jedi (1983) [Blu-ray cut]
           - ID__000023629A # Sucker Punch (2011) [Theatrical cut]
           - ID__000023629B # Sucker Punch (2011) [Extended cut]
 
@@ -215,12 +221,6 @@ collections:
           - Skyfall (2012)
           - "Solo: A Star Wars Story (2018)"
           - Star Trek (2009) 001
-          - Star Wars 006 (1983) 1983
-          - Star Wars 006 (1983) 1997
-          - Star Wars 006 (1983) 2004
-          - Star Wars 006 (1983) 2011
-          - Star Wars 006 (1983) 2016
-          - Star Wars 006 (1983) 2019
           - Star Wars 007 (2015)
           - Star Wars 008 (2017)
           - Star Wars Rebels (2014) 001

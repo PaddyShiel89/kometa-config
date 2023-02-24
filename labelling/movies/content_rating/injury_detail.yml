@@ -22,6 +22,12 @@ collections:
           - ID__000001891C # Star Wars: Episode V - The Empire Strikes Back (1980) [DVD cut]
           - ID__000001891D # Star Wars: Episode V - The Empire Strikes Back (1980) [Blu-ray cut]
           - ID__000001891E # Star Wars: Episode V - The Empire Strikes Back (1980) [Despecialized edition]
+          - ID__000001892A # Star Wars: Episode VI - Return of the Jedi (1983) [Theatrical cut]
+          - ID__000001892B # Star Wars: Episode VI - Return of the Jedi (1983) [Special edition]
+          - ID__000001892C # Star Wars: Episode VI - Return of the Jedi (1983) [DVD cut]
+          - ID__000001892D # Star Wars: Episode VI - Return of the Jedi (1983) [Blu-ray cut]
+          - ID__000001892E # Star Wars: Episode VI - Return of the Jedi (1983) [Despecialized edition]
+          - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
 
   BBFC injury detail lvl 2:
     template:

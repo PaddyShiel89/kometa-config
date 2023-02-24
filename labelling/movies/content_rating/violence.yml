@@ -2,6 +2,22 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  BBFC violence lvl 1:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: violence
+        level: 1
+    plex_search:
+      any:
+        label:
+          - ID__000001892A # Star Wars: Episode VI - Return of the Jedi (1983) [Theatrical cut]
+          - ID__000001892B # Star Wars: Episode VI - Return of the Jedi (1983) [Special edition]
+          - ID__000001892C # Star Wars: Episode VI - Return of the Jedi (1983) [DVD cut]
+          - ID__000001892D # Star Wars: Episode VI - Return of the Jedi (1983) [Blu-ray cut]
+          - ID__000001892E # Star Wars: Episode VI - Return of the Jedi (1983) [Despecialized edition]
+          - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
+
   BBFC violence lvl 2:
     template:
       - name: Content rating numeric label

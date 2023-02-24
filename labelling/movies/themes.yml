@@ -13,6 +13,7 @@ collections:
       - 299537 # Captain Marvel (2019)
       - 524434 # Eternals (2021)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
+      - 1892 # Return of the Jedi (1983)
       - 11 # Star Wars (1977)
       - 1893 # Star Wars: Episode I - The Phantom Menace (1999)
       - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
@@ -374,7 +375,6 @@ collections:
           - "Solo: A Star Wars Story (2018)"
           - Species (1995) 001
           - Star Trek (2009) 001
-          - Star Wars 006 (1983)
           - Star Wars 007 (2015)
           - Star Wars 008 (2017)
           - Star Wars Rebels (2014) 001

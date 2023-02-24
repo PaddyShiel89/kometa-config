@@ -31,15 +31,14 @@ collections:
           - ID__000001891C # Star Wars: Episode V - The Empire Strikes Back (1980) [DVD cut]
           - ID__000001891D # Star Wars: Episode V - The Empire Strikes Back (1980) [Blu-ray cut]
           - ID__000001891E # Star Wars: Episode V - The Empire Strikes Back (1980) [Despecialized edition]
+          - ID__000001892B # Star Wars: Episode VI - Return of the Jedi (1983) [Special edition]
+          - ID__000001892C # Star Wars: Episode VI - Return of the Jedi (1983) [DVD cut]
+          - ID__000001892D # Star Wars: Episode VI - Return of the Jedi (1983) [Blu-ray cut]
+          - ID__000001892E # Star Wars: Episode VI - Return of the Jedi (1983) [Despecialized edition]
+          - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
           - ID__000023629B # Sucker Punch (2011) [Extended cut]
           - ID__000016307B # The Wicker Man (1973) [Director's cut]
           - ID__000016307C # The Wicker Man (1973) [The Final Cut]
-        title:
-          - Star Wars 006 (1983) 1997
-          - Star Wars 006 (1983) 2004
-          - Star Wars 006 (1983) 2011
-          - Star Wars 006 (1983) 2016
-          - Star Wars 006 (1983) 2019
     item_label: "Secondary_Cut"
     build_collection: false
     sync_mode: sync
@@ -54,11 +53,11 @@ collections:
           - ID__000001895C # Star Wars: Episode III - Revenge of the Sith (2005) [Blu-ray cut]
           - ID__000000011F # Star Wars: Episode IV - A New Hope [Project 4K77]
           - ID__000001891E # Star Wars: Episode V - The Empire Strikes Back (1980) [Despecialized edition]
+          - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
         title:
           - "Rogue One: A Star Wars Story (2016)"
           - "Solo: A Star Wars Story (2018)"
-          - Star Wars 006 (1983) 2019
           - Star Wars 007 (2015)
           - Star Wars 008 (2017)
     item_label: "Edition_Star_Wars_Definitive"

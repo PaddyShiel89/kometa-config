@@ -31,6 +31,7 @@ libraries:
       - repo: metadata/movies/Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426}
       - repo: metadata/movies/Pirates of the Caribbean On Stranger Tides (2011) {tmdb-1865}
       - repo: metadata/movies/Police Story 2 (1988) {tmdb-10753}
+      - repo: metadata/movies/Return of the Jedi (1983) {tmdb-1892}
       - repo: metadata/movies/Salt (2010) {tmdb-27576}
       - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}
       - repo: metadata/movies/Spider-Man 2 (2004) {tmdb-558}
@@ -59,7 +60,6 @@ libraries:
       - repo: labelling/movies/content_rating/theme
       - repo: labelling/movies/content_rating/threat_and_horror
       - repo: labelling/movies/content_rating/violence
-      - repo: labelling/movies/editions
       - repo: labelling/movies/ownership
       - repo: labelling/movies/restrictions
       - repo: labelling/movies/series
