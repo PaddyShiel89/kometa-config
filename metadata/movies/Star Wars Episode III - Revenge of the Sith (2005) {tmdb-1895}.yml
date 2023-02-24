@@ -1,0 +1,44 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Star Wars: Episode III - Revenge of the Sith [DVD cut]":
+    title: "Star Wars: Episode III - Revenge of the Sith"
+    year: 2005
+    edition_filter: DVD cut
+    sort_title: Star Wars 003B
+    content_rating: gb/12
+    country.sync: [Italy, Switzerland, Thailand, United States of America]
+    director.sync: [George Lucas]
+    genre.sync: [Action, Adventure, Fantasy, Science Fiction]
+    originally_available: 2005-05-19
+    producer.sync: [Rick McCallum]
+    studio: "Lucasfilm Ltd."
+    summary: "Three years into the Clone Wars, Obi-Wan pursues a new threat, while Anakin is lured by Chancellor Palpatine into a sinister plot to rule the galaxy."
+    tagline: "The saga is complete."
+    writer.sync: [George Lucas]
+    label: [ID__000001895B]
+
+  "Star Wars: Episode III - Revenge of the Sith [Blu-ray cut]":
+    title: "Star Wars: Episode III - Revenge of the Sith"
+    year: 2005
+    edition_filter: Blu-ray cut
+    sort_title: Star Wars 003C
+    content_rating: gb/12
+    country.sync: [Italy, Switzerland, Thailand, United States of America]
+    director.sync: [George Lucas]
+    genre.sync: [Action, Adventure, Fantasy, Science Fiction]
+    originally_available: 2005-05-19
+    producer.sync: [Rick McCallum]
+    studio: "Lucasfilm Ltd."
+    summary: "Three years into the Clone Wars, Obi-Wan pursues a new threat, while Anakin is lured by Chancellor Palpatine into a sinister plot to rule the galaxy."
+    tagline: "The saga is complete."
+    writer.sync: [George Lucas]
+    label: [ID__000001895C]
+
+collections:
+  "Star Wars: Episode III - Revenge of the Sith":
+    template: { name: Edition }
+    tmdb_movie: 1895
+    sort_title: Star Wars 003
+    summary: "Three years into the Clone Wars, Obi-Wan pursues a new threat, while Anakin is lured by Chancellor Palpatine into a sinister plot to rule the galaxy."

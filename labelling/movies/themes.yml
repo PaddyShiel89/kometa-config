@@ -16,6 +16,7 @@ collections:
       - 11 # Star Wars (1977)
       - 1893 # Star Wars: Episode I - The Phantom Menace (1999)
       - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
+      - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
       - 181812 # Star Wars: The Rise of Skywalker (2019)
 
   Theme__alien_invasion:
@@ -251,6 +252,7 @@ collections:
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 27576 # Salt (2010)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
 
   Theme__serial_killer:
     template: { name: TMDB theme label, theme_name: serial_killer }
@@ -371,8 +373,6 @@ collections:
           - "Solo: A Star Wars Story (2018)"
           - Species (1995) 001
           - Star Trek (2009) 001
-          - Star Wars 002 (2002)
-          - Star Wars 003 (2005)
           - Star Wars 005 (1980)
           - Star Wars 006 (1983)
           - Star Wars 007 (2015)

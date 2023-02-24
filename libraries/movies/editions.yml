@@ -2,14 +2,6 @@ external_templates:
   - repo: templates/collection_type/Edition
 
 collections:
-  "Star Wars: Episode III - Revenge of the Sith":
-    template:
-      - name: Edition
-        poster_file_name: "Star Wars Episode III - Revenge of the Sith"
-    sort_title: "Star Wars 003"
-    tmdb_movie: 1895
-    summary: "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-Wan pursues a new threat, Anakin is lured into a sinister plan to rule the galaxy."
-
   "Star Wars: Episode V - The Empire Strikes Back":
     template:
       - name: Edition

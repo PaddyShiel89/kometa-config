@@ -57,7 +57,6 @@ collections:
           - Saboteur (1942)
           - "Santa Claus: The Movie (1985)"
           - Shame (2011)
-          - Star Wars 001
           - Star Wars 006
           - "Star Wars: The Clone Wars (2008)"
           - Star Wars Holiday Special (1978)
@@ -385,14 +384,6 @@ collections:
           - Transformers (2007) 003
           - View to a Kill (1985)
           - World is Not Enough (1999)
-
-  "Content: violence (adventure)":
-    template:
-      - name: Content label
-        content: violence
-        level: adventure
-        title_list:
-          - Star Wars 001
 
   "Content: violence (battle)":
     template:
