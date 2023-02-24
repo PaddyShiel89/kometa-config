@@ -59,6 +59,9 @@ collections:
           - ID__000023629A # Sucker Punch (2011) [Theatrical cut]
           - ID__000023629B # Sucker Punch (2011) [Extended cut]
           - ID__000000629A # The Usual Suspects
+          - ID__000016307A # The Wicker Man (1973) [Theatrical cut]
+          - ID__000016307B # The Wicker Man (1973) [Director's cut]
+          - ID__000016307C # The Wicker Man (1973) [The Final Cut]
 
   Source__download:
     template:
@@ -432,9 +435,6 @@ collections:
           - Watchmen (2009)
           - What the Peeper Saw (1972)
           - What We Do in the Shadows (2014)
-          - Wicker Man (1973) 001A
-          - Wicker Man (1973) 001B
-          - Wicker Man (1973) 001C
           - Witch (2015)
           - Wolf of Wall Street (2013)
           - Wonder Woman (2017) 001

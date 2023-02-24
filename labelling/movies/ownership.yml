@@ -112,6 +112,9 @@ collections:
           - ID__000634649A # Spider-Man: No Way Home (2021)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000000629A # The Usual Suspects
+          - ID__000016307A # The Wicker Man (1973) [Theatrical cut]
+          - ID__000016307B # The Wicker Man (1973) [Director's cut]
+          - ID__000016307C # The Wicker Man (1973) [The Final Cut]
 
   "Ownership: own":
     template:
@@ -548,9 +551,6 @@ collections:
           - Wasp Network (2020)
           - What We Do in the Shadows (2014)
           - Whole Nine Yards (2000)
-          - Wicker Man (1973) 001A
-          - Wicker Man (1973) 001B
-          - Wicker Man (1973) 001C
           - Witch (2015)
           - Wonder Woman (2017) 002
           - X (2022)

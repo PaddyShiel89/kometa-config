@@ -1,0 +1,61 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "The Wicker Man [Theatrical cut]":
+    title: The Wicker Man
+    year: 1973
+    edition_filter: Theatrical cut
+    sort_title: The Wicker Man (1973) 001A
+    content_rating: gb/15
+    country.sync: [United Kingdom]
+    director.sync: [Robin Hardy]
+    genre.sync: [Horror, Mystery, Thriller]
+    originally_available: 1973-12-06
+    producer.sync: [Peter Snell]
+    studio: British Lion Film Corporation
+    summary: "A puritan Police Sergeant arrives in a Scottish island village in search of a missing girl, who the Pagan locals claim never existed."
+    tagline: "Flesh to touch...Flesh to burn! Don't keep the Wicker Man waiting!"
+    writer.sync: [Anthony Shaffer, David Pinner]
+    label: [ID__000016307A]
+
+  "The Wicker Man [Director's cut]":
+    title: The Wicker Man
+    year: 1973
+    edition_filter: Director's cut
+    sort_title: The Wicker Man (1973) 001B
+    content_rating: gb/15
+    country.sync: [United Kingdom]
+    director.sync: [Robin Hardy]
+    genre.sync: [Horror, Mystery, Thriller]
+    originally_available: 1973-12-06
+    producer.sync: [Peter Snell]
+    studio: British Lion Film Corporation
+    summary: "A puritan Police Sergeant arrives in a Scottish island village in search of a missing girl, who the Pagan locals claim never existed."
+    tagline: "Flesh to touch...Flesh to burn! Don't keep the Wicker Man waiting!"
+    writer.sync: [Anthony Shaffer, David Pinner]
+    label: [ID__000016307B]
+
+  "The Wicker Man [The Final Cut]":
+    title: The Wicker Man
+    year: 1973
+    edition_filter: The Final Cut
+    sort_title: The Wicker Man (1973) 001A
+    content_rating: gb/15
+    country.sync: [United Kingdom]
+    director.sync: [Robin Hardy]
+    genre.sync: [Horror, Mystery, Thriller]
+    originally_available: 1973-12-06
+    producer.sync: [Peter Snell]
+    studio: British Lion Film Corporation
+    summary: "A puritan Police Sergeant arrives in a Scottish island village in search of a missing girl, who the Pagan locals claim never existed."
+    tagline: "Flesh to touch...Flesh to burn! Don't keep the Wicker Man waiting!"
+    writer.sync: [Anthony Shaffer, David Pinner]
+    label: [ID__000016307C]
+
+collections:
+  "The Wicker Man":
+    template: { name: Edition }
+    tmdb_movie: 16307
+    sort_title: The Wicker Man (1973) 001
+    summary: "A puritan Police Sergeant arrives in a Scottish island village in search of a missing girl, who the Pagan locals claim never existed."

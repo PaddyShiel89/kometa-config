@@ -35,6 +35,11 @@ collections:
     tmdb_movie:
       - 101 # Léon: The Professional (1995)
 
+  Theme__based_on_a_book:
+    template: { name: TMDB theme label, theme_name: based_on_a_book }
+    tmdb_movie:
+      - 16307 # The Wicker Man (1973)
+
   Theme__based_on_works_by_philip_k_dick:
     template:
       { name: TMDB theme label, theme_name: based_on_works_by_philip_k_dick }
@@ -87,6 +92,11 @@ collections:
     template: { name: TMDB theme label, theme_name: con_artists }
     tmdb_movie:
       - 629 # The Usual Suspects (1995)
+
+  Theme__cult:
+    template: { name: TMDB theme label, theme_name: cult }
+    tmdb_movie:
+      - 16307 # The Wicker Man (1973)
 
   Theme__demons:
     template: { name: TMDB theme label, theme_name: demons }
@@ -162,10 +172,17 @@ collections:
       - 8078 # Alien Resurrection (1997)
       - 59678 # Attack the Block (2011)
 
+  Theme__murder:
+    template: { name: TMDB theme label, theme_name: murder }
+    tmdb_movie:
+      - 16307 # The Wicker Man (1973)
+      - 629 # The Usual Suspects (1995)
+
   Theme__mythology:
     template: { name: TMDB theme label, theme_name: mythology }
     tmdb_movie:
       - 524434 # Eternals (2021)
+      - 16307 # The Wicker Man (1973)
 
   Theme__mythical_creatures:
     template: { name: TMDB theme label, theme_name: mythical_creatures }
@@ -197,6 +214,8 @@ collections:
     template: { name: TMDB theme label, theme_name: police }
     tmdb_movie:
       - 10753 # Police Story 2 (1988)
+      - 16307 # The Wicker Man (1973)
+      - 629 # The Usual Suspects (1995)
 
   Theme__post_apocalyptic:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
@@ -446,7 +465,6 @@ collections:
         theme: "folk & cult"
         title_list:
           - Indiana Jones (1981) 002
-          - Wicker Man (1973) 001
 
   "Theme: found footage":
     template:

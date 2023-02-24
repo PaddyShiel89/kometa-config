@@ -41,11 +41,3 @@ collections:
     sort_title: "Star Wars 006"
     tmdb_movie: 1892
     summary: "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side."
-
-  "Wicker Man":
-    template:
-      - name: Edition
-        poster_file_name: "Wicker Man (1973)"
-    sort_title: "Wicker Man (1973) 001"
-    tmdb_movie: 16307
-    summary: "A puritan police sergeant arrives in a Scottish island village in search of a missing girl, who the Pagan locals claim never existed."
