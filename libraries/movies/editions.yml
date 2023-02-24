@@ -2,14 +2,6 @@ external_templates:
   - repo: templates/collection_type/Edition
 
 collections:
-  "Spider-Man 2":
-    template:
-      - name: Edition
-        poster_file_name: "Spider-Man 2 (2004)"
-    sort_title: "Spider-Man (2002) 002"
-    tmdb_movie: 558
-    summary: "Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius."
-
   "Star Wars: Episode I - The Phantom Menace":
     template:
       - name: Edition

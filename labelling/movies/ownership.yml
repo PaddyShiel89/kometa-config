@@ -57,6 +57,7 @@ collections:
           - ID__000027576A # Salt (2010) [Theatrical cut]
           - ID__000027576B # Salt (2010) [Extended cut]
           - ID__000027576C # Salt (2010) [Director's cut]
+          - ID__000000558A # Spider-Man 2 (2004) [Theatrical cut]
 
   Ownership__rented:
     template:
@@ -103,6 +104,8 @@ collections:
           - ID__000027576B # Salt (2010) [Extended cut]
           - ID__000027576C # Salt (2010) [Director's cut]
           - ID__000566525A # Shang-Chi and the Legend of the Ten Rings (2021)
+          - ID__000000558A # Spider-Man 2 (2004) [Theatrical cut]
+          - ID__000000558B # Spider-Man 2.1 (2004) [Extended edition]
           - ID__000634649A # Spider-Man: Far from Home
           - ID__000634649A # Spider-Man: No Way Home (2021)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
@@ -334,7 +337,6 @@ collections:
           - Shawshank Redemption (1994)
           - Silence of the Lambs (1991)
           - Sin City (2005) 001
-          - Spider-Man (2002) 002A
           - Super 8 (2011)
           - Taken (2008) 001
           - Taxi Driver (1976)
@@ -526,7 +528,6 @@ collections:
           - "South Park: Bigger, Longer & Uncut (1999)"
           - Species (1995) 001
           - Spectre (2015)
-          - Spider-Man (2002) 002B 2.1
           - Spider-Man (2017) 001
           - Spiral (2021)
           - Spirit (2008)

@@ -1,0 +1,44 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Spider-Man 2 [Theatrical cut]":
+    title: Spider-Man 2
+    year: 2004
+    edition_filter: Theatrical cut
+    sort_title: Spider-Man (2002) 002A
+    content_rating: gb/PG
+    country.sync: [United States of America]
+    director.sync: [Sam Raimi]
+    genre.sync: [Action, Adventure, Science Fiction]
+    originally_available: 2004-07-16
+    producer.sync: [Avi Arad, Laura Ziskin]
+    studio: Columbia Pictures
+    summary: "Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius."
+    tagline: This summer a man will face his destiny. A hero will be revealed.
+    writer.sync: [Alfred Gough, Miles Millar, Michael Chabon, Alvin Sargent]
+    label: [ID__000000558A]
+
+  "Spider-Man 2.1 [Extended edition]":
+    title: Spider-Man 2.1
+    year: 2004
+    edition_filter: Extended edition
+    sort_title: Spider-Man (2002) 002B
+    content_rating: gb/PG
+    country.sync: [United States of America]
+    director.sync: [Sam Raimi]
+    genre.sync: [Action, Adventure, Science Fiction]
+    originally_available: 2004-07-16
+    producer.sync: [Avi Arad, Laura Ziskin]
+    studio: Columbia Pictures
+    summary: "Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius."
+    tagline: This summer a man will face his destiny. A hero will be revealed.
+    writer.sync: [Alfred Gough, Miles Millar, Michael Chabon, Alvin Sargent]
+    label: [ID__000000558B]
+
+collections:
+  "Spider-Man 2":
+    template: { name: Edition }
+    tmdb_movie: 558
+    sort_title: Spider-Man (2002) 002
+    summary: "Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius."

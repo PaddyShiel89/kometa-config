@@ -146,6 +146,12 @@ collections:
     tmdb_movie:
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
 
+  Series__Spider_Man_2002:
+    template:
+      { name: TMDB series label, series_name: Spider_Man, series_year: 2002 }
+    tmdb_movie:
+      - 558 # Spider-Man 2 (2004)
+
   Series__Spider_Man_2017:
     template:
       { name: TMDB series label, series_name: Spider_Man, series_year: 2017 }
@@ -537,15 +543,6 @@ collections:
         title_list:
           - "Ong-Bak: Muay Thai Warrior (2003)"
 
-  "Series: Police Story (1985)":
-    template:
-      - name: Series label
-        series: "Police Story (1985)"
-        title_list:
-          - Police Story (1985) 001
-          - Police Story (1985) 002A
-          - Police Story (1985) 002B
-
   "Series: Predator (1987)":
     template:
       - name: Series label
@@ -666,13 +663,6 @@ collections:
         series: "Species (1995)"
         title_list:
           - Species (1995) 001
-
-  "Series: Spider-Man (2002)":
-    template:
-      - name: Series label
-        series: "Spider-Man (2002)"
-        title_list:
-          - Spider-Man (2002) 002
 
   "Series: Star Trek (2009)":
     template:
