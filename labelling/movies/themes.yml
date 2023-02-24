@@ -13,8 +13,13 @@ collections:
       - 299537 # Captain Marvel (2019)
       - 524434 # Eternals (2021)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
+      - 1892 # Return of the Jedi (1983)
       - 11 # Star Wars (1977)
+      - 1893 # Star Wars: Episode I - The Phantom Menace (1999)
+      - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
+      - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
       - 181812 # Star Wars: The Rise of Skywalker (2019)
+      - 1891 # The Empire Strikes Back (1980)
 
   Theme__alien_invasion:
     template: { name: TMDB theme label, theme_name: alien_invasion }
@@ -34,6 +39,11 @@ collections:
     template: { name: TMDB theme label, theme_name: assassins }
     tmdb_movie:
       - 101 # Léon: The Professional (1995)
+
+  Theme__based_on_a_book:
+    template: { name: TMDB theme label, theme_name: based_on_a_book }
+    tmdb_movie:
+      - 16307 # The Wicker Man (1973)
 
   Theme__based_on_works_by_philip_k_dick:
     template:
@@ -67,6 +77,12 @@ collections:
     template: { name: TMDB theme label, theme_name: clones }
     tmdb_movie:
       - 8078 # Alien Resurrection (1997)
+      - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
+
+  Theme__cold_war:
+    template: { name: TMDB theme label, theme_name: cold_war }
+    tmdb_movie:
+      - 27576 # Salt (2010)
 
   Theme__coming_of_age:
     template: { name: TMDB theme label, theme_name: coming_of_age }
@@ -82,6 +98,11 @@ collections:
     template: { name: TMDB theme label, theme_name: con_artists }
     tmdb_movie:
       - 629 # The Usual Suspects (1995)
+
+  Theme__cult:
+    template: { name: TMDB theme label, theme_name: cult }
+    tmdb_movie:
+      - 16307 # The Wicker Man (1973)
 
   Theme__demons:
     template: { name: TMDB theme label, theme_name: demons }
@@ -146,6 +167,7 @@ collections:
     template: { name: TMDB theme label, theme_name: mental_health }
     tmdb_movie:
       - 68721 # Iron Man 3 (2013)
+      - 23629 # Sucker Punch (2011)
 
   Theme__monsters:
     template: { name: TMDB theme label, theme_name: monsters }
@@ -156,10 +178,17 @@ collections:
       - 8078 # Alien Resurrection (1997)
       - 59678 # Attack the Block (2011)
 
+  Theme__murder:
+    template: { name: TMDB theme label, theme_name: murder }
+    tmdb_movie:
+      - 16307 # The Wicker Man (1973)
+      - 629 # The Usual Suspects (1995)
+
   Theme__mythology:
     template: { name: TMDB theme label, theme_name: mythology }
     tmdb_movie:
       - 524434 # Eternals (2021)
+      - 16307 # The Wicker Man (1973)
 
   Theme__mythical_creatures:
     template: { name: TMDB theme label, theme_name: mythical_creatures }
@@ -191,6 +220,8 @@ collections:
     template: { name: TMDB theme label, theme_name: police }
     tmdb_movie:
       - 10753 # Police Story 2 (1988)
+      - 16307 # The Wicker Man (1973)
+      - 629 # The Usual Suspects (1995)
 
   Theme__post_apocalyptic:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
@@ -221,7 +252,9 @@ collections:
       - 101 # Léon: The Professional (1995)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 27576 # Salt (2010)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
 
   Theme__serial_killer:
     template: { name: TMDB theme label, theme_name: serial_killer }
@@ -237,6 +270,12 @@ collections:
     template: { name: TMDB theme label, theme_name: spies }
     tmdb_movie:
       - 497698 # Black Widow (2021)
+      - 27576 # Salt (2010)
+
+  Theme__steampunk:
+    template: { name: TMDB theme label, theme_name: steampunk }
+    tmdb_movie:
+      - 23629 # Sucker Punch (2011)
 
   Theme__superheroes:
     template: { name: TMDB theme label, theme_name: superheroes }
@@ -252,6 +291,7 @@ collections:
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 68721 # Iron Man 3 (2013)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
+      - 558 # Spider-Man 2 (2004)
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
 
@@ -335,11 +375,6 @@ collections:
           - "Solo: A Star Wars Story (2018)"
           - Species (1995) 001
           - Star Trek (2009) 001
-          - Star Wars 001 (1999)
-          - Star Wars 002 (2002)
-          - Star Wars 003 (2005)
-          - Star Wars 005 (1980)
-          - Star Wars 006 (1983)
           - Star Wars 007 (2015)
           - Star Wars 008 (2017)
           - Star Wars Rebels (2014) 001
@@ -432,7 +467,6 @@ collections:
         theme: "folk & cult"
         title_list:
           - Indiana Jones (1981) 002
-          - Wicker Man (1973) 001
 
   "Theme: found footage":
     template:

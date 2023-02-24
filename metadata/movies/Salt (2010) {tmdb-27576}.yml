@@ -1,0 +1,65 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Salt [Theatrical cut]":
+    title: Salt
+    year: 2010
+    edition_filter: Theatrical cut
+    sort_title: Salt (2010) 001A
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Phillip Noyce, Sunil Perkash]
+    genre.sync: [Action, Thriller]
+    originally_available: 2010-08-18
+    producer.sync: [Lorenzo di Bonaventura]
+    studio: Columbia Pictures
+    summary: "A CIA agent goes on the run after a defector accuses her of being a Russian spy."
+    tagline: "Who is Salt?"
+    writer.sync: [Kurt Wimmer]
+    label: [ID__000027576A]
+
+  "Salt [Extended cut]":
+    title: Salt
+    year: 2010
+    edition_filter: Extended cut
+    sort_title: Salt (2010) 001B
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Phillip Noyce, Sunil Perkash]
+    genre.sync: [Action, Thriller]
+    originally_available: 2010-08-18
+    producer.sync: [Lorenzo di Bonaventura]
+    studio: Columbia Pictures
+    summary: "A CIA agent goes on the run after a defector accuses her of being a Russian spy."
+    tagline: "Who is Salt?"
+    writer.sync: [Kurt Wimmer]
+    label: [ID__000027576B]
+
+  "Salt [Director's cut]":
+    title: Salt
+    year: 2010
+    edition_filter: Director's cut
+    sort_title: Salt (2010) 001C
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Phillip Noyce, Sunil Perkash]
+    genre.sync: [Action, Thriller]
+    originally_available: 2010-08-18
+    producer.sync: [Lorenzo di Bonaventura]
+    studio: Columbia Pictures
+    summary: "A CIA agent goes on the run after a defector accuses her of being a Russian spy."
+    tagline: "Who is Salt?"
+    writer.sync: [Kurt Wimmer]
+    label: [ID__000027576C]
+
+collections:
+  "Salt":
+    template: { name: Edition }
+    tmdb_movie: 27576
+    sort_title: Salt (2010) 001
+    summary: "A CIA agent goes on the run after a defector accuses her of being a Russian spy."
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -57,8 +57,6 @@ collections:
           - Saboteur (1942)
           - "Santa Claus: The Movie (1985)"
           - Shame (2011)
-          - Star Wars 001
-          - Star Wars 006
           - "Star Wars: The Clone Wars (2008)"
           - Star Wars Holiday Special (1978)
           - Star Wars Rebels (2014) 002
@@ -168,9 +166,7 @@ collections:
           - Spider-Man (2017) 001
           - Spy Who Loved Me (1977)
           - Star Trek (2009) 001
-          - Star Wars 002
           - Star Wars 003
-          - Star Wars 005
           - Star Wars 007
           - Star Wars 008
           - Sucker Punch (2011) 001
@@ -387,14 +383,6 @@ collections:
           - View to a Kill (1985)
           - World is Not Enough (1999)
 
-  "Content: violence (adventure)":
-    template:
-      - name: Content label
-        content: violence
-        level: adventure
-        title_list:
-          - Star Wars 001
-
   "Content: violence (battle)":
     template:
       - name: Content label
@@ -513,10 +501,7 @@ collections:
           - Lego Movie (2014) 002
           - Lord of the Rings (2001) 002B
           - Spider-Man (2002) 002
-          - Star Wars 001
-          - Star Wars 002
           - Star Wars 003
-          - Star Wars 006
           - "Star Wars: The Clone Wars (2008)"
           - Star Wars Rebels (2014) 002
           - Thor (2011) 001
