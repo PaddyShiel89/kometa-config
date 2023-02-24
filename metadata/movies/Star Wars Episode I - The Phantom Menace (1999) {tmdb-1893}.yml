@@ -1,0 +1,48 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Star Wars: Episode I - The Phantom Menace [DVD cut]":
+    title: "Star Wars: Episode I - The Phantom Menace"
+    year: 1999
+    edition_filter: DVD cut
+    sort_title: "Star Wars 001B"
+    content_rating: gb/U
+    country.sync: [United States of America]
+    director.sync: [George Lucas]
+    genre.sync: [Action, Adventure, Fantasy, Science Fiction]
+    originally_available: 1999-07-15
+    producer.sync: [Rick McCallum]
+    studio: "Lucasfilm Ltd."
+    summary: "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory."
+    tagline: "Every generation has a legend. Every journey has a first step. Every saga has a beginning."
+    writer.sync: [George Lucas]
+    label: [ID__000001893B]
+
+  "Star Wars: Episode I - The Phantom Menace [Blu-ray cut]":
+    title: "Star Wars: Episode I - The Phantom Menace"
+    year: 1999
+    edition_filter: "Blu-ray cut"
+    sort_title: "Star Wars 001C"
+    content_rating: gb/U
+    country.sync: [United States of America]
+    director.sync: [George Lucas]
+    genre.sync: [Action, Adventure, Fantasy, Science Fiction]
+    originally_available: 1999-07-15
+    producer.sync: [Rick McCallum]
+    studio: "Lucasfilm Ltd."
+    summary: "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory."
+    tagline: "Every generation has a legend. Every journey has a first step. Every saga has a beginning."
+    writer.sync: [George Lucas]
+    label: [ID__000001893C]
+
+collections:
+  "Star Wars: Episode I - The Phantom Menace":
+    template: { name: Edition }
+    tmdb_movie: 1893
+    sort_title: "Star Wars 001"
+    summary: "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory."
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

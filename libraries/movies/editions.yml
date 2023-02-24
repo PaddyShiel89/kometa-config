@@ -2,14 +2,6 @@ external_templates:
   - repo: templates/collection_type/Edition
 
 collections:
-  "Star Wars: Episode I - The Phantom Menace":
-    template:
-      - name: Edition
-        poster_file_name: "Star Wars Episode I - The Phantom Menace"
-    sort_title: "Star Wars 001"
-    tmdb_movie: 1893
-    summary: "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory."
-
   "Star Wars: Episode II - Attack of the Clones":
     template:
       - name: Edition

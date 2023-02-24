@@ -14,6 +14,7 @@ collections:
       - 524434 # Eternals (2021)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 11 # Star Wars (1977)
+      - 1893 # Star Wars: Episode I - The Phantom Menace (1999)
       - 181812 # Star Wars: The Rise of Skywalker (2019)
 
   Theme__alien_invasion:
@@ -368,7 +369,6 @@ collections:
           - "Solo: A Star Wars Story (2018)"
           - Species (1995) 001
           - Star Trek (2009) 001
-          - Star Wars 001 (1999)
           - Star Wars 002 (2002)
           - Star Wars 003 (2005)
           - Star Wars 005 (1980)

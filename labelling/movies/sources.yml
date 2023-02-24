@@ -54,6 +54,7 @@ collections:
           - ID__000000558B # Spider-Man 2.1 (2004) [Extended edition]
           - ID__000634649A # Spider-Man: Far from Home
           - ID__000634649A # Spider-Man: No Way Home (2021)
+          - ID__000001893C # Star Wars: Episode I - The Phantom Menace (1999) [Blu-ray cut]
           - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000023629A # Sucker Punch (2011) [Theatrical cut]
@@ -82,6 +83,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000001893B # Star Wars: Episode I - The Phantom Menace (1999) [DVD cut]
           - ID__000000011A # Star Wars: Episode IV - A New Hope [Theatrical cut]
           - ID__000000011C # Star Wars: Episode IV - A New Hope [DVD cut]
 
@@ -390,7 +392,6 @@ collections:
           - Spirit (2008)
           - Spy Who Loved Me (1977)
           - Star Trek (2009) 001
-          - Star Wars 001 (1999) 2011
           - Star Wars 002 (2002) 2011
           - Star Wars 003 (2005) 2011
           - Star Wars 005 (1980) 2011
@@ -535,7 +536,6 @@ collections:
           - Secretary (2002)
           - Sliver (1993)
           - "South Park: Bigger, Longer & Uncut (1999)"
-          - Star Wars 001 (1999) 2001
           - Star Wars 002 (2002) 2002B
           - Star Wars 003 (2005) 2005B
           - Star Wars 005 (1980) 1980

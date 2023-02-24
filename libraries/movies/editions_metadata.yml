@@ -1,9 +1,4 @@
 metadata:
-  # "Star Wars: Episode I - The Phantom Menace"
-  1893:
-    file_background: /config/assets/editions/backgrounds/Star Wars Episode I - The Phantom Menace.jpg
-    summary: "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory."
-
   # "Star Wars: Episode II - Attack of the Clones"
   1894:
     file_background: /config/assets/editions/backgrounds/Star Wars Episode II - Attack of the Clones.jpg
