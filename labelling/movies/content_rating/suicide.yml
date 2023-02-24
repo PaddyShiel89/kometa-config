@@ -1,0 +1,14 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  BBFC alcohol & tobacco lvl 2:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: alcohol_and_tobacco
+        level: 2
+    plex_search:
+      any:
+        label:
+          - ID__000524434A # Eternals (2021)

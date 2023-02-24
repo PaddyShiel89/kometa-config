@@ -16,6 +16,7 @@ libraries:
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
       - repo: metadata/movies/Doctor Strange in the Multiverse of Madness (2022) {tmdb-453395}
+      - repo: metadata/movies/Eternals (2021) {tmdb-524434}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
       - repo: metadata/movies/Gladiator (2000) {tmdb-98}
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
@@ -46,6 +47,7 @@ libraries:
       - repo: labelling/movies/content_rating/nudity
       - repo: labelling/movies/content_rating/rude_humour
       - repo: labelling/movies/content_rating/sex
+      - repo: labelling/movies/content_rating/suicide
       - repo: labelling/movies/content_rating/theme
       - repo: labelling/movies/content_rating/threat_and_horror
       - repo: labelling/movies/content_rating/violence

@@ -11,6 +11,7 @@ collections:
       - 8078 # Alien Resurrection (1997)
       - 299534 # Avengers: Endgame (2019)
       - 299537 # Captain Marvel (2019)
+      - 524434 # Eternals (2021)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 11 # Star Wars (1977)
       - 181812 # Star Wars: The Rise of Skywalker (2019)
@@ -155,6 +156,11 @@ collections:
       - 8078 # Alien Resurrection (1997)
       - 59678 # Attack the Block (2011)
 
+  Theme__mythology:
+    template: { name: TMDB theme label, theme_name: mythology }
+    tmdb_movie:
+      - 524434 # Eternals (2021)
+
   Theme__mythical_creatures:
     template: { name: TMDB theme label, theme_name: mythical_creatures }
     tmdb_movie:
@@ -242,6 +248,7 @@ collections:
       - 299537 # Captain Marvel (2019)
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
+      - 524434 # Eternals (2021)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 68721 # Iron Man 3 (2013)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
