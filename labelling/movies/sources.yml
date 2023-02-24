@@ -56,6 +56,8 @@ collections:
           - ID__000634649A # Spider-Man: No Way Home (2021)
           - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
+          - ID__000023629A # Sucker Punch (2011) [Theatrical cut]
+          - ID__000023629B # Sucker Punch (2011) [Extended cut]
           - ID__000000629A # The Usual Suspects
 
   Source__download:
@@ -395,8 +397,6 @@ collections:
           - Star Wars Rebels (2014) 001
           - Star Wars Rebels (2014) 002
           - "Star Wars: The Clone Wars (2008)"
-          - Sucker Punch (2011) 001A
-          - Sucker Punch (2011) 001B
           - Suicide Squad (2021)
           - Super 8 (2011)
           - Taken (2008) 001

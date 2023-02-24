@@ -35,6 +35,8 @@ collections:
           - ID__000000011A # Star Wars: Episode IV - A New Hope [Theatrical cut]
           - ID__000000011C # Star Wars: Episode IV - A New Hope [DVD cut]
           - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
+          - ID__000023629A # Sucker Punch (2011) [Theatrical cut]
+          - ID__000023629B # Sucker Punch (2011) [Extended cut]
 
   Ownership__own_different_source:
     template:
@@ -220,8 +222,6 @@ collections:
           - Star Wars 008 (2017)
           - Star Wars Rebels (2014) 001
           - Star Wars Rebels (2014) 002
-          - Sucker Punch (2011) 001A
-          - Sucker Punch (2011) 001B
           - Superstar (1999)
           - Sweet Karma (2010)
           - Tenacious D in the Pick of Destiny (2006)

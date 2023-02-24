@@ -42,14 +42,6 @@ collections:
     tmdb_movie: 1892
     summary: "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side."
 
-  "Sucker Punch":
-    template:
-      - name: Edition
-        poster_file_name: "Sucker Punch (2011)"
-    sort_title: "Sucker Punch (2011) 001"
-    tmdb_movie: 23629
-    summary: "A young girl institutionalized by her abusive stepfather retreats to an alternative reality as a coping strategy and envisions a plan to help her escape."
-
   "Wicker Man":
     template:
       - name: Edition

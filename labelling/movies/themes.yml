@@ -151,6 +151,7 @@ collections:
     template: { name: TMDB theme label, theme_name: mental_health }
     tmdb_movie:
       - 68721 # Iron Man 3 (2013)
+      - 23629 # Sucker Punch (2011)
 
   Theme__monsters:
     template: { name: TMDB theme label, theme_name: monsters }
@@ -244,6 +245,11 @@ collections:
     tmdb_movie:
       - 497698 # Black Widow (2021)
       - 27576 # Salt (2010)
+
+  Theme__steampunk:
+    template: { name: TMDB theme label, theme_name: steampunk }
+    tmdb_movie:
+      - 23629 # Sucker Punch (2011)
 
   Theme__superheroes:
     template: { name: TMDB theme label, theme_name: superheroes }

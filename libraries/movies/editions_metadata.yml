@@ -24,11 +24,6 @@ metadata:
     file_background: /config/assets/editions/backgrounds/Star Wars Episode VI - Return of the Jedi.jpg
     summary: "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side."
 
-  # "Sucker Punch"
-  23629:
-    file_background: /config/assets/editions/backgrounds/Sucker Punch (2011).jpg
-    summary: "A young girl institutionalized by her abusive stepfather retreats to an alternative reality as a coping strategy and envisions a plan to help her escape."
-
   # "The Wicker Man (1973)"
   16307:
     file_background: /config/assets/editions/backgrounds/Wicker Man (1973).jpg

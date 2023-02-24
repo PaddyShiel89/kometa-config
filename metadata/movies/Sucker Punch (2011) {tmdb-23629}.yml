@@ -1,0 +1,48 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Sucker Punch [Theatrical cut]":
+    title: Sucker Punch
+    year: 2011
+    edition_filter: Theatrical cut
+    sort_title: Sucker Punch (2011) 001A
+    content_rating: gb/12
+    country.sync: [Canada, United States of America]
+    director.sync: [Zack Snyder]
+    genre.sync: [Action, Adventure, Fantasy]
+    originally_available: 2011-04-01
+    producer.sync: [Deborah Snyder, Zack Snyder]
+    studio: Legendary Entertainment
+    summary: "A young girl institutionalized by her abusive stepfather retreats to an alternative reality as a coping strategy and envisions a plan to help her escape."
+    tagline: Feed Your Head
+    writer.sync: [Zack Snyder, Steve Shibuya]
+    label: [ID__000023629A]
+
+  "Sucker Punch [Extended cut]":
+    title: Sucker Punch
+    year: 2011
+    edition_filter: Extended cut
+    sort_title: Sucker Punch (2011) 001B
+    content_rating: gb/12
+    country.sync: [Canada, United States of America]
+    director.sync: [Zack Snyder]
+    genre.sync: [Action, Adventure, Fantasy]
+    originally_available: 2011-04-01
+    producer.sync: [Deborah Snyder, Zack Snyder]
+    studio: Legendary Entertainment
+    summary: "A young girl institutionalized by her abusive stepfather retreats to an alternative reality as a coping strategy and envisions a plan to help her escape."
+    tagline: Feed Your Head
+    writer.sync: [Zack Snyder, Steve Shibuya]
+    label: [ID__000023629B]
+
+collections:
+  "Sucker Punch":
+    template: { name: Edition }
+    tmdb_movie: 23629
+    sort_title: Sucker Punch (2011) 001
+    summary: "A young girl institutionalized by her abusive stepfather retreats to an alternative reality as a coping strategy and envisions a plan to help her escape."
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

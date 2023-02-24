@@ -24,6 +24,7 @@ collections:
           - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
           - ID__000000011E # Star Wars: Episode IV - A New Hope [Despecialized edition]
           - ID__000000011F # Star Wars: Episode IV - A New Hope [Project 4K77]
+          - ID__000023629B # Sucker Punch (2011) [Extended cut]
         title:
           - Star Wars 001 (1999) 2001
           - Star Wars 002 (2002) 2002B
@@ -37,7 +38,6 @@ collections:
           - Star Wars 006 (1983) 2011
           - Star Wars 006 (1983) 2016
           - Star Wars 006 (1983) 2019
-          - Sucker Punch (2011) 001B
           - Wicker Man (1973) 001B
           - Wicker Man (1973) 001C
     item_label: "Secondary_Cut"
