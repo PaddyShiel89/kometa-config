@@ -68,6 +68,11 @@ collections:
     tmdb_movie:
       - 8078 # Alien Resurrection (1997)
 
+  Theme__cold_war:
+    template: { name: TMDB theme label, theme_name: cold_war }
+    tmdb_movie:
+      - 27576 # Salt (2010)
+
   Theme__coming_of_age:
     template: { name: TMDB theme label, theme_name: coming_of_age }
     tmdb_movie:
@@ -221,6 +226,7 @@ collections:
       - 101 # Léon: The Professional (1995)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 27576 # Salt (2010)
       - 634649 # Spider-Man: No Way Home (2021)
 
   Theme__serial_killer:
@@ -237,6 +243,7 @@ collections:
     template: { name: TMDB theme label, theme_name: spies }
     tmdb_movie:
       - 497698 # Black Widow (2021)
+      - 27576 # Salt (2010)
 
   Theme__superheroes:
     template: { name: TMDB theme label, theme_name: superheroes }

@@ -2,14 +2,6 @@ external_templates:
   - repo: templates/collection_type/Edition
 
 collections:
-  Salt:
-    template:
-      - name: Edition
-        poster_file_name: "Salt (2010)"
-    sort_title: "Salt (2010) 001"
-    tmdb_movie: 27576
-    summary: "A CIA agent goes on the run after a defector accuses her of being a Russian spy."
-
   "Spider-Man 2":
     template:
       - name: Edition
