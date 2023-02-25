@@ -1,6 +1,4 @@
 playlists:
-  # Currently only working with develop-15 release and later, not the current
-  # latest release (1.17.3). Will test with next release
   Watched but unrated:
     plex_search:
       all:

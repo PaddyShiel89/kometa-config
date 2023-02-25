@@ -8,6 +8,7 @@ playlists:
     filters:
       label.not: "Secondary_Cut"
       filepath: Star Wars The Clone Wars (2008)
+    sync_to_users: all
 
   "Star Wars: The Complete Saga":
     sync_mode: sync
@@ -17,6 +18,7 @@ playlists:
     file_poster: /config/assets/playlists/Star Wars The Complete Saga.png
     filters:
       label.not: "Secondary_Cut"
+    sync_to_users: all
 
   "Star Wars: Definitive Movie Playlist":
     sync_mode: sync
@@ -35,3 +37,4 @@ playlists:
     file_poster: /config/assets/playlists/Star Wars The Machete Order.png
     filters:
       label: "Edition_Star_Wars_Definitive"
+    sync_to_users: all

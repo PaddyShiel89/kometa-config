@@ -12,6 +12,7 @@ playlists:
     file_poster: /config/assets/playlists/Empire's 100 Greatest Movies.png
     filters:
       label.not: "Secondary_Cut"
+    sync_to_users: all
 
   IMDb Lowest Rated:
     imdb_chart: lowest_rated
@@ -20,6 +21,7 @@ playlists:
     file_poster: /config/assets/playlists/IMDb Lowest Rated.png
     filters:
       label.not: "Secondary_Cut"
+    sync_to_users: all
 
   IMDb Popular:
     imdb_chart: popular_movies
@@ -29,6 +31,7 @@ playlists:
     file_poster: /config/assets/playlists/IMDb Popular.png
     filters:
       label.not: "Secondary_Cut"
+    sync_to_users: all
 
   IMDb Top 250:
     imdb_chart: top_movies
@@ -37,6 +40,7 @@ playlists:
     file_poster: /config/assets/playlists/IMDb Top 250.png
     filters:
       label.not: "Secondary_Cut"
+    sync_to_users: all
 
   Oscars Best Picture Winners:
     template:
@@ -48,6 +52,7 @@ playlists:
     file_poster: /config/assets/playlists/Oscars Best Picture Winners.png
     filters:
       label.not: "Secondary_Cut"
+    sync_to_users: all
 
   Top of the Crock:
     plex_search:
