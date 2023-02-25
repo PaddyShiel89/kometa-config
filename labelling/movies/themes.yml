@@ -20,6 +20,7 @@ collections:
       - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
       - 181812 # Star Wars: The Rise of Skywalker (2019)
       - 1891 # The Empire Strikes Back (1980)
+      - 616037 # Thor: Love and Thunder (2022)
 
   Theme__alien_invasion:
     template: { name: TMDB theme label, theme_name: alien_invasion }
@@ -195,6 +196,7 @@ collections:
     tmdb_movie:
       - 524434 # Eternals (2021)
       - 16307 # The Wicker Man (1973)
+      - 616037 # Thor: Love and Thunder (2022)
 
   Theme__mythical_creatures:
     template: { name: TMDB theme label, theme_name: mythical_creatures }
@@ -300,6 +302,7 @@ collections:
       - 558 # Spider-Man 2 (2004)
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 616037 # Thor: Love and Thunder (2022)
 
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }

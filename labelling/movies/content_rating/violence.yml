@@ -70,6 +70,7 @@ collections:
           - ID__000000558B # Spider-Man 2.1 (2004) [Extended edition]
           - ID__000634649A # Spider-Man: Far from Home (2019)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
+          - ID__000616037A # Thor: Love and Thunder (2022)
 
   BBFC violence lvl 4:
     template:

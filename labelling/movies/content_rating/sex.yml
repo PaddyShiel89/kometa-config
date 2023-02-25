@@ -57,6 +57,7 @@ collections:
           - ID__000000098B # Gladiator (2000) [Extended edition]
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
           - ID__000634649A # Spider-Man: Far from Home (2019)
+          - ID__000616037A # Thor: Love and Thunder (2022)
 
   BBFC sex lvl 4:
     template:
