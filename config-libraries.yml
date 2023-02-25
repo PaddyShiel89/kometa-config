@@ -42,6 +42,7 @@ libraries:
       - repo: metadata/movies/Star Wars Episode II - Attack of the Clones (2002) {tmdb-1894}
       - repo: metadata/movies/Star Wars Episode III - Revenge of the Sith (2005) {tmdb-1895}
       - repo: metadata/movies/Star Wars The Force Awakens (2015) {tmdb-140607}
+      - repo: metadata/movies/Star Wars The Last Jedi (2017) {tmdb-181808}
       - repo: metadata/movies/Star Wars The Rise of Skywalker (2019) {tmdb-181812}
       - repo: metadata/movies/Sucker Punch (2011) {tmdb-23629}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
