@@ -19,6 +19,7 @@ collections:
           - ID__000000011D # Star Wars: Episode IV - A New Hope (1977) [Blu-ray cut]
           - ID__000000011E # Star Wars: Episode IV - A New Hope (1977) [Despecialized edition]
           - ID__000000011F # Star Wars: Episode IV - A New Hope (1977) [Project 4K77]
+          - ID__000140607A # Star Wars: The Force Awakens (2015)
 
   BBFC language lvl 2:
     template:
