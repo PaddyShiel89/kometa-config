@@ -14,6 +14,7 @@ collections:
       - 524434 # Eternals (2021)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 1892 # Return of the Jedi (1983)
+      - 330459 # Rogue One: A Star Wars Story (2016)
       - 11 # Star Wars (1977)
       - 1893 # Star Wars: Episode I - The Phantom Menace (1999)
       - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
@@ -328,6 +329,7 @@ collections:
     template: { name: TMDB theme label, theme_name: terrorism }
     tmdb_movie:
       - 68721 # Iron Man 3 (2013)
+      - 330459 # Rogue One: A Star Wars Story (2016)
 
   Theme__time_travel:
     template: { name: TMDB theme label, theme_name: time_travel }
@@ -381,7 +383,6 @@ collections:
           - Predator (1987) 002
           - Predator (1987) 003
           - Prometheus (2012)
-          - "Rogue One: A Star Wars Story (2016)"
           - Scary Movie (2000) 003
           - "Solo: A Star Wars Story (2018)"
           - Species (1995) 001

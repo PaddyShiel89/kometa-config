@@ -37,6 +37,7 @@ collections:
       any:
         label:
           - ID__000010867A # Malèna (2000) [Original Italian cut]
+          - ID__000330459A # Rogue One: A Star Wars Story (2016)
           - ID__000001893B # Star Wars: Episode I - The Phantom Menace (1999) [DVD cut]
           - ID__000001893C # Star Wars: Episode I - The Phantom Menace (1999) [Blu-ray cut]
           - ID__000001894B # Star Wars: Episode II - Attack of the Clones (2002) [DVD cut]
@@ -210,7 +211,6 @@ collections:
           - Paul (2011)
           - Quantum of Solace (2008)
           - Remember the Titans (2000)
-          - "Rogue One: A Star Wars Story (2016)"
           - Room (2003)
           - Room in Rome (2010)
           - Saw (2004) 001
