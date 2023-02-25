@@ -35,6 +35,7 @@ libraries:
       - repo: metadata/movies/Rogue One A Star Wars Story {tmdb-330459}
       - repo: metadata/movies/Salt (2010) {tmdb-27576}
       - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}
+      - repo: metadata/movies/Solo A Star Wars Story {tmdb-348350}
       - repo: metadata/movies/Spider-Man 2 (2004) {tmdb-558}
       - repo: metadata/movies/Spider-Man Far from Home (2019) {tmdb-429617}
       - repo: metadata/movies/Spider-Man No Way Home (2021) {tmdb-634649}

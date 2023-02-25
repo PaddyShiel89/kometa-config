@@ -15,6 +15,7 @@ collections:
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 1892 # Return of the Jedi (1983)
       - 330459 # Rogue One: A Star Wars Story (2016)
+      - 348350 # Solo: A Star Wars Story (2018)
       - 11 # Star Wars (1977)
       - 1893 # Star Wars: Episode I - The Phantom Menace (1999)
       - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
@@ -150,6 +151,7 @@ collections:
     template: { name: TMDB theme label, theme_name: heist }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 348350 # Solo: A Star Wars Story (2018)
       - 629 # The Usual Suspects (1995)
 
   Theme__mafia:
@@ -218,6 +220,7 @@ collections:
     template: { name: TMDB theme label, theme_name: orphans }
     tmdb_movie:
       - 101 # Léon: The Professional (1995)
+      - 348350 # Solo: A Star Wars Story (2018)
 
   Theme__pirates:
     template: { name: TMDB theme label, theme_name: pirates }
@@ -384,7 +387,6 @@ collections:
           - Predator (1987) 003
           - Prometheus (2012)
           - Scary Movie (2000) 003
-          - "Solo: A Star Wars Story (2018)"
           - Species (1995) 001
           - Star Trek (2009) 001
           - Star Wars Rebels (2014) 001
