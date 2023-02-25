@@ -23,4 +23,4 @@ playlists:
     plex_search:
       label: "series: Halloween (2018)"
     filter:
-      label.not: Series__Halloween_2018
+      label: Series__Halloween_2018
