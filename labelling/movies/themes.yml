@@ -43,6 +43,7 @@ collections:
   Theme__based_on_a_book:
     template: { name: TMDB theme label, theme_name: based_on_a_book }
     tmdb_movie:
+      - 238 # The Godfather (1972)
       - 16307 # The Wicker Man (1973)
 
   Theme__based_on_works_by_philip_k_dick:
@@ -146,6 +147,11 @@ collections:
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
       - 629 # The Usual Suspects (1995)
+
+  Theme__mafia:
+    template: { name: TMDB theme label, theme_name: mafia }
+    tmdb_movie:
+      - 238 # The Godfather (1972)
 
   Theme__magic:
     template: { name: TMDB theme label, theme_name: magic }
