@@ -1,8 +1,8 @@
 collections:
-  # Assign the "Secondary_Cut" label to movies with multiple editions so that
-  # they can be excluded from certain collections. Formatting as "edition:
-  # secondary" does not appear to work for for some reason.
-  "Edition: Secondary":
+  Edition__secondary:
+    template:
+      - name: Edition label
+        edition_type: secondary
     plex_search:
       any:
         label:
@@ -39,12 +39,12 @@ collections:
           - ID__000023629B # Sucker Punch (2011) [Extended cut]
           - ID__000016307B # The Wicker Man (1973) [Director's cut]
           - ID__000016307C # The Wicker Man (1973) [The Final Cut]
-    item_label: "Secondary_Cut"
-    build_collection: false
-    sync_mode: sync
 
   # Personal preferred versions of Star Wars movies to use in Playlists
-  "Edition: Star Wars Definitive":
+  Edition__star_wars_definitive:
+    template:
+      - name: Edition label
+        edition_type: star_wars_definitive
     plex_search:
       any:
         label:
@@ -60,6 +60,3 @@ collections:
           - "Solo: A Star Wars Story (2018)"
           - Star Wars 007 (2015)
           - Star Wars 008 (2017)
-    item_label: "Edition_Star_Wars_Definitive"
-    build_collection: false
-    sync_mode: sync
