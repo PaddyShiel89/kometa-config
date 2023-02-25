@@ -21,6 +21,4 @@ playlists:
     summary: "The Halloween films that are canon to the 2018 Halloween reboot by Blumhouse Productions."
     file_poster: /config/assets/playlists/Halloween Blumhouse Continuity.png
     plex_search:
-      label: "series: Halloween (2018)"
-    filters:
       label: Series__Halloween_2018
