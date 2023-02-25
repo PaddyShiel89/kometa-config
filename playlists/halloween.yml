@@ -22,5 +22,5 @@ playlists:
     file_poster: /config/assets/playlists/Halloween Blumhouse Continuity.png
     plex_search:
       label: "series: Halloween (2018)"
-    filter:
+    filters:
       label: Series__Halloween_2018

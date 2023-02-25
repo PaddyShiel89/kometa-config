@@ -5,7 +5,7 @@ playlists:
     trakt_list: https://trakt.tv/users/sonicwarrior/lists/star-wars-canon-timeline?sort=rank,asc
     summary: "The chronological watch order for Star Wars: The Clone Wars."
     file_poster: /config/assets/playlists/Star Wars The Clone Wars chronology.png
-    filter:
+    filters:
       label.not: "Secondary_Cut"
       filepath: Star Wars The Clone Wars (2008)
 
@@ -15,7 +15,7 @@ playlists:
     trakt_list: https://trakt.tv/users/sonicwarrior/lists/star-wars-canon-timeline?sort=rank,asc
     summary: "The complete Star Wars saga, featuring all movies and TV shows and ordered chronologically."
     file_poster: /config/assets/playlists/Star Wars The Complete Saga.png
-    filter:
+    filters:
       label.not: "Secondary_Cut"
 
   "Star Wars: Definitive Movie Playlist":
@@ -24,7 +24,7 @@ playlists:
     trakt_list: https://trakt.tv/users/sonicwarrior/lists/star-wars-canon-timeline?sort=rank,asc
     summary: "The Star Wars movies in chronological order and using their best versions."
     file_poster: /config/assets/playlists/Star Wars Definitive Movie Playlist.png
-    filter:
+    filters:
       label: "Edition_Star_Wars_Definitive"
 
   "Star Wars: The Machete Order":
@@ -33,5 +33,5 @@ playlists:
     trakt_list: https://trakt.tv/users/hgferr/lists/star-wars-machete-order?sort=added,asc
     summary: "The fan-approved order for watching the Star Wars movies for the first time. Episodes II and III are viewed as flashbacks between Episodes V and VI, preserving the twists of the films. Read more at https://www.rodhilton.com/2011/11/11/the-star-wars-saga-suggested-viewing-order/"
     file_poster: /config/assets/playlists/Star Wars The Machete Order.png
-    filter:
+    filters:
       label: "Edition_Star_Wars_Definitive"

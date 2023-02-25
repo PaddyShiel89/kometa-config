@@ -10,7 +10,7 @@ playlists:
     summary: "Empire asked readers to share their picks for the best films of all time - ones that comfort, challenge and pioneer. Films that blow your mind, help you see things from a new perspective, and that continue to shape cinema as we know it today. Films that make you feel something. Combining reader votes with critic's choices from Team Empire, here we have it - the latest version of the 100 Greatest Movies list."
     sync_mode: sync
     file_poster: /config/assets/playlists/Empire's 100 Greatest Movies.png
-    filter:
+    filters:
       label.not: "Secondary_Cut"
 
   IMDb Lowest Rated:
@@ -18,7 +18,7 @@ playlists:
     libraries: Movies
     sync_mode: sync
     file_poster: /config/assets/playlists/IMDb Lowest Rated.png
-    filter:
+    filters:
       label.not: "Secondary_Cut"
 
   IMDb Popular:
@@ -27,7 +27,7 @@ playlists:
     libraries: Movies
     sync_mode: sync
     file_poster: /config/assets/playlists/IMDb Popular.png
-    filter:
+    filters:
       label.not: "Secondary_Cut"
 
   IMDb Top 250:
@@ -35,7 +35,7 @@ playlists:
     libraries: Movies
     sync_mode: sync
     file_poster: /config/assets/playlists/IMDb Top 250.png
-    filter:
+    filters:
       label.not: "Secondary_Cut"
 
   Oscars Best Picture Winners:
@@ -46,7 +46,7 @@ playlists:
     libraries: Movies
     sync_mode: sync
     file_poster: /config/assets/playlists/Oscars Best Picture Winners.png
-    filter:
+    filters:
       label.not: "Secondary_Cut"
 
   Top of the Crock:
