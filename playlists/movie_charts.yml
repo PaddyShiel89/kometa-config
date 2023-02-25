@@ -9,7 +9,6 @@ playlists:
     libraries: Movies
     summary: "Empire asked readers to share their picks for the best films of all time - ones that comfort, challenge and pioneer. Films that blow your mind, help you see things from a new perspective, and that continue to shape cinema as we know it today. Films that make you feel something. Combining reader votes with critic's choices from Team Empire, here we have it - the latest version of the 100 Greatest Movies list."
     sync_mode: sync
-    file_poster: /config/assets/playlists/Empire's 100 Greatest Movies.png
     filters:
       label.not: "Edition__secondary"
     sync_to_users: all
@@ -18,7 +17,6 @@ playlists:
     imdb_chart: lowest_rated
     libraries: Movies
     sync_mode: sync
-    file_poster: /config/assets/playlists/IMDb Lowest Rated.png
     filters:
       label.not: "Edition__secondary"
     sync_to_users: all
@@ -28,7 +26,6 @@ playlists:
     summary: "The most popular movies right now as determined by IMDb users."
     libraries: Movies
     sync_mode: sync
-    file_poster: /config/assets/playlists/IMDb Popular.png
     filters:
       label.not: "Edition__secondary"
     sync_to_users: all
@@ -37,7 +34,6 @@ playlists:
     imdb_chart: top_movies
     libraries: Movies
     sync_mode: sync
-    file_poster: /config/assets/playlists/IMDb Top 250.png
     filters:
       label.not: "Edition__secondary"
     sync_to_users: all
@@ -49,7 +45,6 @@ playlists:
         search_string: "&sort=release_date,desc"
     libraries: Movies
     sync_mode: sync
-    file_poster: /config/assets/playlists/Oscars Best Picture Winners.png
     filters:
       label.not: "Edition__secondary"
     sync_to_users: all
@@ -66,4 +61,3 @@ playlists:
     libraries: Movies
     summary: My top-rated movies.
     sync_mode: sync
-    file_poster: /config/assets/playlists/Top of the Crock.png
