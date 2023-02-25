@@ -1,0 +1,21 @@
+metadata:
+  "The Godfather":
+    title: The Godfather
+    year: 1972
+    edition_filter: Theatrical cut
+    sort_title: Godfather (1972) 001
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Francis Ford Coppola]
+    genre.sync: [Crime, Drama]
+    originally_available: 1972-08-24
+    producer.sync: [Albert S. Ruddy]
+    studio: "Albert S. Ruddy Productions"
+    summary: "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son."
+    tagline: "An offer you can't refuse."
+    writer.sync: [Francis Ford Coppola, Mario Puzo]
+    label: [ID__000000238A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

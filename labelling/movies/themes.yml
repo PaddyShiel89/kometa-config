@@ -14,12 +14,17 @@ collections:
       - 524434 # Eternals (2021)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 1892 # Return of the Jedi (1983)
+      - 330459 # Rogue One: A Star Wars Story (2016)
+      - 348350 # Solo: A Star Wars Story (2018)
       - 11 # Star Wars (1977)
       - 1893 # Star Wars: Episode I - The Phantom Menace (1999)
       - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
       - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
+      - 140607 # Star Wars: The Force Awakens (2015)
+      - 181808 # Star Wars: The Last Jedi (2017)
       - 181812 # Star Wars: The Rise of Skywalker (2019)
       - 1891 # The Empire Strikes Back (1980)
+      - 616037 # Thor: Love and Thunder (2022)
 
   Theme__alien_invasion:
     template: { name: TMDB theme label, theme_name: alien_invasion }
@@ -43,6 +48,7 @@ collections:
   Theme__based_on_a_book:
     template: { name: TMDB theme label, theme_name: based_on_a_book }
     tmdb_movie:
+      - 238 # The Godfather (1972)
       - 16307 # The Wicker Man (1973)
 
   Theme__based_on_works_by_philip_k_dick:
@@ -145,7 +151,13 @@ collections:
     template: { name: TMDB theme label, theme_name: heist }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 348350 # Solo: A Star Wars Story (2018)
       - 629 # The Usual Suspects (1995)
+
+  Theme__mafia:
+    template: { name: TMDB theme label, theme_name: mafia }
+    tmdb_movie:
+      - 238 # The Godfather (1972)
 
   Theme__magic:
     template: { name: TMDB theme label, theme_name: magic }
@@ -189,6 +201,7 @@ collections:
     tmdb_movie:
       - 524434 # Eternals (2021)
       - 16307 # The Wicker Man (1973)
+      - 616037 # Thor: Love and Thunder (2022)
 
   Theme__mythical_creatures:
     template: { name: TMDB theme label, theme_name: mythical_creatures }
@@ -207,6 +220,7 @@ collections:
     template: { name: TMDB theme label, theme_name: orphans }
     tmdb_movie:
       - 101 # Léon: The Professional (1995)
+      - 348350 # Solo: A Star Wars Story (2018)
 
   Theme__pirates:
     template: { name: TMDB theme label, theme_name: pirates }
@@ -294,6 +308,7 @@ collections:
       - 558 # Spider-Man 2 (2004)
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 616037 # Thor: Love and Thunder (2022)
 
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }
@@ -317,6 +332,7 @@ collections:
     template: { name: TMDB theme label, theme_name: terrorism }
     tmdb_movie:
       - 68721 # Iron Man 3 (2013)
+      - 330459 # Rogue One: A Star Wars Story (2016)
 
   Theme__time_travel:
     template: { name: TMDB theme label, theme_name: time_travel }
@@ -370,13 +386,9 @@ collections:
           - Predator (1987) 002
           - Predator (1987) 003
           - Prometheus (2012)
-          - "Rogue One: A Star Wars Story (2016)"
           - Scary Movie (2000) 003
-          - "Solo: A Star Wars Story (2018)"
           - Species (1995) 001
           - Star Trek (2009) 001
-          - Star Wars 007 (2015)
-          - Star Wars 008 (2017)
           - Star Wars Rebels (2014) 001
           - Star Wars Rebels (2014) 002
           - "Star Wars: The Clone Wars (2008)"

@@ -11,7 +11,7 @@ playlists:
     sync_mode: sync
     file_poster: /config/assets/playlists/Empire's 100 Greatest Movies.png
     filters:
-      label.not: "Secondary_Cut"
+      label.not: "Edition__secondary"
     sync_to_users: all
 
   IMDb Lowest Rated:
@@ -20,7 +20,7 @@ playlists:
     sync_mode: sync
     file_poster: /config/assets/playlists/IMDb Lowest Rated.png
     filters:
-      label.not: "Secondary_Cut"
+      label.not: "Edition__secondary"
     sync_to_users: all
 
   IMDb Popular:
@@ -30,7 +30,7 @@ playlists:
     sync_mode: sync
     file_poster: /config/assets/playlists/IMDb Popular.png
     filters:
-      label.not: "Secondary_Cut"
+      label.not: "Edition__secondary"
     sync_to_users: all
 
   IMDb Top 250:
@@ -39,7 +39,7 @@ playlists:
     sync_mode: sync
     file_poster: /config/assets/playlists/IMDb Top 250.png
     filters:
-      label.not: "Secondary_Cut"
+      label.not: "Edition__secondary"
     sync_to_users: all
 
   Oscars Best Picture Winners:
@@ -51,7 +51,7 @@ playlists:
     sync_mode: sync
     file_poster: /config/assets/playlists/Oscars Best Picture Winners.png
     filters:
-      label.not: "Secondary_Cut"
+      label.not: "Edition__secondary"
     sync_to_users: all
 
   Top of the Crock:

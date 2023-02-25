@@ -103,3 +103,9 @@ templates:
     item_label: "Content__<<ratings_board>>_<<content>>"
     build_collection: false
     sync_mode: sync
+
+  # Edition labels are for labelling certain editions of a movie to allow for easier filtering.
+  Edition label:
+    item_label: "Edition__<<edition_type>>"
+    build_collection: false
+    sync_mode: sync

@@ -14,6 +14,7 @@ collections:
           - ID__000299534A # Avengers: Endgame (2019)
           - ID__000001771A # Captain America - The First Avenger
           - ID__000284052A # Doctor Strange (2016)
+          - ID__000348350A # Solo: A Star Wars Story (2018)
           - ID__000000558A # Spider-Man 2 (2004) [Theatrical cut]
           - ID__000000558B # Spider-Man 2.1 (2004) [Extended edition]
           - ID__000001894B # Star Wars: Episode II - Attack of the Clones (2002) [DVD cut]
@@ -57,6 +58,7 @@ collections:
           - ID__000000098B # Gladiator (2000) [Extended edition]
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
           - ID__000634649A # Spider-Man: Far from Home (2019)
+          - ID__000616037A # Thor: Love and Thunder (2022)
 
   BBFC sex lvl 4:
     template:

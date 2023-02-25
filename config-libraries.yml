@@ -32,8 +32,10 @@ libraries:
       - repo: metadata/movies/Pirates of the Caribbean On Stranger Tides (2011) {tmdb-1865}
       - repo: metadata/movies/Police Story 2 (1988) {tmdb-10753}
       - repo: metadata/movies/Return of the Jedi (1983) {tmdb-1892}
+      - repo: metadata/movies/Rogue One A Star Wars Story {tmdb-330459}
       - repo: metadata/movies/Salt (2010) {tmdb-27576}
       - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}
+      - repo: metadata/movies/Solo A Star Wars Story {tmdb-348350}
       - repo: metadata/movies/Spider-Man 2 (2004) {tmdb-558}
       - repo: metadata/movies/Spider-Man Far from Home (2019) {tmdb-429617}
       - repo: metadata/movies/Spider-Man No Way Home (2021) {tmdb-634649}
@@ -41,11 +43,15 @@ libraries:
       - repo: metadata/movies/Star Wars Episode I - The Phantom Menace (1999) {tmdb-1893}
       - repo: metadata/movies/Star Wars Episode II - Attack of the Clones (2002) {tmdb-1894}
       - repo: metadata/movies/Star Wars Episode III - Revenge of the Sith (2005) {tmdb-1895}
+      - repo: metadata/movies/Star Wars The Force Awakens (2015) {tmdb-140607}
+      - repo: metadata/movies/Star Wars The Last Jedi (2017) {tmdb-181808}
       - repo: metadata/movies/Star Wars The Rise of Skywalker (2019) {tmdb-181812}
       - repo: metadata/movies/Sucker Punch (2011) {tmdb-23629}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
+      - repo: metadata/movies/The Godfather (1972) {tmdb-238}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
       - repo: metadata/movies/The Wicker Man (1973) {tmdb-16307}
+      - repo: metadata/movies/Thor Love and Thunder (2022) {tmdb-616037}
       - repo: labelling/movies/content_rating/alcohol_and_tobacco
       - repo: labelling/movies/content_rating/discrimination
       - repo: labelling/movies/content_rating/disturbing_images

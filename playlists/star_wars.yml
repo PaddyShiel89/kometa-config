@@ -6,7 +6,7 @@ playlists:
     summary: "The chronological watch order for Star Wars: The Clone Wars."
     file_poster: /config/assets/playlists/Star Wars The Clone Wars chronology.png
     filters:
-      label.not: "Secondary_Cut"
+      label.not: "Edition__secondary"
       filepath: Star Wars The Clone Wars (2008)
     sync_to_users: all
 
@@ -17,7 +17,7 @@ playlists:
     summary: "The complete Star Wars saga, featuring all movies and TV shows and ordered chronologically."
     file_poster: /config/assets/playlists/Star Wars The Complete Saga.png
     filters:
-      label.not: "Secondary_Cut"
+      label.not: "Edition__secondary"
     sync_to_users: all
 
   "Star Wars: Definitive Movie Playlist":
@@ -27,7 +27,7 @@ playlists:
     summary: "The Star Wars movies in chronological order and using their best versions."
     file_poster: /config/assets/playlists/Star Wars Definitive Movie Playlist.png
     filters:
-      label: "Edition_Star_Wars_Definitive"
+      label: "Edition__star_wars_definitive"
 
   "Star Wars: The Machete Order":
     sync_mode: sync
@@ -36,5 +36,5 @@ playlists:
     summary: "The fan-approved order for watching the Star Wars movies for the first time. Episodes II and III are viewed as flashbacks between Episodes V and VI, preserving the twists of the films. Read more at https://www.rodhilton.com/2011/11/11/the-star-wars-saga-suggested-viewing-order/"
     file_poster: /config/assets/playlists/Star Wars The Machete Order.png
     filters:
-      label: "Edition_Star_Wars_Definitive"
+      label: "Edition__star_wars_definitive"
     sync_to_users: all

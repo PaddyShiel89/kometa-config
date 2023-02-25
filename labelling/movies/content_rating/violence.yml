@@ -65,11 +65,15 @@ collections:
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
           - ID__000001865A # Pirates of the Caribbean: On Stranger Tides (2011)
+          - ID__000330459A # Rogue One: A Star Wars Story (2016)
           - ID__000566525A # Shang-Chi and the Legend of the Ten Rings (2021)
+          - ID__000348350A # Solo: A Star Wars Story (2018)
           - ID__000000558A # Spider-Man 2 (2004) [Theatrical cut]
           - ID__000000558B # Spider-Man 2.1 (2004) [Extended edition]
           - ID__000634649A # Spider-Man: Far from Home (2019)
+          - ID__000140607A # Star Wars: The Force Awakens (2015)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
+          - ID__000616037A # Thor: Love and Thunder (2022)
 
   BBFC violence lvl 4:
     template:

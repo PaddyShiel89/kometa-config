@@ -37,6 +37,8 @@ collections:
       any:
         label:
           - ID__000010867A # Malèna (2000) [Original Italian cut]
+          - ID__000330459A # Rogue One: A Star Wars Story (2016)
+          - ID__000348350A # Solo: A Star Wars Story (2018)
           - ID__000001893B # Star Wars: Episode I - The Phantom Menace (1999) [DVD cut]
           - ID__000001893C # Star Wars: Episode I - The Phantom Menace (1999) [Blu-ray cut]
           - ID__000001894B # Star Wars: Episode II - Attack of the Clones (2002) [DVD cut]
@@ -52,6 +54,8 @@ collections:
           - ID__000001892A # Star Wars: Episode VI - Return of the Jedi (1983) [Theatrical cut]
           - ID__000001892C # Star Wars: Episode VI - Return of the Jedi (1983) [DVD cut]
           - ID__000001892D # Star Wars: Episode VI - Return of the Jedi (1983) [Blu-ray cut]
+          - ID__000140607A # Star Wars: The Force Awakens (2015)
+          - ID__000181808A # Star Wars: The Last Jedi (2017)
           - ID__000023629A # Sucker Punch (2011) [Theatrical cut]
           - ID__000023629B # Sucker Punch (2011) [Extended cut]
 
@@ -106,6 +110,7 @@ collections:
           - ID__000524434A # Eternals (2021)
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
           - ID__000000098B # Gladiator (2000) [Extended edition]
+          - ID__000000238A # The Godfather (1972)
           - ID__000610253A # Halloween Kills (2021) [Theatrical cut]
           - ID__000610253B # Halloween Kills (2021) [Extended cut]
           - ID__000050456A # Hanna (2011)
@@ -132,6 +137,7 @@ collections:
           - ID__000016307A # The Wicker Man (1973) [UK theatrical cut]
           - ID__000016307B # The Wicker Man (1973) [Director's cut]
           - ID__000016307C # The Wicker Man (1973) [The Final Cut]
+          - ID__000616037A # Thor: Love and Thunder (2022)
 
   "Ownership: own":
     template:
@@ -206,7 +212,6 @@ collections:
           - Paul (2011)
           - Quantum of Solace (2008)
           - Remember the Titans (2000)
-          - "Rogue One: A Star Wars Story (2016)"
           - Room (2003)
           - Room in Rome (2010)
           - Saw (2004) 001
@@ -219,10 +224,7 @@ collections:
           - Secretary (2002)
           - Shaun of the Dead (2004)
           - Skyfall (2012)
-          - "Solo: A Star Wars Story (2018)"
           - Star Trek (2009) 001
-          - Star Wars 007 (2015)
-          - Star Wars 008 (2017)
           - Star Wars Rebels (2014) 001
           - Star Wars Rebels (2014) 002
           - Superstar (1999)

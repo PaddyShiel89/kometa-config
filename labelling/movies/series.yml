@@ -180,6 +180,20 @@ collections:
       - 337755 # Star Wars Rebels: The Siege of Lothal (2015)
       - 74849 # The Star Wars Holiday Special (1978)
 
+  Series__The_Godfather_1972:
+    template:
+      { name: TMDB series label, series_name: The_Godfather, series_year: 1972 }
+    tmdb_movie:
+      - 238 # The Godfather (1972)
+
+  Series__Thor_2011:
+    template: { name: TMDB series label, series_name: Thor, series_year: 2011 }
+    tmdb_movie:
+      - 10195 # Thor (2011)
+      - 76338 # Thor: The Dark World (2013)
+      - 284053 # Thor: Ragnarok (2017)
+      - 616037 # Thor: Love and Thunder (2022)
+
   "Series: 28 Days Later (2002)":
     template:
       - name: Series label
@@ -684,15 +698,6 @@ collections:
         series: "Taken (2008)"
         title_list:
           - Taken (2008) 001
-
-  "Series: Thor (2011)":
-    template:
-      - name: Series label
-        series: "Thor (2011)"
-        title_list:
-          - Thor (2011) 001
-          - Thor (2011) 002
-          - Thor (2011) 003
 
   "Series: Tim Burton's Batman":
     template:
