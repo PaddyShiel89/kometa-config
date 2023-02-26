@@ -20,4 +20,4 @@ playlists:
     plex_search:
       label: Series__Halloween_2018
     filters:
-      label.not: "Edition__secondary"
+      label.not: Edition__secondary
