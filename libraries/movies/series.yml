@@ -38,12 +38,6 @@ collections:
     content_rating: gb/12
     summary: "From Iron Man to Captain America to Daredevil, Guardians of the Galaxy, Jessica Jones, and more, the MCU brings some of the most legendary comic heroes -- and some lesser known ones -- to vibrant, colorful, action-packed life."
 
-  Back to the Future Collection:
-    template:
-      - name: Series
-        summary: "that are part of the Back to the Future series."
-        label_list: "series: Back to the Future (1985)"
-
   DC Extended Universe:
     template:
       - name: Series
@@ -54,43 +48,11 @@ collections:
         title_list:
           - Birds of Prey (2020)
 
-  Halloween Collection:
-    template:
-      - name: Series
-        summary: "that are part of the Halloween franchise."
-        label_list:
-          - Series__Halloween_1978
-          - Series__Halloween_1998
-          - Series__Halloween_2018
-
-  The Hunger Games Collection:
-    template:
-      - name: Series
-        sort_name: "Hunger Games Collection"
-        summary: "that are part of the Hunger Games franchise."
-        label_list:
-          - "series: The Hunger Games (2012)"
-
-  Indiana Jones Collection:
-    template:
-      - name: Series
-        summary: "that are part of the Indiana Jones series."
-        label_list:
-          - "series: Indiana Jones (1981)"
-
   James Bond Collection:
     template:
       - name: Series
         summary: "that are part of Eon Production's James Bond series."
         label_list: "series: James Bond (Eon Productions)"
-
-  Jurassic Park Collection:
-    template:
-      - name: Series
-        summary: "that are part of the Jurassic Park series, including Jurassic World."
-        label_list:
-          - "series: Jurassic Park (1993)"
-          - "series: Jurassic World (2015)"
 
   Muppets Collection:
     template:
@@ -101,51 +63,3 @@ collections:
           - Muppet Christmas Carol (1992)
           - Muppet Treasure Island (1996)
           - Muppets from Space (1999)
-
-  Resident Evil Collection:
-    template:
-      - name: Series
-        summary: "that are based on the Resident Evil series of games."
-        label_list:
-          - "series: Resident Evil (2002)"
-          - "series: Resident Evil (2021)"
-
-  Saw Collection:
-    template:
-      - name: Series
-        summary: "that are part of the Saw horror franchise."
-        label_list: "series: Saw (2004)"
-
-  Scary Movie Collection:
-    template:
-      - name: Series
-        summary: "in the Scary Movie series."
-        label_list: "series: Scary Movie (2000)"
-
-  Scream Collection:
-    template:
-      - name: Series
-        summary: "that are part of the Scream horror franchise."
-        label_list: "series: Scream (1996)"
-
-  The Three Flavours Cornetto:
-    template:
-      - name: Series
-        sort_name: "Three Flavours Cornetto"
-        summary: "in the Three Flavours Cornetto trilogy by Edgar Wright and Simon Pegg."
-        title_list:
-          - Hot Fuzz (2007)
-          - Shaun of the Dead (2004)
-          - World's End (2013)
-
-  Transformers Collection:
-    template:
-      - name: Series
-        summary: "that are part of Michael Bay's Transformers franchise."
-        label_list: "series: Michael Bay's Transformers"
-
-  Wizarding World:
-    template:
-      - name: Series
-        summary: "that are part of the Harry Potter franchise."
-        label_list: "series: Harry Potter (2001)"

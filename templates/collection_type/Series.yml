@@ -11,9 +11,8 @@ templates:
         label: <<label_list>>
         title: <<title_list>>
       sort_by: release.asc
-    collection_mode: hide
+    collection_mode: show_items
     file_poster: /config/assets/series/<<collection_name>>.png
-    sort_title: "!20_<<sort_name>>"
     summary: "<<library_name>> <<summary>>"
     sync_mode: sync
 
