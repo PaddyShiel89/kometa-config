@@ -6,6 +6,5 @@ templates:
       sort_by: release.asc
     tmdb_person: <<person>>
     collection_mode: hide
-    file_poster: /config/assets/actors/<<person>>.png
     sort_title: "!12_<<collection_name>>"
     sync_mode: sync
