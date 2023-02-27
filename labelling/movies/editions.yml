@@ -1,3 +1,6 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
 collections:
   Edition__secondary:
     template:
