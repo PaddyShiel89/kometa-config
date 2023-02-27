@@ -93,6 +93,7 @@ collections:
           - ID__000001892B # Star Wars: Episode VI - Return of the Jedi (1983) [Special edition]
           - ID__000001892E # Star Wars: Episode VI - Return of the Jedi (1983) [Despecialized edition]
           - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
+          - ID__000074849A # The Star Wars Holiday Special (1978)
 
   Source__dvd:
     template:
@@ -476,7 +477,6 @@ collections:
           - Palm Springs (2020)
           - Sergio (2020)
           - Songbird (2020)
-          - Star Wars Holiday Special (1978)
           - Voyeurs (2021)
           - Wasp Network (2020)
 

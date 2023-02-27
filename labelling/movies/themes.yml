@@ -27,6 +27,7 @@ collections:
       - 287663 # Star Wars Rebels: Spark of Rebellion (2014)
       - 337755 # Star Wars Rebels: The Siege of Lothal (2015)
       - 1891 # The Empire Strikes Back (1980)
+      - 74849 # The Star Wars Holiday Special (1978)
       - 616037 # Thor: Love and Thunder (2022)
 
   Theme__alien_invasion:
@@ -81,6 +82,7 @@ collections:
     template: { name: TMDB theme label, theme_name: christmas }
     tmdb_movie:
       - 68721 # Iron Man 3 (2013)
+      - 74849 # The Star Wars Holiday Special (1978)
 
   Theme__clones:
     template: { name: TMDB theme label, theme_name: clones }
@@ -393,7 +395,6 @@ collections:
           - Scary Movie (2000) 003
           - Species (1995) 001
           - Star Trek (2009) 001
-          - Star Wars Holiday Special (1978)
           - Suicide Squad (2021)
           - Super 8 (2011)
           - Thing (1982)
@@ -435,7 +436,6 @@ collections:
           - Muppet Christmas Carol (1992)
           - Nativity! (2009) 001
           - "Santa Claus: The Movie (1985)"
-          - Star Wars Holiday Special (1978)
 
   "Theme: creature feature":
     template:
