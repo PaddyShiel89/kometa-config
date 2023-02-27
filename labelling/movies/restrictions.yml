@@ -8,6 +8,7 @@ collections:
       - name: TMDB restriction label
         restriction_level: family
     tmdb_movie:
+      - 17097 # After Sex (2007)
       - 343674 # Gerald's Game (2017)
 
   # Restriction placed on all users

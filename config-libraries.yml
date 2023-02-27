@@ -3,6 +3,7 @@ libraries:
     operations:
       assets_for_all: true
     metadata_path:
+      - repo: metadata/movies/After Sex (2007) {tmdb-17097}
       - repo: metadata/movies/Alien (1979) {tmdb-348}
       - repo: metadata/movies/Alien Resurrection (1997) {tmdb-8078}
       - repo: metadata/movies/Alien3 (1992) {tmdb-8077}

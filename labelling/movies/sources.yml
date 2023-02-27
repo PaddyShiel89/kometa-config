@@ -102,6 +102,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000017097A # After Sex (2007)
           - ID__000001893B # Star Wars: Episode I - The Phantom Menace (1999) [DVD cut]
           - ID__000001894B # Star Wars: Episode II - Attack of the Clones (2002) [DVD cut]
           - ID__000001895B # Star Wars: Episode III - Revenge of the Sith (2005) [DVD cut]
@@ -498,7 +499,6 @@ collections:
       - name: Source label
         source: "dvd"
         title_list:
-          - After Sex (2007)
           - Anything For Her (2008)
           - "Assassin's Creed: Embers (2011)"
           - Aventure (2009)

@@ -27,6 +27,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000017097A # After Sex (2007)
           - ID__000283995A # Guardians of the Galaxy Vol. 2
           - ID__000068721A # Iron Man 3 (2013)
 
@@ -367,7 +368,6 @@ collections:
         title_list:
           - 28 Days Later (2002) 001
           - 28 Days Later (2002) 002
-          - After Sex (2007)
           - "Alien: Covenant (2017)"
           - Amazing Spider-Man (2012) 002
           - Ant-Man (2015) 001
