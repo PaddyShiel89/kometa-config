@@ -1,7 +1,5 @@
 templates:
   Series:
-    default:
-      sort_name: <<collection_name>>
     optional:
       - label_list
       - summary
