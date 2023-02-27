@@ -1,0 +1,21 @@
+metadata:
+  "Star Wars Rebels: Spark of Rebellion":
+    title: "Star Wars Rebels: Spark of Rebellion"
+    year: 2014
+    edition_filter: TV special
+    sort_title: "Star Wars Rebels (2014) 001"
+    content_rating: gb/U
+    country.sync: [United States of America]
+    director.sync: [Steven G. Lee, Steward Lee]
+    genre.sync:
+      [Action, Adventure, Animation, Family, Fantasy, Mystery, Science Fiction]
+    originally_available: 2014-10-16
+    producer.sync: [Kiri Hart]
+    studio: "Lucasfilm Ltd."
+    summary: "Two-part TV special. Ezra Bridger encounters the Ghost crew and joins them on a mission to free Wookiees from an Imperial Star Destroyer."
+    writer.sync: [Greg Weisman, Simon Kinberg]
+    label: [ID__000287663A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
