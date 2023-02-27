@@ -72,6 +72,11 @@ collections:
     tmdb_movie:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
 
+  Theme__catholiscism:
+    template: { name: TMDB theme label, theme_name: catholiscism }
+    tmdb_movie:
+      - 454527 # Benedetta (2022)
+
   Theme__chase:
     template: { name: TMDB theme label, theme_name: chase }
     tmdb_movie:
@@ -139,6 +144,7 @@ collections:
   Theme__erotic:
     template: { name: TMDB theme label, theme_name: erotic }
     tmdb_movie:
+      - 454527 # Benedetta (2022)
       - 343674 # Gerald's Game (2017)
       - 10867 # Malèna (2000)
 
@@ -150,6 +156,7 @@ collections:
   Theme__foreign_language:
     template: { name: TMDB theme label, theme_name: foreign_language }
     tmdb_movie:
+      - 454527 # Benedetta (2022)
       - 10867 # Malèna (2000)
       - 10753 # Police Story 2 (1988)
 
@@ -256,12 +263,18 @@ collections:
   Theme__psychological:
     template: { name: TMDB theme label, theme_name: psychological }
     tmdb_movie:
+      - 454527 # Benedetta (2022)
       - 343674 # Gerald's Game (2017)
 
   Theme__race_and_ethnicity:
     template: { name: TMDB theme label, theme_name: race_and_ethnicity }
     tmdb_movie:
       - 4982 # American Gangster (2007)
+
+  Theme__religion:
+    template: { name: TMDB theme label, theme_name: religion }
+    tmdb_movie:
+      - 454527 # Benedetta (2022)
 
   Theme__revenge:
     template: { name: TMDB theme label, theme_name: revenge }
@@ -451,7 +464,6 @@ collections:
         title_list:
           - Aventure (2009)
           - Basic Instinct (1992) 001
-          - Benedetta (2021)
           - Chloe (2009)
           - Deep Water (2022)
           - Dressage (1986)
@@ -497,7 +509,6 @@ collections:
           - Anything For Her (2008)
           - Aventure (2009)
           - Baise-moi (2000)
-          - Benedetta (2021)
           - Blue is the Warmest Colour (2013)
           - Che (2008) 001
           - Che (2008) 002
@@ -690,7 +701,6 @@ collections:
       - name: Theme label
         theme: "religion"
         title_list:
-          - Benedetta (2021)
           - Book of Eli (2010)
           - Indiana Jones (1981) 001
           - Indiana Jones (1981) 003

@@ -12,6 +12,7 @@ libraries:
       - repo: metadata/movies/Ant-Man and the Wasp (2018) {tmdb-363088}
       - repo: metadata/movies/Attack the Block (2011) {tmdb-59678}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
+      - repo: metadata/movies/Benedetta (2022) {tmdb-454527}
       - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
