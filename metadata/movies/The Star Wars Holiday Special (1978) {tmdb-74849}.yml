@@ -1,0 +1,17 @@
+metadata:
+  "The Star Wars Holiday Special":
+    title: "The Star Wars Holiday Special"
+    year: 1978
+    edition_filter: TV special
+    sort_title: "Star Wars Holiday Special"
+    content_rating: gb/Unrated
+    country.sync: [United States of America]
+    director.sync: [Steve Binder, David Acomba]
+    genre.sync: [Adventure, Family, Musical, Science Fiction]
+    originally_available: 1978-11-17
+    producer.sync: [Joe Layton, Jeff Starsh, Ken Welch, Mitzie Welch]
+    studio: "Lucasfilm Ltd."
+    summary: "Chewbacca and Han Solo try to get to the Wookiee homeworld of Kashyyyk to celebrate Life Day but are impeded by an Imperial blockade. Chewie's family passes the time with various forms of entertainment."
+    writer.sync:
+      [Rod Warren, Bruce Vilanch, Pat Proft, Leonard Ripps, Mitzie Welch]
+    label: [ID__000074849A]

@@ -1,0 +1,30 @@
+metadata:
+  "Star Wars Rebels: The Siege of Lothal":
+    title: "Star Wars Rebels: The Siege of Lothal"
+    year: 2015
+    edition_filter: TV special
+    sort_title: "Star Wars Rebels (2014) 002"
+    content_rating: gb/PG
+    country.sync: [United States of America]
+    director.sync: [Bosco Ng, Brad Rau]
+    genre.sync:
+      [
+        Action,
+        Adventure,
+        Animation,
+        Family,
+        Fantasy,
+        Mystery,
+        Science Fiction,
+        War,
+      ]
+    originally_available: 2015-06-20
+    producer.sync: [Kiri Hart, Athena Yvette Portillo]
+    studio: "Lucasfilm Ltd."
+    summary: "Two-part TV special. The Ghost crew joins a mission to steal shield generators from an Imperial freighter. Under pressure from Darth Vader, an Imperial defector leads the Sith Lord to battle with Kanan and Ezra."
+    writer.sync: [Henry Gilroy]
+    label: [ID__000337755A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

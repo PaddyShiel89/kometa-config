@@ -53,6 +53,7 @@ collections:
           - ID__000001894C # Star Wars: Episode II - Attack of the Clones (2002) [Blu-ray cut]
           - ID__000140607A # Star Wars: The Force Awakens (2015)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
+          - ID__000012180A # Star Wars: The Clone Wars (2008)
 
   BBFC injury detail lvl 3:
     template:

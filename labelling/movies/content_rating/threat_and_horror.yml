@@ -46,6 +46,7 @@ collections:
           - ID__000001891D # Star Wars: Episode V - The Empire Strikes Back (1980) [Blu-ray cut]
           - ID__000001891E # Star Wars: Episode V - The Empire Strikes Back (1980) [Despecialized edition]
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
+          - ID__000012180A # Star Wars: The Clone Wars (2008)
 
   BBFC threat and horror lvl 3:
     template:

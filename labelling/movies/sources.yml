@@ -22,6 +22,7 @@ collections:
           - ID__000363088A # Ant-Man and the Wasp
           - ID__000059678A # Attack the Block (2011)
           - ID__000299534A # Avengers: Endgame (2019)
+          - ID__000454527A # Benedetta (2022)
           - ID__000497698A # Black Widow (2021)
           - ID__000001771A # Captain America: The First Avenger
           - ID__000299537A # Captain Marvel
@@ -63,9 +64,12 @@ collections:
           - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
           - ID__000001891D # Star Wars: Episode V - The Empire Strikes Back (1980) [Blu-ray cut]
           - ID__000001892D # Star Wars: Episode VI - Return of the Jedi (1983) [Blu-ray cut]
+          - ID__000012180A # Star Wars: The Clone Wars (2008)
           - ID__000140607A # Star Wars: The Force Awakens (2015)
           - ID__000181808A # Star Wars: The Last Jedi (2017)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
+          - ID__000287663A # Star Wars Rebels: Spark of Rebellion (2014)
+          - ID__000337755A # Star Wars Rebels: The Siege of Lothal (2015)
           - ID__000023629A # Sucker Punch (2011) [Theatrical cut]
           - ID__000023629B # Sucker Punch (2011) [Extended cut]
           - ID__000000629A # The Usual Suspects
@@ -90,6 +94,7 @@ collections:
           - ID__000001892B # Star Wars: Episode VI - Return of the Jedi (1983) [Special edition]
           - ID__000001892E # Star Wars: Episode VI - Return of the Jedi (1983) [Despecialized edition]
           - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
+          - ID__000074849A # The Star Wars Holiday Special (1978)
 
   Source__dvd:
     template:
@@ -98,6 +103,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000017097A # After Sex (2007)
           - ID__000001893B # Star Wars: Episode I - The Phantom Menace (1999) [DVD cut]
           - ID__000001894B # Star Wars: Episode II - Attack of the Clones (2002) [DVD cut]
           - ID__000001895B # Star Wars: Episode III - Revenge of the Sith (2005) [DVD cut]
@@ -147,7 +153,6 @@ collections:
           - Batman (2022) 001
           - Batman Begins (2005)
           - Beautiful Mind (2001)
-          - Benedetta (2021)
           - BFG (2016)
           - Birds (1963)
           - Birds of Prey (2020)
@@ -411,9 +416,6 @@ collections:
           - Spirit (2008)
           - Spy Who Loved Me (1977)
           - Star Trek (2009) 001
-          - Star Wars Rebels (2014) 001
-          - Star Wars Rebels (2014) 002
-          - "Star Wars: The Clone Wars (2008)"
           - Suicide Squad (2021)
           - Super 8 (2011)
           - Taken (2008) 001
@@ -476,7 +478,6 @@ collections:
           - Palm Springs (2020)
           - Sergio (2020)
           - Songbird (2020)
-          - Star Wars Holiday Special (1978)
           - Voyeurs (2021)
           - Wasp Network (2020)
 
@@ -498,7 +499,6 @@ collections:
       - name: Source label
         source: "dvd"
         title_list:
-          - After Sex (2007)
           - Anything For Her (2008)
           - "Assassin's Creed: Embers (2011)"
           - Aventure (2009)

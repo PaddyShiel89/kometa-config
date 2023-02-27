@@ -3,6 +3,7 @@ libraries:
     operations:
       assets_for_all: true
     metadata_path:
+      - repo: metadata/movies/After Sex (2007) {tmdb-17097}
       - repo: metadata/movies/Alien (1979) {tmdb-348}
       - repo: metadata/movies/Alien Resurrection (1997) {tmdb-8078}
       - repo: metadata/movies/Alien3 (1992) {tmdb-8077}
@@ -11,6 +12,7 @@ libraries:
       - repo: metadata/movies/Ant-Man and the Wasp (2018) {tmdb-363088}
       - repo: metadata/movies/Attack the Block (2011) {tmdb-59678}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
+      - repo: metadata/movies/Benedetta (2022) {tmdb-454527}
       - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
@@ -43,12 +45,16 @@ libraries:
       - repo: metadata/movies/Star Wars Episode I - The Phantom Menace (1999) {tmdb-1893}
       - repo: metadata/movies/Star Wars Episode II - Attack of the Clones (2002) {tmdb-1894}
       - repo: metadata/movies/Star Wars Episode III - Revenge of the Sith (2005) {tmdb-1895}
+      - repo: metadata/movies/Star Wars Rebels Spark of Rebellion (2014) {tmdb-287663}
+      - repo: metadata/movies/Star Wars Rebels The Siege of Lothal (2015) {tmdb-337755}
+      - repo: metadata/movies/Star Wars The Clone Wars (2008) {tmdb-12180}
       - repo: metadata/movies/Star Wars The Force Awakens (2015) {tmdb-140607}
       - repo: metadata/movies/Star Wars The Last Jedi (2017) {tmdb-181808}
       - repo: metadata/movies/Star Wars The Rise of Skywalker (2019) {tmdb-181812}
       - repo: metadata/movies/Sucker Punch (2011) {tmdb-23629}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
       - repo: metadata/movies/The Godfather (1972) {tmdb-238}
+      - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
       - repo: metadata/movies/The Wicker Man (1973) {tmdb-16307}
       - repo: metadata/movies/Thor Love and Thunder (2022) {tmdb-616037}
