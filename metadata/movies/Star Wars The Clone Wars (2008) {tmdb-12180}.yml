@@ -1,0 +1,17 @@
+metadata:
+  "Star Wars: The Clone Wars":
+    title: "Star Wars: The Clone Wars"
+    year: 2008
+    edition_filter: Theatrical cut
+    sort_title: "Star Wars: The Clone Wars (2008)"
+    content_rating: gb/PG
+    country.sync: [United States of America]
+    director.sync: [Dave Filoni]
+    genre.sync:
+      [Action, Adventure, Animation, Family, Fantasy, Science Fiction, War]
+    originally_available: 2008-08-15
+    producer.sync: [Catherine Winder]
+    studio: "Lucasfilm Ltd."
+    summary: "After the Republic's victory on Christophsis, Anakin and his new apprentice, Ahsoka Tano, must rescue the kidnapped son of Jabba the Hutt."
+    writer.sync: [Henry Gilroy, Steven Melching, Scott Murphy]
+    label: [ID__000012180A]

@@ -26,6 +26,7 @@ collections:
           - ID__000001892E # Star Wars: Episode VI - Return of the Jedi (1983) [Despecialized edition]
           - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
+          - ID__000012180A # Star Wars: The Clone Wars (2008)
 
   BBFC sex lvl 2:
     template:

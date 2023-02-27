@@ -20,6 +20,7 @@ collections:
       - 1893 # Star Wars: Episode I - The Phantom Menace (1999)
       - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
       - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
+      - 12180 # Star Wars: The Clone Wars (2008)
       - 140607 # Star Wars: The Force Awakens (2015)
       - 181808 # Star Wars: The Last Jedi (2017)
       - 181812 # Star Wars: The Rise of Skywalker (2019)
@@ -84,6 +85,7 @@ collections:
     tmdb_movie:
       - 8078 # Alien Resurrection (1997)
       - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
+      - 12180 # Star Wars: The Clone Wars (2008)
 
   Theme__cold_war:
     template: { name: TMDB theme label, theme_name: cold_war }
@@ -391,7 +393,6 @@ collections:
           - Star Trek (2009) 001
           - Star Wars Rebels (2014) 001
           - Star Wars Rebels (2014) 002
-          - "Star Wars: The Clone Wars (2008)"
           - Star Wars Holiday Special (1978)
           - Suicide Squad (2021)
           - Super 8 (2011)
