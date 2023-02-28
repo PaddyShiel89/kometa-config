@@ -37,6 +37,7 @@ libraries:
       - repo: metadata/movies/Rogue One A Star Wars Story {tmdb-330459}
       - repo: metadata/movies/Salt (2010) {tmdb-27576}
       - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}
+      - repo: metadata/movies/Smile (2022) {tmdb-882598}
       - repo: metadata/movies/Solo A Star Wars Story {tmdb-348350}
       - repo: metadata/movies/Spider-Man 2 (2004) {tmdb-558}
       - repo: metadata/movies/Spider-Man Far from Home (2019) {tmdb-429617}
@@ -136,6 +137,7 @@ libraries:
       - repo: metadata/short_films/2048 Nowhere to Run (2017) {tmdb-475759}
       - repo: metadata/short_films/Anima (2011) {tmdb-416185}
       - repo: metadata/short_films/Blade Runner Black Out 2022 (2017) {tmdb-475946}
+      - repo: metadata/short_films/Laura Hasn't Slept (2020) {tmdb-689397}
       - repo: metadata/short_films/Marvel One-Shot A Funny Thing Happened on the Way to Thor's Hammer (2011) {tmdb-76535}
       - repo: metadata/short_films/Marvel One-Shot Agent Carter (2013) {tmdb-211387}
       - repo: metadata/short_films/Marvel One-Shot All Hail the King (2014) {tmdb-253980}
