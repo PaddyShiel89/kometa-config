@@ -136,6 +136,7 @@ libraries:
       - repo: metadata/short_films/2048 Nowhere to Run (2017) {tmdb-475759}
       - repo: metadata/short_films/Anima (2011) {tmdb-416185}
       - repo: metadata/short_films/Blade Runner Black Out 2022 (2017) {tmdb-475946}
+      - repo: metadata/short_films/Laura Hasn't Slept (2020) {tmdb-689397}
       - repo: metadata/short_films/Marvel One-Shot A Funny Thing Happened on the Way to Thor's Hammer (2011) {tmdb-76535}
       - repo: metadata/short_films/Marvel One-Shot Agent Carter (2013) {tmdb-211387}
       - repo: metadata/short_films/Marvel One-Shot All Hail the King (2014) {tmdb-253980}
