@@ -121,6 +121,11 @@ collections:
     tmdb_movie:
       - 16307 # The Wicker Man (1973)
 
+  Theme__curses:
+    template: { name: TMDB theme label, theme_name: curses }
+    tmdb_movie:
+      - 882598 # Smile (2022)
+
   Theme__demons:
     template: { name: TMDB theme label, theme_name: demons }
     tmdb_movie:
@@ -129,6 +134,7 @@ collections:
       - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
+      - 882598 # Smile (2022)
 
   Theme__drugs:
     template: { name: TMDB theme label, theme_name: drugs }
@@ -202,6 +208,7 @@ collections:
       - 8077 # Alien³ (1992)
       - 8078 # Alien Resurrection (1997)
       - 59678 # Attack the Block (2011)
+      - 882598 # Smile (2022)
 
   Theme__murder:
     template: { name: TMDB theme label, theme_name: murder }
@@ -265,6 +272,7 @@ collections:
     tmdb_movie:
       - 454527 # Benedetta (2022)
       - 343674 # Gerald's Game (2017)
+      - 882598 # Smile (2022)
 
   Theme__race_and_ethnicity:
     template: { name: TMDB theme label, theme_name: race_and_ethnicity }
@@ -294,6 +302,11 @@ collections:
     tmdb_movie:
       - 610253 # Halloween Kills (2021)
 
+  Theme__shapeshifters:
+    template: { name: TMDB theme label, theme_name: shapeshifters }
+    tmdb_movie:
+      - 882598 # Smile (2022)
+
   Theme__slasher:
     template: { name: TMDB theme label, theme_name: slasher }
     tmdb_movie:
@@ -309,6 +322,11 @@ collections:
     template: { name: TMDB theme label, theme_name: steampunk }
     tmdb_movie:
       - 23629 # Sucker Punch (2011)
+
+  Theme__suicide:
+    template: { name: TMDB theme label, theme_name: suicide }
+    tmdb_movie:
+      - 882598 # Smile (2022)
 
   Theme__superheroes:
     template: { name: TMDB theme label, theme_name: superheroes }
@@ -337,6 +355,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
+      - 882598 # Smile (2022)
 
   Theme__survival:
     template: { name: TMDB theme label, theme_name: survival }
