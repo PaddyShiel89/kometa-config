@@ -15,7 +15,7 @@ metadata:
     originally_available: 1988-10-13
     producer.sync: [Leonard Ho]
     studio: Golden Harvest Company
-    summary: "The Hong Kong supercop must stop a group of blackmailing bombers, while old enemies are out for revenge."
+    summary: "The Hong Kong supercop must stop a group of blackmailing bombers while old enemies are out for revenge."
     tagline: "Jackie Chan escalates his one-man war on crime."
     writer.sync: [Jackie Chan, Paul B. Clay, Edward Tang]
     label: [ID__000010753A]
@@ -33,7 +33,7 @@ metadata:
     originally_available: 1988-10-13
     producer.sync: [Leonard Ho]
     studio: Golden Harvest Company
-    summary: "The Hong Kong supercop must stop a group of blackmailing bombers, while old enemies are out for revenge."
+    summary: "The Hong Kong supercop must stop a group of blackmailing bombers while old enemies are out for revenge."
     tagline: "Jackie Chan escalates his one-man war on crime."
     writer.sync: [Jackie Chan, Paul B. Clay, Edward Tang]
     label: [ID__000010753B]
@@ -43,7 +43,7 @@ collections:
     template: { name: Edition }
     tmdb_movie: 10753
     sort_title: Police Story (1985) 002
-    summary: "The Hong Kong supercop must stop a group of blackmailing bombers, while old enemies are out for revenge."
+    summary: "The Hong Kong supercop must stop a group of blackmailing bombers while old enemies are out for revenge."
 # ----------------------------------- Notes ---------------------------------- #
 
 # TODO - No content rating labels added. Overview scale ratings not currently

@@ -14,7 +14,7 @@ metadata:
     originally_available: 1999-07-15
     producer.sync: [Rick McCallum]
     studio: "Lucasfilm Ltd."
-    summary: "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory."
+    summary: "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long-dormant Sith resurface to claim their original glory."
     tagline: "Every generation has a legend. Every journey has a first step. Every saga has a beginning."
     writer.sync: [George Lucas]
     label: [ID__000001893B]
@@ -31,7 +31,7 @@ metadata:
     originally_available: 1999-07-15
     producer.sync: [Rick McCallum]
     studio: "Lucasfilm Ltd."
-    summary: "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory."
+    summary: "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long-dormant Sith resurface to claim their original glory."
     tagline: "Every generation has a legend. Every journey has a first step. Every saga has a beginning."
     writer.sync: [George Lucas]
     label: [ID__000001893C]
@@ -41,7 +41,7 @@ collections:
     template: { name: Edition }
     tmdb_movie: 1893
     sort_title: "Star Wars 001"
-    summary: "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory."
+    summary: "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long-dormant Sith resurface to claim their original glory."
 # ----------------------------------- Notes ---------------------------------- #
 
 # TODO - No content rating labels added. Overview scale ratings not currently

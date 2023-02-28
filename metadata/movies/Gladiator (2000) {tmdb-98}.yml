@@ -14,7 +14,7 @@ metadata:
     originally_available: 2000-05-12
     producer.sync: [David Franzoni, Branko Lustig, Douglas Wick]
     studio: Scott Free Productions
-    summary: "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+    summary: "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
     tagline: "A Hero Will Rise."
     writer.sync: [David Franzoni, John Logan, William Nicholson]
     label: [ID__000000098A]
@@ -31,7 +31,7 @@ metadata:
     originally_available: 2000-05-12
     producer.sync: [David Franzoni, Branko Lustig, Douglas Wick]
     studio: Scott Free Productions
-    summary: "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+    summary: "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
     tagline: "A Hero Will Rise."
     writer.sync: [David Franzoni, John Logan, William Nicholson]
     label: [ID__000000098B]
@@ -41,4 +41,4 @@ collections:
     template: { name: Edition }
     tmdb_movie: 98
     sort_title: Gladiator (2000) 001
-    summary: "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+    summary: "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
