@@ -14,7 +14,7 @@ metadata:
     originally_available: 1997-11-28
     producer.sync: [Bill Badalato, Gordon Carroll, David Giler, Walter Hill]
     studio: Brandywine Productions
-    summary: "200 years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must again battle the deadly aliens and stop them from reaching Earth."
+    summary: "Two-hundred years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must stop the xenomorphs from reaching Earth."
     tagline: "Witness the resurrection."
     writer.sync: [Joss Whedon]
     label: [ID__000008078A]
@@ -31,7 +31,7 @@ metadata:
     originally_available: 1997-11-28
     producer.sync: [Bill Badalato, Gordon Carroll, David Giler, Walter Hill]
     studio: Brandywine Productions
-    summary: "200 years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must again battle the deadly aliens and stop them from reaching Earth."
+    summary: "Two-hundred years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must stop the xenomorphs from reaching Earth."
     tagline: "Witness the resurrection."
     writer.sync: [Joss Whedon]
     label: [ID__000008078B]
@@ -41,4 +41,4 @@ collections:
     template: { name: Edition }
     tmdb_movie: 8078
     sort_title: Alien (1979) 004
-    summary: "200 years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must again battle the deadly aliens and stop them from reaching Earth."
+    summary: "Two-hundred years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must stop the xenomorphs from reaching Earth."

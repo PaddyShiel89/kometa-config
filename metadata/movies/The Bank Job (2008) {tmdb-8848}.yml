@@ -1,0 +1,21 @@
+metadata:
+  The Bank Job:
+    title: The Bank Job
+    year: 2008
+    edition_filter: Theatrical cut
+    sort_title: "Bank Job (2008)"
+    content_rating: gb/15
+    country.sync: [Australia, United Kingdom, United States of America]
+    director.sync: [Roger Donaldson]
+    genre.sync: [Crime, Drama, Thriller]
+    originally_available: 2008-02-28
+    producer.sync: [Steven Chasman, Charles Roven]
+    studio: Relativity Media
+    summary: "A London crook gets a lead on a foolproof bank hit on London's Baker Street. She targets a roomful of safe deposit boxes worth millions in cash, jewellery, and a treasure trove of dirty secrets."
+    tagline: "The true story of a heist gone wrong... in all the right ways."
+    writer.sync: [Dick Clement, Ian La Frenais]
+    label: [ID__000008848A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
