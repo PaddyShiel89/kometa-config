@@ -18,6 +18,7 @@ libraries:
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
       - repo: metadata/movies/Doctor Strange in the Multiverse of Madness (2022) {tmdb-453395}
+      - repo: metadata/movies/Don't Worry Darling (2022) {tmdb-619730}
       - repo: metadata/movies/Eternals (2021) {tmdb-524434}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
       - repo: metadata/movies/Gladiator (2000) {tmdb-98}
@@ -28,6 +29,7 @@ libraries:
       - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
       - repo: metadata/movies/Malena (2000) {tmdb-10867}
       - repo: metadata/movies/Minority Report (2002) {tmdb-180}
+      - repo: metadata/movies/Nope (2022) {tmdb-762504}
       - repo: metadata/movies/Pirates of the Caribbean At World's End (2007) {tmdb-285}
       - repo: metadata/movies/Pirates of the Caribbean Dead Man's Chest (2006) {tmdb-58}
       - repo: metadata/movies/Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426}
@@ -53,8 +55,11 @@ libraries:
       - repo: metadata/movies/Star Wars The Last Jedi (2017) {tmdb-181808}
       - repo: metadata/movies/Star Wars The Rise of Skywalker (2019) {tmdb-181812}
       - repo: metadata/movies/Sucker Punch (2011) {tmdb-23629}
+      - repo: metadata/movies/The Bank Job (2008) {tmdb-8848}
+      - repo: metadata/movies/The Banshees of Inisherin (2022) {tmdb-674324}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
       - repo: metadata/movies/The Godfather (1972) {tmdb-238}
+      - repo: metadata/movies/The Godfather Part II (1974) {tmdb-240}
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
       - repo: metadata/movies/The Wicker Man (1973) {tmdb-16307}

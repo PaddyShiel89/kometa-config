@@ -1,0 +1,22 @@
+metadata:
+  The Godfather Part II:
+    title: The Godfather Part II
+    year: 1975
+    edition_filter: Theatrical cut
+    sort_title: Godfather (1972) 002
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Francis Ford Coppola]
+    genre.sync: [Crime, Drama]
+    original_title: "Mario Puzo's the Godfather Part II"
+    originally_available: 1975-05-15
+    producer.sync: [Francis Ford Coppola]
+    studio: Paramount Pictures
+    summary: "Explore the early life and career of Vito Corleone in 1920s New York City. In the present, his son Michael expands and tightens his grip on the family crime syndicate."
+    tagline: "All the power on earth can't change destiny."
+    writer.sync: [Francis Ford Coppola, Mario Puzo]
+    label: [ID__000000240A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

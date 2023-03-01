@@ -185,6 +185,7 @@ collections:
       { name: TMDB series label, series_name: The_Godfather, series_year: 1972 }
     tmdb_movie:
       - 238 # The Godfather (1972)
+      - 240 # The Godfather Part II (1975)
 
   Series__Thor_2011:
     template: { name: TMDB series label, series_name: Thor, series_year: 2011 }
