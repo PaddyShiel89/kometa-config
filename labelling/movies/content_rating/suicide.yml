@@ -2,13 +2,24 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  BBFC alcohol & tobacco lvl 2:
+  BBFC suicide lvl 2:
     template:
       - name: Content rating numeric label
         ratings_board: BBFC
-        content: alcohol_and_tobacco
+        content: suicide
         level: 2
     plex_search:
       any:
         label:
           - ID__000524434A # Eternals (2021)
+
+  BBFC suicide lvl 4:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: suicide
+        level: 4
+    plex_search:
+      any:
+        label:
+          - ID__000619730A # Don't Worry Darling (2022)
