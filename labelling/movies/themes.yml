@@ -67,6 +67,11 @@ collections:
     tmdb_movie:
       - 343674 # Gerald's Game (2017)
 
+  Theme__based_on_true_events:
+    template: { name: TMDB theme label, theme_name: based_on_true_events }
+    tmdb_movie:
+      - 8848 # The Bank Job (2008)
+
   Theme__cannibalism:
     template: { name: TMDB theme label, theme_name: cannibalism }
     tmdb_movie:
@@ -170,6 +175,7 @@ collections:
     template: { name: TMDB theme label, theme_name: heist }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 8848 # The Bank Job (2008)
       - 348350 # Solo: A Star Wars Story (2018)
       - 629 # The Usual Suspects (1995)
 
