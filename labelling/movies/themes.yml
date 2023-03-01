@@ -199,6 +199,7 @@ collections:
     template: { name: TMDB theme label, theme_name: mafia }
     tmdb_movie:
       - 238 # The Godfather (1972)
+      - 240 # The Godfather Part II (1975)
 
   Theme__magic:
     template: { name: TMDB theme label, theme_name: magic }
