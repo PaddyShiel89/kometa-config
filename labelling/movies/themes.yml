@@ -73,6 +73,11 @@ collections:
     tmdb_movie:
       - 343674 # Gerald's Game (2017)
 
+  Theme__black_comedy:
+    template: { name: TMDB theme label, theme_name: black_comedy }
+    tmdb_movie:
+      - 674324 # The Banshees of Inisherin (2022)
+
   Theme__based_on_true_events:
     template: { name: TMDB theme label, theme_name: based_on_true_events }
     tmdb_movie:
@@ -401,6 +406,11 @@ collections:
     template: { name: TMDB theme label, theme_name: time_travel }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+
+  Theme__tragicomedies:
+    template: { name: TMDB theme label, theme_name: tragicomedies }
+    tmdb_movie:
+      - 674324 # The Banshees of Inisherin (2022)
 
   Theme__treasure_hunt:
     template: { name: TMDB theme label, theme_name: treasure_hunt }
