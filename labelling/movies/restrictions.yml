@@ -9,7 +9,7 @@ collections:
         restriction_level: family
     tmdb_movie:
       - 17097 # After Sex (2007)
-      - 454527 # Benedetta (2022)
+      - 454527 # Benedetta (2021)
       - 343674 # Gerald's Game (2017)
 
   # Restriction placed on all users
