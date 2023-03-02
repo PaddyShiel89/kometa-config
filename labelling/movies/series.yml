@@ -119,6 +119,12 @@ collections:
       - 10138 # Iron Man 2 (2010)
       - 68721 # Iron Man 3 (2013)
 
+  Series__John_Wick_2015:
+    template:
+      { name: TMDB series label, series_name: John_Wick, series_year: 2015 }
+    tmdb_movie:
+      - 245891 # John Wick (2015)
+
   Series__Pirates_of_the_Caribbean_2003:
     template:
       {

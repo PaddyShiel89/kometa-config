@@ -26,6 +26,11 @@ collections:
     tmdb_movie:
       - 416185 # Ánima (2011)
 
+  Theme__halloween:
+    template: { name: TMDB theme label, theme_name: halloween }
+    tmdb_movie:
+      - 140149 # Season's Greetings (1996)
+
   Theme__mockumentary:
     template: { name: TMDB theme label, theme_name: mockumentary }
     tmdb_movie:
