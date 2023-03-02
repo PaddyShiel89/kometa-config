@@ -1,0 +1,21 @@
+metadata:
+  John Wick:
+    title: John Wick
+    year: 2015
+    edition_filter: Theatrical cut
+    sort_title: John Wick (2015) 001
+    content_rating: gb/15
+    country.sync: [China, United Kingdom, United States of America]
+    director.sync: [Chad Stahelski, David Leitch]
+    genre.sync: [Action, Crime, Thriller]
+    originally_available: 2015-04-10
+    producer.sync: [Basil Iwanyk, David Leitch, Eva Longoria, Mike Witherill]
+    studio: Summit Entertainment
+    summary: "An ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took his car."
+    tagline: "Revenge is all he has left."
+    writer.sync: [Derek Kolstad]
+    label: [ID__000245891A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

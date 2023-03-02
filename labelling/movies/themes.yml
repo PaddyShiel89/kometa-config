@@ -58,6 +58,7 @@ collections:
   Theme__assassins:
     template: { name: TMDB theme label, theme_name: assassins }
     tmdb_movie:
+      - 245891 # John Wick (2015)
       - 101 # Léon: The Professional (1995)
 
   Theme__based_on_a_book:
@@ -206,6 +207,7 @@ collections:
     tmdb_movie:
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1975)
+      - 245891 # John Wick (2015)
 
   Theme__magic:
     template: { name: TMDB theme label, theme_name: magic }
@@ -269,6 +271,7 @@ collections:
     template: { name: TMDB theme label, theme_name: neo_noir }
     tmdb_movie:
       - 4982 # American Gangster (2007)
+      - 245891 # John Wick (2015)
       - 180 # Minority Report (2002)
       - 629 # The Usual Suspects (1995)
 
@@ -327,6 +330,7 @@ collections:
       - 98 # Gladiator (2000)
       - 610253 # Halloween Kills (2021)
       - 68721 # Iron Man 3 (2013)
+      - 245891 # John Wick (2015)
       - 101 # Léon: The Professional (1995)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
