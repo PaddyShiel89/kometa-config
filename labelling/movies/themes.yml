@@ -98,7 +98,7 @@ collections:
   Theme__catholiscism:
     template: { name: TMDB theme label, theme_name: catholiscism }
     tmdb_movie:
-      - 454527 # Benedetta (2022)
+      - 454527 # Benedetta (2021)
 
   Theme__chase:
     template: { name: TMDB theme label, theme_name: chase }
@@ -178,7 +178,7 @@ collections:
   Theme__erotic:
     template: { name: TMDB theme label, theme_name: erotic }
     tmdb_movie:
-      - 454527 # Benedetta (2022)
+      - 454527 # Benedetta (2021)
       - 343674 # Gerald's Game (2017)
       - 10867 # Malèna (2000)
 
@@ -190,7 +190,7 @@ collections:
   Theme__foreign_language:
     template: { name: TMDB theme label, theme_name: foreign_language }
     tmdb_movie:
-      - 454527 # Benedetta (2022)
+      - 454527 # Benedetta (2021)
       - 10867 # Malèna (2000)
       - 10753 # Police Story 2 (1988)
 
@@ -309,7 +309,7 @@ collections:
   Theme__psychological:
     template: { name: TMDB theme label, theme_name: psychological }
     tmdb_movie:
-      - 454527 # Benedetta (2022)
+      - 454527 # Benedetta (2021)
       - 619730 # Don't Worry Darling (2022)
       - 343674 # Gerald's Game (2017)
       - 882598 # Smile (2022)
@@ -322,7 +322,7 @@ collections:
   Theme__religion:
     template: { name: TMDB theme label, theme_name: religion }
     tmdb_movie:
-      - 454527 # Benedetta (2022)
+      - 454527 # Benedetta (2021)
 
   Theme__revenge:
     template: { name: TMDB theme label, theme_name: revenge }

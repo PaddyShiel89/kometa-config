@@ -4,7 +4,7 @@ external_templates:
 metadata:
   "Léon: The Professional [Theatrical cut]":
     title: "Léon: The Professional"
-    year: 1995
+    year: 1994
     edition_filter: Theatrical cut
     sort_title: "Leon: The Professional (1994) 001A"
     content_rating: gb/15
@@ -12,7 +12,7 @@ metadata:
     director.sync: [Luc Besson]
     genre.sync: [Action, Crime, Drama, Thriller]
     original_title: "Léon"
-    originally_available: 1995-02-03
+    originally_available: 1994-09-14
     producer.sync: [Claude Besson]
     studio: "Columbia Pictures"
     summary: "12-year-old Mathilda is reluctantly taken in by Léon - a professional assassin - after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade."
@@ -22,7 +22,7 @@ metadata:
 
   "Léon: The Professional [Director's cut]":
     title: "Léon: The Professional"
-    year: 1995
+    year: 1994
     edition_filter: Director's cut
     sort_title: "Leon: The Professional (1994) 001B"
     content_rating: gb/15
