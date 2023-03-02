@@ -150,6 +150,7 @@ libraries:
       - repo: metadata/short_films/Marvel One-Shot All Hail the King (2014) {tmdb-253980}
       - repo: metadata/short_films/Marvel One-Shot Item 47 (2012) {tmdb-119569}
       - repo: metadata/short_films/Marvel One-Shot The Consultant (2011) {tmdb-76122}
+      - repo: metadata/short_films/Season's Greetings (1996) {tmdb-140149}
       - repo: metadata/short_films/Team Darryl (2018) {tmdb-505945}
       - repo: metadata/short_films/Team Thor Part 2 (2017) {tmdb-441829}
       - repo: labelling/short_films/ownership
