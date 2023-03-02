@@ -50,6 +50,11 @@ collections:
       - 180 # Minority Report (2002)
       - 634649 # Spider-Man: No Way Home (2021)
 
+  Theme__anthology:
+    template: { name: TMDB theme label, theme_name: anthology }
+    tmdb_movie:
+      - 23202 # Trick 'r Treat (2007)
+
   Theme__assassins:
     template: { name: TMDB theme label, theme_name: assassins }
     tmdb_movie:
@@ -77,6 +82,7 @@ collections:
     template: { name: TMDB theme label, theme_name: black_comedy }
     tmdb_movie:
       - 674324 # The Banshees of Inisherin (2022)
+      - 23202 # Trick 'r Treat (2007)
 
   Theme__based_on_true_events:
     template: { name: TMDB theme label, theme_name: based_on_true_events }
@@ -238,6 +244,7 @@ collections:
       - 59678 # Attack the Block (2011)
       - 762504 # Nope (2022)
       - 882598 # Smile (2022)
+      - 23202 # Trick 'r Treat (2007)
 
   Theme__murder:
     template: { name: TMDB theme label, theme_name: murder }
@@ -331,6 +338,7 @@ collections:
     template: { name: TMDB theme label, theme_name: serial_killer }
     tmdb_movie:
       - 610253 # Halloween Kills (2021)
+      - 23202 # Trick 'r Treat (2007)
 
   Theme__shapeshifters:
     template: { name: TMDB theme label, theme_name: shapeshifters }
@@ -387,6 +395,7 @@ collections:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 882598 # Smile (2022)
+      - 23202 # Trick 'r Treat (2007)
 
   Theme__survival:
     template: { name: TMDB theme label, theme_name: survival }
@@ -436,6 +445,7 @@ collections:
     template: { name: TMDB theme label, theme_name: zombies }
     tmdb_movie:
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 23202 # Trick 'r Treat (2007)
 
   "Theme: aliens":
     template:
