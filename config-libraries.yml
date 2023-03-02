@@ -26,7 +26,7 @@ libraries:
       - repo: metadata/movies/Halloween Kills (2021) {tmdb-610253}
       - repo: metadata/movies/Hanna (2011) {tmdb-50456}
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
-      - repo: metadata/movies/John Wick (2015) {tmdb-245891}
+      - repo: metadata/movies/John Wick (2014) {tmdb-245891}
       - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
       - repo: metadata/movies/Malena (2000) {tmdb-10867}
       - repo: metadata/movies/Minority Report (2002) {tmdb-180}
