@@ -22,6 +22,7 @@ libraries:
       - repo: metadata/movies/Eternals (2021) {tmdb-524434}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
       - repo: metadata/movies/Gladiator (2000) {tmdb-98}
+      - repo: metadata/movies/Goodnight, Mister Tom (1998) {tmdb-20546}
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
       - repo: metadata/movies/Halloween Kills (2021) {tmdb-610253}
       - repo: metadata/movies/Hanna (2011) {tmdb-50456}
@@ -61,11 +62,13 @@ libraries:
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
       - repo: metadata/movies/The Godfather (1972) {tmdb-238}
       - repo: metadata/movies/The Godfather Part II (1974) {tmdb-240}
+      - repo: metadata/movies/The Godfather Part III (1990) {tmdb-242}
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
       - repo: metadata/movies/The Wicker Man (1973) {tmdb-16307}
       - repo: metadata/movies/Thor Love and Thunder (2022) {tmdb-616037}
       - repo: metadata/movies/Trick 'r Treat (2007) {tmdb-23202}
+      - repo: metadata/movies/Wedding Crashers (2005) {tmdb-9522}
       - repo: labelling/movies/editions
       - repo: labelling/movies/content_rating/alcohol_and_tobacco
       - repo: labelling/movies/content_rating/discrimination

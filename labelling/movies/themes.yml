@@ -64,7 +64,11 @@ collections:
   Theme__based_on_a_book:
     template: { name: TMDB theme label, theme_name: based_on_a_book }
     tmdb_movie:
+      - 343674 # Gerald's Game (2017)
+      - 20546 # Goodnight, Mister Tom (1998)
+      - 180 # Minority Report (2002)
       - 238 # The Godfather (1972)
+      - 240 # The Godfather Part II (1974)
       - 16307 # The Wicker Man (1973)
 
   Theme__based_on_works_by_philip_k_dick:
@@ -90,6 +94,11 @@ collections:
     tmdb_movie:
       - 8848 # The Bank Job (2008)
 
+  Theme__buddy_movie:
+    template: { name: TMDB theme label, theme_name: buddy_movie }
+    tmdb_movie:
+      - 9522 # Wedding Crashers (2005)
+
   Theme__cannibalism:
     template: { name: TMDB theme label, theme_name: cannibalism }
     tmdb_movie:
@@ -99,6 +108,7 @@ collections:
     template: { name: TMDB theme label, theme_name: catholiscism }
     tmdb_movie:
       - 454527 # Benedetta (2021)
+      - 242 # The Godfather Part III (1990)
 
   Theme__chase:
     template: { name: TMDB theme label, theme_name: chase }
@@ -163,6 +173,7 @@ collections:
     template: { name: TMDB theme label, theme_name: domestic_violence }
     tmdb_movie:
       - 619730 # Don't Worry Darling (2022)
+      - 20546 # Goodnight, Mister Tom (1998)
 
   Theme__drugs:
     template: { name: TMDB theme label, theme_name: drugs }
@@ -207,6 +218,7 @@ collections:
     tmdb_movie:
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1975)
+      - 242 # The Godfather Part III (1990)
       - 245891 # John Wick (2015)
 
   Theme__magic:
@@ -222,6 +234,7 @@ collections:
     template: { name: TMDB theme label, theme_name: marriage }
     tmdb_movie:
       - 619730 # Don't Worry Darling (2022)
+      - 9522 # Wedding Crashers (2005)
 
   Theme__martial_arts:
     template: { name: TMDB theme label, theme_name: martial_arts }
@@ -443,6 +456,7 @@ collections:
     template: { name: TMDB theme label, theme_name: world_war_ii }
     tmdb_movie:
       - 1771 # Captain America: The First Avenger (2011)
+      - 20546 # Goodnight, Mister Tom (1998)
       - 10867 # Malèna (2000)
 
   Theme__zombies:

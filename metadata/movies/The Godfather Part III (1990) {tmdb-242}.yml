@@ -1,0 +1,21 @@
+metadata:
+  The Godfather Part III:
+    title: The Godfather Part III
+    year: 1990
+    edition_filter: Theatrical cut
+    sort_title: Godfather (1972) 003
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Francis Ford Coppola]
+    genre.sync: [Crime, Drama]
+    originally_available: 1990-12-20
+    producer.sync: [Francis Ford Coppola]
+    studio: Paramount Pictures
+    summary: "Michael Corleone, now in his 60s, seeks to free his family from crime and find a suitable successor to his empire."
+    tagline: "Just When He Thought He Was Out, They Pulled Him Back In."
+    writer.sync: [Mario Puzo, Francis Ford Coppola]
+    label: [ID__000000242A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
