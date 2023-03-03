@@ -62,6 +62,7 @@ libraries:
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
       - repo: metadata/movies/The Godfather (1972) {tmdb-238}
       - repo: metadata/movies/The Godfather Part II (1974) {tmdb-240}
+      - repo: metadata/movies/The Godfather Part III (1990) {tmdb-242}
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
       - repo: metadata/movies/The Wicker Man (1973) {tmdb-16307}

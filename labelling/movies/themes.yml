@@ -64,8 +64,11 @@ collections:
   Theme__based_on_a_book:
     template: { name: TMDB theme label, theme_name: based_on_a_book }
     tmdb_movie:
+      - 343674 # Gerald's Game (2017)
       - 20546 # Goodnight, Mister Tom (1998)
+      - 180 # Minority Report (2002)
       - 238 # The Godfather (1972)
+      - 240 # The Godfather Part II (1974)
       - 16307 # The Wicker Man (1973)
 
   Theme__based_on_works_by_philip_k_dick:
@@ -100,6 +103,7 @@ collections:
     template: { name: TMDB theme label, theme_name: catholiscism }
     tmdb_movie:
       - 454527 # Benedetta (2021)
+      - 242 # The Godfather Part III (1990)
 
   Theme__chase:
     template: { name: TMDB theme label, theme_name: chase }
@@ -209,6 +213,7 @@ collections:
     tmdb_movie:
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1975)
+      - 242 # The Godfather Part III (1990)
       - 245891 # John Wick (2015)
 
   Theme__magic:
