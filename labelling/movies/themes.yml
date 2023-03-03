@@ -64,6 +64,7 @@ collections:
   Theme__based_on_a_book:
     template: { name: TMDB theme label, theme_name: based_on_a_book }
     tmdb_movie:
+      - 20546 # Goodnight, Mister Tom (1998)
       - 238 # The Godfather (1972)
       - 16307 # The Wicker Man (1973)
 
@@ -163,6 +164,7 @@ collections:
     template: { name: TMDB theme label, theme_name: domestic_violence }
     tmdb_movie:
       - 619730 # Don't Worry Darling (2022)
+      - 20546 # Goodnight, Mister Tom (1998)
 
   Theme__drugs:
     template: { name: TMDB theme label, theme_name: drugs }
@@ -443,6 +445,7 @@ collections:
     template: { name: TMDB theme label, theme_name: world_war_ii }
     tmdb_movie:
       - 1771 # Captain America: The First Avenger (2011)
+      - 20546 # Goodnight, Mister Tom (1998)
       - 10867 # Malèna (2000)
 
   Theme__zombies:

@@ -1,0 +1,20 @@
+metadata:
+  "Goodnight, Mister Tom":
+    title: "Goodnight, Mister Tom"
+    year: 1998
+    edition_filter: Theatrical cut
+    sort_title: "Goodnight, Mister Tom (1998)"
+    content_rating: gb/PG
+    country.sync: [United Kingdom]
+    director.sync: [Jack Gold]
+    genre.sync: [Drama, Family, War]
+    originally_available: 1998-10-25
+    producer.sync: [Chris Burt]
+    studio: Carlton Television
+    summary: "A disgruntled old widower takes in a shy and quiet World War II evacuee, and they soon develop a close bond."
+    writer.sync: [Brian Finch, Michelle Magorian]
+    label: [ID__000020546A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
