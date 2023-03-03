@@ -94,6 +94,11 @@ collections:
     tmdb_movie:
       - 8848 # The Bank Job (2008)
 
+  Theme__buddy_movie:
+    template: { name: TMDB theme label, theme_name: buddy_movie }
+    tmdb_movie:
+      - 9522 # Wedding Crashers (2005)
+
   Theme__cannibalism:
     template: { name: TMDB theme label, theme_name: cannibalism }
     tmdb_movie:
@@ -229,6 +234,7 @@ collections:
     template: { name: TMDB theme label, theme_name: marriage }
     tmdb_movie:
       - 619730 # Don't Worry Darling (2022)
+      - 9522 # Wedding Crashers (2005)
 
   Theme__martial_arts:
     template: { name: TMDB theme label, theme_name: martial_arts }

@@ -1,0 +1,21 @@
+metadata:
+  Wedding Crashers:
+    title: Wedding Crashers
+    year: 2005
+    edition_filter: Extended cut
+    sort_title: Wedding Crashers (2005) 001B
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [David Dobkin]
+    genre.sync: [Comedy, Romance]
+    originally_available: 2005-07-13
+    producer.sync: [Peter Abrams, Robert L. Levy, Andrew Panay]
+    studio: Tapestry Films
+    summary: "A pair of committed womanisers who sneak into weddings to take advantage of the romantic atmosphere find themselves at odds with one another when one of them falls for their mark."
+    tagline: "Life's a Party. Crash It."
+    writer.sync: [Steve Faber, Bob Fisher]
+    label: [ID__000009522B]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
