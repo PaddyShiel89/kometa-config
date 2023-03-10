@@ -10,6 +10,7 @@ collections:
       - 8077 # Alien³ (1992)
       - 8078 # Alien Resurrection (1997)
       - 299534 # Avengers: Endgame (2019)
+      - 531309 # Brightburn (2019)
       - 299537 # Captain Marvel (2019)
       - 524434 # Eternals (2021)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
@@ -138,6 +139,7 @@ collections:
     template: { name: TMDB theme label, theme_name: coming_of_age }
     tmdb_movie:
       - 59678 # Attack the Block (2011)
+      - 531309 # Brightburn (2019)
       - 1771 # Captain America: The First Avenger (2011)
       - 10867 # Malèna (2000)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
@@ -401,6 +403,7 @@ collections:
       - 363088 # Ant-Man and The Wasp (2018)
       - 299534 # Avengers: Endgame (2019)
       - 497698 # Black Widow (2021)
+      - 531309 # Brightburn (2019)
       - 1771 # Captain America: The First Avenger (2011)
       - 299537 # Captain Marvel (2019)
       - 284052 # Doctor Strange (2016)
