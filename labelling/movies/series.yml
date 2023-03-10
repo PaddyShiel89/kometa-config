@@ -34,6 +34,11 @@ collections:
     tmdb_movie:
       - 497698 # Black Widow (2021)
 
+  Series__Borat_2006:
+    template: { name: TMDB series label, series_name: Borat, series_year: 2006 }
+    tmdb_movie:
+      - 496 # Borat (2006)
+
   Series__Captain_America_2011:
     template:
       {

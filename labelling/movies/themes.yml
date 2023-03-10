@@ -249,6 +249,11 @@ collections:
       - 68721 # Iron Man 3 (2013)
       - 23629 # Sucker Punch (2011)
 
+  Theme__mockumentary:
+    template: { name: TMDB theme label, theme_name: mockumentary }
+    tmdb_movie:
+      - 496 # Borat (2006)
+
   Theme__monsters:
     template: { name: TMDB theme label, theme_name: monsters }
     tmdb_movie:
@@ -331,6 +336,7 @@ collections:
     template: { name: TMDB theme label, theme_name: race_and_ethnicity }
     tmdb_movie:
       - 4982 # American Gangster (2007)
+      - 496 # Borat (2006)
 
   Theme__religion:
     template: { name: TMDB theme label, theme_name: religion }
@@ -350,6 +356,11 @@ collections:
       - 27576 # Salt (2010)
       - 634649 # Spider-Man: No Way Home (2021)
       - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
+
+  Theme__road_movies:
+    template: { name: TMDB theme label, theme_name: road_movies }
+    tmdb_movie:
+      - 496 # Borat (2006)
 
   Theme__serial_killer:
     template: { name: TMDB theme label, theme_name: serial_killer }
