@@ -68,6 +68,7 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 20546 # Goodnight, Mister Tom (1998)
       - 180 # Minority Report (2002)
+      - 808 # Shrek (2001)
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1974)
       - 16307 # The Wicker Man (1973)
@@ -98,6 +99,7 @@ collections:
   Theme__buddy_movie:
     template: { name: TMDB theme label, theme_name: buddy_movie }
     tmdb_movie:
+      - 808 # Shrek (2001)
       - 9522 # Wedding Crashers (2005)
 
   Theme__cannibalism:
@@ -159,6 +161,7 @@ collections:
   Theme__curses:
     template: { name: TMDB theme label, theme_name: curses }
     tmdb_movie:
+      - 808 # Shrek (2001)
       - 882598 # Smile (2022)
 
   Theme__demons:
@@ -195,10 +198,10 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 10867 # Malèna (2000)
 
-  Theme__ghosts:
-    template: { name: TMDB theme label, theme_name: ghosts }
+  Theme__fairytales:
+    template: { name: TMDB theme label, theme_name: fairytales }
     tmdb_movie:
-      - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 808 # Shrek (2001)
 
   Theme__foreign_language:
     template: { name: TMDB theme label, theme_name: foreign_language }
@@ -206,6 +209,11 @@ collections:
       - 454527 # Benedetta (2021)
       - 10867 # Malèna (2000)
       - 10753 # Police Story 2 (1988)
+
+  Theme__ghosts:
+    template: { name: TMDB theme label, theme_name: ghosts }
+    tmdb_movie:
+      - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 
   Theme__heist:
     template: { name: TMDB theme label, theme_name: heist }
@@ -300,6 +308,11 @@ collections:
     tmdb_movie:
       - 101 # Léon: The Professional (1995)
       - 348350 # Solo: A Star Wars Story (2018)
+
+  Theme__parody:
+    template: { name: TMDB theme label, theme_name: parody }
+    tmdb_movie:
+      - 808 # Shrek (2001)
 
   Theme__pirates:
     template: { name: TMDB theme label, theme_name: pirates }

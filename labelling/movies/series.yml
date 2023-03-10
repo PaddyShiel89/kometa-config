@@ -157,6 +157,11 @@ collections:
     tmdb_movie:
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
 
+  Series__Shrek_2001:
+    template: { name: TMDB series label, series_name: Shrek, series_year: 2001 }
+    tmdb_movie:
+      - 808 # Shrek (2001)
+
   Series__Spider_Man_2002:
     template:
       { name: TMDB series label, series_name: Spider_Man, series_year: 2002 }

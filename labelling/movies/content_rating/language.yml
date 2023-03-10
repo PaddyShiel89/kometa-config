@@ -11,6 +11,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000808A # Shrek (2001)
           - ID__000001894B # Star Wars: Episode II - Attack of the Clones (2002) [DVD cut]
           - ID__000001894C # Star Wars: Episode II - Attack of the Clones (2002) [Blu-ray cut]
           - ID__000000011A # Star Wars: Episode IV - A New Hope (1977) [Theatrical cut]

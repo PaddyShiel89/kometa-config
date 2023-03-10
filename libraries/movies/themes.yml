@@ -90,6 +90,7 @@ collections:
     smart_filter:
       any:
         label:
+          - Theme__parody
           - "theme: parody"
           - "theme: spoof"
       sort_by: title.asc
