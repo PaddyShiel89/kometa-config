@@ -10,6 +10,7 @@ collections:
       - 8077 # Alien³ (1992)
       - 8078 # Alien Resurrection (1997)
       - 299534 # Avengers: Endgame (2019)
+      - 531309 # Brightburn (2019)
       - 299537 # Captain Marvel (2019)
       - 524434 # Eternals (2021)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
@@ -67,6 +68,7 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 20546 # Goodnight, Mister Tom (1998)
       - 180 # Minority Report (2002)
+      - 808 # Shrek (2001)
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1974)
       - 16307 # The Wicker Man (1973)
@@ -97,6 +99,7 @@ collections:
   Theme__buddy_movie:
     template: { name: TMDB theme label, theme_name: buddy_movie }
     tmdb_movie:
+      - 808 # Shrek (2001)
       - 9522 # Wedding Crashers (2005)
 
   Theme__cannibalism:
@@ -138,6 +141,7 @@ collections:
     template: { name: TMDB theme label, theme_name: coming_of_age }
     tmdb_movie:
       - 59678 # Attack the Block (2011)
+      - 531309 # Brightburn (2019)
       - 1771 # Captain America: The First Avenger (2011)
       - 10867 # Malèna (2000)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
@@ -157,6 +161,7 @@ collections:
   Theme__curses:
     template: { name: TMDB theme label, theme_name: curses }
     tmdb_movie:
+      - 808 # Shrek (2001)
       - 882598 # Smile (2022)
 
   Theme__demons:
@@ -193,10 +198,10 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 10867 # Malèna (2000)
 
-  Theme__ghosts:
-    template: { name: TMDB theme label, theme_name: ghosts }
+  Theme__fairytales:
+    template: { name: TMDB theme label, theme_name: fairytales }
     tmdb_movie:
-      - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 808 # Shrek (2001)
 
   Theme__foreign_language:
     template: { name: TMDB theme label, theme_name: foreign_language }
@@ -204,6 +209,11 @@ collections:
       - 454527 # Benedetta (2021)
       - 10867 # Malèna (2000)
       - 10753 # Police Story 2 (1988)
+
+  Theme__ghosts:
+    template: { name: TMDB theme label, theme_name: ghosts }
+    tmdb_movie:
+      - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 
   Theme__heist:
     template: { name: TMDB theme label, theme_name: heist }
@@ -248,6 +258,11 @@ collections:
     tmdb_movie:
       - 68721 # Iron Man 3 (2013)
       - 23629 # Sucker Punch (2011)
+
+  Theme__mockumentary:
+    template: { name: TMDB theme label, theme_name: mockumentary }
+    tmdb_movie:
+      - 496 # Borat (2006)
 
   Theme__monsters:
     template: { name: TMDB theme label, theme_name: monsters }
@@ -294,6 +309,11 @@ collections:
       - 101 # Léon: The Professional (1995)
       - 348350 # Solo: A Star Wars Story (2018)
 
+  Theme__parody:
+    template: { name: TMDB theme label, theme_name: parody }
+    tmdb_movie:
+      - 808 # Shrek (2001)
+
   Theme__pirates:
     template: { name: TMDB theme label, theme_name: pirates }
     tmdb_movie:
@@ -331,6 +351,7 @@ collections:
     template: { name: TMDB theme label, theme_name: race_and_ethnicity }
     tmdb_movie:
       - 4982 # American Gangster (2007)
+      - 496 # Borat (2006)
 
   Theme__religion:
     template: { name: TMDB theme label, theme_name: religion }
@@ -350,6 +371,11 @@ collections:
       - 27576 # Salt (2010)
       - 634649 # Spider-Man: No Way Home (2021)
       - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
+
+  Theme__road_movies:
+    template: { name: TMDB theme label, theme_name: road_movies }
+    tmdb_movie:
+      - 496 # Borat (2006)
 
   Theme__serial_killer:
     template: { name: TMDB theme label, theme_name: serial_killer }
@@ -390,6 +416,7 @@ collections:
       - 363088 # Ant-Man and The Wasp (2018)
       - 299534 # Avengers: Endgame (2019)
       - 497698 # Black Widow (2021)
+      - 531309 # Brightburn (2019)
       - 1771 # Captain America: The First Avenger (2011)
       - 299537 # Captain Marvel (2019)
       - 284052 # Doctor Strange (2016)

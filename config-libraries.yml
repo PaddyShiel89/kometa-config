@@ -14,6 +14,8 @@ libraries:
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
       - repo: metadata/movies/Benedetta (2021) {tmdb-454527}
       - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
+      - repo: metadata/movies/Borat (2006) {tmdb-496}
+      - repo: metadata/movies/Brightburn (2019) {tmdb-531309}
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
@@ -41,6 +43,7 @@ libraries:
       - repo: metadata/movies/Rogue One A Star Wars Story {tmdb-330459}
       - repo: metadata/movies/Salt (2010) {tmdb-27576}
       - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}
+      - repo: metadata/movies/Shrek (2001) {tmdb-808}
       - repo: metadata/movies/Smile (2022) {tmdb-882598}
       - repo: metadata/movies/Solo A Star Wars Story {tmdb-348350}
       - repo: metadata/movies/Spider-Man 2 (2004) {tmdb-558}

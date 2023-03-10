@@ -34,6 +34,11 @@ collections:
     tmdb_movie:
       - 497698 # Black Widow (2021)
 
+  Series__Borat_2006:
+    template: { name: TMDB series label, series_name: Borat, series_year: 2006 }
+    tmdb_movie:
+      - 496 # Borat (2006)
+
   Series__Captain_America_2011:
     template:
       {
@@ -151,6 +156,11 @@ collections:
       { name: TMDB series label, series_name: Shang_Chi, series_year: 2021 }
     tmdb_movie:
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
+
+  Series__Shrek_2001:
+    template: { name: TMDB series label, series_name: Shrek, series_year: 2001 }
+    tmdb_movie:
+      - 808 # Shrek (2001)
 
   Series__Spider_Man_2002:
     template:

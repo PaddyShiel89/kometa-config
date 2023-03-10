@@ -1,0 +1,28 @@
+metadata:
+  "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan":
+    title: "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan"
+    year: 2006
+    edition_filter: Theatrical cut
+    sort_title: "Borat (2006) 001"
+    content_rating: gb/15
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Larry Charles]
+    genre.sync: [Comedy]
+    originally_available: 2006-08-04
+    producer.sync: [Sacha Baron Cohen, Jay Roach]
+    studio: Dune Entertainment
+    summary: "Kazakh TV interviewer Borat is dispatched to the USA to report on the greatest country in the world. However, Borat becomes more interested in locating and marrying Pamela Anderson."
+    tagline: "Come to Kazakhstan, It's Nice!"
+    writer.sync:
+      [
+        Sacha Baron Cohen,
+        Anthony Hines,
+        Peter Baynham,
+        Dan Mazer,
+        Todd Phillips,
+      ]
+    label: [ID__000000496A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

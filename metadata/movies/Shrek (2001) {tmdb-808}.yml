@@ -1,0 +1,27 @@
+metadata:
+  Shrek:
+    title: Shrek
+    year: 2001
+    edition_filter: Theatrical cut
+    sort_title: Shrek (2001) 001
+    content_rating: gb/U
+    country.sync: [United States of America]
+    director.sync: [Andrew Adamson, Vicky Jenson]
+    genre.sync: [Animation, Adventure, Comedy, Family, Fantasy, Romance]
+    originally_available: 2001-04-22
+    producer.sync: [Jeffrey Katzenberg, Aron Warner, John H. Williams]
+    studio: Dreamworks Pictures
+    summary: "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord to get his land back."
+    tagline: The greatest fairy tale never told
+    writer.sync:
+      [
+        William Steig,
+        Ted Elliott,
+        Terry Rossio,
+        Joe Stillman,
+        Roger S.H. Schulman,
+        Cody Cameron,
+        Chris Miller,
+        Conrad Vernon,
+      ]
+    label: [ID__000000808A]
