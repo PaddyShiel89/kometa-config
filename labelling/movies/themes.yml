@@ -85,16 +85,22 @@ collections:
     tmdb_movie:
       - 343674 # Gerald's Game (2017)
 
-  Theme__black_comedy:
-    template: { name: TMDB theme label, theme_name: black_comedy }
-    tmdb_movie:
-      - 674324 # The Banshees of Inisherin (2022)
-      - 23202 # Trick 'r Treat (2007)
-
   Theme__based_on_true_events:
     template: { name: TMDB theme label, theme_name: based_on_true_events }
     tmdb_movie:
       - 8848 # The Bank Job (2008)
+
+  Theme__black_comedy:
+    template: { name: TMDB theme label, theme_name: black_comedy }
+    tmdb_movie:
+      - 674324 # The Banshees of Inisherin (2022)
+      - 68718 # Django Unchained (2012)
+      - 23202 # Trick 'r Treat (2007)
+
+  Theme__blaxploitation:
+    template: { name: TMDB theme label, theme_name: blaxploitation }
+    tmdb_movie:
+      - 68718 # Django Unchained (2012)
 
   Theme__buddy_movie:
     template: { name: TMDB theme label, theme_name: buddy_movie }
@@ -353,6 +359,7 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
       - 496 # Borat (2006)
+      - 68718 # Django Unchained (2012)
 
   Theme__religion:
     template: { name: TMDB theme label, theme_name: religion }
@@ -362,6 +369,7 @@ collections:
   Theme__revenge:
     template: { name: TMDB theme label, theme_name: revenge }
     tmdb_movie:
+      - 68718 # Django Unchained (2012)
       - 98 # Gladiator (2000)
       - 610253 # Halloween Kills (2021)
       - 68721 # Iron Man 3 (2013)
@@ -393,6 +401,11 @@ collections:
     template: { name: TMDB theme label, theme_name: slasher }
     tmdb_movie:
       - 610253 # Halloween Kills (2021)
+
+  Theme__slavery:
+    template: { name: TMDB theme label, theme_name: slavery }
+    tmdb_movie:
+      - 68718 # Django Unchained (2012)
 
   Theme__spies:
     template: { name: TMDB theme label, theme_name: spies }

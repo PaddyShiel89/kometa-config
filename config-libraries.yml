@@ -19,6 +19,7 @@ libraries:
       - repo: metadata/movies/Calvary (2014) {tmdb-157832}
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
+      - repo: metadata/movies/Django Unchained (2012) {tmdb-68718}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
       - repo: metadata/movies/Doctor Strange in the Multiverse of Madness (2022) {tmdb-453395}
       - repo: metadata/movies/Don't Worry Darling (2022) {tmdb-619730}
