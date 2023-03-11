@@ -111,6 +111,7 @@ collections:
     template: { name: TMDB theme label, theme_name: catholiscism }
     tmdb_movie:
       - 454527 # Benedetta (2021)
+      - 157832 # Calvary (2014)
       - 242 # The Godfather Part III (1990)
 
   Theme__chase:

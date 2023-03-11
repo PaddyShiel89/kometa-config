@@ -1,0 +1,21 @@
+metadata:
+  Calvary:
+    title: Calvary
+    year: 2014
+    edition_filter: Theatrical cut
+    sort_title: Calvary (2014)
+    content_rating: gb/15
+    country.sync: [Ireland]
+    director.sync: [John Michael McDonagh]
+    genre.sync: [Crime, Drama, Mystery]
+    originally_available: 2014-01-19
+    producer.sync: [Chris Clark, Flora Fernandez-Marengo, James Flynn]
+    studio: Searchlight Pictures
+    summary: "After he is threatened during a confession, a good-natured priest must battle the dark forces closing in around him."
+    tagline: "Killing a priest on a Sunday. That'll be a good one."
+    writer.sync: [John Michael McDonagh]
+    label: [ID__000157832A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
