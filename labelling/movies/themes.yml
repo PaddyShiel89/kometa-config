@@ -365,6 +365,7 @@ collections:
     template: { name: TMDB theme label, theme_name: religion }
     tmdb_movie:
       - 454527 # Benedetta (2021)
+      - 157832 # Calvary (2014)
 
   Theme__revenge:
     template: { name: TMDB theme label, theme_name: revenge }
@@ -469,6 +470,7 @@ collections:
     tmdb_movie:
       - 68721 # Iron Man 3 (2013)
       - 330459 # Rogue One: A Star Wars Story (2016)
+      - 7446 # Tropic Thunder (2008)
 
   Theme__time_travel:
     template: { name: TMDB theme label, theme_name: time_travel }

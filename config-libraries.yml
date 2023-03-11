@@ -73,6 +73,7 @@ libraries:
       - repo: metadata/movies/The Wicker Man (1973) {tmdb-16307}
       - repo: metadata/movies/Thor Love and Thunder (2022) {tmdb-616037}
       - repo: metadata/movies/Trick 'r Treat (2007) {tmdb-23202}
+      - repo: metadata/movies/Tropic Thunder (2008) {tmdb-7446}
       - repo: metadata/movies/Wedding Crashers (2005) {tmdb-9522}
       - repo: labelling/movies/editions
       - repo: labelling/movies/content_rating/alcohol_and_tobacco
