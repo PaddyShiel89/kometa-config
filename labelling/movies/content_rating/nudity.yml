@@ -11,6 +11,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000068718A # Django Unchained (2012)
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000001865A # Pirates of the Caribbean: On Stranger Tides (2011)
           - ID__000000808A # Shrek (2001)

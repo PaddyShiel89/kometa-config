@@ -94,3 +94,14 @@ collections:
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
           - ID__000000098B # Gladiator (2000) [Extended edition]
+
+  BBFC violence lvl 5:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: violence
+        level: 5
+    plex_search:
+      any:
+        label:
+          - ID__000068718A # Django Unchained (2012)
