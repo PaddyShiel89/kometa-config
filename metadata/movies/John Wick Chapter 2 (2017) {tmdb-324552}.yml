@@ -1,0 +1,21 @@
+metadata:
+  "John Wick: Chapter 2":
+    title: "John Wick: Chapter 2"
+    year: 2017
+    edition_filter: Theatrical cut
+    sort_title: John Wick (2014) 002
+    content_rating: gb/15
+    country.sync: [Canada, Hong Kong, Italy, United States of America]
+    director.sync: [Chad Stahelski]
+    genre.sync: [Action, Crime, Thriller]
+    originally_available: 2017-01-30
+    producer.sync: [Basil Iwanyk, Erica Lee]
+    studio: Summit Entertainment
+    summary: "After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been placed on his life."
+    tagline: "Never stab the devil in the back"
+    writer.sync: [Derek Kolstad]
+    label: [ID__000324552A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

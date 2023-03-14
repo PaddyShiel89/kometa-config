@@ -30,8 +30,10 @@ libraries:
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
       - repo: metadata/movies/Halloween Kills (2021) {tmdb-610253}
       - repo: metadata/movies/Hanna (2011) {tmdb-50456}
+      - repo: metadata/movies/Inception (2010) {tmdb-27205}
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
       - repo: metadata/movies/John Wick (2014) {tmdb-245891}
+      - repo: metadata/movies/John Wick Chapter 2 (2017) {tmdb-324552}
       - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
       - repo: metadata/movies/Malena (2000) {tmdb-10867}
       - repo: metadata/movies/Minority Report (2002) {tmdb-180}
@@ -75,6 +77,7 @@ libraries:
       - repo: metadata/movies/Trick 'r Treat (2007) {tmdb-23202}
       - repo: metadata/movies/Tropic Thunder (2008) {tmdb-7446}
       - repo: metadata/movies/Wedding Crashers (2005) {tmdb-9522}
+      - repo: metadata/movies/Your Highness (2011) {tmdb-38319}
       - repo: labelling/movies/editions
       - repo: labelling/movies/content_rating/alcohol_and_tobacco
       - repo: labelling/movies/content_rating/discrimination

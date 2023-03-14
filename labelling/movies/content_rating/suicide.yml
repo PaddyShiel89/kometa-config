@@ -13,6 +13,17 @@ collections:
         label:
           - ID__000524434A # Eternals (2021)
 
+  BBFC suicide lvl 3:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: suicide
+        level: 3
+    plex_search:
+      any:
+        label:
+          - ID__000027205A # Inception (2010)
+
   BBFC suicide lvl 4:
     template:
       - name: Content rating numeric label

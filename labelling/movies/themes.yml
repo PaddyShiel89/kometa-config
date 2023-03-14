@@ -60,6 +60,7 @@ collections:
     template: { name: TMDB theme label, theme_name: assassins }
     tmdb_movie:
       - 245891 # John Wick (2015)
+      - 324552 # John Wick: Chapter 2 (2017)
       - 101 # Léon: The Professional (1995)
 
   Theme__based_on_a_book:
@@ -107,6 +108,7 @@ collections:
     tmdb_movie:
       - 808 # Shrek (2001)
       - 9522 # Wedding Crashers (2005)
+      - 38319 # Your Highness (2011)
 
   Theme__cannibalism:
     template: { name: TMDB theme label, theme_name: cannibalism }
@@ -187,6 +189,11 @@ collections:
       - 619730 # Don't Worry Darling (2022)
       - 20546 # Goodnight, Mister Tom (1998)
 
+  Theme__dreams:
+    template: { name: TMDB theme label, theme_name: dreams }
+    tmdb_movie:
+      - 27205 # Inception (2010)
+
   Theme__drugs:
     template: { name: TMDB theme label, theme_name: drugs }
     tmdb_movie:
@@ -217,6 +224,12 @@ collections:
       - 10867 # Malèna (2000)
       - 10753 # Police Story 2 (1988)
 
+  Theme__gun_fu:
+    template: { name: TMDB theme label, theme_name: gun_fu }
+    tmdb_movie:
+      - 245891 # John Wick (2015)
+      - 324552 # John Wick: Chapter 2 (2017)
+
   Theme__ghosts:
     template: { name: TMDB theme label, theme_name: ghosts }
     tmdb_movie:
@@ -227,6 +240,7 @@ collections:
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
       - 8848 # The Bank Job (2008)
+      - 27205 # Inception (2010)
       - 348350 # Solo: A Star Wars Story (2018)
       - 629 # The Usual Suspects (1995)
 
@@ -246,6 +260,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 38319 # Your Highness (2011)
 
   Theme__marriage:
     template: { name: TMDB theme label, theme_name: marriage }
@@ -282,6 +297,7 @@ collections:
       - 762504 # Nope (2022)
       - 882598 # Smile (2022)
       - 23202 # Trick 'r Treat (2007)
+      - 38319 # Your Highness (2011)
 
   Theme__murder:
     template: { name: TMDB theme label, theme_name: murder }
@@ -307,6 +323,7 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
       - 245891 # John Wick (2015)
+      - 324552 # John Wick: Chapter 2 (2017)
       - 180 # Minority Report (2002)
       - 629 # The Usual Suspects (1995)
 
@@ -352,6 +369,7 @@ collections:
       - 454527 # Benedetta (2021)
       - 619730 # Don't Worry Darling (2022)
       - 343674 # Gerald's Game (2017)
+      - 27205 # Inception (2010)
       - 882598 # Smile (2022)
 
   Theme__race_and_ethnicity:
@@ -393,6 +411,11 @@ collections:
       - 610253 # Halloween Kills (2021)
       - 23202 # Trick 'r Treat (2007)
 
+  Theme__sex_comedy:
+    template: { name: TMDB theme label, theme_name: sex_comedy }
+    tmdb_movie:
+      - 38319 # Your Highness (2011)
+
   Theme__shapeshifters:
     template: { name: TMDB theme label, theme_name: shapeshifters }
     tmdb_movie:
@@ -414,15 +437,26 @@ collections:
       - 497698 # Black Widow (2021)
       - 27576 # Salt (2010)
 
+  Theme__spoof:
+    template: { name: TMDB theme label, theme_name: spoof }
+    tmdb_movie:
+      - 38319 # Your Highness (2011)
+
   Theme__steampunk:
     template: { name: TMDB theme label, theme_name: steampunk }
     tmdb_movie:
       - 23629 # Sucker Punch (2011)
 
+  Theme__stoner_movies:
+    template: { name: TMDB theme label, theme_name: stoner_movies }
+    tmdb_movie:
+      - 38319 # Your Highness (2011)
+
   Theme__suicide:
     template: { name: TMDB theme label, theme_name: suicide }
     tmdb_movie:
       - 619730 # Don't Worry Darling (2022)
+      - 27205 # Inception (2010)
       - 882598 # Smile (2022)
 
   Theme__superheroes:
@@ -455,6 +489,7 @@ collections:
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 882598 # Smile (2022)
       - 23202 # Trick 'r Treat (2007)
+      - 38319 # Your Highness (2011)
 
   Theme__survival:
     template: { name: TMDB theme label, theme_name: survival }

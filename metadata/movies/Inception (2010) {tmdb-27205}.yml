@@ -1,0 +1,18 @@
+metadata:
+  Inception:
+    title: Inception
+    year: 2010
+    edition_filter: Theatrical cut
+    sort_title: "Inception (2010)"
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Christopher Nolan]
+    genre.sync: [Action, Adventure, Science Fiction, Thriller]
+    originally_available: 2010-07-08
+    producer.sync:
+      [Christopher Nolan, Kanjirô Sakura, Yoshikuni Taki, Emma Thomas]
+    studio: Syncopy
+    summary: "A thief who steals corporate secrets through dream-sharing technology must plant an idea into the mind of a C.E.O., but his past may doom the project and his team to disaster."
+    tagline: "Your mind is the scene of the crime"
+    writer.sync: [Christopher Nolan]
+    label: [ID__000027205A]

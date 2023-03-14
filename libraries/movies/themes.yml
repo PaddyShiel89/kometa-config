@@ -91,6 +91,7 @@ collections:
       any:
         label:
           - Theme__parody
+          - Theme__spoof
           - "theme: parody"
           - "theme: spoof"
       sort_by: title.asc
