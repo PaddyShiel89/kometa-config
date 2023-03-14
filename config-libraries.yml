@@ -77,6 +77,7 @@ libraries:
       - repo: metadata/movies/Trick 'r Treat (2007) {tmdb-23202}
       - repo: metadata/movies/Tropic Thunder (2008) {tmdb-7446}
       - repo: metadata/movies/Wedding Crashers (2005) {tmdb-9522}
+      - repo: metadata/movies/Your Highness (2011) {tmdb-38319}
       - repo: labelling/movies/editions
       - repo: labelling/movies/content_rating/alcohol_and_tobacco
       - repo: labelling/movies/content_rating/discrimination
