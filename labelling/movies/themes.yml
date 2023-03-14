@@ -187,6 +187,11 @@ collections:
       - 619730 # Don't Worry Darling (2022)
       - 20546 # Goodnight, Mister Tom (1998)
 
+  Theme__dreams:
+    template: { name: TMDB theme label, theme_name: dreams }
+    tmdb_movie:
+      - 27205 # Inception (2010)
+
   Theme__drugs:
     template: { name: TMDB theme label, theme_name: drugs }
     tmdb_movie:
@@ -227,6 +232,7 @@ collections:
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
       - 8848 # The Bank Job (2008)
+      - 27205 # Inception (2010)
       - 348350 # Solo: A Star Wars Story (2018)
       - 629 # The Usual Suspects (1995)
 
@@ -352,6 +358,7 @@ collections:
       - 454527 # Benedetta (2021)
       - 619730 # Don't Worry Darling (2022)
       - 343674 # Gerald's Game (2017)
+      - 27205 # Inception (2010)
       - 882598 # Smile (2022)
 
   Theme__race_and_ethnicity:
@@ -423,6 +430,7 @@ collections:
     template: { name: TMDB theme label, theme_name: suicide }
     tmdb_movie:
       - 619730 # Don't Worry Darling (2022)
+      - 27205 # Inception (2010)
       - 882598 # Smile (2022)
 
   Theme__superheroes:
