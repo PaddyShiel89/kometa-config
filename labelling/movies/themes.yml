@@ -60,6 +60,7 @@ collections:
     template: { name: TMDB theme label, theme_name: assassins }
     tmdb_movie:
       - 245891 # John Wick (2015)
+      - 324552 # John Wick: Chapter 2 (2017)
       - 101 # Léon: The Professional (1995)
 
   Theme__based_on_a_book:
@@ -222,6 +223,12 @@ collections:
       - 10867 # Malèna (2000)
       - 10753 # Police Story 2 (1988)
 
+  Theme__gun_fu:
+    template: { name: TMDB theme label, theme_name: gun_fu }
+    tmdb_movie:
+      - 245891 # John Wick (2015)
+      - 324552 # John Wick: Chapter 2 (2017)
+
   Theme__ghosts:
     template: { name: TMDB theme label, theme_name: ghosts }
     tmdb_movie:
@@ -313,6 +320,7 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
       - 245891 # John Wick (2015)
+      - 324552 # John Wick: Chapter 2 (2017)
       - 180 # Minority Report (2002)
       - 629 # The Usual Suspects (1995)
 
