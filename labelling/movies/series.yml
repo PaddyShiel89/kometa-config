@@ -198,6 +198,16 @@ collections:
       - 337755 # Star Wars Rebels: The Siege of Lothal (2015)
       - 74849 # The Star Wars Holiday Special (1978)
 
+  Series__The_Girl_with_the_Dragon_Tattoo_2009:
+    template:
+      {
+        name: TMDB series label,
+        series_name: The_Girl_with_the_Dragon_Tattoo,
+        series_year: 2009,
+      }
+    tmdb_movie:
+      - 15472 # The Girl with the Dragon Tattoo (2009)
+
   Series__The_Godfather_1972:
     template:
       { name: TMDB series label, series_name: The_Godfather, series_year: 1972 }

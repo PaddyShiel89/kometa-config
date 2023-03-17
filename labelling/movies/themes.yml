@@ -70,6 +70,7 @@ collections:
       - 20546 # Goodnight, Mister Tom (1998)
       - 180 # Minority Report (2002)
       - 808 # Shrek (2001)
+      - 15472 # The Girl with the Dragon Tattoo (2009)
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1974)
       - 16307 # The Wicker Man (1973)
@@ -245,6 +246,16 @@ collections:
       - 348350 # Solo: A Star Wars Story (2018)
       - 629 # The Usual Suspects (1995)
 
+  Theme__incest:
+    template: { name: TMDB theme label, theme_name: incest }
+    tmdb_movie:
+      - 15472 # The Girl with the Dragon Tattoo (2009)
+
+  Theme__journalists:
+    template: { name: TMDB theme label, theme_name: journalists }
+    tmdb_movie:
+      - 15472 # The Girl with the Dragon Tattoo (2009)
+
   Theme__mafia:
     template: { name: TMDB theme label, theme_name: mafia }
     tmdb_movie:
@@ -401,6 +412,7 @@ collections:
       - 27576 # Salt (2010)
       - 634649 # Spider-Man: No Way Home (2021)
       - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
+      - 15472 # The Girl with the Dragon Tattoo (2009)
 
   Theme__road_movies:
     template: { name: TMDB theme label, theme_name: road_movies }
@@ -411,12 +423,18 @@ collections:
     template: { name: TMDB theme label, theme_name: serial_killer }
     tmdb_movie:
       - 610253 # Halloween Kills (2021)
+      - 15472 # The Girl with the Dragon Tattoo (2009)
       - 23202 # Trick 'r Treat (2007)
 
   Theme__sex_comedy:
     template: { name: TMDB theme label, theme_name: sex_comedy }
     tmdb_movie:
       - 38319 # Your Highness (2011)
+
+  Theme__sexual_violence:
+    template: { name: TMDB theme label, theme_name: sexual_violence }
+    tmdb_movie:
+      - 15472 # The Girl with the Dragon Tattoo (2009)
 
   Theme__shapeshifters:
     template: { name: TMDB theme label, theme_name: shapeshifters }

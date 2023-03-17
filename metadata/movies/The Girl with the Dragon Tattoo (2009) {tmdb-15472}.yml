@@ -1,0 +1,22 @@
+metadata:
+  "The Girl with the Dragon Tattoo (2009)":
+    title: The Girl with the Dragon Tattoo
+    year: 2009
+    edition_filter: Theatrical cut
+    sort_title: "The Girl with the Dragon Tattoo (2009) 001"
+    content_rating: gb/18
+    country.sync: [Denmark, Germany, Norway, Sweden]
+    director.sync: [Niels Arden Oplev]
+    genre.sync: [Crime, Drama, Mystery, Thriller]
+    original_title: "Män som hatar kvinnor"
+    originally_available: 2009-02-27
+    producer.sync: [Søren Stærmose]
+    studio: Yellow Bird
+    summary: "A young female hacker aids a journalist in his search for the murderer of a woman who has been dead for forty years."
+    tagline: "A Missing Girl. A Brutal Murder. An Unsolved Mystery."
+    writer.sync: [Nikolaj Arcel, Rasmus Heisterberg, Stieg Larsson]
+    label: [ID__000015472A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
