@@ -34,6 +34,7 @@ libraries:
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
       - repo: metadata/movies/John Wick (2014) {tmdb-245891}
       - repo: metadata/movies/John Wick Chapter 2 (2017) {tmdb-324552}
+      - repo: metadata/movies/John Wick Chapter 3 - Parabellum (2019) {tmdb-458156}
       - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
       - repo: metadata/movies/Malena (2000) {tmdb-10867}
       - repo: metadata/movies/Minority Report (2002) {tmdb-180}
@@ -67,12 +68,14 @@ libraries:
       - repo: metadata/movies/The Bank Job (2008) {tmdb-8848}
       - repo: metadata/movies/The Banshees of Inisherin (2022) {tmdb-674324}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
+      - repo: metadata/movies/The Girl with the Dragon Tattoo (2009) {tmdb-15472}
       - repo: metadata/movies/The Godfather (1972) {tmdb-238}
       - repo: metadata/movies/The Godfather Part II (1974) {tmdb-240}
       - repo: metadata/movies/The Godfather Part III (1990) {tmdb-242}
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
       - repo: metadata/movies/The Wicker Man (1973) {tmdb-16307}
+      - repo: metadata/movies/Thelma & Louise (1991) {tmdb-1541}
       - repo: metadata/movies/Thor Love and Thunder (2022) {tmdb-616037}
       - repo: metadata/movies/Trick 'r Treat (2007) {tmdb-23202}
       - repo: metadata/movies/Tropic Thunder (2008) {tmdb-7446}
@@ -89,6 +92,7 @@ libraries:
       - repo: labelling/movies/content_rating/nudity
       - repo: labelling/movies/content_rating/rude_humour
       - repo: labelling/movies/content_rating/sex
+      - repo: labelling/movies/content_rating/sexual_violence_and_threat
       - repo: labelling/movies/content_rating/suicide
       - repo: labelling/movies/content_rating/theme
       - repo: labelling/movies/content_rating/threat_and_horror
