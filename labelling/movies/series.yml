@@ -130,6 +130,7 @@ collections:
     tmdb_movie:
       - 245891 # John Wick (2015)
       - 324552 # John Wick: Chapter 2 (2017)
+      - 458156 # John Wick: Chapter 3 - Parabellum (2019)
 
   Series__Pirates_of_the_Caribbean_2003:
     template:

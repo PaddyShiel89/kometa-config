@@ -1,0 +1,21 @@
+metadata:
+  "John Wick: Chapter 3 - Parabellum":
+    title: "John Wick: Chapter 3 - Parabellum"
+    year: 2019
+    edition_filter: Theatrical cut
+    sort_title: John Wick (2014) 002
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Chad Stahelski]
+    genre.sync: [Action, Crime, Thriller]
+    originally_available: 2019-05-15
+    producer.sync: [Basil Iwanyk, Erica Lee]
+    studio: Summit Entertainment
+    summary: "John Wick is on the run after killing a member of the international assassins' guild. With a $14 million price tag on his head, he is the target of hit men and women everywhere."
+    tagline: "If you want peace, prepare for war"
+    writer.sync: [Derek Kolstad, Shay Hatten, Chris Collins, Marc Abrams]
+    label: [ID__000458156A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
