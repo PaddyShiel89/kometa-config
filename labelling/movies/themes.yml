@@ -97,6 +97,7 @@ collections:
     tmdb_movie:
       - 674324 # The Banshees of Inisherin (2022)
       - 68718 # Django Unchained (2012)
+      - 1541 # Thelma & Louise (1991)
       - 23202 # Trick 'r Treat (2007)
 
   Theme__blaxploitation:
@@ -108,6 +109,7 @@ collections:
     template: { name: TMDB theme label, theme_name: buddy_movie }
     tmdb_movie:
       - 808 # Shrek (2001)
+      - 1541 # Thelma & Louise (1991)
       - 9522 # Wedding Crashers (2005)
       - 38319 # Your Highness (2011)
 
@@ -128,6 +130,7 @@ collections:
     tmdb_movie:
       - 50456 # Hanna (2011)
       - 180 # Minority Report (2002)
+      - 1541 # Thelma & Louise (1991)
 
   Theme__christmas:
     template: { name: TMDB theme label, theme_name: christmas }
@@ -217,6 +220,11 @@ collections:
     template: { name: TMDB theme label, theme_name: fairytales }
     tmdb_movie:
       - 808 # Shrek (2001)
+
+  Theme__female_protagonist:
+    template: { name: TMDB theme label, theme_name: female_protagonist }
+    tmdb_movie:
+      - 1541 # Thelma & Louise (1991)
 
   Theme__foreign_language:
     template: { name: TMDB theme label, theme_name: foreign_language }
@@ -418,6 +426,7 @@ collections:
     template: { name: TMDB theme label, theme_name: road_movies }
     tmdb_movie:
       - 496 # Borat (2006)
+      - 1541 # Thelma & Louise (1991)
 
   Theme__serial_killer:
     template: { name: TMDB theme label, theme_name: serial_killer }
@@ -435,6 +444,7 @@ collections:
     template: { name: TMDB theme label, theme_name: sexual_violence }
     tmdb_movie:
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 1541 # Thelma & Louise (1991)
 
   Theme__shapeshifters:
     template: { name: TMDB theme label, theme_name: shapeshifters }
@@ -478,6 +488,7 @@ collections:
       - 619730 # Don't Worry Darling (2022)
       - 27205 # Inception (2010)
       - 882598 # Smile (2022)
+      - 1541 # Thelma & Louise (1991)
 
   Theme__superheroes:
     template: { name: TMDB theme label, theme_name: superheroes }
