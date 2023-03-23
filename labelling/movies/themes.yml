@@ -128,6 +128,7 @@ collections:
   Theme__chase:
     template: { name: TMDB theme label, theme_name: chase }
     tmdb_movie:
+      - 339403 # Baby Driver (2017)
       - 50456 # Hanna (2011)
       - 180 # Minority Report (2002)
       - 1541 # Thelma & Louise (1991)
@@ -233,6 +234,17 @@ collections:
       - 10867 # Malèna (2000)
       - 10753 # Police Story 2 (1988)
 
+  Theme__ghosts:
+    template: { name: TMDB theme label, theme_name: ghosts }
+    tmdb_movie:
+      - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+
+  Theme__grief:
+    template: { name: TMDB theme label, theme_name: grief }
+    tmdb_movie:
+      - 470 # 21 Grams (2003)
+      - 505642 # Black Panther: Wakanda Forever (2022)
+
   Theme__gun_fu:
     template: { name: TMDB theme label, theme_name: gun_fu }
     tmdb_movie:
@@ -240,15 +252,11 @@ collections:
       - 324552 # John Wick: Chapter 2 (2017)
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
 
-  Theme__ghosts:
-    template: { name: TMDB theme label, theme_name: ghosts }
-    tmdb_movie:
-      - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
-
   Theme__heist:
     template: { name: TMDB theme label, theme_name: heist }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 339403 # Baby Driver (2017)
       - 8848 # The Bank Job (2008)
       - 27205 # Inception (2010)
       - 348350 # Solo: A Star Wars Story (2018)
@@ -348,6 +356,11 @@ collections:
       - 180 # Minority Report (2002)
       - 629 # The Usual Suspects (1995)
 
+  Theme__nonlinear:
+    template: { name: TMDB theme label, theme_name: nonlinear }
+    tmdb_movie:
+      - 470 # 21 Grams (2003)
+
   Theme__orphans:
     template: { name: TMDB theme label, theme_name: orphans }
     tmdb_movie:
@@ -387,6 +400,7 @@ collections:
   Theme__psychological:
     template: { name: TMDB theme label, theme_name: psychological }
     tmdb_movie:
+      - 470 # 21 Grams (2003)
       - 454527 # Benedetta (2021)
       - 619730 # Don't Worry Darling (2022)
       - 343674 # Gerald's Game (2017)
@@ -406,9 +420,15 @@ collections:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
 
+  Theme__regicide:
+    template: { name: TMDB theme label, theme_name: regicide }
+    tmdb_movie:
+      - 505642 # Black Panther: Wakanda Forever (2022)
+
   Theme__revenge:
     template: { name: TMDB theme label, theme_name: revenge }
     tmdb_movie:
+      - 505642 # Black Panther: Wakanda Forever (2022)
       - 68718 # Django Unchained (2012)
       - 98 # Gladiator (2000)
       - 610253 # Halloween Kills (2021)
@@ -485,6 +505,7 @@ collections:
   Theme__suicide:
     template: { name: TMDB theme label, theme_name: suicide }
     tmdb_movie:
+      - 470 # 21 Grams (2003)
       - 619730 # Don't Worry Darling (2022)
       - 27205 # Inception (2010)
       - 882598 # Smile (2022)
@@ -495,6 +516,7 @@ collections:
     tmdb_movie:
       - 363088 # Ant-Man and The Wasp (2018)
       - 299534 # Avengers: Endgame (2019)
+      - 505642 # Black Panther: Wakanda Forever (2022)
       - 497698 # Black Widow (2021)
       - 531309 # Brightburn (2019)
       - 1771 # Captain America: The First Avenger (2011)

@@ -3,6 +3,7 @@ libraries:
     operations:
       assets_for_all: true
     metadata_path:
+      - repo: metadata/movies/21 Grams (2003) {tmdb-470}
       - repo: metadata/movies/After Sex (2007) {tmdb-17097}
       - repo: metadata/movies/Alien (1979) {tmdb-348}
       - repo: metadata/movies/Alien Resurrection (1997) {tmdb-8078}
@@ -12,7 +13,9 @@ libraries:
       - repo: metadata/movies/Ant-Man and the Wasp (2018) {tmdb-363088}
       - repo: metadata/movies/Attack the Block (2011) {tmdb-59678}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
+      - repo: metadata/movies/Baby Driver (2017) {tmdb-339403}
       - repo: metadata/movies/Benedetta (2021) {tmdb-454527}
+      - repo: metadata/movies/Black Panther Wakanda Forever (2022) {tmdb-505642}
       - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
       - repo: metadata/movies/Borat (2006) {tmdb-496}
       - repo: metadata/movies/Brightburn (2019) {tmdb-531309}

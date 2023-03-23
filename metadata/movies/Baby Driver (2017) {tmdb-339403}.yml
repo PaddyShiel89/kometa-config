@@ -1,0 +1,21 @@
+metadata:
+  Baby Driver:
+    title: Baby Driver
+    year: 2017
+    edition_filter: Theatrical cut
+    sort_title: Baby Driver (2017)
+    content_rating: gb/15
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Edgar Wright]
+    genre.sync: [Action, Crime, Drama]
+    originally_available: 2017-03-11
+    producer.sync: [Tim Bevan, Eric Fellner, Nira Park]
+    studio: Big Talk Productions
+    summary: "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail."
+    tagline: "All you need is one killer track."
+    writer.sync: [Edgar Wright]
+    label: [ID__000339403A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -28,6 +28,13 @@ collections:
       - 299536 # Avengers: Infinity War (2018)
       - 299534 # Avengers: Endgame (2019)
 
+  Series__Black_Panther_2018:
+    template:
+      { name: TMDB series label, series_name: Black_Panther, series_year: 2018 }
+    tmdb_movie:
+      - 284054 # Black Panther (2018)
+      - 505642 # Black Panther: Wakanda Forever (2022)
+
   Series__Black_Widow_2021:
     template:
       { name: TMDB series label, series_name: Black_Widow, series_year: 2021 }
@@ -270,13 +277,6 @@ collections:
         series: "Basic Instinct (1992)"
         title_list:
           - Basic Instinct (1992) 001
-
-  "Series: Black Panther (2018)":
-    template:
-      - name: Series label
-        series: "Black Panther (2018)"
-        title_list:
-          - Black Panther (2018) 001
 
   "Series: Blade Runner (1982)":
     template:
