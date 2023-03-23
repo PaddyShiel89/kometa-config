@@ -22,6 +22,7 @@ collections:
         label_list:
           - Series__Ant_Man_2015
           - Series__Avengers_2012
+          - Series__Black_Panther_2018
           - Series__Black_Widow_2021
           - Series__Captain_America_2011
           - Series__Captain_Marvel_2019
@@ -32,7 +33,6 @@ collections:
           - Series__Shang_Chi_2021
           - Series__Spider_Man_2017
           - Series__Thor_2011
-          - "series: Black Panther (2018)"
           - "series: The Incredible Hulk (2008)"
     sort_title: Marvel Cinematic Universe
     content_rating: gb/12

@@ -243,6 +243,7 @@ collections:
     template: { name: TMDB theme label, theme_name: grief }
     tmdb_movie:
       - 470 # 21 Grams (2003)
+      - 505642 # Black Panther: Wakanda Forever (2022)
 
   Theme__gun_fu:
     template: { name: TMDB theme label, theme_name: gun_fu }
@@ -419,9 +420,15 @@ collections:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
 
+  Theme__regicide:
+    template: { name: TMDB theme label, theme_name: regicide }
+    tmdb_movie:
+      - 505642 # Black Panther: Wakanda Forever (2022)
+
   Theme__revenge:
     template: { name: TMDB theme label, theme_name: revenge }
     tmdb_movie:
+      - 505642 # Black Panther: Wakanda Forever (2022)
       - 68718 # Django Unchained (2012)
       - 98 # Gladiator (2000)
       - 610253 # Halloween Kills (2021)
@@ -509,6 +516,7 @@ collections:
     tmdb_movie:
       - 363088 # Ant-Man and The Wasp (2018)
       - 299534 # Avengers: Endgame (2019)
+      - 505642 # Black Panther: Wakanda Forever (2022)
       - 497698 # Black Widow (2021)
       - 531309 # Brightburn (2019)
       - 1771 # Captain America: The First Avenger (2011)
