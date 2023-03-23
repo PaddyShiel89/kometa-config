@@ -1,0 +1,21 @@
+metadata:
+  21 Grams:
+    title: 21 Grams
+    year: 2003
+    edition_filter: Theatrical cut
+    sort_title: 21 Grams (2003)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: ["Alejandro G. Iñárritu"]
+    genre.sync: [Crime, Drama, Thriller]
+    originally_available: 2003-09-05
+    producer.sync: ["Alejandro G. Iñárritu", Robert Salerno]
+    studio: This Is That Productions
+    summary: "A freak accident brings together a critically ill mathematician, a grieving mother, and a born-again ex-con."
+    tagline: "How much does life weigh?"
+    writer.sync: [Guillermo Arriaga]
+    label: [ID__000000470A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
