@@ -128,6 +128,7 @@ collections:
   Theme__chase:
     template: { name: TMDB theme label, theme_name: chase }
     tmdb_movie:
+      - 339403 # Baby Driver (2017)
       - 50456 # Hanna (2011)
       - 180 # Minority Report (2002)
       - 1541 # Thelma & Louise (1991)
@@ -254,6 +255,7 @@ collections:
     template: { name: TMDB theme label, theme_name: heist }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 339403 # Baby Driver (2017)
       - 8848 # The Bank Job (2008)
       - 27205 # Inception (2010)
       - 348350 # Solo: A Star Wars Story (2018)
