@@ -107,4 +107,5 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000598A # City of God (2002)
           - ID__000068718A # Django Unchained (2012)

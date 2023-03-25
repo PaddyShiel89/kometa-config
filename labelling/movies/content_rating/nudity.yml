@@ -34,6 +34,7 @@ collections:
           - ID__000000348A # Alien (1979) [Theatrical cut]
           - ID__000000348B # Alien (1979) [Director's cut]
           - ID__000674324A # The Banshees of Inisherin (2022)
+          - ID__000000598A # City of God (2002)
 
   BBFC nudity lvl 4:
     template:
