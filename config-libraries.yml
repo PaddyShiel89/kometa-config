@@ -55,6 +55,7 @@ libraries:
       - repo: metadata/movies/Shrek (2001) {tmdb-808}
       - repo: metadata/movies/Smile (2022) {tmdb-882598}
       - repo: metadata/movies/Solo A Star Wars Story {tmdb-348350}
+      - repo: metadata/movies/Species II (1998) {tmdb-10216}
       - repo: metadata/movies/Spider-Man 2 (2004) {tmdb-558}
       - repo: metadata/movies/Spider-Man Far from Home (2019) {tmdb-429617}
       - repo: metadata/movies/Spider-Man No Way Home (2021) {tmdb-634649}

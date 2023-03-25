@@ -2,6 +2,11 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  Theme__abduction:
+    template: { name: TMDB theme label, theme_name: abduction }
+    tmdb_movie:
+      - 762504 # Nope (2022)
+
   Theme__aliens:
     template: { name: TMDB theme label, theme_name: aliens }
     tmdb_movie:
@@ -18,6 +23,7 @@ collections:
       - 1892 # Return of the Jedi (1983)
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 348350 # Solo: A Star Wars Story (2018)
+      - 10216 # Species II (1998)
       - 11 # Star Wars (1977)
       - 1893 # Star Wars: Episode I - The Phantom Menace (1999)
       - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
@@ -31,11 +37,6 @@ collections:
       - 1891 # The Empire Strikes Back (1980)
       - 74849 # The Star Wars Holiday Special (1978)
       - 616037 # Thor: Love and Thunder (2022)
-
-  Theme__abduction:
-    template: { name: TMDB theme label, theme_name: abduction }
-    tmdb_movie:
-      - 762504 # Nope (2022)
 
   Theme__alien_invasion:
     template: { name: TMDB theme label, theme_name: alien_invasion }
@@ -93,6 +94,11 @@ collections:
     tmdb_movie:
       - 8848 # The Bank Job (2008)
 
+  Theme__bioweapons:
+    template: { name: TMDB theme label, theme_name: bioweapons }
+    tmdb_movie:
+      - 10216 # Species II (1998)
+
   Theme__black_comedy:
     template: { name: TMDB theme label, theme_name: black_comedy }
     tmdb_movie:
@@ -132,6 +138,7 @@ collections:
       - 339403 # Baby Driver (2017)
       - 50456 # Hanna (2011)
       - 180 # Minority Report (2002)
+      - 10216 # Species II (1998)
       - 1541 # Thelma & Louise (1991)
 
   Theme__christmas:
@@ -144,6 +151,7 @@ collections:
     template: { name: TMDB theme label, theme_name: clones }
     tmdb_movie:
       - 8078 # Alien Resurrection (1997)
+      - 10216 # Species II (1998)
       - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
       - 12180 # Star Wars: The Clone Wars (2008)
 
@@ -334,6 +342,7 @@ collections:
       - 59678 # Attack the Block (2011)
       - 762504 # Nope (2022)
       - 882598 # Smile (2022)
+      - 10216 # Species II (1998)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
 
@@ -502,6 +511,11 @@ collections:
     tmdb_movie:
       - 497698 # Black Widow (2021)
       - 27576 # Salt (2010)
+
+  Theme__splatter:
+    template: { name: TMDB theme label, theme_name: splatter }
+    tmdb_movie:
+      - 10216 # Species II (1998)
 
   Theme__spoof:
     template: { name: TMDB theme label, theme_name: spoof }

@@ -171,6 +171,13 @@ collections:
     tmdb_movie:
       - 808 # Shrek (2001)
 
+  Series__Species_1995:
+    template:
+      { name: TMDB series label, series_name: Species, series_year: 1995 }
+    tmdb_movie:
+      - 9348 # Species (1995)
+      - 10216 # Species II (1998)
+
   Series__Spider_Man_2002:
     template:
       { name: TMDB series label, series_name: Spider_Man, series_year: 2002 }
@@ -700,13 +707,6 @@ collections:
         title_list:
           - Sin City (2005) 001
           - Sin City (2005) 002
-
-  "Series: Species (1995)":
-    template:
-      - name: Series label
-        series: "Species (1995)"
-        title_list:
-          - Species (1995) 001
 
   "Series: Star Trek (2009)":
     template:
