@@ -1,0 +1,22 @@
+metadata:
+  The Raid:
+    title: The Raid
+    year: 2011
+    edition_filter: Uncut version
+    sort_title: Raid (2011) 001
+    content_rating: gb/18
+    country.sync: [Indonesia, France, United States of America]
+    director.sync: [Gareth Evans]
+    genre.sync: [Action, Crime, Thriller]
+    original_title: Serbuan maut
+    originally_available: 2011-09-08
+    producer.sync: [Ario Sagantoro]
+    studio: "Pt. Merantau Films"
+    summary: "A S.W.A.T. team becomes trapped in a tenement run by a ruthless mobster and his army of killers and thugs."
+    tagline: "1 Ruthless Crime Lord, 20 Elite Cops, 30 Floors of Hell"
+    writer.sync: [Gareth Evans]
+    label: [ID__000094329A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

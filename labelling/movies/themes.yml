@@ -215,6 +215,7 @@ collections:
       - 4982 # American Gangster (2007)
       - 59678 # Attack the Block (2011)
       - 598 # City of God (2002)
+      - 94329 # The Raid (2011)
 
   Theme__dystopian:
     template: { name: TMDB theme label, theme_name: dystopian }
@@ -242,8 +243,10 @@ collections:
     template: { name: TMDB theme label, theme_name: foreign_language }
     tmdb_movie:
       - 454527 # Benedetta (2021)
+      - 598 # City of God (2002)
       - 10867 # Malèna (2000)
       - 10753 # Police Story 2 (1988)
+      - 94329 # The Raid (2011)
 
   Theme__gangs:
     template: { name: TMDB theme label, theme_name: gangs }
@@ -251,6 +254,7 @@ collections:
       - 4982 # American Gangster (2007)
       - 59678 # Attack the Block (2011)
       - 598 # City of God (2002)
+      - 94329 # The Raid (2011)
 
   Theme__ghosts:
     template: { name: TMDB theme label, theme_name: ghosts }
@@ -320,6 +324,7 @@ collections:
       - 284052 # Doctor Strange (2016)
       - 10753 # Police Story 2 (1988)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
+      - 94329 # The Raid (2011)
 
   Theme__mental_health:
     template: { name: TMDB theme label, theme_name: mental_health }

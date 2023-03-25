@@ -230,6 +230,12 @@ collections:
       - 240 # The Godfather Part II (1975)
       - 242 # The Godfather Part III (1990)
 
+  Series__The_Raid_2011:
+    template:
+      { name: TMDB series label, series_name: The_Raid, series_year: 2011 }
+    tmdb_movie:
+      - 94329 # The Raid (2011)
+
   Series__Thor_2011:
     template: { name: TMDB series label, series_name: Thor, series_year: 2011 }
     tmdb_movie:
