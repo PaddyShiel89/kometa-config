@@ -126,8 +126,10 @@ collections:
       - name: Theme
         summary: "that deliberately focuses on graphic portrayals of gore and graphic violence. These films, usually through the use of special effects, display a fascination with the vulnerability of the human body and the theatricality of its mutilation."
     smart_filter:
-      all:
-        label: "theme: splatter"
+      any:
+        label:
+          - Theme__splatter
+          - "theme: splatter"
       sort_by: title.asc
 
   Supernatural Horror:

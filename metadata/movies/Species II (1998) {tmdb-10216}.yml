@@ -1,0 +1,21 @@
+metadata:
+  Species II:
+    title: Species II
+    year: 1998
+    edition_filter: Theatrical cut
+    sort_title: Species (1995) 002
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Peter Medak]
+    genre.sync: [Action, Horror, Science Fiction, Thriller]
+    originally_available: 1998-04-10
+    producer.sync: [Frank Mancuso Jr.]
+    studio: Metro-Goldwyn-Mayer (MGM)
+    summary: "An astronaut is infected with alien DNA during a mission to Mars and runs amok on earth. Preston and Laura team up with a peaceful, genetically re-engineered Sil to track the monster down."
+    tagline: Terror in the Flesh
+    writer.sync: [Dennis Feldman, Chris Brancato]
+    label: [ID__000010216A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
