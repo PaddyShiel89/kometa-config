@@ -192,6 +192,13 @@ collections:
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
 
+  Series__Star_Trek_2009:
+    template:
+      { name: TMDB series label, series_name: Star_Trek, series_year: 2009 }
+    tmdb_movie:
+      - 13475 # Star Trek (2009)
+      - 54138 # Star Trek Into Darkness (2013)
+
   Series__Star_Wars_1977:
     template:
       { name: TMDB series label, series_name: Star_Wars, series_year: 1977 }
@@ -713,13 +720,6 @@ collections:
         title_list:
           - Sin City (2005) 001
           - Sin City (2005) 002
-
-  "Series: Star Trek (2009)":
-    template:
-      - name: Series label
-        series: "Star Trek (2009)"
-        title_list:
-          - Star Trek (2009) 001
 
   "Series: Suicide Squad (2016)":
     template:
