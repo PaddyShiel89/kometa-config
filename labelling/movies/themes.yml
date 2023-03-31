@@ -115,6 +115,7 @@ collections:
   Theme__buddy_movie:
     template: { name: TMDB theme label, theme_name: buddy_movie }
     tmdb_movie:
+      - 11001 # Blue Streak (1999)
       - 808 # Shrek (2001)
       - 1541 # Thelma & Louise (1991)
       - 9522 # Wedding Crashers (2005)
@@ -175,6 +176,7 @@ collections:
   Theme__con_artists:
     template: { name: TMDB theme label, theme_name: con_artists }
     tmdb_movie:
+      - 11001 # Blue Streak (1999)
       - 629 # The Usual Suspects (1995)
 
   Theme__cult:
@@ -279,6 +281,7 @@ collections:
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
       - 339403 # Baby Driver (2017)
+      - 11001 # Blue Streak (1999)
       - 8848 # The Bank Job (2008)
       - 27205 # Inception (2010)
       - 348350 # Solo: A Star Wars Story (2018)
@@ -408,6 +411,7 @@ collections:
   Theme__police:
     template: { name: TMDB theme label, theme_name: police }
     tmdb_movie:
+      - 11001 # Blue Streak (1999)
       - 10753 # Police Story 2 (1988)
       - 16307 # The Wicker Man (1973)
       - 629 # The Usual Suspects (1995)

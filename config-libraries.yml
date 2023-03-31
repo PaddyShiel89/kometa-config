@@ -17,6 +17,7 @@ libraries:
       - repo: metadata/movies/Benedetta (2021) {tmdb-454527}
       - repo: metadata/movies/Black Panther Wakanda Forever (2022) {tmdb-505642}
       - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
+      - repo: metadata/movies/Blue Streak (1999) {tmdb-11001}
       - repo: metadata/movies/Borat (2006) {tmdb-496}
       - repo: metadata/movies/Brightburn (2019) {tmdb-531309}
       - repo: metadata/movies/Calvary (2014) {tmdb-157832}
