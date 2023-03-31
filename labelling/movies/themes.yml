@@ -223,6 +223,7 @@ collections:
       - 59678 # Attack the Block (2011)
       - 598 # City of God (2002)
       - 94329 # The Raid (2011)
+      - 180299 # The Raid 2 (2014)
 
   Theme__dystopian:
     template: { name: TMDB theme label, theme_name: dystopian }
@@ -262,6 +263,7 @@ collections:
       - 59678 # Attack the Block (2011)
       - 598 # City of God (2002)
       - 94329 # The Raid (2011)
+      - 180299 # The Raid 2 (2014)
 
   Theme__ghosts:
     template: { name: TMDB theme label, theme_name: ghosts }
@@ -310,6 +312,7 @@ collections:
       - 242 # The Godfather Part III (1990)
       - 245891 # John Wick (2015)
       - 2118 # L.A. Confidential (1997)
+      - 180299 # The Raid 2 (2014)
 
   Theme__magic:
     template: { name: TMDB theme label, theme_name: magic }
@@ -334,6 +337,7 @@ collections:
       - 10753 # Police Story 2 (1988)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 94329 # The Raid (2011)
+      - 180299 # The Raid 2 (2014)
 
   Theme__mental_health:
     template: { name: TMDB theme label, theme_name: mental_health }
@@ -439,6 +443,7 @@ collections:
     template: { name: TMDB theme label, theme_name: prison }
     tmdb_movie:
       - 8077 # Alien³ (1992)
+      - 180299 # The Raid 2 (2014)
 
   Theme__psychological:
     template: { name: TMDB theme label, theme_name: psychological }
@@ -484,6 +489,7 @@ collections:
       - 634649 # Spider-Man: No Way Home (2021)
       - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 180299 # The Raid 2 (2014)
 
   Theme__road_movies:
     template: { name: TMDB theme label, theme_name: road_movies }
