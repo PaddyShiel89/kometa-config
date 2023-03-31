@@ -1,0 +1,22 @@
+metadata:
+  The Unbearable Weight of Massive Talent:
+    title: The Unbearable Weight of Massive Talent
+    year: 2022
+    edition_filter: Theatrical cut
+    sort_title: Unbearable Weight of Massive Talent (2022)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Tom Gormican]
+    genre.sync: [Action, Comedy, Crime, Thriller]
+    originally_available: 2022-03-12
+    producer.sync:
+      [Kristin Burr, Nicolas Cage, Erika Milutin, Michael Nilon, Kevin Turen]
+    studio: "Burr! Productions"
+    summary: "Moviestar Nick Cage must channel his iconic characters when he's caught between a superfan and a CIA agent."
+    tagline: "A Hollywood legend will become a real life hero."
+    writer.sync: [Tom Gormican, Kevin Etten]
+    label: [ID__000648579A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

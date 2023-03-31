@@ -1,0 +1,22 @@
+metadata:
+  Blue Streak:
+    title: Blue Streak
+    year: 1999
+    edition_filter: Theatrical cut
+    sort_title: Blue Streak (1999)
+    content_rating: gb/12
+    country.sync: [Germany, United States of America]
+    director.sync: [Les Mayfield]
+    genre.sync: [Action, Comedy, Crime, Thriller]
+    originally_available: 1999-09-17
+    producer.sync: [Toby Jaffe, Neal H. Moritz]
+    studio: Columbia Pictures
+    summary: "A former convict poses as a cop to retrieve the diamond he stole before his incarceration."
+    tagline: "He's A Cop That's Not. Believe That!"
+    writer.sync:
+      [Michael Berry	...	(written by), John Blumenthal, Stephen Carpenter]
+    label: [ID__000011001A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

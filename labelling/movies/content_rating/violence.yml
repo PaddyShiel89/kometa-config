@@ -18,6 +18,7 @@ collections:
           - ID__000001892D # Star Wars: Episode VI - Return of the Jedi (1983) [Blu-ray cut]
           - ID__000001892E # Star Wars: Episode VI - Return of the Jedi (1983) [Despecialized edition]
           - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
+          - ID__000045269A # The King's Speech (2010)
 
   BBFC violence lvl 2:
     template:
@@ -76,6 +77,7 @@ collections:
           - ID__000000558A # Spider-Man 2 (2004) [Theatrical cut]
           - ID__000000558B # Spider-Man 2.1 (2004) [Extended edition]
           - ID__000634649A # Spider-Man: Far from Home (2019)
+          - ID__000054138A # Star Trek Into Darkness (2013)
           - ID__000140607A # Star Wars: The Force Awakens (2015)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000616037A # Thor: Love and Thunder (2022)

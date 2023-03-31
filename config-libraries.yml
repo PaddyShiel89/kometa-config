@@ -17,6 +17,7 @@ libraries:
       - repo: metadata/movies/Benedetta (2021) {tmdb-454527}
       - repo: metadata/movies/Black Panther Wakanda Forever (2022) {tmdb-505642}
       - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
+      - repo: metadata/movies/Blue Streak (1999) {tmdb-11001}
       - repo: metadata/movies/Borat (2006) {tmdb-496}
       - repo: metadata/movies/Brightburn (2019) {tmdb-531309}
       - repo: metadata/movies/Calvary (2014) {tmdb-157832}
@@ -39,6 +40,7 @@ libraries:
       - repo: metadata/movies/John Wick (2014) {tmdb-245891}
       - repo: metadata/movies/John Wick Chapter 2 (2017) {tmdb-324552}
       - repo: metadata/movies/John Wick Chapter 3 - Parabellum (2019) {tmdb-458156}
+      - repo: metadata/movies/L.A. Confidential (1997) {tmdb-2118}
       - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
       - repo: metadata/movies/Malena (2000) {tmdb-10867}
       - repo: metadata/movies/Minority Report (2002) {tmdb-180}
@@ -59,6 +61,7 @@ libraries:
       - repo: metadata/movies/Spider-Man 2 (2004) {tmdb-558}
       - repo: metadata/movies/Spider-Man Far from Home (2019) {tmdb-429617}
       - repo: metadata/movies/Spider-Man No Way Home (2021) {tmdb-634649}
+      - repo: metadata/movies/Star Trek Into Darkness (2013) {tmdb-54138}
       - repo: metadata/movies/Star Wars (1977) {tmdb-11}
       - repo: metadata/movies/Star Wars Episode I - The Phantom Menace (1999) {tmdb-1893}
       - repo: metadata/movies/Star Wars Episode II - Attack of the Clones (2002) {tmdb-1894}
@@ -77,8 +80,11 @@ libraries:
       - repo: metadata/movies/The Godfather (1972) {tmdb-238}
       - repo: metadata/movies/The Godfather Part II (1974) {tmdb-240}
       - repo: metadata/movies/The Godfather Part III (1990) {tmdb-242}
+      - repo: metadata/movies/The King's Speech (2010) {tmdb-45269}
       - repo: metadata/movies/The Raid (2011) {tmdb-94329}
+      - repo: metadata/movies/The Raid 2 (2014) {tmdb-180299}
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
+      - repo: metadata/movies/The Unbearable Weight of Massive Talent (2022) {tmdb-648579}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
       - repo: metadata/movies/The Wicker Man (1973) {tmdb-16307}
       - repo: metadata/movies/Thelma & Louise (1991) {tmdb-1541}
