@@ -76,6 +76,7 @@ collections:
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1974)
+      - 45269 # The King's Speech (2010)
       - 16307 # The Wicker Man (1973)
 
   Theme__based_on_works_by_philip_k_dick:
@@ -94,6 +95,7 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_true_events }
     tmdb_movie:
       - 8848 # The Bank Job (2008)
+      - 45269 # The King's Speech (2010)
 
   Theme__bioweapons:
     template: { name: TMDB theme label, theme_name: bioweapons }
@@ -118,6 +120,7 @@ collections:
     tmdb_movie:
       - 11001 # Blue Streak (1999)
       - 808 # Shrek (2001)
+      - 45269 # The King's Speech (2010)
       - 1541 # Thelma & Louise (1991)
       - 9522 # Wedding Crashers (2005)
       - 38319 # Your Highness (2011)
@@ -487,6 +490,11 @@ collections:
       - 496 # Borat (2006)
       - 1541 # Thelma & Louise (1991)
 
+  Theme__royalty:
+    template: { name: TMDB theme label, theme_name: royalty }
+    tmdb_movie:
+      - 45269 # The King's Speech (2010)
+
   Theme__serial_killer:
     template: { name: TMDB theme label, theme_name: serial_killer }
     tmdb_movie:
@@ -633,6 +641,7 @@ collections:
       - 1771 # Captain America: The First Avenger (2011)
       - 20546 # Goodnight, Mister Tom (1998)
       - 10867 # Malèna (2000)
+      - 45269 # The King's Speech (2010)
 
   Theme__zombies:
     template: { name: TMDB theme label, theme_name: zombies }

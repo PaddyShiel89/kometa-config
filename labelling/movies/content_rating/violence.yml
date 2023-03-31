@@ -18,6 +18,7 @@ collections:
           - ID__000001892D # Star Wars: Episode VI - Return of the Jedi (1983) [Blu-ray cut]
           - ID__000001892E # Star Wars: Episode VI - Return of the Jedi (1983) [Despecialized edition]
           - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
+          - ID__000045269A # The King's Speech (2010)
 
   BBFC violence lvl 2:
     template:
