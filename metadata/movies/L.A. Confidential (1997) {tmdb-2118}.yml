@@ -1,0 +1,21 @@
+metadata:
+  "L.A. Confidential":
+    title: "L.A. Confidential"
+    year: 1997
+    edition_filter: Theatrical cut
+    sort_title: L.A. Confidential (1997)
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Curtis Hanson]
+    genre.sync: [Crime, Drama, Mystery, Thriller]
+    originally_available: 1997-05-14
+    producer.sync: [Curtis Hanson, Arnon Milchan, Michael G. Nathanson]
+    studio: New Regency Productions
+    summary: "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice."
+    tagline: "Off the record, on the QT, and very hush-hush..."
+    writer.sync: [James Ellroy, Brian Helgeland, Curtis Hanson]
+    label: [ID__000002118A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

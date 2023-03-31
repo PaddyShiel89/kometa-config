@@ -70,6 +70,7 @@ collections:
       - 598 # City of God (2002)
       - 343674 # Gerald's Game (2017)
       - 20546 # Goodnight, Mister Tom (1998)
+      - 2118 # L.A. Confidential (1997)
       - 180 # Minority Report (2002)
       - 808 # Shrek (2001)
       - 15472 # The Girl with the Dragon Tattoo (2009)
@@ -304,6 +305,7 @@ collections:
       - 240 # The Godfather Part II (1975)
       - 242 # The Godfather Part III (1990)
       - 245891 # John Wick (2015)
+      - 2118 # L.A. Confidential (1997)
 
   Theme__magic:
     template: { name: TMDB theme label, theme_name: magic }
@@ -357,6 +359,7 @@ collections:
   Theme__murder:
     template: { name: TMDB theme label, theme_name: murder }
     tmdb_movie:
+      - 2118 # L.A. Confidential (1997)
       - 16307 # The Wicker Man (1973)
       - 629 # The Usual Suspects (1995)
 
@@ -380,6 +383,7 @@ collections:
       - 245891 # John Wick (2015)
       - 324552 # John Wick: Chapter 2 (2017)
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
+      - 2118 # L.A. Confidential (1997)
       - 180 # Minority Report (2002)
       - 629 # The Usual Suspects (1995)
 
@@ -412,6 +416,7 @@ collections:
     template: { name: TMDB theme label, theme_name: police }
     tmdb_movie:
       - 11001 # Blue Streak (1999)
+      - 2118 # L.A. Confidential (1997)
       - 10753 # Police Story 2 (1988)
       - 16307 # The Wicker Man (1973)
       - 629 # The Usual Suspects (1995)
