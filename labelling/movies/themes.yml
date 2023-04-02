@@ -362,8 +362,8 @@ collections:
     tmdb_movie:
       - 348 # Alien (1979)
       - 8078 # Alien Resurrection (1997)
-      - 679 # Aliens (1986)
       - 8077 # Alien³ (1992)
+      - 679 # Aliens (1986)
       - 59678 # Attack the Block (2011)
       - 762504 # Nope (2022)
       - 882598 # Smile (2022)
@@ -615,8 +615,8 @@ collections:
     tmdb_movie:
       - 348 # Alien (1979)
       - 8078 # Alien Resurrection (1997)
-      - 679 # Aliens (1986)
       - 8077 # Alien³ (1992)
+      - 679 # Aliens (1986)
       - 50456 # Hanna (2011)
 
   Theme__terrorism:
