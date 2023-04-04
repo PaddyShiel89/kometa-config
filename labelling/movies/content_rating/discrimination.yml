@@ -13,6 +13,7 @@ collections:
         label:
           - ID__000299537A # Captain Marvel (2019)
           - ID__000566525A # Shang-Chi and the Legend of the Ten Rings (2021)
+          - ID__000009340A # The Goonies (1985)
 
   BBFC discrimination lvl 3:
     template:

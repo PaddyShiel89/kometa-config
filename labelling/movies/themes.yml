@@ -127,6 +127,7 @@ collections:
     tmdb_movie:
       - 11001 # Blue Streak (1999)
       - 808 # Shrek (2001)
+      - 9340 # The Goonies (1985)
       - 45269 # The King's Speech (2010)
       - 1541 # Thelma & Louise (1991)
       - 9522 # Wedding Crashers (2005)
@@ -439,6 +440,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 9340 # The Goonies (1985)
 
   Theme__police:
     template: { name: TMDB theme label, theme_name: police }
@@ -656,6 +658,7 @@ collections:
     tmdb_movie:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 9340 # The Goonies (1985)
 
   Theme__voodoo:
     template: { name: TMDB theme label, theme_name: voodoo }
