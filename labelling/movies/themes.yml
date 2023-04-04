@@ -80,6 +80,11 @@ collections:
       - 45269 # The King's Speech (2010)
       - 16307 # The Wicker Man (1973)
 
+  Theme__based_on_a_graphic_novel:
+    template: { name: TMDB theme label, theme_name: based_on_a_graphic_novel }
+    tmdb_movie:
+      - 341013 # Atomic Blonde (2017)
+
   Theme__based_on_works_by_philip_k_dick:
     template:
       { name: TMDB theme label, theme_name: based_on_works_by_philip_k_dick }
@@ -165,6 +170,7 @@ collections:
   Theme__cold_war:
     template: { name: TMDB theme label, theme_name: cold_war }
     tmdb_movie:
+      - 341013 # Atomic Blonde (2017)
       - 27576 # Salt (2010)
 
   Theme__coming_of_age:
@@ -247,6 +253,7 @@ collections:
   Theme__female_protagonist:
     template: { name: TMDB theme label, theme_name: female_protagonist }
     tmdb_movie:
+      - 341013 # Atomic Blonde (2017)
       - 1541 # Thelma & Louise (1991)
 
   Theme__filmmaking:
@@ -311,9 +318,15 @@ collections:
     tmdb_movie:
       - 15472 # The Girl with the Dragon Tattoo (2009)
 
+  Theme__lgbtq:
+    template: { name: TMDB theme label, theme_name: lgbtq }
+    tmdb_movie:
+      - 341013 # Atomic Blonde (2017)
+
   Theme__mafia:
     template: { name: TMDB theme label, theme_name: mafia }
     tmdb_movie:
+      - 341013 # Atomic Blonde (2017)
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1975)
       - 242 # The Godfather Part III (1990)
@@ -545,6 +558,7 @@ collections:
   Theme__spies:
     template: { name: TMDB theme label, theme_name: spies }
     tmdb_movie:
+      - 341013 # Atomic Blonde (2017)
       - 497698 # Black Widow (2021)
       - 27576 # Salt (2010)
 
