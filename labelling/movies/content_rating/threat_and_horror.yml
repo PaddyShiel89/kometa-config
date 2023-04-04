@@ -49,6 +49,7 @@ collections:
           - ID__000001891E # Star Wars: Episode V - The Empire Strikes Back (1980) [Despecialized edition]
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000012180A # Star Wars: The Clone Wars (2008)
+          - ID__000009340A # The Goonies (1985)
 
   BBFC threat and horror lvl 3:
     template:
