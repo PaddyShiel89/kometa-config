@@ -10,14 +10,14 @@ collections:
       any:
         label:
           - ID__000343674A # Gerald's Game (2017)
-          - ID__000000011B # Star Wars: Episode IV - A New Hope [Special edition]
-          - ID__000000011E # Star Wars: Episode IV - A New Hope [Despecialized edition]
-          - ID__000000011F # Star Wars: Episode IV - A New Hope [Project 4K77]
-          - ID__000001891B # Star Wars: Episode V - The Empire Strikes Back (1980) [Special edition]
-          - ID__000001891E # Star Wars: Episode V - The Empire Strikes Back (1980) [Despecialized edition]
-          - ID__000001892B # Star Wars: Episode VI - Return of the Jedi (1983) [Special edition]
-          - ID__000001892E # Star Wars: Episode VI - Return of the Jedi (1983) [Despecialized edition]
-          - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
+          - ID__000001892B # Return of the Jedi (1983) [Special edition]
+          - ID__000001892E # Return of the Jedi (1983) [Despecialized edition]
+          - ID__000001892F # Return of the Jedi (1983) [Project 4K83]
+          - ID__000000011B # Star Wars (1977) [Special edition]
+          - ID__000000011E # Star Wars (1977) [Despecialized edition]
+          - ID__000000011F # Star Wars (1977) [Project 4K77]
+          - ID__000001891B # The Empire Strikes Back (1980) [Special edition]
+          - ID__000001891E # The Empire Strikes Back (1980) [Despecialized edition]
           - ID__000074849A # The Star Wars Holiday Special (1978)
 
   Ownership__loaned:
@@ -28,7 +28,7 @@ collections:
       any:
         label:
           - ID__000017097A # After Sex (2007)
-          - ID__000283995A # Guardians of the Galaxy Vol. 2
+          - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
           - ID__000068721A # Iron Man 3 (2013)
 
   Ownership__own:
@@ -39,29 +39,29 @@ collections:
       any:
         label:
           - ID__000010867A # Malèna (2000) [Original Italian cut]
+          - ID__000001892A # Return of the Jedi (1983) [Theatrical cut]
+          - ID__000001892C # Return of the Jedi (1983) [DVD cut]
+          - ID__000001892D # Return of the Jedi (1983) [Blu-ray cut]
           - ID__000330459A # Rogue One: A Star Wars Story (2016)
           - ID__000348350A # Solo: A Star Wars Story (2018)
+          - ID__000000011A # Star Wars (1977) [Theatrical cut]
+          - ID__000000011C # Star Wars (1977) [DVD cut]
+          - ID__000000011D # Star Wars (1977) [Blu-ray cut]
           - ID__000001893B # Star Wars: Episode I - The Phantom Menace (1999) [DVD cut]
           - ID__000001893C # Star Wars: Episode I - The Phantom Menace (1999) [Blu-ray cut]
           - ID__000001894B # Star Wars: Episode II - Attack of the Clones (2002) [DVD cut]
           - ID__000001894C # Star Wars: Episode II - Attack of the Clones (2002) [Blu-ray cut]
           - ID__000001895B # Star Wars: Episode III - Revenge of the Sith (2005) [DVD cut]
           - ID__000001895C # Star Wars: Episode III - Revenge of the Sith (2005) [Blu-ray cut]
-          - ID__000000011A # Star Wars: Episode IV - A New Hope [Theatrical cut]
-          - ID__000000011C # Star Wars: Episode IV - A New Hope [DVD cut]
-          - ID__000000011D # Star Wars: Episode IV - A New Hope [Blu-ray cut]
-          - ID__000001891A # Star Wars: Episode V - The Empire Strikes Back (1980) [Theatrical cut]
-          - ID__000001891C # Star Wars: Episode V - The Empire Strikes Back (1980) [DVD cut]
-          - ID__000001891D # Star Wars: Episode V - The Empire Strikes Back (1980) [Blu-ray cut]
-          - ID__000001892A # Star Wars: Episode VI - Return of the Jedi (1983) [Theatrical cut]
-          - ID__000001892C # Star Wars: Episode VI - Return of the Jedi (1983) [DVD cut]
-          - ID__000001892D # Star Wars: Episode VI - Return of the Jedi (1983) [Blu-ray cut]
-          - ID__000140607A # Star Wars: The Force Awakens (2015)
-          - ID__000181808A # Star Wars: The Last Jedi (2017)
           - ID__000287663A # Star Wars Rebels: Spark of Rebellion (2014)
           - ID__000337755A # Star Wars Rebels: The Siege of Lothal (2015)
+          - ID__000140607A # Star Wars: The Force Awakens (2015)
+          - ID__000181808A # Star Wars: The Last Jedi (2017)
           - ID__000023629A # Sucker Punch (2011) [Theatrical cut]
           - ID__000023629B # Sucker Punch (2011) [Extended cut]
+          - ID__000001891A # The Empire Strikes Back (1980) [Theatrical cut]
+          - ID__000001891C # The Empire Strikes Back (1980) [DVD cut]
+          - ID__000001891D # The Empire Strikes Back (1980) [Blu-ray cut]
 
   Ownership__own_different_source:
     template:
@@ -72,12 +72,12 @@ collections:
         label:
           - ID__000000348A # Alien (1979) [Theatrical cut]
           - ID__000000348B # Alien (1979) [Director's cut]
-          - ID__000000679A # Aliens (1986) [Theatrical cut]
-          - ID__000000679B # Aliens (1986) [Special edition]
-          - ID__000008077A # Alien³ (1992) [Theatrical cut]
-          - ID__000008077B # Alien³ (1992) [Assembley cut]
           - ID__000008078A # Alien Resurrection (1997) [Theatrical cut]
           - ID__000008078B # Alien Resurrection (1997) [Special edition]
+          - ID__000008077A # Alien³ (1992) [Theatrical cut]
+          - ID__000008077B # Alien³ (1992) [Assembley cut]
+          - ID__000000679A # Aliens (1986) [Theatrical cut]
+          - ID__000000679B # Aliens (1986) [Special edition]
           - ID__000004982A # American Gangster (2007) [Theatrical cut]
           - ID__000004982B # American Gangster (2007) [Extended edition]
           - ID__000010867B # Malèna (2000) [International cut]
@@ -96,21 +96,19 @@ collections:
           - ID__000000470A # 21 Grams (2003)
           - ID__000000348A # Alien (1979) [Theatrical cut]
           - ID__000000348B # Alien (1979) [Director's cut]
-          - ID__000000679A # Aliens (1986) [Theatrical cut]
-          - ID__000000679B # Aliens (1986) [Special edition]
-          - ID__000008077A # Alien³ (1992) [Theatrical cut]
-          - ID__000008077B # Alien³ (1992) [Assembley cut]
           - ID__000008078A # Alien Resurrection (1997) [Theatrical cut]
           - ID__000008078B # Alien Resurrection (1997) [Special edition]
+          - ID__000008077A # Alien³ (1992) [Theatrical cut]
+          - ID__000008077B # Alien³ (1992) [Assembley cut]
+          - ID__000000679A # Aliens (1986) [Theatrical cut]
+          - ID__000000679B # Aliens (1986) [Special edition]
           - ID__000004982A # American Gangster (2007) [Theatrical cut]
           - ID__000004982B # American Gangster (2007) [Extended edition]
-          - ID__000363088A # Ant-Man and the Wasp
+          - ID__000363088A # Ant-Man and the Wasp (2018)
           - ID__000341013A # Atomic Blonde (2017)
           - ID__000059678A # Attack the Block (2011)
           - ID__000299534A # Avengers: Endgame (2019)
           - ID__000339403A # Baby Driver (2017)
-          - ID__000008848A # The Bank Job (2008)
-          - ID__000674324A # The Banshees of Inisherin (2022)
           - ID__000454527A # Benedetta (2021)
           - ID__000505642A # Black Panther: Wakanda Forever (2022)
           - ID__000497698A # Black Widow (2021)
@@ -118,20 +116,17 @@ collections:
           - ID__000000496A # Borat (2006)
           - ID__000531309A # Brightburn (2019)
           - ID__000157832A # Calvary (2014)
-          - ID__000001771A # Captain America: The First Avenger
-          - ID__000299537A # Captain Marvel
+          - ID__000001771A # Captain America: The First Avenger (2011)
+          - ID__000299537A # Captain Marvel (2019)
           - ID__000000598A # City of God (2002)
           - ID__000068718A # Django Unchained (2012)
-          - ID__000284052A # Doctor Strange
+          - ID__000284052A # Doctor Strange (2016)
           - ID__000453395A # Doctor Strange in the Multiverse of Madness (2022)
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000524434A # Eternals (2021)
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
           - ID__000000098B # Gladiator (2000) [Extended edition]
           - ID__000020546A # Goodnight, Mister Tom (1998)
-          - ID__000000238A # The Godfather (1972)
-          - ID__000000240A # The Godfather Part II (1975)
-          - ID__000000242A # The Godfather Part III (1990)
           - ID__000610253A # Halloween Kills (2021) [Theatrical cut]
           - ID__000610253B # Halloween Kills (2021) [Extended cut]
           - ID__000050456A # Hanna (2011)
@@ -147,7 +142,7 @@ collections:
           - ID__000762504A # Nope (2022)
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
-          - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales
+          - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
           - ID__000001865A # Pirates of the Caribbean: On Stranger Tides (2011)
           - ID__000010753A # Police Story 2 (1988) [Original Hong Kong cut]
           - ID__000010753B # Police Story 2 (1988) [Uncut restoration]
@@ -160,18 +155,23 @@ collections:
           - ID__000010216A # Species II (1998)
           - ID__000000558A # Spider-Man 2 (2004) [Theatrical cut]
           - ID__000000558B # Spider-Man 2.1 (2004) [Extended edition]
-          - ID__000634649A # Spider-Man: Far from Home
+          - ID__000634649A # Spider-Man: Far from Home (2019)
           - ID__000634649A # Spider-Man: No Way Home (2021)
           - ID__000054138A # Star Trek Into Darkness (2013)
           - ID__000012180A # Star Wars: The Clone Wars (2008)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
+          - ID__000008848A # The Bank Job (2008)
+          - ID__000674324A # The Banshees of Inisherin (2022)
           - ID__000015472A # The Girl with the Dragon Tattoo (2009)
+          - ID__000000238A # The Godfather (1972)
+          - ID__000000240A # The Godfather Part II (1975)
+          - ID__000000242A # The Godfather Part III (1990)
           - ID__000009340A # The Goonies (1985)
           - ID__000045269A # The King's Speech (2010)
           - ID__000094329A # The Raid (2011)
           - ID__000180299A # The Raid 2 (2014)
           - ID__000648579A # The Unbearable Weight of Massive Talent (2022)
-          - ID__000000629A # The Usual Suspects
+          - ID__000000629A # The Usual Suspects (1995)
           - ID__000016307A # The Wicker Man (1973) [UK theatrical cut]
           - ID__000016307B # The Wicker Man (1973) [Director's cut]
           - ID__000016307C # The Wicker Man (1973) [The Final Cut]

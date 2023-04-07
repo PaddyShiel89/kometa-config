@@ -13,7 +13,7 @@ collections:
         label:
           - ID__000299534A # Avengers: Endgame (2019)
           - ID__000497698A # Black Widow (2021)
-          - ID__000001771A # Captain America - The First Avenger
+          - ID__000001771A # Captain America: The First Avenger (2011)
           - ID__000299537A # Captain Marvel (2019)
           - ID__000068718A # Django Unchained (2012)
           - ID__000284052A # Doctor Strange (2016)
@@ -25,6 +25,12 @@ collections:
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
           - ID__000001865A # Pirates of the Caribbean: On Stranger Tides (2011)
+          - ID__000001892A # Return of the Jedi (1983) [Theatrical cut]
+          - ID__000001892B # Return of the Jedi (1983) [Special edition]
+          - ID__000001892C # Return of the Jedi (1983) [DVD cut]
+          - ID__000001892D # Return of the Jedi (1983) [Blu-ray cut]
+          - ID__000001892E # Return of the Jedi (1983) [Despecialized edition]
+          - ID__000001892F # Return of the Jedi (1983) [Project 4K83]
           - ID__000000808A # Shrek (2001)
           - ID__000000558A # Spider-Man 2 (2004) [Theatrical cut]
           - ID__000000558B # Spider-Man 2.1 (2004) [Extended edition]
@@ -32,14 +38,8 @@ collections:
           - ID__000054138A # Star Trek Into Darkness (2013)
           - ID__000001894B # Star Wars: Episode II - Attack of the Clones (2002) [DVD cut]
           - ID__000001894C # Star Wars: Episode II - Attack of the Clones (2002) [Blu-ray cut]
-          - ID__000001892A # Star Wars: Episode VI - Return of the Jedi (1983) [Theatrical cut]
-          - ID__000001892B # Star Wars: Episode VI - Return of the Jedi (1983) [Special edition]
-          - ID__000001892C # Star Wars: Episode VI - Return of the Jedi (1983) [DVD cut]
-          - ID__000001892D # Star Wars: Episode VI - Return of the Jedi (1983) [Blu-ray cut]
-          - ID__000001892E # Star Wars: Episode VI - Return of the Jedi (1983) [Despecialized edition]
-          - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
-          - ID__000140607A # Star Wars: The Force Awakens (2015)
           - ID__000012180A # Star Wars: The Clone Wars (2008)
+          - ID__000140607A # Star Wars: The Force Awakens (2015)
           - ID__000009340A # The Goonies (1985)
           - ID__000045269A # The King's Speech (2010)
           - ID__000001541A # Thelma & Louise (1991)

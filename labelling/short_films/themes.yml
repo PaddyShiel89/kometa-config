@@ -35,7 +35,7 @@ collections:
     template: { name: TMDB theme label, theme_name: mockumentary }
     tmdb_movie:
       - 505945 # Team Darryl (2018)
-      - 441829 # Team Thor: Part 2
+      - 441829 # Team Thor: Part 2 (2017)
 
   Theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }

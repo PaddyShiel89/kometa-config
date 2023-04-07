@@ -12,16 +12,16 @@ collections:
       any:
         label:
           - ID__000000808A # Shrek (2001)
+          - ID__000000011A # Star Wars (1977) [Theatrical cut]
+          - ID__000000011B # Star Wars (1977) [Special edition]
+          - ID__000000011C # Star Wars (1977) [DVD cut]
+          - ID__000000011D # Star Wars (1977) [Blu-ray cut]
+          - ID__000000011E # Star Wars (1977) [Despecialized edition]
+          - ID__000000011F # Star Wars (1977) [Project 4K77]
           - ID__000001894B # Star Wars: Episode II - Attack of the Clones (2002) [DVD cut]
           - ID__000001894C # Star Wars: Episode II - Attack of the Clones (2002) [Blu-ray cut]
-          - ID__000000011A # Star Wars: Episode IV - A New Hope (1977) [Theatrical cut]
-          - ID__000000011B # Star Wars: Episode IV - A New Hope (1977) [Special edition]
-          - ID__000000011C # Star Wars: Episode IV - A New Hope (1977) [DVD cut]
-          - ID__000000011D # Star Wars: Episode IV - A New Hope (1977) [Blu-ray cut]
-          - ID__000000011E # Star Wars: Episode IV - A New Hope (1977) [Despecialized edition]
-          - ID__000000011F # Star Wars: Episode IV - A New Hope (1977) [Project 4K77]
-          - ID__000140607A # Star Wars: The Force Awakens (2015)
           - ID__000012180A # Star Wars: The Clone Wars (2008)
+          - ID__000140607A # Star Wars: The Force Awakens (2015)
 
   BBFC language lvl 2:
     template:
@@ -35,7 +35,7 @@ collections:
           - ID__000299534A # Avengers: Endgame (2019)
           - ID__000505642A # Black Panther: Wakanda Forever (2022)
           - ID__000497698A # Black Widow (2021)
-          - ID__000001771A # Captain America - The First Avenger
+          - ID__000001771A # Captain America: The First Avenger (2011)
           - ID__000284052A # Doctor Strange (2016)
           - ID__000453395A # Doctor Strange in the Multiverse of Madness (2022)
           - ID__000027205A # Inception (2010)
@@ -84,9 +84,9 @@ collections:
           - ID__000004982A # American Gangster (2007) [Theatrical cut]
           - ID__000004982B # American Gangster (2007) [Extended edition]
           - ID__000059678A # Attack the Block (2011)
-          - ID__000674324A # The Banshees of Inisherin (2022)
           - ID__000000598A # City of God (2002)
           - ID__000068718A # Django Unchained (2012)
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000762504A # Nope (2022)
+          - ID__000674324A # The Banshees of Inisherin (2022)
           - ID__000001541A # Thelma & Louise (1991)

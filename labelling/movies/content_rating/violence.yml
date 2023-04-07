@@ -11,13 +11,13 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000001892A # Return of the Jedi (1983) [Theatrical cut]
+          - ID__000001892B # Return of the Jedi (1983) [Special edition]
+          - ID__000001892C # Return of the Jedi (1983) [DVD cut]
+          - ID__000001892D # Return of the Jedi (1983) [Blu-ray cut]
+          - ID__000001892E # Return of the Jedi (1983) [Despecialized edition]
+          - ID__000001892F # Return of the Jedi (1983) [Project 4K83]
           - ID__000000808A # Shrek (2001)
-          - ID__000001892A # Star Wars: Episode VI - Return of the Jedi (1983) [Theatrical cut]
-          - ID__000001892B # Star Wars: Episode VI - Return of the Jedi (1983) [Special edition]
-          - ID__000001892C # Star Wars: Episode VI - Return of the Jedi (1983) [DVD cut]
-          - ID__000001892D # Star Wars: Episode VI - Return of the Jedi (1983) [Blu-ray cut]
-          - ID__000001892E # Star Wars: Episode VI - Return of the Jedi (1983) [Despecialized edition]
-          - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
           - ID__000045269A # The King's Speech (2010)
 
   BBFC violence lvl 2:
@@ -29,20 +29,20 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000011A # Star Wars (1977) [Theatrical cut]
+          - ID__000000011B # Star Wars (1977) [Special edition]
+          - ID__000000011C # Star Wars (1977) [DVD cut]
+          - ID__000000011D # Star Wars (1977) [Blu-ray cut]
+          - ID__000000011E # Star Wars (1977) [Despecialized edition]
+          - ID__000000011F # Star Wars (1977) [Project 4K77]
           - ID__000001894B # Star Wars: Episode II - Attack of the Clones (2002) [DVD cut]
           - ID__000001894C # Star Wars: Episode II - Attack of the Clones (2002) [Blu-ray cut]
-          - ID__000000011A # Star Wars: Episode IV - A New Hope (1977) [Theatrical cut]
-          - ID__000000011B # Star Wars: Episode IV - A New Hope (1977) [Special edition]
-          - ID__000000011C # Star Wars: Episode IV - A New Hope (1977) [DVD cut]
-          - ID__000000011D # Star Wars: Episode IV - A New Hope (1977) [Blu-ray cut]
-          - ID__000000011E # Star Wars: Episode IV - A New Hope (1977) [Despecialized edition]
-          - ID__000000011F # Star Wars: Episode IV - A New Hope (1977) [Project 4K77]
-          - ID__000001891A # Star Wars: Episode V - The Empire Strikes Back (1980) [Theatrical cut]
-          - ID__000001891B # Star Wars: Episode V - The Empire Strikes Back (1980) [Special edition]
-          - ID__000001891C # Star Wars: Episode V - The Empire Strikes Back (1980) [DVD cut]
-          - ID__000001891D # Star Wars: Episode V - The Empire Strikes Back (1980) [Blu-ray cut]
-          - ID__000001891E # Star Wars: Episode V - The Empire Strikes Back (1980) [Despecialized edition]
           - ID__000012180A # Star Wars: The Clone Wars (2008)
+          - ID__000001891A # The Empire Strikes Back (1980) [Theatrical cut]
+          - ID__000001891B # The Empire Strikes Back (1980) [Special edition]
+          - ID__000001891C # The Empire Strikes Back (1980) [DVD cut]
+          - ID__000001891D # The Empire Strikes Back (1980) [Blu-ray cut]
+          - ID__000001891E # The Empire Strikes Back (1980) [Despecialized edition]
           - ID__000009340A # The Goonies (1985)
 
   BBFC violence lvl 3:
@@ -59,7 +59,7 @@ collections:
           - ID__000299534A # Avengers: Endgame (2019)
           - ID__000505642A # Black Panther: Wakanda Forever (2022)
           - ID__000497698A # Black Widow (2021)
-          - ID__000001771A # Captain America - The First Avenger
+          - ID__000001771A # Captain America: The First Avenger (2011)
           - ID__000299537A # Captain Marvel (2019)
           - ID__000284052A # Doctor Strange (2016)
           - ID__000453395A # Doctor Strange in the Multiverse of Madness (2022)
@@ -95,10 +95,10 @@ collections:
           - ID__000004982A # American Gangster (2007) [Theatrical cut]
           - ID__000004982B # American Gangster (2007) [Extended edition]
           - ID__000059678A # Attack the Block (2011)
-          - ID__000674324A # The Banshees of Inisherin (2022)
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
           - ID__000000098B # Gladiator (2000) [Extended edition]
+          - ID__000674324A # The Banshees of Inisherin (2022)
           - ID__000001541A # Thelma & Louise (1991)
 
   BBFC violence lvl 5:
