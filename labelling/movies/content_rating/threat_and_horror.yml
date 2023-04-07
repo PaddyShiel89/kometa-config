@@ -11,13 +11,13 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000001892A # Return of the Jedi (1983) [Theatrical cut]
+          - ID__000001892B # Return of the Jedi (1983) [Special edition]
+          - ID__000001892C # Return of the Jedi (1983) [DVD cut]
+          - ID__000001892D # Return of the Jedi (1983) [Blu-ray cut]
+          - ID__000001892E # Return of the Jedi (1983) [Despecialized edition]
+          - ID__000001892F # Return of the Jedi (1983) [Project 4K83]
           - ID__000000808A # Shrek (2001)
-          - ID__000001892A # Star Wars: Episode VI - Return of the Jedi (1983) [Theatrical cut]
-          - ID__000001892B # Star Wars: Episode VI - Return of the Jedi (1983) [Special edition]
-          - ID__000001892C # Star Wars: Episode VI - Return of the Jedi (1983) [DVD cut]
-          - ID__000001892D # Star Wars: Episode VI - Return of the Jedi (1983) [Blu-ray cut]
-          - ID__000001892E # Star Wars: Episode VI - Return of the Jedi (1983) [Despecialized edition]
-          - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
 
   BBFC threat and horror lvl 2:
     template:
@@ -34,21 +34,21 @@ collections:
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
           - ID__000330459A # Rogue One: A Star Wars Story (2016)
           - ID__000348350A # Solo: A Star Wars Story (2018)
+          - ID__000000011A # Star Wars (1977) [Theatrical cut]
+          - ID__000000011B # Star Wars (1977) [Special edition]
+          - ID__000000011C # Star Wars (1977) [DVD cut]
+          - ID__000000011D # Star Wars (1977) [Blu-ray cut]
+          - ID__000000011E # Star Wars (1977) [Despecialized edition]
+          - ID__000000011F # Star Wars (1977) [Project 4K77]
           - ID__000001894B # Star Wars: Episode II - Attack of the Clones (2002) [DVD cut]
           - ID__000001894C # Star Wars: Episode II - Attack of the Clones (2002) [Blu-ray cut]
-          - ID__000000011A # Star Wars: Episode IV - A New Hope (1977) [Theatrical cut]
-          - ID__000000011B # Star Wars: Episode IV - A New Hope (1977) [Special edition]
-          - ID__000000011C # Star Wars: Episode IV - A New Hope (1977) [DVD cut]
-          - ID__000000011D # Star Wars: Episode IV - A New Hope (1977) [Blu-ray cut]
-          - ID__000000011E # Star Wars: Episode IV - A New Hope (1977) [Despecialized edition]
-          - ID__000000011F # Star Wars: Episode IV - A New Hope (1977) [Project 4K77]
-          - ID__000001891A # Star Wars: Episode V - The Empire Strikes Back (1980) [Theatrical cut]
-          - ID__000001891B # Star Wars: Episode V - The Empire Strikes Back (1980) [Special edition]
-          - ID__000001891C # Star Wars: Episode V - The Empire Strikes Back (1980) [DVD cut]
-          - ID__000001891D # Star Wars: Episode V - The Empire Strikes Back (1980) [Blu-ray cut]
-          - ID__000001891E # Star Wars: Episode V - The Empire Strikes Back (1980) [Despecialized edition]
-          - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000012180A # Star Wars: The Clone Wars (2008)
+          - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
+          - ID__000001891A # The Empire Strikes Back (1980) [Theatrical cut]
+          - ID__000001891B # The Empire Strikes Back (1980) [Special edition]
+          - ID__000001891C # The Empire Strikes Back (1980) [DVD cut]
+          - ID__000001891D # The Empire Strikes Back (1980) [Blu-ray cut]
+          - ID__000001891E # The Empire Strikes Back (1980) [Despecialized edition]
 
   BBFC threat and horror lvl 3:
     template:
