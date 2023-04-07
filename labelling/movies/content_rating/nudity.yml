@@ -14,13 +14,13 @@ collections:
           - ID__000068718A # Django Unchained (2012)
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000001865A # Pirates of the Caribbean: On Stranger Tides (2011)
+          - ID__000001892A # Return of the Jedi (1983) [Theatrical cut]
+          - ID__000001892B # Return of the Jedi (1983) [Special edition]
+          - ID__000001892C # Return of the Jedi (1983) [DVD cut]
+          - ID__000001892D # Return of the Jedi (1983) [Blu-ray cut]
+          - ID__000001892E # Return of the Jedi (1983) [Despecialized edition]
+          - ID__000001892F # Return of the Jedi (1983) [Project 4K83]
           - ID__000000808A # Shrek (2001)
-          - ID__000001892A # Star Wars: Episode VI - Return of the Jedi (1983) [Theatrical cut]
-          - ID__000001892B # Star Wars: Episode VI - Return of the Jedi (1983) [Special edition]
-          - ID__000001892C # Star Wars: Episode VI - Return of the Jedi (1983) [DVD cut]
-          - ID__000001892D # Star Wars: Episode VI - Return of the Jedi (1983) [Blu-ray cut]
-          - ID__000001892E # Star Wars: Episode VI - Return of the Jedi (1983) [Despecialized edition]
-          - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
 
   BBFC nudity lvl 3:
     template:
@@ -33,8 +33,8 @@ collections:
         label:
           - ID__000000348A # Alien (1979) [Theatrical cut]
           - ID__000000348B # Alien (1979) [Director's cut]
-          - ID__000674324A # The Banshees of Inisherin (2022)
           - ID__000000598A # City of God (2002)
+          - ID__000674324A # The Banshees of Inisherin (2022)
 
   BBFC nudity lvl 4:
     template:
