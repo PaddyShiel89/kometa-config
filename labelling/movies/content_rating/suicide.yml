@@ -23,6 +23,7 @@ collections:
       any:
         label:
           - ID__000027205A # Inception (2010)
+          - ID__000009340A # The Goonies (1985)
 
   BBFC suicide lvl 4:
     template:

@@ -11,6 +11,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000009340A # The Goonies (1985)
           - ID__000001541A # Thelma & Louise (1991)
 
   BBFC drugs lvl 4:

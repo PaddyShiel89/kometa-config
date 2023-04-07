@@ -11,6 +11,7 @@ libraries:
       - repo: metadata/movies/Aliens (1986) {tmdb-679}
       - repo: metadata/movies/American Gangster (2007) {tmdb-4982}
       - repo: metadata/movies/Ant-Man and the Wasp (2018) {tmdb-363088}
+      - repo: metadata/movies/Atomic Blonde (2017) {tmdb-341013}
       - repo: metadata/movies/Attack the Block (2011) {tmdb-59678}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
       - repo: metadata/movies/Baby Driver (2017) {tmdb-339403}
@@ -80,6 +81,7 @@ libraries:
       - repo: metadata/movies/The Godfather (1972) {tmdb-238}
       - repo: metadata/movies/The Godfather Part II (1974) {tmdb-240}
       - repo: metadata/movies/The Godfather Part III (1990) {tmdb-242}
+      - repo: metadata/movies/The Goonies (1985) {tmdb-9340}
       - repo: metadata/movies/The King's Speech (2010) {tmdb-45269}
       - repo: metadata/movies/The Raid (2011) {tmdb-94329}
       - repo: metadata/movies/The Raid 2 (2014) {tmdb-180299}
