@@ -15,20 +15,20 @@ collections:
           - ID__000001771A # Captain America: The First Avenger (2011)
           - ID__000284052A # Doctor Strange (2016)
           - ID__000027205A # Inception (2010)
+          - ID__000001892A # Return of the Jedi (1983) [Theatrical cut]
+          - ID__000001892B # Return of the Jedi (1983) [Special edition]
+          - ID__000001892C # Return of the Jedi (1983) [DVD cut]
+          - ID__000001892D # Return of the Jedi (1983) [Blu-ray cut]
+          - ID__000001892E # Return of the Jedi (1983) [Despecialized edition]
+          - ID__000001892F # Return of the Jedi (1983) [Project 4K83]
           - ID__000000808A # Shrek (2001)
           - ID__000348350A # Solo: A Star Wars Story (2018)
           - ID__000000558A # Spider-Man 2 (2004) [Theatrical cut]
           - ID__000000558B # Spider-Man 2.1 (2004) [Extended edition]
           - ID__000001894B # Star Wars: Episode II - Attack of the Clones (2002) [DVD cut]
           - ID__000001894C # Star Wars: Episode II - Attack of the Clones (2002) [Blu-ray cut]
-          - ID__000001892A # Star Wars: Episode VI - Return of the Jedi (1983) [Theatrical cut]
-          - ID__000001892B # Star Wars: Episode VI - Return of the Jedi (1983) [Special edition]
-          - ID__000001892C # Star Wars: Episode VI - Return of the Jedi (1983) [DVD cut]
-          - ID__000001892D # Star Wars: Episode VI - Return of the Jedi (1983) [Blu-ray cut]
-          - ID__000001892E # Star Wars: Episode VI - Return of the Jedi (1983) [Despecialized edition]
-          - ID__000001892F # Star Wars: Episode VI - Return of the Jedi (1983) [Project 4K83]
-          - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000012180A # Star Wars: The Clone Wars (2008)
+          - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
 
   BBFC sex lvl 2:
     template:
@@ -58,7 +58,6 @@ collections:
     plex_search:
       any:
         label:
-          - ID__000674324A # The Banshees of Inisherin (2022)
           - ID__000068718A # Django Unchained (2012)
           - ID__000524434A # Eternals (2021)
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
@@ -66,6 +65,7 @@ collections:
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
           - ID__000762504A # Nope (2022)
           - ID__000634649A # Spider-Man: Far from Home (2019)
+          - ID__000674324A # The Banshees of Inisherin (2022)
           - ID__000616037A # Thor: Love and Thunder (2022)
 
   BBFC sex lvl 4:
