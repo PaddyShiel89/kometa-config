@@ -1,0 +1,21 @@
+metadata:
+  Lawrence of Arabia:
+    title: Lawrence of Arabia
+    year: 1962
+    edition_filter: Restored version
+    sort_title: Lawrence of Arabia (1962)
+    content_rating: gb/PG
+    country.sync: [United Kingdom]
+    director.sync: [David Lean]
+    genre.sync: [Adventure, Biopic, Drama, War]
+    originally_available: 1962-12-10
+    producer.sync: [David Lean, Sam Spiegel]
+    studio: Horizon Pictures
+    summary: "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks."
+    tagline: "A Mighty Motion Picture Of Action And Adventure!"
+    writer.sync: [Robert Bolt, Michael Wilson]
+    label: [ID__000000947A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

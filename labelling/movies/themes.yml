@@ -6,6 +6,7 @@ collections:
     template: { name: TMDB theme label, theme_name: abduction }
     tmdb_movie:
       - 762504 # Nope (2022)
+      - 756999 # The Black Phone (2021)
 
   Theme__aliens:
     template: { name: TMDB theme label, theme_name: aliens }
@@ -72,13 +73,16 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 20546 # Goodnight, Mister Tom (1998)
       - 2118 # L.A. Confidential (1997)
+      - 947 # Lawrence of Arabia (1962)
       - 180 # Minority Report (2002)
       - 808 # Shrek (2001)
+      - 756999 # The Black Phone (2021)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1974)
       - 45269 # The King's Speech (2010)
       - 16307 # The Wicker Man (1973)
+      - 556694 # Three Thousand Years of Longing (2022)
 
   Theme__based_on_a_graphic_novel:
     template: { name: TMDB theme label, theme_name: based_on_a_graphic_novel }
@@ -100,6 +104,7 @@ collections:
   Theme__based_on_true_events:
     template: { name: TMDB theme label, theme_name: based_on_true_events }
     tmdb_movie:
+      - 947 # Lawrence of Arabia (1962)
       - 8848 # The Bank Job (2008)
       - 45269 # The King's Speech (2010)
 
@@ -223,6 +228,7 @@ collections:
     template: { name: TMDB theme label, theme_name: dreams }
     tmdb_movie:
       - 27205 # Inception (2010)
+      - 756999 # The Black Phone (2021)
 
   Theme__drugs:
     template: { name: TMDB theme label, theme_name: drugs }
@@ -284,6 +290,7 @@ collections:
     template: { name: TMDB theme label, theme_name: ghosts }
     tmdb_movie:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 756999 # The Black Phone (2021)
 
   Theme__grief:
     template: { name: TMDB theme label, theme_name: grief }
@@ -323,6 +330,7 @@ collections:
     template: { name: TMDB theme label, theme_name: lgbtq }
     tmdb_movie:
       - 341013 # Atomic Blonde (2017)
+      - 947 # Lawrence of Arabia (1962)
 
   Theme__mafia:
     template: { name: TMDB theme label, theme_name: mafia }
@@ -343,6 +351,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 556694 # Three Thousand Years of Longing (2022)
       - 38319 # Your Highness (2011)
 
   Theme__marriage:
@@ -364,6 +373,7 @@ collections:
     template: { name: TMDB theme label, theme_name: mental_health }
     tmdb_movie:
       - 68721 # Iron Man 3 (2013)
+      - 947 # Lawrence of Arabia (1962)
       - 23629 # Sucker Punch (2011)
 
   Theme__mockumentary:
@@ -398,12 +408,14 @@ collections:
       - 524434 # Eternals (2021)
       - 16307 # The Wicker Man (1973)
       - 616037 # Thor: Love and Thunder (2022)
+      - 556694 # Three Thousand Years of Longing (2022)
 
   Theme__mythical_creatures:
     template: { name: TMDB theme label, theme_name: mythical_creatures }
     tmdb_movie:
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
+      - 556694 # Three Thousand Years of Longing (2022)
 
   Theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }
@@ -467,6 +479,11 @@ collections:
       - 8077 # Alien³ (1992)
       - 180299 # The Raid 2 (2014)
 
+  Theme__psychics:
+    template: { name: TMDB theme label, theme_name: psychics }
+    tmdb_movie:
+      - 756999 # The Black Phone (2021)
+
   Theme__psychological:
     template: { name: TMDB theme label, theme_name: psychological }
     tmdb_movie:
@@ -482,6 +499,7 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
       - 496 # Borat (2006)
+      - 947 # Lawrence of Arabia (1962)
       - 68718 # Django Unchained (2012)
 
   Theme__religion:
@@ -522,12 +540,14 @@ collections:
   Theme__royalty:
     template: { name: TMDB theme label, theme_name: royalty }
     tmdb_movie:
+      - 947 # Lawrence of Arabia (1962)
       - 45269 # The King's Speech (2010)
 
   Theme__serial_killer:
     template: { name: TMDB theme label, theme_name: serial_killer }
     tmdb_movie:
       - 610253 # Halloween Kills (2021)
+      - 756999 # The Black Phone (2021)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 23202 # Trick 'r Treat (2007)
 
@@ -539,6 +559,7 @@ collections:
   Theme__sexual_violence:
     template: { name: TMDB theme label, theme_name: sexual_violence }
     tmdb_movie:
+      - 947 # Lawrence of Arabia (1962)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 1541 # Thelma & Louise (1991)
 
@@ -623,6 +644,7 @@ collections:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 882598 # Smile (2022)
+      - 756999 # The Black Phone (2021)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
 
@@ -666,6 +688,11 @@ collections:
       - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+
+  Theme__world_war_i:
+    template: { name: TMDB theme label, theme_name: world_war_i }
+    tmdb_movie:
+      - 947 # Lawrence of Arabia (1962)
 
   Theme__world_war_ii:
     template: { name: TMDB theme label, theme_name: world_war_ii }
