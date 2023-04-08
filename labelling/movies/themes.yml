@@ -72,6 +72,7 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 20546 # Goodnight, Mister Tom (1998)
       - 2118 # L.A. Confidential (1997)
+      - 947 # Lawrence of Arabia (1962)
       - 180 # Minority Report (2002)
       - 808 # Shrek (2001)
       - 15472 # The Girl with the Dragon Tattoo (2009)
@@ -100,6 +101,7 @@ collections:
   Theme__based_on_true_events:
     template: { name: TMDB theme label, theme_name: based_on_true_events }
     tmdb_movie:
+      - 947 # Lawrence of Arabia (1962)
       - 8848 # The Bank Job (2008)
       - 45269 # The King's Speech (2010)
 
@@ -323,6 +325,7 @@ collections:
     template: { name: TMDB theme label, theme_name: lgbtq }
     tmdb_movie:
       - 341013 # Atomic Blonde (2017)
+      - 947 # Lawrence of Arabia (1962)
 
   Theme__mafia:
     template: { name: TMDB theme label, theme_name: mafia }
@@ -364,6 +367,7 @@ collections:
     template: { name: TMDB theme label, theme_name: mental_health }
     tmdb_movie:
       - 68721 # Iron Man 3 (2013)
+      - 947 # Lawrence of Arabia (1962)
       - 23629 # Sucker Punch (2011)
 
   Theme__mockumentary:
@@ -482,6 +486,7 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
       - 496 # Borat (2006)
+      - 947 # Lawrence of Arabia (1962)
       - 68718 # Django Unchained (2012)
 
   Theme__religion:
@@ -522,6 +527,7 @@ collections:
   Theme__royalty:
     template: { name: TMDB theme label, theme_name: royalty }
     tmdb_movie:
+      - 947 # Lawrence of Arabia (1962)
       - 45269 # The King's Speech (2010)
 
   Theme__serial_killer:
@@ -539,6 +545,7 @@ collections:
   Theme__sexual_violence:
     template: { name: TMDB theme label, theme_name: sexual_violence }
     tmdb_movie:
+      - 947 # Lawrence of Arabia (1962)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 1541 # Thelma & Louise (1991)
 
@@ -666,6 +673,11 @@ collections:
       - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+
+  Theme__world_war_i:
+    template: { name: TMDB theme label, theme_name: world_war_i }
+    tmdb_movie:
+      - 947 # Lawrence of Arabia (1962)
 
   Theme__world_war_ii:
     template: { name: TMDB theme label, theme_name: world_war_ii }
