@@ -31,6 +31,11 @@ collections:
     tmdb_movie:
       - 140149 # Season's Greetings (1996)
 
+  Theme__home_invasion:
+    template: { name: TMDB theme label, theme_name: home_invasion }
+    tmdb_movie:
+      - 801109 # Shadowprowler (2021)
+
   Theme__mockumentary:
     template: { name: TMDB theme label, theme_name: mockumentary }
     tmdb_movie:
