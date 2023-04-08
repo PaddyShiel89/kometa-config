@@ -77,6 +77,7 @@ libraries:
       - repo: metadata/movies/Sucker Punch (2011) {tmdb-23629}
       - repo: metadata/movies/The Bank Job (2008) {tmdb-8848}
       - repo: metadata/movies/The Banshees of Inisherin (2022) {tmdb-674324}
+      - repo: metadata/movies/The Black Phone (2022) {tmdb-756999}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
       - repo: metadata/movies/The Girl with the Dragon Tattoo (2009) {tmdb-15472}
       - repo: metadata/movies/The Godfather (1972) {tmdb-238}

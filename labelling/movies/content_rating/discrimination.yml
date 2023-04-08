@@ -26,6 +26,7 @@ collections:
         label:
           - ID__000000598A # City of God (2002)
           - ID__000068718A # Django Unchained (2012)
+          - ID__000756999A # The Black Phone (2021)
 
   BBFC discrimination lvl 4:
     template:
