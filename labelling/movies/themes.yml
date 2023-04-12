@@ -265,7 +265,13 @@ collections:
     tmdb_movie:
       - 454527 # Benedetta (2021)
       - 343674 # Gerald's Game (2017)
+      - 42695 # I Am Curious (Yellow) (1967)
       - 10867 # Malèna (2000)
+
+  Theme__experimental:
+    template: { name: TMDB theme label, theme_name: experimental }
+    tmdb_movie:
+      - 42695 # I Am Curious (Yellow) (1967)
 
   Theme__fairytales:
     template: { name: TMDB theme label, theme_name: fairytales }
@@ -304,6 +310,7 @@ collections:
   Theme__filmmaking:
     template: { name: TMDB theme label, theme_name: filmmaking }
     tmdb_movie:
+      - 42695 # I Am Curious (Yellow) (1967)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
 
   Theme__foreign_language:

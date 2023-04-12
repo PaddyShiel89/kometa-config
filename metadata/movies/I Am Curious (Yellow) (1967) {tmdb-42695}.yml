@@ -1,0 +1,22 @@
+metadata:
+  "I Am Curious (Yellow)":
+    title: "I Am Curious (Yellow)"
+    year: 1967
+    edition_filter: Theatrical cut
+    sort_title: "I Am Curious (1967) 001"
+    content_rating: gb/15
+    country.sync: [Sweden]
+    director.sync: ["Vilgot Sjöman"]
+    genre.sync: [Drama, Romance]
+    original_title: "Jag är nyfiken - En film i gult"
+    originally_available: 1967-10-09
+    producer.sync: ["Göran Lindgren"]
+    studio: Sandrews
+    summary: "Told in a quasi-documentary style, this companion piece to I Am Curious (Blue) deals with class society, non-violent resistance, sex, relationships, and tourism in Francoist Spain."
+    tagline: Banned in Nearly Every Country
+    writer.sync: ["Vilgot Sjöman"]
+    label: [ID__000042695A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
