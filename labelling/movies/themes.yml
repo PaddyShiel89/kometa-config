@@ -8,6 +8,11 @@ collections:
       - 762504 # Nope (2022)
       - 756999 # The Black Phone (2021)
 
+  Theme__addiction:
+    template: { name: TMDB theme label, theme_name: addiction }
+    tmdb_movie:
+      - 13973 # Choke (2008)
+
   Theme__aliens:
     template: { name: TMDB theme label, theme_name: aliens }
     tmdb_movie:
@@ -76,6 +81,7 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_a_book }
     tmdb_movie:
       - 598 # City of God (2002)
+      - 13973 # Choke (2008)
       - 343674 # Gerald's Game (2017)
       - 20546 # Goodnight, Mister Tom (1998)
       - 2118 # L.A. Confidential (1997)
@@ -124,6 +130,7 @@ collections:
   Theme__black_comedy:
     template: { name: TMDB theme label, theme_name: black_comedy }
     tmdb_movie:
+      - 13973 # Choke (2008)
       - 68718 # Django Unchained (2012)
       - 674324 # The Banshees of Inisherin (2022)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
@@ -596,6 +603,7 @@ collections:
   Theme__sex_comedy:
     template: { name: TMDB theme label, theme_name: sex_comedy }
     tmdb_movie:
+      - 13973 # Choke (2008)
       - 38319 # Your Highness (2011)
 
   Theme__sexual_violence:
