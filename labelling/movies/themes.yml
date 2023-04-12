@@ -293,11 +293,14 @@ collections:
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 497698 # Black Widow (2021)
       - 299537 # Captain Marvel (2019)
+      - 25239 # Day of the Woman (1978)
       - 619730 # Don't Worry Darling (2022)
       - 524434 # Eternals (2021)
       - 343674 # Gerald's Game (2017)
       - 610253 # Halloween Kills (2021)
       - 50456 # Hanna (2011)
+      - 45690 # I Am Curious (Blue) (1968)
+      - 42695 # I Am Curious (Yellow) (1967)
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 27576 # Salt (2010)
       - 882598 # Smile (2022)
@@ -575,6 +578,7 @@ collections:
     template: { name: TMDB theme label, theme_name: revenge }
     tmdb_movie:
       - 505642 # Black Panther: Wakanda Forever (2022)
+      - 25239 # Day of the Woman (1978)
       - 68718 # Django Unchained (2012)
       - 98 # Gladiator (2000)
       - 610253 # Halloween Kills (2021)
@@ -618,6 +622,7 @@ collections:
   Theme__sexual_violence:
     template: { name: TMDB theme label, theme_name: sexual_violence }
     tmdb_movie:
+      - 25239 # Day of the Woman (1978)
       - 947 # Lawrence of Arabia (1962)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 1541 # Thelma & Louise (1991)
@@ -647,6 +652,7 @@ collections:
   Theme__splatter:
     template: { name: TMDB theme label, theme_name: splatter }
     tmdb_movie:
+      - 25239 # Day of the Woman (1978)
       - 10216 # Species II (1998)
 
   Theme__spoof:
