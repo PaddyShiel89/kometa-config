@@ -1,0 +1,22 @@
+metadata:
+  "I Am Curious (Blue)":
+    title: "I Am Curious (Blue)"
+    year: 1968
+    edition_filter: Theatrical cut
+    sort_title: "I Am Curious (1967) 002"
+    content_rating: gb/15
+    country.sync: [Sweden]
+    director.sync: ["Vilgot Sjöman"]
+    genre.sync: [Drama]
+    original_title: "Jag är nyfiken - En film i blått"
+    originally_available: 1968-03-11
+    producer.sync: ["Göran Lindgren"]
+    studio: Sandrews
+    summary: "Told in a quasi-documentary style, this companion piece to I Am Curious (Yellow) deals with class society, religion, sex, contraceptives, and the Swedish prison Kumla."
+    tagline: "Look who's flying into the blue!"
+    writer.sync: ["Vilgot Sjöman"]
+    label: [ID__000045690A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

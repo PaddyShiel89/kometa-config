@@ -39,6 +39,7 @@ libraries:
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
       - repo: metadata/movies/Halloween Kills (2021) {tmdb-610253}
       - repo: metadata/movies/Hanna (2011) {tmdb-50456}
+      - repo: metadata/movies/I Am Curious (Blue) (1968) {tmdb-45690}
       - repo: metadata/movies/I Am Curious (Yellow) (1967) {tmdb-42695}
       - repo: metadata/movies/Inception (2010) {tmdb-27205}
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}

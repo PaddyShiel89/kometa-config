@@ -266,11 +266,13 @@ collections:
       - 454527 # Benedetta (2021)
       - 343674 # Gerald's Game (2017)
       - 42695 # I Am Curious (Yellow) (1967)
+      - 45690 # I Am Curious (Blue) (1968)
       - 10867 # Malèna (2000)
 
   Theme__experimental:
     template: { name: TMDB theme label, theme_name: experimental }
     tmdb_movie:
+      - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
 
   Theme__fairytales:
