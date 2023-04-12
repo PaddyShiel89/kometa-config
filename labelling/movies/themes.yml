@@ -89,6 +89,7 @@ collections:
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 45269 # The King's Speech (2010)
       - 16307 # The Wicker Man (1973)
+      - 65086 # The Woman in Black (2012)
       - 556694 # Three Thousand Years of Longing (2022)
 
   Theme__based_on_a_graphic_novel:
@@ -298,6 +299,7 @@ collections:
     tmdb_movie:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 756999 # The Black Phone (2021)
+      - 65086 # The Woman in Black (2012)
 
   Theme__grief:
     template: { name: TMDB theme label, theme_name: grief }
@@ -382,6 +384,11 @@ collections:
       - 68721 # Iron Man 3 (2013)
       - 947 # Lawrence of Arabia (1962)
       - 23629 # Sucker Punch (2011)
+
+  Theme__mind_control:
+    template: { name: TMDB theme label, theme_name: mind_control }
+    tmdb_movie:
+      - 65086 # The Woman in Black (2012)
 
   Theme__mockumentary:
     template: { name: TMDB theme label, theme_name: mockumentary }
@@ -501,6 +508,7 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 27205 # Inception (2010)
       - 882598 # Smile (2022)
+      - 65086 # The Woman in Black (2012)
 
   Theme__race_and_ethnicity:
     template: { name: TMDB theme label, theme_name: race_and_ethnicity }
@@ -620,6 +628,7 @@ collections:
       - 619730 # Don't Worry Darling (2022)
       - 27205 # Inception (2010)
       - 882598 # Smile (2022)
+      - 65086 # The Woman in Black (2012)
       - 1541 # Thelma & Louise (1991)
 
   Theme__superheroes:
@@ -653,6 +662,7 @@ collections:
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 882598 # Smile (2022)
       - 756999 # The Black Phone (2021)
+      - 65086 # The Woman in Black (2012)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
 

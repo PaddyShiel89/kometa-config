@@ -1,0 +1,21 @@
+metadata:
+  The Woman in Black:
+    title: The Woman in Black
+    year: 2012
+    edition_filter: Theatrical cut
+    sort_title: Woman in Black (2012) 001
+    content_rating: gb/12
+    country.sync: [Canada, Sweden, United Kingdom, United States of America]
+    director.sync: [James Watkins]
+    genre.sync: [Drama, Fantasy, Horror, Thriller]
+    originally_available: 2012-01-24
+    producer.sync: [Richard Jackson, Simon Oakes, Brian Oliver]
+    studio: Hammer Films
+    summary: A young solicitor travels to a remote village where he discovers that the vengeful ghost of a scorned woman is terrorising the locals.
+    tagline: "Do you believe in ghosts?"
+    writer.sync: [Susan Hill, Jane Goldman]
+    label: [ID__000065086A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -92,6 +92,7 @@ libraries:
       - repo: metadata/movies/The Unbearable Weight of Massive Talent (2022) {tmdb-648579}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
       - repo: metadata/movies/The Wicker Man (1973) {tmdb-16307}
+      - repo: metadata/movies/The Woman in Black (2012) {tmdb-65086}
       - repo: metadata/movies/Thelma & Louise (1991) {tmdb-1541}
       - repo: metadata/movies/Thor Love and Thunder (2022) {tmdb-616037}
       - repo: metadata/movies/Three Thousand Years of Longing (2022) {tmdb-556694}
