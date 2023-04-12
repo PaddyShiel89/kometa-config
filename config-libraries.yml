@@ -16,6 +16,7 @@ libraries:
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
       - repo: metadata/movies/Baby Driver (2017) {tmdb-339403}
       - repo: metadata/movies/Benedetta (2021) {tmdb-454527}
+      - repo: metadata/movies/Bitch Slap (2009) {tmdb-26715}
       - repo: metadata/movies/Black Panther Wakanda Forever (2022) {tmdb-505642}
       - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
       - repo: metadata/movies/Blue Streak (1999) {tmdb-11001}
@@ -24,7 +25,10 @@ libraries:
       - repo: metadata/movies/Calvary (2014) {tmdb-157832}
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
+      - repo: metadata/movies/Cashback (2006) {tmdb-12225}
+      - repo: metadata/movies/Choke (2008) {tmdb-13973}
       - repo: metadata/movies/City of God (2002) {tmdb-598}
+      - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
       - repo: metadata/movies/Django Unchained (2012) {tmdb-68718}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
       - repo: metadata/movies/Doctor Strange in the Multiverse of Madness (2022) {tmdb-453395}
@@ -36,6 +40,8 @@ libraries:
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
       - repo: metadata/movies/Halloween Kills (2021) {tmdb-610253}
       - repo: metadata/movies/Hanna (2011) {tmdb-50456}
+      - repo: metadata/movies/I Am Curious (Blue) (1968) {tmdb-45690}
+      - repo: metadata/movies/I Am Curious (Yellow) (1967) {tmdb-42695}
       - repo: metadata/movies/Inception (2010) {tmdb-27205}
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
       - repo: metadata/movies/John Wick (2014) {tmdb-245891}
@@ -178,6 +184,7 @@ libraries:
       - repo: metadata/short_films/2036 Nexus Dawn (2017) {tmdb-473072}
       - repo: metadata/short_films/2048 Nowhere to Run (2017) {tmdb-475759}
       - repo: metadata/short_films/Anima (2011) {tmdb-416185}
+      - repo: metadata/short_films/Assassin's Creed Embers (2011) {tmdb-79089}
       - repo: metadata/short_films/Blade Runner Black Out 2022 (2017) {tmdb-475946}
       - repo: metadata/short_films/Laura Hasn't Slept (2020) {tmdb-689397}
       - repo: metadata/short_films/Marvel One-Shot A Funny Thing Happened on the Way to Thor's Hammer (2011) {tmdb-76535}

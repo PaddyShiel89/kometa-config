@@ -35,6 +35,8 @@ collections:
           - ID__000001771A # Captain America: The First Avenger (2011)
           - ID__000299537A # Captain Marvel (2019)
           - ID__000000598A # City of God (2002)
+          - ID__000013973A # Choke (2008)
+          - ID__000025239A # Day of the Woman (1978)
           - ID__000068718A # Django Unchained (2012)
           - ID__000284052A # Doctor Strange (2016)
           - ID__000453395A # Doctor Strange in the Multiverse of Madness (2022)
@@ -146,6 +148,10 @@ collections:
       any:
         label:
           - ID__000017097A # After Sex (2007)
+          - ID__000026715A # Bitch Slap (2009)
+          - ID__000012225A # Cashback (2006)
+          - ID__000045690A # I Am Curious (Blue) (1968)
+          - ID__000042695A # I Am Curious (Yellow) (1967)
           - ID__000001892A # Return of the Jedi (1983) [Theatrical cut]
           - ID__000001892C # Return of the Jedi (1983) [DVD cut]
           - ID__000000011A # Star Wars (1977) [Theatrical cut]
@@ -220,7 +226,6 @@ collections:
           - Che (2008) 001
           - Che (2008) 002
           - Chloe (2009)
-          - Choke (2008)
           - Clash of the Titans (1981)
           - Dad's Army (1971) 001
           - Dark Knight (2008)
@@ -297,7 +302,6 @@ collections:
           - Hunger Games (2012) 002
           - Hunger Games (2012) 003
           - Hunger Games (2012) 004
-          - I Spit on Your Grave (1978)
           - Identity (2003)
           - "Import/Export (2007)"
           - Incredible Hulk (2008) 001
@@ -542,18 +546,15 @@ collections:
         source: "dvd"
         title_list:
           - Anything For Her (2008)
-          - "Assassin's Creed: Embers (2011)"
           - Aventure (2009)
           - Baise-moi (2000)
           - Big Nothing (2006)
-          - Bitch Slap (2009)
           - Black Dahlia (2006)
           - Black Dynamite (2010)
           - Boogie Woogie (2009)
           - Boss'n Up (2005)
           - Calendar Girls (2003)
           - Card Player (2004)
-          - Cashback (2007)
           - Cathy Come Home (1966)
           - Chicken Run (2000)
           - Complicity (2000)
@@ -568,8 +569,6 @@ collections:
           - Head in the Clouds (2004)
           - High Fidelity (2000)
           - Hunger (2008)
-          - I Am Curious (1963) 001
-          - I Am Curious (1963) 002
           - Juan of the Dead (2012)
           - Ma mere (2004)
           - Mafia! (1998)

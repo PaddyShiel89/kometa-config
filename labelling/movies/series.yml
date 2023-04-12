@@ -123,6 +123,13 @@ collections:
       - 424139 # Halloween (2018)
       - 610253 # Halloween Kills (2021)
 
+  Series__I_Am_Curious_1967:
+    template:
+      { name: TMDB series label, series_name: I_Am_Curious, series_year: 1967 }
+    tmdb_movie:
+      - 42695 # I Am Curious (Yellow) (1967)
+      - 45690 # I Am Curious (Blue) (1968)
+
   Series__Iron_Man_2008:
     template:
       { name: TMDB series label, series_name: Iron_Man, series_year: 2008 }

@@ -8,6 +8,11 @@ collections:
       - 762504 # Nope (2022)
       - 756999 # The Black Phone (2021)
 
+  Theme__addiction:
+    template: { name: TMDB theme label, theme_name: addiction }
+    tmdb_movie:
+      - 13973 # Choke (2008)
+
   Theme__aliens:
     template: { name: TMDB theme label, theme_name: aliens }
     tmdb_movie:
@@ -76,6 +81,7 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_a_book }
     tmdb_movie:
       - 598 # City of God (2002)
+      - 13973 # Choke (2008)
       - 343674 # Gerald's Game (2017)
       - 20546 # Goodnight, Mister Tom (1998)
       - 2118 # L.A. Confidential (1997)
@@ -124,6 +130,7 @@ collections:
   Theme__black_comedy:
     template: { name: TMDB theme label, theme_name: black_comedy }
     tmdb_movie:
+      - 13973 # Choke (2008)
       - 68718 # Django Unchained (2012)
       - 674324 # The Banshees of Inisherin (2022)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
@@ -258,7 +265,15 @@ collections:
     tmdb_movie:
       - 454527 # Benedetta (2021)
       - 343674 # Gerald's Game (2017)
+      - 42695 # I Am Curious (Yellow) (1967)
+      - 45690 # I Am Curious (Blue) (1968)
       - 10867 # Malèna (2000)
+
+  Theme__experimental:
+    template: { name: TMDB theme label, theme_name: experimental }
+    tmdb_movie:
+      - 45690 # I Am Curious (Blue) (1968)
+      - 42695 # I Am Curious (Yellow) (1967)
 
   Theme__fairytales:
     template: { name: TMDB theme label, theme_name: fairytales }
@@ -268,12 +283,39 @@ collections:
   Theme__female_protagonist:
     template: { name: TMDB theme label, theme_name: female_protagonist }
     tmdb_movie:
+      - 348 # Alien (1979)
+      - 8078 # Alien Resurrection (1997)
+      - 679 # Aliens (1986)
+      - 8077 # Alien³ (1992)
       - 341013 # Atomic Blonde (2017)
+      - 454527 # Benedetta (2021)
+      - 26715 # Bitch Slap (2009)
+      - 505642 # Black Panther: Wakanda Forever (2022)
+      - 497698 # Black Widow (2021)
+      - 299537 # Captain Marvel (2019)
+      - 25239 # Day of the Woman (1978)
+      - 619730 # Don't Worry Darling (2022)
+      - 524434 # Eternals (2021)
+      - 343674 # Gerald's Game (2017)
+      - 610253 # Halloween Kills (2021)
+      - 50456 # Hanna (2011)
+      - 45690 # I Am Curious (Blue) (1968)
+      - 42695 # I Am Curious (Yellow) (1967)
+      - 330459 # Rogue One: A Star Wars Story (2016)
+      - 27576 # Salt (2010)
+      - 882598 # Smile (2022)
+      - 140607 # Star Wars: The Force Awakens (2015)
+      - 181808 # Star Wars: The Last Jedi (2017)
+      - 181812 # Star Wars: The Rise of Skywalker (2019)
+      - 23629 # Sucker Punch (2011)
+      - 15472 # The Girl with the Dragon Tattoo (2009)
       - 1541 # Thelma & Louise (1991)
+      - 556694 # Three Thousand Years of Longing (2022)
 
   Theme__filmmaking:
     template: { name: TMDB theme label, theme_name: filmmaking }
     tmdb_movie:
+      - 42695 # I Am Curious (Yellow) (1967)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
 
   Theme__foreign_language:
@@ -290,6 +332,7 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
       - 59678 # Attack the Block (2011)
+      - 26715 # Bitch Slap (2009)
       - 598 # City of God (2002)
       - 94329 # The Raid (2011)
       - 180299 # The Raid 2 (2014)
@@ -319,6 +362,7 @@ collections:
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
       - 339403 # Baby Driver (2017)
+      - 26715 # Bitch Slap (2009)
       - 11001 # Blue Streak (1999)
       - 8848 # The Bank Job (2008)
       - 27205 # Inception (2010)
@@ -339,6 +383,7 @@ collections:
     template: { name: TMDB theme label, theme_name: lgbtq }
     tmdb_movie:
       - 341013 # Atomic Blonde (2017)
+      - 26715 # Bitch Slap (2009)
       - 947 # Lawrence of Arabia (1962)
 
   Theme__mafia:
@@ -533,6 +578,7 @@ collections:
     template: { name: TMDB theme label, theme_name: revenge }
     tmdb_movie:
       - 505642 # Black Panther: Wakanda Forever (2022)
+      - 25239 # Day of the Woman (1978)
       - 68718 # Django Unchained (2012)
       - 98 # Gladiator (2000)
       - 610253 # Halloween Kills (2021)
@@ -570,11 +616,13 @@ collections:
   Theme__sex_comedy:
     template: { name: TMDB theme label, theme_name: sex_comedy }
     tmdb_movie:
+      - 13973 # Choke (2008)
       - 38319 # Your Highness (2011)
 
   Theme__sexual_violence:
     template: { name: TMDB theme label, theme_name: sexual_violence }
     tmdb_movie:
+      - 25239 # Day of the Woman (1978)
       - 947 # Lawrence of Arabia (1962)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 1541 # Thelma & Louise (1991)
@@ -604,6 +652,7 @@ collections:
   Theme__splatter:
     template: { name: TMDB theme label, theme_name: splatter }
     tmdb_movie:
+      - 25239 # Day of the Woman (1978)
       - 10216 # Species II (1998)
 
   Theme__spoof:

@@ -1,0 +1,21 @@
+metadata:
+  Choke:
+    title: Choke
+    year: 2008
+    edition_filter: Theatrical cut
+    sort_title: Choke (2008)
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Clark Gregg]
+    genre.sync: [Comedy, Drama]
+    originally_available: 2008-01-21
+    producer.sync: [Johnathan Dorfman, Temple Fennell, Beau Flynn, Tripp Vinson]
+    studio: Searchlight Pictures
+    summary: "A sex-addicted con-man pays for his mother's hospital bills by playing on the sympathies of those who rescue him from choking to death."
+    tagline: From the author of Fight Club
+    writer.sync: [Clark Gregg, Chuck Palahniuk]
+    label: [ID__000013973A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
