@@ -268,8 +268,31 @@ collections:
   Theme__female_protagonist:
     template: { name: TMDB theme label, theme_name: female_protagonist }
     tmdb_movie:
+      - 348 # Alien (1979)
+      - 8078 # Alien Resurrection (1997)
+      - 679 # Aliens (1986)
+      - 8077 # Alien³ (1992)
       - 341013 # Atomic Blonde (2017)
+      - 454527 # Benedetta (2021)
+      - 26715 # Bitch Slap (2009)
+      - 505642 # Black Panther: Wakanda Forever (2022)
+      - 497698 # Black Widow (2021)
+      - 299537 # Captain Marvel (2019)
+      - 619730 # Don't Worry Darling (2022)
+      - 524434 # Eternals (2021)
+      - 343674 # Gerald's Game (2017)
+      - 610253 # Halloween Kills (2021)
+      - 50456 # Hanna (2011)
+      - 330459 # Rogue One: A Star Wars Story (2016)
+      - 27576 # Salt (2010)
+      - 882598 # Smile (2022)
+      - 140607 # Star Wars: The Force Awakens (2015)
+      - 181808 # Star Wars: The Last Jedi (2017)
+      - 181812 # Star Wars: The Rise of Skywalker (2019)
+      - 23629 # Sucker Punch (2011)
+      - 15472 # The Girl with the Dragon Tattoo (2009)
       - 1541 # Thelma & Louise (1991)
+      - 556694 # Three Thousand Years of Longing (2022)
 
   Theme__filmmaking:
     template: { name: TMDB theme label, theme_name: filmmaking }
