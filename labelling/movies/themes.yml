@@ -37,6 +37,7 @@ collections:
       - 181808 # Star Wars: The Last Jedi (2017)
       - 181812 # Star Wars: The Rise of Skywalker (2019)
       - 1891 # The Empire Strikes Back (1980)
+      - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 74849 # The Star Wars Holiday Special (1978)
       - 616037 # Thor: Love and Thunder (2022)
 
@@ -59,6 +60,11 @@ collections:
     tmdb_movie:
       - 23202 # Trick 'r Treat (2007)
 
+  Theme__artificial_intelligence:
+    template: { name: TMDB theme label, theme_name: artificial_intelligence }
+    tmdb_movie:
+      - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
+
   Theme__assassins:
     template: { name: TMDB theme label, theme_name: assassins }
     tmdb_movie:
@@ -80,6 +86,7 @@ collections:
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1974)
+      - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 45269 # The King's Speech (2010)
       - 16307 # The Wicker Man (1973)
       - 556694 # Three Thousand Years of Longing (2022)
@@ -467,6 +474,7 @@ collections:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
 
   Theme__poverty:
     template: { name: TMDB theme label, theme_name: poverty }

@@ -1,0 +1,28 @@
+metadata:
+  The Hitchhiker's Guide to the Galaxy:
+    title: The Hitchhiker's Guide to the Galaxy
+    year: 2005
+    edition_filter: Theatrical cut
+    sort_title: Hitchhiker's Guide to the Galaxy (2005)
+    content_rating: gb/PG
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Garth Jennings]
+    genre.sync: [Adventure, Comedy, Science Fiction]
+    originally_available: 2005-04-20
+    producer.sync:
+      [
+        Gary Barber,
+        Roger Birnbaum,
+        Jonathan Glickman,
+        Nick Goldsmith,
+        Jay Roach,
+      ]
+    studio: Touchstone Pictures
+    summary: Moments before the Earth is demolished by aliens, Arthur Dent is rescued by his friend Ford Prefect, a researcher penning a new edition of "The Hitchhiker's Guide to the Galaxy".
+    tagline: Don't Panic
+    writer.sync: [Douglas Adams, Karey Kirkpatrick]
+    label: [ID__000007453A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
