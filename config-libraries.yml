@@ -25,6 +25,7 @@ libraries:
       - repo: metadata/movies/Calvary (2014) {tmdb-157832}
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
+      - repo: metadata/movies/Cashback (2006) {tmdb-12225}
       - repo: metadata/movies/City of God (2002) {tmdb-598}
       - repo: metadata/movies/Django Unchained (2012) {tmdb-68718}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}

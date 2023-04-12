@@ -1,0 +1,21 @@
+metadata:
+  Cashback:
+    title: Cashback
+    year: 2006
+    edition_filter: Theatrical cut
+    sort_title: Cashback (2006)
+    content_rating: gb/15
+    country.sync: [United Kingdom]
+    director.sync: [Sean Ellis]
+    genre.sync: [Comedy, Drama, Romance]
+    originally_available: 2006-09-10
+    producer.sync: [Lene Bausager, Sean Ellis]
+    studio: Left Turn Films
+    summary: "After a painful breakup, Ben develops insomnia. To kill time, he starts working the late night shift at the local supermarket, where his artistic imagination runs wild."
+    tagline: Sometimes love is hiding between the seconds of your life
+    writer.sync: [Sean Ellis]
+    label: [ID__000012225A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

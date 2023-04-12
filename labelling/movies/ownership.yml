@@ -38,6 +38,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000012225A # Cashback (2006)
           - ID__000010867A # Malèna (2000) [Original Italian cut]
           - ID__000001892A # Return of the Jedi (1983) [Theatrical cut]
           - ID__000001892C # Return of the Jedi (1983) [DVD cut]
@@ -211,7 +212,6 @@ collections:
           - Big Nothing (2006)
           - Captain America (2011) 002
           - Captain America (2011) 003
-          - Cashback (2007)
           - Casino Royale (2006)
           - Che (2008) 001
           - Che (2008) 002
