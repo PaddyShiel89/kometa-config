@@ -290,6 +290,7 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
       - 59678 # Attack the Block (2011)
+      - 26715 # Bitch Slap (2009)
       - 598 # City of God (2002)
       - 94329 # The Raid (2011)
       - 180299 # The Raid 2 (2014)
@@ -319,6 +320,7 @@ collections:
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
       - 339403 # Baby Driver (2017)
+      - 26715 # Bitch Slap (2009)
       - 11001 # Blue Streak (1999)
       - 8848 # The Bank Job (2008)
       - 27205 # Inception (2010)
@@ -339,6 +341,7 @@ collections:
     template: { name: TMDB theme label, theme_name: lgbtq }
     tmdb_movie:
       - 341013 # Atomic Blonde (2017)
+      - 26715 # Bitch Slap (2009)
       - 947 # Lawrence of Arabia (1962)
 
   Theme__mafia:
