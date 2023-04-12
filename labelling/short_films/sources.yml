@@ -28,6 +28,13 @@ collections:
     tmdb_movie:
       - 416185 # Ánima (2011)
 
+  Source__dvd:
+    template:
+      - name: TMDB source label
+        source_type: dvd
+    tmdb_movie:
+      - 79089 # Assassin's Creed: Embers (2011)
+
   Source__vimeo:
     template:
       - name: TMDB source label
