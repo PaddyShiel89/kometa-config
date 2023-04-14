@@ -83,3 +83,13 @@ collections:
           - ID__000000598A # City of God (2002)
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000001541A # Thelma & Louise (1991)
+
+  Real sex:
+    template:
+      - name: Content rating static label
+        ratings_board: custom_rating
+        content: real_sex
+    plex_search:
+      any:
+        label:
+          - ID__000003134A # Baise-moi (2000)

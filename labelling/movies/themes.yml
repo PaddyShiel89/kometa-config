@@ -147,6 +147,7 @@ collections:
   Theme__buddy_movie:
     template: { name: TMDB theme label, theme_name: buddy_movie }
     tmdb_movie:
+      - 3134 # Baise-moi (2000)
       - 11001 # Blue Streak (1999)
       - 808 # Shrek (2001)
       - 9340 # The Goonies (1985)
@@ -238,6 +239,7 @@ collections:
   Theme__domestic_violence:
     template: { name: TMDB theme label, theme_name: domestic_violence }
     tmdb_movie:
+      - 3134 # Baise-moi (2000)
       - 619730 # Don't Worry Darling (2022)
       - 20546 # Goodnight, Mister Tom (1998)
 
@@ -252,6 +254,7 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
       - 59678 # Attack the Block (2011)
+      - 3134 # Baise-moi (2000)
       - 598 # City of God (2002)
       - 94329 # The Raid (2011)
       - 180299 # The Raid 2 (2014)
@@ -265,6 +268,7 @@ collections:
   Theme__erotic:
     template: { name: TMDB theme label, theme_name: erotic }
     tmdb_movie:
+      - 3134 # Baise-moi (2000)
       - 454527 # Benedetta (2021)
       - 343674 # Gerald's Game (2017)
       - 42695 # I Am Curious (Yellow) (1967)
@@ -293,6 +297,7 @@ collections:
       - 679 # Aliens (1986)
       - 8077 # Alien³ (1992)
       - 341013 # Atomic Blonde (2017)
+      - 3134 # Baise-moi (2000)
       - 454527 # Benedetta (2021)
       - 26715 # Bitch Slap (2009)
       - 505642 # Black Panther: Wakanda Forever (2022)
@@ -328,6 +333,7 @@ collections:
   Theme__foreign_language:
     template: { name: TMDB theme label, theme_name: foreign_language }
     tmdb_movie:
+      - 3134 # Baise-moi (2000)
       - 454527 # Benedetta (2021)
       - 598 # City of God (2002)
       - 10867 # Malèna (2000)
@@ -489,6 +495,7 @@ collections:
     template: { name: TMDB theme label, theme_name: neo_noir }
     tmdb_movie:
       - 4982 # American Gangster (2007)
+      - 3134 # Baise-moi (2000)
       - 245891 # John Wick (2015)
       - 324552 # John Wick: Chapter 2 (2017)
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
@@ -918,7 +925,6 @@ collections:
           - Angel-A (2005)
           - Anything For Her (2008)
           - Aventure (2009)
-          - Baise-moi (2000)
           - Blue is the Warmest Colour (2013)
           - Che (2008) 001
           - Che (2008) 002
@@ -1033,7 +1039,6 @@ collections:
       - name: Theme label
         theme: "neo-noir"
         title_list:
-          - Baise-moi (2000)
           - Basic Instinct (1992) 001
           - Batman (1989) 002
           - Batman (2022) 001

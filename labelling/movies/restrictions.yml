@@ -2,7 +2,17 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  # Restriction placed on family users
+  # Blacklist for all users
+  Restriction__blacklist_all:
+    template:
+      - name: TMDB restriction label
+        restriction_level: all
+    plex_search:
+      any:
+        label:
+          - Content__custom_rating_real_sex
+
+  # Blacklist for family users
   Restriction__blacklist_family:
     template:
       - name: TMDB restriction label
