@@ -1,0 +1,20 @@
+metadata:
+  "Import/Export":
+    title: "Import/Export"
+    year: 2007
+    edition_filter: Theatrical cut
+    sort_title: "Import/Export (2007)"
+    content_rating: gb/18
+    country.sync: [Austria, France, Germany]
+    director.sync: [Ulrich Seidl]
+    genre.sync: [Drama]
+    originally_available: 2007-05-21
+    producer.sync: [Ulrich Seidl, Lucki Stipetic]
+    studio: Ulrich Seidl Film Produktion GmbH
+    summary: "A nurse from Ukraine searches for a better life in the West, while an unemployed security guard from Austria heads East for the same reason."
+    writer.sync: [Ulrich Seidl, Veronika Franz]
+    label: [ID__000004998A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

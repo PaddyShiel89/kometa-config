@@ -145,13 +145,3 @@ collections:
         title_list:
           - Night at the Roxbury (1998)
           - Zoolander (2001) 001
-
-  "Content: sex (real)":
-    template:
-      - name: Content label
-        content: sex
-        level: real
-        title_list:
-          - Baise-moi (2000)
-          - "Import/Export (2007)"
-          - Q (2011)

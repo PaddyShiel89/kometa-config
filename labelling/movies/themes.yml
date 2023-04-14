@@ -87,6 +87,7 @@ collections:
       - 2118 # L.A. Confidential (1997)
       - 947 # Lawrence of Arabia (1962)
       - 180 # Minority Report (2002)
+      - 11013 # Secretary (2002)
       - 808 # Shrek (2001)
       - 756999 # The Black Phone (2021)
       - 15472 # The Girl with the Dragon Tattoo (2009)
@@ -121,6 +122,7 @@ collections:
       - 947 # Lawrence of Arabia (1962)
       - 8848 # The Bank Job (2008)
       - 45269 # The King's Speech (2010)
+      - 158914 # The Look of Love (2013)
 
   Theme__bioweapons:
     template: { name: TMDB theme label, theme_name: bioweapons }
@@ -145,6 +147,7 @@ collections:
   Theme__buddy_movie:
     template: { name: TMDB theme label, theme_name: buddy_movie }
     tmdb_movie:
+      - 3134 # Baise-moi (2000)
       - 11001 # Blue Streak (1999)
       - 808 # Shrek (2001)
       - 9340 # The Goonies (1985)
@@ -236,6 +239,7 @@ collections:
   Theme__domestic_violence:
     template: { name: TMDB theme label, theme_name: domestic_violence }
     tmdb_movie:
+      - 3134 # Baise-moi (2000)
       - 619730 # Don't Worry Darling (2022)
       - 20546 # Goodnight, Mister Tom (1998)
 
@@ -250,6 +254,7 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
       - 59678 # Attack the Block (2011)
+      - 3134 # Baise-moi (2000)
       - 598 # City of God (2002)
       - 94329 # The Raid (2011)
       - 180299 # The Raid 2 (2014)
@@ -263,11 +268,16 @@ collections:
   Theme__erotic:
     template: { name: TMDB theme label, theme_name: erotic }
     tmdb_movie:
+      - 3134 # Baise-moi (2000)
       - 454527 # Benedetta (2021)
+      - 86331 # Desire (2011)
       - 343674 # Gerald's Game (2017)
       - 42695 # I Am Curious (Yellow) (1967)
       - 45690 # I Am Curious (Blue) (1968)
       - 10867 # Malèna (2000)
+      - 11013 # Secretary (2002)
+      - 46534 # Sweet Karma (2009)
+      - 645710 # The Voyeurs (2021)
 
   Theme__experimental:
     template: { name: TMDB theme label, theme_name: experimental }
@@ -288,12 +298,14 @@ collections:
       - 679 # Aliens (1986)
       - 8077 # Alien³ (1992)
       - 341013 # Atomic Blonde (2017)
+      - 3134 # Baise-moi (2000)
       - 454527 # Benedetta (2021)
       - 26715 # Bitch Slap (2009)
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 497698 # Black Widow (2021)
       - 299537 # Captain Marvel (2019)
       - 25239 # Day of the Woman (1978)
+      - 86331 # Desire (2011)
       - 619730 # Don't Worry Darling (2022)
       - 524434 # Eternals (2021)
       - 343674 # Gerald's Game (2017)
@@ -303,11 +315,13 @@ collections:
       - 42695 # I Am Curious (Yellow) (1967)
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 27576 # Salt (2010)
+      - 11013 # Secretary (2002)
       - 882598 # Smile (2022)
       - 140607 # Star Wars: The Force Awakens (2015)
       - 181808 # Star Wars: The Last Jedi (2017)
       - 181812 # Star Wars: The Rise of Skywalker (2019)
       - 23629 # Sucker Punch (2011)
+      - 46534 # Sweet Karma (2009)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 1541 # Thelma & Louise (1991)
       - 556694 # Three Thousand Years of Longing (2022)
@@ -321,11 +335,18 @@ collections:
   Theme__foreign_language:
     template: { name: TMDB theme label, theme_name: foreign_language }
     tmdb_movie:
+      - 3134 # Baise-moi (2000)
       - 454527 # Benedetta (2021)
       - 598 # City of God (2002)
+      - 86331 # Desire (2011)
+      - 45690 # I Am Curious (Blue) (1968)
+      - 42695 # I Am Curious (Yellow) (1967)
+      - 4998 # Import/Export (2007)
       - 10867 # Malèna (2000)
       - 10753 # Police Story 2 (1988)
+      - 15472 # The Girl with the Dragon Tattoo (2009)
       - 94329 # The Raid (2011)
+      - 180299 # The Raid 2 (2014)
 
   Theme__gangs:
     template: { name: TMDB theme label, theme_name: gangs }
@@ -369,6 +390,11 @@ collections:
       - 348350 # Solo: A Star Wars Story (2018)
       - 629 # The Usual Suspects (1995)
 
+  Theme__immigration:
+    template: { name: TMDB theme label, theme_name: immigration }
+    tmdb_movie:
+      - 4998 # Import/Export (2007)
+
   Theme__incest:
     template: { name: TMDB theme label, theme_name: incest }
     tmdb_movie:
@@ -384,6 +410,7 @@ collections:
     tmdb_movie:
       - 341013 # Atomic Blonde (2017)
       - 26715 # Bitch Slap (2009)
+      - 86331 # Desire (2011)
       - 947 # Lawrence of Arabia (1962)
 
   Theme__mafia:
@@ -392,6 +419,7 @@ collections:
       - 341013 # Atomic Blonde (2017)
       - 245891 # John Wick (2015)
       - 2118 # L.A. Confidential (1997)
+      - 46534 # Sweet Karma (2009)
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1975)
       - 242 # The Godfather Part III (1990)
@@ -458,6 +486,7 @@ collections:
     template: { name: TMDB theme label, theme_name: murder }
     tmdb_movie:
       - 2118 # L.A. Confidential (1997)
+      - 46534 # Sweet Karma (2009)
       - 16307 # The Wicker Man (1973)
       - 629 # The Usual Suspects (1995)
 
@@ -480,6 +509,7 @@ collections:
     template: { name: TMDB theme label, theme_name: neo_noir }
     tmdb_movie:
       - 4982 # American Gangster (2007)
+      - 3134 # Baise-moi (2000)
       - 245891 # John Wick (2015)
       - 324552 # John Wick: Chapter 2 (2017)
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
@@ -590,6 +620,7 @@ collections:
       - 27576 # Salt (2010)
       - 634649 # Spider-Man: No Way Home (2021)
       - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
+      - 46534 # Sweet Karma (2009)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 180299 # The Raid 2 (2014)
 
@@ -617,7 +648,15 @@ collections:
     template: { name: TMDB theme label, theme_name: sex_comedy }
     tmdb_movie:
       - 13973 # Choke (2008)
+      - 11013 # Secretary (2002)
       - 38319 # Your Highness (2011)
+      - 10358 # Zack and Miri Make a Porno (2008)
+
+  Theme__sex_work:
+    template: { name: TMDB theme label, theme_name: sex_work }
+    tmdb_movie:
+      - 158914 # The Look of Love (2013)
+      - 10358 # Zack and Miri Make a Porno (2008)
 
   Theme__sexual_violence:
     template: { name: TMDB theme label, theme_name: sexual_violence }
@@ -866,10 +905,8 @@ collections:
           - Q (2011)
           - Room in Rome (2010)
           - Secret Things (2002)
-          - Secretary (2002)
           - Sliver (1993)
           - Species (1995) 001
-          - Voyeurs (2021)
 
   "Theme: film noir":
     template:
@@ -901,7 +938,6 @@ collections:
           - Angel-A (2005)
           - Anything For Her (2008)
           - Aventure (2009)
-          - Baise-moi (2000)
           - Blue is the Warmest Colour (2013)
           - Che (2008) 001
           - Che (2008) 002
@@ -913,9 +949,6 @@ collections:
           - Farewell, My Queen (2012)
           - Fausto 5.0 (2001)
           - Grand Central (2013)
-          - I Am Curious (1963) 001
-          - I Am Curious (1963) 002
-          - "Import/Export (2007)"
           - Juan of the Dead (2012)
           - Kung Fu Hustle (2004)
           - Ma mere (2004)
@@ -1016,7 +1049,6 @@ collections:
       - name: Theme label
         theme: "neo-noir"
         title_list:
-          - Baise-moi (2000)
           - Basic Instinct (1992) 001
           - Batman (1989) 002
           - Batman (2022) 001
@@ -1120,7 +1152,6 @@ collections:
           - Halloween (1978) 007
           - Halloween (1978) 008
           - Halloween (2018) 001
-          - I Spit on Your Grave (1978)
           - Psycho (1960)
           - Ready or Not (2019)
           - Scary Movie (2000) 001

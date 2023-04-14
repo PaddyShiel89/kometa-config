@@ -84,7 +84,9 @@ templates:
     sync_mode: sync
 
   TMDB restriction label:
-    item_label: "Restriction__<<restriction_level>>"
+    default:
+      list_type: "blacklist"
+    item_label: "Restriction__<<list_type>>_<<restriction_level>>"
     build_collection: false
     sync_mode: sync
 

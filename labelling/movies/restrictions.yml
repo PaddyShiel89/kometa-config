@@ -2,8 +2,18 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  # Restriction placed on family users
-  Restriction__family:
+  # Blacklist for all users
+  Restriction__blacklist_all:
+    template:
+      - name: TMDB restriction label
+        restriction_level: all
+    plex_search:
+      any:
+        label:
+          - Content__custom_rating_real_sex
+
+  # Blacklist for family users
+  Restriction__blacklist_family:
     template:
       - name: TMDB restriction label
         restriction_level: family
@@ -17,6 +27,11 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
+      - 11013 # Secretary (2002)
+      - 46534 # Sweet Karma (2009)
+      - 158914 # The Look of Love (2013)
+      - 645710 # The Voyeurs (2021)
+      - 10358 # Zack and Miri Make a Porno (2008)
 
   # Restriction placed on all users
   "Restriction: all":

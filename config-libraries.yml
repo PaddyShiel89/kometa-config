@@ -15,6 +15,7 @@ libraries:
       - repo: metadata/movies/Attack the Block (2011) {tmdb-59678}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
       - repo: metadata/movies/Baby Driver (2017) {tmdb-339403}
+      - repo: metadata/movies/Baise-moi (2000) {tmdb-3134}
       - repo: metadata/movies/Benedetta (2021) {tmdb-454527}
       - repo: metadata/movies/Bitch Slap (2009) {tmdb-26715}
       - repo: metadata/movies/Black Panther Wakanda Forever (2022) {tmdb-505642}
@@ -29,6 +30,7 @@ libraries:
       - repo: metadata/movies/Choke (2008) {tmdb-13973}
       - repo: metadata/movies/City of God (2002) {tmdb-598}
       - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
+      - repo: metadata/movies/Desire (2011) {tmdb-86331}
       - repo: metadata/movies/Django Unchained (2012) {tmdb-68718}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
       - repo: metadata/movies/Doctor Strange in the Multiverse of Madness (2022) {tmdb-453395}
@@ -42,6 +44,7 @@ libraries:
       - repo: metadata/movies/Hanna (2011) {tmdb-50456}
       - repo: metadata/movies/I Am Curious (Blue) (1968) {tmdb-45690}
       - repo: metadata/movies/I Am Curious (Yellow) (1967) {tmdb-42695}
+      - repo: metadata/movies/Import Export (2007) {tmdb-4998}
       - repo: metadata/movies/Inception (2010) {tmdb-27205}
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
       - repo: metadata/movies/John Wick (2014) {tmdb-245891}
@@ -61,6 +64,7 @@ libraries:
       - repo: metadata/movies/Return of the Jedi (1983) {tmdb-1892}
       - repo: metadata/movies/Rogue One A Star Wars Story {tmdb-330459}
       - repo: metadata/movies/Salt (2010) {tmdb-27576}
+      - repo: metadata/movies/Secretary (2002) {tmdb-11013}
       - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}
       - repo: metadata/movies/Shrek (2001) {tmdb-808}
       - repo: metadata/movies/Smile (2022) {tmdb-882598}
@@ -81,6 +85,7 @@ libraries:
       - repo: metadata/movies/Star Wars The Last Jedi (2017) {tmdb-181808}
       - repo: metadata/movies/Star Wars The Rise of Skywalker (2019) {tmdb-181812}
       - repo: metadata/movies/Sucker Punch (2011) {tmdb-23629}
+      - repo: metadata/movies/Sweet Karma (2009) {tmdb-46534}
       - repo: metadata/movies/The Bank Job (2008) {tmdb-8848}
       - repo: metadata/movies/The Banshees of Inisherin (2022) {tmdb-674324}
       - repo: metadata/movies/The Black Phone (2022) {tmdb-756999}
@@ -92,11 +97,13 @@ libraries:
       - repo: metadata/movies/The Goonies (1985) {tmdb-9340}
       - repo: metadata/movies/The Hitchhiker's Guide to the Galaxy (2005) {tmdb-7453}
       - repo: metadata/movies/The King's Speech (2010) {tmdb-45269}
+      - repo: metadata/movies/The Look of Love (2013) {tmdb-158914}
       - repo: metadata/movies/The Raid (2011) {tmdb-94329}
       - repo: metadata/movies/The Raid 2 (2014) {tmdb-180299}
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
       - repo: metadata/movies/The Unbearable Weight of Massive Talent (2022) {tmdb-648579}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
+      - repo: metadata/movies/The Voyeurs (2021) {tmdb-645710}
       - repo: metadata/movies/The Wicker Man (1973) {tmdb-16307}
       - repo: metadata/movies/The Woman in Black (2012) {tmdb-65086}
       - repo: metadata/movies/Thelma & Louise (1991) {tmdb-1541}
@@ -106,6 +113,7 @@ libraries:
       - repo: metadata/movies/Tropic Thunder (2008) {tmdb-7446}
       - repo: metadata/movies/Wedding Crashers (2005) {tmdb-9522}
       - repo: metadata/movies/Your Highness (2011) {tmdb-38319}
+      - repo: metadata/movies/Zack and Miri Make a Porno (2008) {tmdb-10358}
       - repo: labelling/movies/editions
       - repo: labelling/movies/content_rating/alcohol_and_tobacco
       - repo: labelling/movies/content_rating/discrimination

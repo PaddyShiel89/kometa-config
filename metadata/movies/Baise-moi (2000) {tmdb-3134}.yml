@@ -1,0 +1,20 @@
+metadata:
+  Baise-moi:
+    title: Baise-moi
+    year: 2000
+    edition_filter: Theatrical cut
+    sort_title: Baise-moi (2000)
+    content_rating: gb/18
+    country.sync: [France]
+    director.sync: [Virginie Despentes, Coralie Trinh Thi]
+    genre.sync: [Crime, Drama, Thriller]
+    originally_available: 2000-06-28
+    producer.sync: [Philippe Godeau]
+    studio: "Canal+"
+    summary: "Two young women, marginalised by society, go on a destructive tour of sex and violence. Breaking norms and killing men - and shattering the complacency of polite cinema audiences."
+    writer.sync: [Virginie Despentes, Coralie Trinh Thi]
+    label: [ID__000003134A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
