@@ -160,6 +160,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000064124A # À l'aventure (2009)
           - ID__000017097A # After Sex (2007)
           - ID__000003134A # Baise-moi (2000)
           - ID__000026715A # Bitch Slap (2009)
@@ -556,7 +557,6 @@ collections:
         source: "dvd"
         title_list:
           - Anything For Her (2008)
-          - Aventure (2009)
           - Big Nothing (2006)
           - Black Dahlia (2006)
           - Black Dynamite (2010)

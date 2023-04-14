@@ -268,6 +268,7 @@ collections:
   Theme__erotic:
     template: { name: TMDB theme label, theme_name: erotic }
     tmdb_movie:
+      - 64124 # À l'aventure (2009)
       - 3134 # Baise-moi (2000)
       - 454527 # Benedetta (2021)
       - 86331 # Desire (2011)
@@ -293,6 +294,7 @@ collections:
   Theme__female_protagonist:
     template: { name: TMDB theme label, theme_name: female_protagonist }
     tmdb_movie:
+      - 64124 # À l'aventure (2009)
       - 348 # Alien (1979)
       - 8078 # Alien Resurrection (1997)
       - 679 # Aliens (1986)
@@ -408,6 +410,7 @@ collections:
   Theme__lgbtq:
     template: { name: TMDB theme label, theme_name: lgbtq }
     tmdb_movie:
+      - 64124 # À l'aventure (2009)
       - 341013 # Atomic Blonde (2017)
       - 26715 # Bitch Slap (2009)
       - 86331 # Desire (2011)

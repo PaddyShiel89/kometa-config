@@ -39,6 +39,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000064124A # À l'aventure (2009)
           - ID__000012225A # Cashback (2006)
           - ID__000013973A # Choke (2008)
           - ID__000045690A # I Am Curious (Blue) (1968)
@@ -214,7 +215,6 @@ collections:
           - Avengers (2012) 001
           - Avengers (2012) 002
           - Avengers (2012) 003
-          - Aventure (2009)
           - Back to the Future (1985) 001
           - Back to the Future (1985) 002
           - Back to the Future (1985) 003
