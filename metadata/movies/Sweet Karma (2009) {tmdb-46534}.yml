@@ -1,0 +1,20 @@
+metadata:
+  Sweet Karma:
+    title: Sweet Karma
+    year: 2009
+    edition_filter: Theatrical cut
+    sort_title: Sweet Karma (2009)
+    content_rating: gb/18
+    country.sync: [Canada]
+    director.sync: [Andrew Thomas Hunt]
+    genre.sync: [Crime, Thriller]
+    originally_available: 2009-07-11
+    producer.sync: [Chad Archibald, Michael Paszt, Pete Soltesz]
+    studio: Filament Films
+    summary: "A mute Russian girl infiltrates Toronto's underground sex trade to avenge her sister's murder."
+    writer.sync: [James Fler, Andrew Thomas Hunt, Michael Paszt]
+    label: [ID__000046534A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -82,6 +82,7 @@ libraries:
       - repo: metadata/movies/Star Wars The Last Jedi (2017) {tmdb-181808}
       - repo: metadata/movies/Star Wars The Rise of Skywalker (2019) {tmdb-181812}
       - repo: metadata/movies/Sucker Punch (2011) {tmdb-23629}
+      - repo: metadata/movies/Sweet Karma (2009) {tmdb-46534}
       - repo: metadata/movies/The Bank Job (2008) {tmdb-8848}
       - repo: metadata/movies/The Banshees of Inisherin (2022) {tmdb-674324}
       - repo: metadata/movies/The Black Phone (2022) {tmdb-756999}
