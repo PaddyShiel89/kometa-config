@@ -1,0 +1,22 @@
+metadata:
+  The Voyeurs:
+    title: The Voyeurs
+    year: 2021
+    edition_filter: Theatrical cut
+    sort_title: Voyeurs (2021)
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Michael Mohan]
+    genre.sync: [Drama, Mystery, Thriller]
+    originally_available: 2021-09-10
+    producer.sync:
+      [Michael Ciccone, Ellen De Faux, Greg Gilreath, Adam Hendricks]
+    studio:
+    summary: "A young couple finds themselves becoming interested in the sex life of their neighbours across the street. But what starts as innocent curiosity turns into an unhealthy obsession."
+    tagline: "How far will you go for one more look?"
+    writer.sync: [Michael Mohan]
+    label: [ID__000645710A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

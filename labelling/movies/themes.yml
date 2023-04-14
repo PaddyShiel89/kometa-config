@@ -272,6 +272,7 @@ collections:
       - 10867 # Malèna (2000)
       - 11013 # Secretary (2002)
       - 46534 # Sweet Karma (2009)
+      - 645710 # The Voyeurs (2021)
 
   Theme__experimental:
     template: { name: TMDB theme label, theme_name: experimental }
