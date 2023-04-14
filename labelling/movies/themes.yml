@@ -87,6 +87,7 @@ collections:
       - 2118 # L.A. Confidential (1997)
       - 947 # Lawrence of Arabia (1962)
       - 180 # Minority Report (2002)
+      - 11013 # Secretary (2002)
       - 808 # Shrek (2001)
       - 756999 # The Black Phone (2021)
       - 15472 # The Girl with the Dragon Tattoo (2009)
@@ -269,6 +270,7 @@ collections:
       - 42695 # I Am Curious (Yellow) (1967)
       - 45690 # I Am Curious (Blue) (1968)
       - 10867 # Malèna (2000)
+      - 11013 # Secretary (2002)
 
   Theme__experimental:
     template: { name: TMDB theme label, theme_name: experimental }
@@ -618,6 +620,7 @@ collections:
     template: { name: TMDB theme label, theme_name: sex_comedy }
     tmdb_movie:
       - 13973 # Choke (2008)
+      - 11013 # Secretary (2002)
       - 38319 # Your Highness (2011)
 
   Theme__sex_work:
@@ -872,7 +875,6 @@ collections:
           - Q (2011)
           - Room in Rome (2010)
           - Secret Things (2002)
-          - Secretary (2002)
           - Sliver (1993)
           - Species (1995) 001
           - Voyeurs (2021)
