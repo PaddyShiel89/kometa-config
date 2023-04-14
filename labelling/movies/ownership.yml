@@ -89,6 +89,7 @@ collections:
           - ID__000004982A # American Gangster (2007) [Theatrical cut]
           - ID__000004982B # American Gangster (2007) [Extended edition]
           - ID__000025239A # Day of the Woman (1978)
+          - ID__000086331A # Desire (2011)
           - ID__000010867B # Malèna (2000) [International cut]
           - ID__000027576A # Salt (2010) [Theatrical cut]
           - ID__000027576B # Salt (2010) [Extended cut]
@@ -131,6 +132,7 @@ collections:
           - ID__000299537A # Captain Marvel (2019)
           - ID__000000598A # City of God (2002)
           - ID__000025239A # Day of the Woman (1978)
+          - ID__000086331A # Desire (2011)
           - ID__000068718A # Django Unchained (2012)
           - ID__000284052A # Doctor Strange (2016)
           - ID__000453395A # Doctor Strange in the Multiverse of Madness (2022)
@@ -380,7 +382,6 @@ collections:
           - Predator (1987) 003
           - Psycho (1960)
           - Pulp Fiction (1994)
-          - Q (2011)
           - Rear Window (1954)
           - Reservoir Dogs (1992)
           - Rope (1948)

@@ -1,0 +1,21 @@
+metadata:
+  Desire:
+    title: Q
+    year: 2011
+    edition_filter: Theatrical cut
+    sort_title: Q (2011)
+    content_rating: gb/18
+    country.sync: []
+    director.sync: [Laurent Bouhnik]
+    genre.sync: [Drama, Romance]
+    original_title: Q
+    originally_available: 2011-09-14
+    producer.sync: [Chica Benadava, Ludi Boeken, Pascal Judelewicz]
+    studio: Acajou Films
+    summary: "During a countrywide economic crisis, the lives of several people are shaken when they meet Cécile, a character who symbolises desire."
+    writer.sync: [Laurent Bouhnik]
+    label: [ID__000086331A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
