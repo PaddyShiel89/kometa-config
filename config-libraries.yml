@@ -141,6 +141,7 @@ libraries:
       - repo: libraries/movies/general
       - repo: libraries/shared/content_ratings
       - repo: libraries/shared/genres
+        asset_directory: config/assets/genres/Movies
       - repo: libraries/shared/series
       - repo: libraries/movies/series
       - repo: libraries/shared/themes
@@ -177,6 +178,7 @@ libraries:
       - repo: libraries/shared/actors
       - repo: libraries/shared/content_ratings
       - repo: libraries/shared/genres
+        asset_directory: config/assets/genres/TV shows
       - repo: libraries/shared/series
       - repo: libraries/shared/themes
       - repo: libraries/tv_shows/themes
