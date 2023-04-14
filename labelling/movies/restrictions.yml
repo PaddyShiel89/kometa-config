@@ -3,7 +3,7 @@ external_templates:
 
 collections:
   # Restriction placed on family users
-  Restriction__family:
+  Restriction__blacklist_family:
     template:
       - name: TMDB restriction label
         restriction_level: family
