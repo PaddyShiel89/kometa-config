@@ -121,6 +121,7 @@ collections:
       - 947 # Lawrence of Arabia (1962)
       - 8848 # The Bank Job (2008)
       - 45269 # The King's Speech (2010)
+      - 158914 # The Look of Love (2013)
 
   Theme__bioweapons:
     template: { name: TMDB theme label, theme_name: bioweapons }
@@ -618,6 +619,11 @@ collections:
     tmdb_movie:
       - 13973 # Choke (2008)
       - 38319 # Your Highness (2011)
+
+  Theme__sex_work:
+    template: { name: TMDB theme label, theme_name: sex_work }
+    tmdb_movie:
+      - 158914 # The Look of Love (2013)
 
   Theme__sexual_violence:
     template: { name: TMDB theme label, theme_name: sexual_violence }

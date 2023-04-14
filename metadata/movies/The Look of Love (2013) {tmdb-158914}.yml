@@ -1,0 +1,21 @@
+metadata:
+  The Look of Love:
+    title: The Look of Love
+    year: 2013
+    edition_filter: Theatrical cut
+    sort_title: Look of Love
+    content_rating: gb/18
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Michael Winterbottom]
+    genre.sync: [Biopic, Comedy, Drama]
+    originally_available: 2013-01-19
+    producer.sync: [Robin Guise, Peter Hampden, Melissa Parmenter, Peter Raven]
+    studio: Revolution Films
+    summary: "The life of Paul Raymond, the controversial entrepreneur who became Britain's richest man."
+    tagline: Based on the outrageously true story.
+    writer.sync: [Matt Greenhalgh, Paul Willetts]
+    label: [ID__000158914A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
