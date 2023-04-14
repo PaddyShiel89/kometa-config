@@ -79,6 +79,12 @@ collections:
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
 
+  Series__Emmanuelle_1974:
+    template:
+      { name: TMDB series label, series_name: Emmanuelle, series_year: 1974 }
+    tmdb_movie:
+      - 24402 # Emmanuelle (1974)
+
   Series__Eternals_2021:
     template:
       { name: TMDB series label, series_name: Eternals, series_year: 2021 }
@@ -361,13 +367,6 @@ collections:
         series: "Dune (2021)"
         title_list:
           - Dune (2021) 001
-
-  "Series: Emmanuelle (1974)":
-    template:
-      - name: Series label
-        series: "Emmanuelle (1974)"
-        title_list:
-          - Emmanuelle (1974) 001
 
   "Series: Forgetting Sarah Marshall (2008)":
     template:

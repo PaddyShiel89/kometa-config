@@ -82,6 +82,7 @@ collections:
     tmdb_movie:
       - 598 # City of God (2002)
       - 13973 # Choke (2008)
+      - 24402 # Emmanuelle (1974)
       - 343674 # Gerald's Game (2017)
       - 20546 # Goodnight, Mister Tom (1998)
       - 2118 # L.A. Confidential (1997)
@@ -273,6 +274,7 @@ collections:
       - 454527 # Benedetta (2021)
       - 86331 # Desire (2011)
       - 101875 # Dressage (1986)
+      - 24402 # Emmanuelle (1974)
       - 343674 # Gerald's Game (2017)
       - 42695 # I Am Curious (Yellow) (1967)
       - 45690 # I Am Curious (Blue) (1968)
@@ -344,6 +346,7 @@ collections:
       - 598 # City of God (2002)
       - 86331 # Desire (2011)
       - 101875 # Dressage (1986)
+      - 24402 # Emmanuelle (1974)
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
       - 4998 # Import/Export (2007)
@@ -417,6 +420,7 @@ collections:
       - 341013 # Atomic Blonde (2017)
       - 26715 # Bitch Slap (2009)
       - 86331 # Desire (2011)
+      - 24402 # Emmanuelle (1974)
       - 947 # Lawrence of Arabia (1962)
 
   Theme__mafia:
@@ -904,7 +908,6 @@ collections:
           - Basic Instinct (1992) 001
           - Chloe (2009)
           - Deep Water (2022)
-          - Emmanuelle (1974) 001
           - Exterminating Angels (2006)
           - Ma mere (2004)
           - Q (2011)
@@ -947,7 +950,6 @@ collections:
           - Che (2008) 002
           - Devil's Backbone (2001)
           - Dolce Vita (1960)
-          - Emmanuelle (1974) 001
           - Exterminating Angels (2006)
           - Farewell, My Queen (2012)
           - Fausto 5.0 (2001)

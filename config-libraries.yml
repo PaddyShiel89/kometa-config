@@ -37,6 +37,7 @@ libraries:
       - repo: metadata/movies/Doctor Strange in the Multiverse of Madness (2022) {tmdb-453395}
       - repo: metadata/movies/Don't Worry Darling (2022) {tmdb-619730}
       - repo: metadata/movies/Dressage (1986) {tmdb-101875}
+      - repo: metadata/movies/Emmanuelle (1974) {tmdb-24402}
       - repo: metadata/movies/Eternals (2021) {tmdb-524434}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
       - repo: metadata/movies/Gladiator (2000) {tmdb-98}
