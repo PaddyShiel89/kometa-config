@@ -1,0 +1,21 @@
+metadata:
+  Emmanuelle:
+    title: Emmanuelle
+    year: 1974
+    edition_filter: Theatrical cut
+    sort_title: Emmanuelle (1974) 001
+    content_rating: gb/18
+    country.sync: [France]
+    director.sync: [Just Jaeckin]
+    genre.sync: [Drama, Romance]
+    originally_available: 1974-06-26
+    producer.sync: [Yves Rousset-Rouard]
+    studio: Trinacra Films
+    summary: "Emmanuelle, the wife of a French diplomat in Bangkok, embarks on a voyage of sexual discovery."
+    tagline: "Let's you feel good without feeling bad."
+    writer.sync: [Emmanuelle Arsan, Jean-Louis Richard]
+    label: [ID__000024402A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

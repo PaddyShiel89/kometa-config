@@ -1,0 +1,20 @@
+metadata:
+  Dressage:
+    title: Dressage
+    year: 1986
+    edition_filter: Theatrical cut
+    sort_title: Dressage (1986)
+    content_rating: gb/18
+    country.sync: [France]
+    director.sync: [Pierre B. Reinhard]
+    genre.sync: [Comedy, Drama]
+    original_title: Dressage
+    originally_available: 1986-04-16
+    studio: "Samouraï Films"
+    summary: "At a decadent 1930s party, two young women make a bet with a baron to corrupt two innocent teenagers to ruin their families' reputations."
+    writer.sync: [Jean-Philippe Berger, Jean-Claude Roy]
+    label: [ID__000101875A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

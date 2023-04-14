@@ -1,0 +1,21 @@
+metadata:
+  "À l'aventure":
+    title: "À l'aventure"
+    year: 2008 # Not a mistake
+    edition_filter: Theatrical cut
+    sort_title: Aventure (2008)
+    content_rating: gb/18
+    country.sync: [France]
+    director.sync: [Jean-Claude Brisseau]
+    genre.sync: [Drama, Fantasy, Romance]
+    original_title: "À l'aventure"
+    originally_available: 2008-08-29
+    producer.sync: [Nicolas Brigaud-Robert, "Frédéric Niedermayer"]
+    studio: Moby Dick Films
+    summary: "A beautiful young woman decides to change course in her life when she loses her boyfriend, picks up a psychiatrist in a bar and ends up in a sexual experiment that gets out of hand."
+    writer.sync: [Jean-Claude Brisseau]
+    label: [ID__000064124A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

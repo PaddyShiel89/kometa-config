@@ -51,6 +51,7 @@ collections:
           - ID__000284052A # Doctor Strange (2016)
           - ID__000453395A # Doctor Strange in the Multiverse of Madness (2022)
           - ID__000619730A # Don't Worry Darling (2022)
+          - ID__000024402A # Emmanuelle (1974)
           - ID__000524434A # Eternals (2021)
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
           - ID__000000098B # Gladiator (2000) [Extended edition]
@@ -160,10 +161,12 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000064124A # À l'aventure (2009)
           - ID__000017097A # After Sex (2007)
           - ID__000003134A # Baise-moi (2000)
           - ID__000026715A # Bitch Slap (2009)
           - ID__000012225A # Cashback (2006)
+          - ID__000101875A # Dressage (1986)
           - ID__000045690A # I Am Curious (Blue) (1968)
           - ID__000042695A # I Am Curious (Yellow) (1967)
           - ID__000001892A # Return of the Jedi (1983) [Theatrical cut]
@@ -263,7 +266,6 @@ collections:
           - Due Date (2010)
           - Dune (2021) 001
           - Elf (2003)
-          - Emmanuelle (1974) 001
           - Ex Machina (2015)
           - Faculty (1998)
           - Family Plot (1976)
@@ -556,7 +558,6 @@ collections:
         source: "dvd"
         title_list:
           - Anything For Her (2008)
-          - Aventure (2009)
           - Big Nothing (2006)
           - Black Dahlia (2006)
           - Black Dynamite (2010)
@@ -569,7 +570,6 @@ collections:
           - Complicity (2000)
           - Cool Runnings (1993)
           - Corrina, Corrina (1994)
-          - Dressage (1986)
           - Exterminating Angels (2006)
           - Fatal Instinct (1993)
           - Fausto 5.0 (2001)

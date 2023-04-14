@@ -4,6 +4,7 @@ libraries:
       assets_for_all: true
     metadata_path:
       - repo: metadata/movies/21 Grams (2003) {tmdb-470}
+      - repo: metadata/movies/A l'aventure (2009) {tmdb-64124}
       - repo: metadata/movies/After Sex (2007) {tmdb-17097}
       - repo: metadata/movies/Alien (1979) {tmdb-348}
       - repo: metadata/movies/Alien Resurrection (1997) {tmdb-8078}
@@ -35,6 +36,8 @@ libraries:
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
       - repo: metadata/movies/Doctor Strange in the Multiverse of Madness (2022) {tmdb-453395}
       - repo: metadata/movies/Don't Worry Darling (2022) {tmdb-619730}
+      - repo: metadata/movies/Dressage (1986) {tmdb-101875}
+      - repo: metadata/movies/Emmanuelle (1974) {tmdb-24402}
       - repo: metadata/movies/Eternals (2021) {tmdb-524434}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
       - repo: metadata/movies/Gladiator (2000) {tmdb-98}

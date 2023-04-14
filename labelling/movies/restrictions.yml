@@ -11,6 +11,10 @@ collections:
       any:
         label:
           - Content__custom_rating_real_sex
+    tmdb_movie:
+      - 64124 # À l'aventure (2009)
+      - 101875 # Dressage (1986)
+      - 24402 # Emmanuelle (1974)
 
   # Blacklist for family users
   Restriction__blacklist_family:
