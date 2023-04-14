@@ -272,6 +272,7 @@ collections:
       - 3134 # Baise-moi (2000)
       - 454527 # Benedetta (2021)
       - 86331 # Desire (2011)
+      - 101875 # Dressage (1986)
       - 343674 # Gerald's Game (2017)
       - 42695 # I Am Curious (Yellow) (1967)
       - 45690 # I Am Curious (Blue) (1968)
@@ -337,10 +338,12 @@ collections:
   Theme__foreign_language:
     template: { name: TMDB theme label, theme_name: foreign_language }
     tmdb_movie:
+      - 64124 # À l'aventure (2009)
       - 3134 # Baise-moi (2000)
       - 454527 # Benedetta (2021)
       - 598 # City of God (2002)
       - 86331 # Desire (2011)
+      - 101875 # Dressage (1986)
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
       - 4998 # Import/Export (2007)
@@ -901,7 +904,6 @@ collections:
           - Basic Instinct (1992) 001
           - Chloe (2009)
           - Deep Water (2022)
-          - Dressage (1986)
           - Emmanuelle (1974) 001
           - Exterminating Angels (2006)
           - Ma mere (2004)
@@ -940,13 +942,11 @@ collections:
         title_list:
           - Angel-A (2005)
           - Anything For Her (2008)
-          - Aventure (2009)
           - Blue is the Warmest Colour (2013)
           - Che (2008) 001
           - Che (2008) 002
           - Devil's Backbone (2001)
           - Dolce Vita (1960)
-          - Dressage (1986)
           - Emmanuelle (1974) 001
           - Exterminating Angels (2006)
           - Farewell, My Queen (2012)

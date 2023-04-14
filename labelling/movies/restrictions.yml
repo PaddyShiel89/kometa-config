@@ -13,6 +13,7 @@ collections:
           - Content__custom_rating_real_sex
     tmdb_movie:
       - 64124 # À l'aventure (2009)
+      - 101875 # Dressage (1986)
 
   # Blacklist for family users
   Restriction__blacklist_family:
