@@ -26,3 +26,7 @@ collections:
     tmdb_movie: #ID
     sort_title:
     summary:
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
