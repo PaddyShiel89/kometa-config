@@ -336,9 +336,14 @@ collections:
       - 3134 # Baise-moi (2000)
       - 454527 # Benedetta (2021)
       - 598 # City of God (2002)
+      - 45690 # I Am Curious (Blue) (1968)
+      - 42695 # I Am Curious (Yellow) (1967)
+      - 4998 # Import/Export (2007)
       - 10867 # Malèna (2000)
       - 10753 # Police Story 2 (1988)
+      - 15472 # The Girl with the Dragon Tattoo (2009)
       - 94329 # The Raid (2011)
+      - 180299 # The Raid 2 (2014)
 
   Theme__gangs:
     template: { name: TMDB theme label, theme_name: gangs }
@@ -381,6 +386,11 @@ collections:
       - 27205 # Inception (2010)
       - 348350 # Solo: A Star Wars Story (2018)
       - 629 # The Usual Suspects (1995)
+
+  Theme__immigration:
+    template: { name: TMDB theme label, theme_name: immigration }
+    tmdb_movie:
+      - 4998 # Import/Export (2007)
 
   Theme__incest:
     template: { name: TMDB theme label, theme_name: incest }
@@ -893,7 +903,6 @@ collections:
           - Secret Things (2002)
           - Sliver (1993)
           - Species (1995) 001
-          - Voyeurs (2021)
 
   "Theme: film noir":
     template:
@@ -936,9 +945,6 @@ collections:
           - Farewell, My Queen (2012)
           - Fausto 5.0 (2001)
           - Grand Central (2013)
-          - I Am Curious (1963) 001
-          - I Am Curious (1963) 002
-          - "Import/Export (2007)"
           - Juan of the Dead (2012)
           - Kung Fu Hustle (2004)
           - Ma mere (2004)
@@ -1142,7 +1148,6 @@ collections:
           - Halloween (1978) 007
           - Halloween (1978) 008
           - Halloween (2018) 001
-          - I Spit on Your Grave (1978)
           - Psycho (1960)
           - Ready or Not (2019)
           - Scary Movie (2000) 001
