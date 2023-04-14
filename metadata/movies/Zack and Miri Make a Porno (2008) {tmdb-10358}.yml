@@ -1,0 +1,21 @@
+metadata:
+  Zack and Miri Make a Porno:
+    title: Zack and Miri Make a Porno
+    year: 2008
+    edition_filter: Theatrical cut
+    sort_title: Zack and Miri Make a Porno (2008)
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Kevin Smith]
+    genre.sync: [Comedy Romance]
+    originally_available: 2008-09-07
+    producer.sync: [Scott Mosier]
+    studio: Blue Askew
+    summary: "Lifelong friends Zack and Miri look to solve their cash problems by making an adult film. As the cameras roll, they find they may have more feelings for each other than they thought."
+    tagline: "What would you do to get out of debt?"
+    writer.sync: [Kevin Smith]
+    label: [ID__000010358A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

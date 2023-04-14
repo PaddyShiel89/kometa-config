@@ -629,11 +629,13 @@ collections:
       - 13973 # Choke (2008)
       - 11013 # Secretary (2002)
       - 38319 # Your Highness (2011)
+      - 10358 # Zack and Miri Make a Porno (2008)
 
   Theme__sex_work:
     template: { name: TMDB theme label, theme_name: sex_work }
     tmdb_movie:
       - 158914 # The Look of Love (2013)
+      - 10358 # Zack and Miri Make a Porno (2008)
 
   Theme__sexual_violence:
     template: { name: TMDB theme label, theme_name: sexual_violence }
