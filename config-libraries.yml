@@ -153,7 +153,9 @@ libraries:
       - repo: libraries/shared/series
       - repo: libraries/movies/series
       - repo: libraries/shared/themes
+        asset_directory: config/assets/themes/Movies
       - repo: libraries/movies/themes
+        asset_directory: config/assets/themes/Movies
       - repo: libraries/movies/charts
   TV shows:
     operations:
@@ -188,7 +190,9 @@ libraries:
         asset_directory: config/assets/genres/TV shows
       - repo: libraries/shared/series
       - repo: libraries/shared/themes
+        asset_directory: config/assets/themes/TV shows
       - repo: libraries/tv_shows/themes
+        asset_directory: config/assets/themes/TV shows
   Stand-up comedy:
     operations:
       assets_for_all: true
