@@ -30,6 +30,7 @@ collections:
       any:
         label:
           - ID__000000620A # Ghostbusters (1984)
+          - ID__000002978A # Ghostbusters II (1989)
           - ID__000000011A # Star Wars (1977) [Theatrical cut]
           - ID__000000011B # Star Wars (1977) [Special edition]
           - ID__000000011C # Star Wars (1977) [DVD cut]

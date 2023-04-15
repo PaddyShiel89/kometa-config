@@ -96,6 +96,7 @@ collections:
       { name: TMDB series label, series_name: Ghostbusters, series_year: 1984 }
     tmdb_movie:
       - 620 # Ghostbusters (1984)
+      - 2978 # Ghostbusters II (1989)
 
   Series__Guardians_of_the_Galaxy_2014:
     template:

@@ -5,6 +5,7 @@ collections:
   Theme__abduction:
     template: { name: TMDB theme label, theme_name: abduction }
     tmdb_movie:
+      - 2978 # Ghostbusters II (1989)
       - 762504 # Nope (2022)
       - 756999 # The Black Phone (2021)
 
@@ -187,6 +188,7 @@ collections:
   Theme__christmas:
     template: { name: TMDB theme label, theme_name: christmas }
     tmdb_movie:
+      - 2978 # Ghostbusters II (1989)
       - 68721 # Iron Man 3 (2013)
       - 74849 # The Star Wars Holiday Special (1978)
 
@@ -379,6 +381,7 @@ collections:
     template: { name: TMDB theme label, theme_name: ghosts }
     tmdb_movie:
       - 620 # Ghostbusters (1984)
+      - 2978 # Ghostbusters II (1989)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 756999 # The Black Phone (2021)
       - 65086 # The Woman in Black (2012)
@@ -497,6 +500,7 @@ collections:
       - 679 # Aliens (1986)
       - 59678 # Attack the Block (2011)
       - 620 # Ghostbusters (1984)
+      - 2978 # Ghostbusters II (1989)
       - 762504 # Nope (2022)
       - 882598 # Smile (2022)
       - 10216 # Species II (1998)
@@ -769,6 +773,7 @@ collections:
     tmdb_movie:
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 620 # Ghostbusters (1984)
+      - 2978 # Ghostbusters II (1989)
       - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
