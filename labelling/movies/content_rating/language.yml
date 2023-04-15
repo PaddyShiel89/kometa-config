@@ -71,6 +71,7 @@ collections:
           - ID__000634649A # Spider-Man: Far from Home (2019)
           - ID__000009340A # The Goonies (1985)
           - ID__000045269A # The King's Speech (2010)
+          - ID__000682507A # Where the Crawdads Sing (2022)
 
   BBFC language lvl 4:
     template:

@@ -101,6 +101,7 @@ collections:
       - 16307 # The Wicker Man (1973)
       - 65086 # The Woman in Black (2012)
       - 556694 # Three Thousand Years of Longing (2022)
+      - 682507 # Where the Crawdads Sing (2022)
 
   Theme__based_on_a_graphic_novel:
     template: { name: TMDB theme label, theme_name: based_on_a_graphic_novel }
@@ -217,12 +218,18 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 682507 # Where the Crawdads Sing (2022)
 
   Theme__con_artists:
     template: { name: TMDB theme label, theme_name: con_artists }
     tmdb_movie:
       - 11001 # Blue Streak (1999)
       - 629 # The Usual Suspects (1995)
+
+  Theme__courtroom:
+    template: { name: TMDB theme label, theme_name: courtroom }
+    tmdb_movie:
+      - 682507 # Where the Crawdads Sing (2022)
 
   Theme__cult:
     template: { name: TMDB theme label, theme_name: cult }
@@ -340,6 +347,7 @@ collections:
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 1541 # Thelma & Louise (1991)
       - 556694 # Three Thousand Years of Longing (2022)
+      - 682507 # Where the Crawdads Sing (2022)
 
   Theme__filmmaking:
     template: { name: TMDB theme label, theme_name: filmmaking }
@@ -514,6 +522,7 @@ collections:
       - 46534 # Sweet Karma (2009)
       - 16307 # The Wicker Man (1973)
       - 629 # The Usual Suspects (1995)
+      - 682507 # Where the Crawdads Sing (2022)
 
   Theme__mythology:
     template: { name: TMDB theme label, theme_name: mythology }
