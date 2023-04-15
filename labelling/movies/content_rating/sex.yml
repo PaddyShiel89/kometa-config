@@ -41,6 +41,7 @@ collections:
         label:
           - ID__000059678A # Attack the Block (2011)
           - ID__000497698A # Black Widow (2021)
+          - ID__000002978A # Ghostbusters II (1989)
           - ID__000068721A # Iron Man 3 (2013)
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
@@ -60,6 +61,7 @@ collections:
         label:
           - ID__000068718A # Django Unchained (2012)
           - ID__000524434A # Eternals (2021)
+          - ID__000000620A # Ghostbusters (1984)
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
           - ID__000000098B # Gladiator (2000) [Extended edition]
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
@@ -68,6 +70,7 @@ collections:
           - ID__000674324A # The Banshees of Inisherin (2022)
           - ID__000009340A # The Goonies (1985)
           - ID__000616037A # Thor: Love and Thunder (2022)
+          - ID__000682507A # Where the Crawdads Sing (2022)
 
   BBFC sex lvl 4:
     template:
@@ -83,6 +86,17 @@ collections:
           - ID__000000598A # City of God (2002)
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000001541A # Thelma & Louise (1991)
+
+  BBFC sex lvl 5:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: sex
+        level: 5
+    plex_search:
+      any:
+        label:
+          - ID__000615777A # Babylon (2022)
 
   Real sex:
     template:

@@ -29,6 +29,8 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000620A # Ghostbusters (1984)
+          - ID__000002978A # Ghostbusters II (1989)
           - ID__000000011A # Star Wars (1977) [Theatrical cut]
           - ID__000000011B # Star Wars (1977) [Special edition]
           - ID__000000011C # Star Wars (1977) [DVD cut]
@@ -95,12 +97,14 @@ collections:
           - ID__000004982A # American Gangster (2007) [Theatrical cut]
           - ID__000004982B # American Gangster (2007) [Extended edition]
           - ID__000059678A # Attack the Block (2011)
+          - ID__000615777A # Babylon (2022)
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
           - ID__000000098B # Gladiator (2000) [Extended edition]
           - ID__000674324A # The Banshees of Inisherin (2022)
           - ID__000756999A # The Black Phone (2021)
           - ID__000001541A # Thelma & Louise (1991)
+          - ID__000682507A # Where the Crawdads Sing (2022)
 
   BBFC violence lvl 5:
     template:

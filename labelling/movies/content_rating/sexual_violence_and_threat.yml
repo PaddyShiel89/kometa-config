@@ -11,4 +11,6 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000615777A # Babylon (2022)
           - ID__000001541A # Thelma & Louise (1991)
+          - ID__000682507A # Where the Crawdads Sing (2022)

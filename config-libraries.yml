@@ -16,11 +16,13 @@ libraries:
       - repo: metadata/movies/Attack the Block (2011) {tmdb-59678}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
       - repo: metadata/movies/Baby Driver (2017) {tmdb-339403}
+      - repo: metadata/movies/Babylon (2022) {tmdb-615777}
       - repo: metadata/movies/Baise-moi (2000) {tmdb-3134}
       - repo: metadata/movies/Benedetta (2021) {tmdb-454527}
       - repo: metadata/movies/Bitch Slap (2009) {tmdb-26715}
       - repo: metadata/movies/Black Panther Wakanda Forever (2022) {tmdb-505642}
       - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
+      - repo: metadata/movies/BlacKkKlansman (2018) {tmdb-487558}
       - repo: metadata/movies/Blue Streak (1999) {tmdb-11001}
       - repo: metadata/movies/Borat (2006) {tmdb-496}
       - repo: metadata/movies/Brightburn (2019) {tmdb-531309}
@@ -40,6 +42,8 @@ libraries:
       - repo: metadata/movies/Emmanuelle (1974) {tmdb-24402}
       - repo: metadata/movies/Eternals (2021) {tmdb-524434}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
+      - repo: metadata/movies/Ghostbusters (1984) {tmdb-620}
+      - repo: metadata/movies/Ghostbusters II (1989) {tmdb-2978}
       - repo: metadata/movies/Gladiator (2000) {tmdb-98}
       - repo: metadata/movies/Goodnight, Mister Tom (1998) {tmdb-20546}
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
@@ -115,6 +119,7 @@ libraries:
       - repo: metadata/movies/Trick 'r Treat (2007) {tmdb-23202}
       - repo: metadata/movies/Tropic Thunder (2008) {tmdb-7446}
       - repo: metadata/movies/Wedding Crashers (2005) {tmdb-9522}
+      - repo: metadata/movies/Where the Crawdads Sing (2022) {tmdb-682507}
       - repo: metadata/movies/Your Highness (2011) {tmdb-38319}
       - repo: metadata/movies/Zack and Miri Make a Porno (2008) {tmdb-10358}
       - repo: labelling/movies/editions

@@ -34,4 +34,5 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000615777A # Babylon (2022)
           - ID__000619730A # Don't Worry Darling (2022)

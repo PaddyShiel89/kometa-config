@@ -27,6 +27,7 @@ collections:
           - ID__000000598A # City of God (2002)
           - ID__000068718A # Django Unchained (2012)
           - ID__000756999A # The Black Phone (2021)
+          - ID__000682507A # Where the Crawdads Sing (2022)
 
   BBFC discrimination lvl 4:
     template:
@@ -39,3 +40,4 @@ collections:
         label:
           - ID__000004982A # American Gangster (2007) [Theatrical cut]
           - ID__000004982B # American Gangster (2007) [Extended edition]
+          - ID__000615777A # Babylon (2022)

@@ -34,9 +34,11 @@ collections:
           - ID__000059678A # Attack the Block (2011)
           - ID__000299534A # Avengers: Endgame (2019)
           - ID__000339403A # Baby Driver (2017)
+          - ID__000615777A # Babylon (2022)
           - ID__000454527A # Benedetta (2021)
           - ID__000505642A # Black Panther: Wakanda Forever (2022)
           - ID__000497698A # Black Widow (2021)
+          - ID__000487558A # BlacKkKlansman (2018)
           - ID__000011001A # Blue Streak (1999)
           - ID__000000496A # Borat (2006)
           - ID__000531309A # Brightburn (2019)
@@ -53,6 +55,8 @@ collections:
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000024402A # Emmanuelle (1974)
           - ID__000524434A # Eternals (2021)
+          - ID__000000620A # Ghostbusters (1984)
+          - ID__000002978A # Ghostbusters II (1989)
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
           - ID__000000098B # Gladiator (2000) [Extended edition]
           - ID__000020546A # Goodnight, Mister Tom (1998)
@@ -133,6 +137,7 @@ collections:
           - ID__000023202A # Trick 'r Treat (2007)
           - ID__000007446A # Tropic Thunder (2008)
           - ID__000009522B # Wedding Crashers (2005)
+          - ID__000682507A # Where the Crawdads Sing (2022)
           - ID__000038319A # Your Highness (2011)
           - ID__000010358A # Zack and Miri Make a Porno (2008)
 

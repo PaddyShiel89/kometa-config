@@ -38,6 +38,8 @@ collections:
           - ID__000001771A # Captain America: The First Avenger (2011)
           - ID__000284052A # Doctor Strange (2016)
           - ID__000453395A # Doctor Strange in the Multiverse of Madness (2022)
+          - ID__000000620A # Ghostbusters (1984)
+          - ID__000002978A # Ghostbusters II (1989)
           - ID__000027205A # Inception (2010)
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
@@ -69,6 +71,7 @@ collections:
           - ID__000634649A # Spider-Man: Far from Home (2019)
           - ID__000009340A # The Goonies (1985)
           - ID__000045269A # The King's Speech (2010)
+          - ID__000682507A # Where the Crawdads Sing (2022)
 
   BBFC language lvl 4:
     template:
@@ -84,6 +87,7 @@ collections:
           - ID__000004982A # American Gangster (2007) [Theatrical cut]
           - ID__000004982B # American Gangster (2007) [Extended edition]
           - ID__000059678A # Attack the Block (2011)
+          - ID__000615777A # Babylon (2022)
           - ID__000000598A # City of God (2002)
           - ID__000068718A # Django Unchained (2012)
           - ID__000619730A # Don't Worry Darling (2022)
