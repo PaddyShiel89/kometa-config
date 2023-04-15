@@ -133,6 +133,7 @@ collections:
   Theme__black_comedy:
     template: { name: TMDB theme label, theme_name: black_comedy }
     tmdb_movie:
+      - 615777 # Babylon (2022)
       - 13973 # Choke (2008)
       - 68718 # Django Unchained (2012)
       - 674324 # The Banshees of Inisherin (2022)
@@ -255,6 +256,7 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
       - 59678 # Attack the Block (2011)
+      - 615777 # Babylon (2022)
       - 3134 # Baise-moi (2000)
       - 598 # City of God (2002)
       - 94329 # The Raid (2011)
@@ -334,6 +336,7 @@ collections:
   Theme__filmmaking:
     template: { name: TMDB theme label, theme_name: filmmaking }
     tmdb_movie:
+      - 615777 # Babylon (2022)
       - 42695 # I Am Curious (Yellow) (1967)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
 
