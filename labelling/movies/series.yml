@@ -91,6 +91,12 @@ collections:
     tmdb_movie:
       - 524434 # Eternals (2021)
 
+  Series__Ghostbusters_1984:
+    template:
+      { name: TMDB series label, series_name: Ghostbusters, series_year: 1984 }
+    tmdb_movie:
+      - 620 # Ghostbusters (1984)
+
   Series__Guardians_of_the_Galaxy_2014:
     template:
       {

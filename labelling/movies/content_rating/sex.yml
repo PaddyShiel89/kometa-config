@@ -60,6 +60,7 @@ collections:
         label:
           - ID__000068718A # Django Unchained (2012)
           - ID__000524434A # Eternals (2021)
+          - ID__000000620A # Ghostbusters (1984)
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
           - ID__000000098B # Gladiator (2000) [Extended edition]
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
@@ -80,10 +81,20 @@ collections:
         label:
           - ID__000004982A # American Gangster (2007) [Theatrical cut]
           - ID__000004982B # American Gangster (2007) [Extended edition]
-          - ID__000615777A # Babylon (2022)
           - ID__000000598A # City of God (2002)
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000001541A # Thelma & Louise (1991)
+
+  BBFC sex lvl 5:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: sex
+        level: 5
+    plex_search:
+      any:
+        label:
+          - ID__000615777A # Babylon (2022)
 
   Real sex:
     template:
