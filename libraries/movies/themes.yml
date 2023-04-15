@@ -147,15 +147,6 @@ collections:
         genre: Horror
       sort_by: title.asc
 
-  Western:
-    template:
-      - name: Theme
-        summary: 'set in the American frontier. Commonly referred to as the "Old West" or the "Wild West" and depicted as a hostile, sparsely populated frontier in a state of near-total lawlessness patrolled by outlaws, sheriffs, and numerous other stock "gunslinger" characters.'
-    smart_filter:
-      all:
-        label: "theme: western"
-      sort_by: title.asc
-
   Zombies:
     template:
       - name: Theme
