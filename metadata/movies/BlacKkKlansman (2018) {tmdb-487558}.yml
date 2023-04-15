@@ -1,0 +1,36 @@
+metadata:
+  BlacKkKlansman:
+    title: BlacKkKlansman
+    year: 2018
+    edition_filter: Theatrical cut
+    sort_title: BlacKkKlansman (2018)
+    content_rating: gb/15
+    country.sync: [China, United States of America]
+    director.sync: [Spike Lee]
+    genre.sync: [Biopic, Comedy, Crime, Drama]
+    originally_available: 2018-05-14
+    producer.sync:
+      [
+        Jason Blum,
+        Spike Lee,
+        Raymond Mansfield,
+        Sean McKittrick,
+        Jordan Peele,
+        Shaun Redick,
+      ]
+    studio: Focus Features
+    summary: "Based on actual events. An African American cop successfully infiltrates the local Ku Klux Klan branch with the help of a Jewish surrogate who eventually becomes its leader."
+    tagline: Infiltrate hate.
+    writer.sync:
+      [
+        Charlie Wachtel,
+        David Rabinowitz,
+        Kevin Willmott,
+        Spike Lee,
+        Ron Stallworth,
+      ]
+    label: [ID__000487558A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

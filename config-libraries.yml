@@ -22,6 +22,7 @@ libraries:
       - repo: metadata/movies/Bitch Slap (2009) {tmdb-26715}
       - repo: metadata/movies/Black Panther Wakanda Forever (2022) {tmdb-505642}
       - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
+      - repo: metadata/movies/BlacKkKlansman (2018) {tmdb-487558}
       - repo: metadata/movies/Blue Streak (1999) {tmdb-11001}
       - repo: metadata/movies/Borat (2006) {tmdb-496}
       - repo: metadata/movies/Brightburn (2019) {tmdb-531309}

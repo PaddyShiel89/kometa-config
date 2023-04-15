@@ -80,6 +80,7 @@ collections:
   Theme__based_on_a_book:
     template: { name: TMDB theme label, theme_name: based_on_a_book }
     tmdb_movie:
+      - 487558 # BlacKkKlansman (2018)
       - 598 # City of God (2002)
       - 13973 # Choke (2008)
       - 24402 # Emmanuelle (1974)
@@ -120,6 +121,7 @@ collections:
   Theme__based_on_true_events:
     template: { name: TMDB theme label, theme_name: based_on_true_events }
     tmdb_movie:
+      - 487558 # BlacKkKlansman (2018)
       - 947 # Lawrence of Arabia (1962)
       - 8848 # The Bank Job (2008)
       - 45269 # The King's Speech (2010)
@@ -134,6 +136,7 @@ collections:
     template: { name: TMDB theme label, theme_name: black_comedy }
     tmdb_movie:
       - 615777 # Babylon (2022)
+      - 487558 # BlacKkKlansman (2018)
       - 13973 # Choke (2008)
       - 68718 # Django Unchained (2012)
       - 674324 # The Banshees of Inisherin (2022)
@@ -144,6 +147,7 @@ collections:
   Theme__blaxploitation:
     template: { name: TMDB theme label, theme_name: blaxploitation }
     tmdb_movie:
+      - 487558 # BlacKkKlansman (2018)
       - 68718 # Django Unchained (2012)
 
   Theme__buddy_movie:
@@ -220,6 +224,7 @@ collections:
   Theme__cult:
     template: { name: TMDB theme label, theme_name: cult }
     tmdb_movie:
+      - 487558 # BlacKkKlansman (2018)
       - 16307 # The Wicker Man (1973)
 
   Theme__curses:
@@ -559,6 +564,7 @@ collections:
   Theme__police:
     template: { name: TMDB theme label, theme_name: police }
     tmdb_movie:
+      - 487558 # BlacKkKlansman (2018)
       - 11001 # Blue Streak (1999)
       - 2118 # L.A. Confidential (1997)
       - 10753 # Police Story 2 (1988)
@@ -602,6 +608,7 @@ collections:
     template: { name: TMDB theme label, theme_name: race_and_ethnicity }
     tmdb_movie:
       - 4982 # American Gangster (2007)
+      - 487558 # BlacKkKlansman (2018)
       - 496 # Borat (2006)
       - 947 # Lawrence of Arabia (1962)
       - 68718 # Django Unchained (2012)
@@ -698,6 +705,7 @@ collections:
     template: { name: TMDB theme label, theme_name: spies }
     tmdb_movie:
       - 341013 # Atomic Blonde (2017)
+      - 487558 # BlacKkKlansman (2018)
       - 497698 # Black Widow (2021)
       - 27576 # Salt (2010)
 
