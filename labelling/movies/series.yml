@@ -422,14 +422,6 @@ collections:
           - Hunger Games (2012) 003
           - Hunger Games (2012) 004
 
-  "Series: I Am Curious (1968)":
-    template:
-      - name: Series label
-        series: "I Am Curious (1968)"
-        title_list:
-          - I Am Curious (1963) 001
-          - I Am Curious (1963) 002
-
   "Series: The Incredible Hulk (2008)":
     template:
       - name: Series label
