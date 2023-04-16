@@ -1,0 +1,23 @@
+metadata:
+  What the Peeper Saw:
+    title: What the Peeper Saw
+    year: 1972
+    edition_filter: Uncut edition
+    sort_title: What the Peeper Saw (1972)
+    content_rating: gb/Unrated
+    country.sync: [Germany, Italy, Spain, United Kingdom]
+    director.sync: [James Kelley, Andrea Bianchi]
+    genre.sync: [Crime, Drama, Horror, Mystery, Thriller]
+    original_title: Night Hair Child
+    originally_available: 1972-10-14
+    producer.sync: [Graham Harris, Harry Alan Towers]
+    studio: Cemo Film
+    summary: "A wealthy author's second wife begins to suspect that her 12-year-old stepson may have murdered his mother, who mysteriously died in a bathtub accident."
+    tagline: "What he saw is what he did."
+    writer.sync:
+      [Trevor Preston, Andrea Bianchi, "Erich Kröhnke", Bautista Lacasa Nebot]
+    label: [ID__000112355A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

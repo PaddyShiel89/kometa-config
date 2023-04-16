@@ -1,0 +1,22 @@
+metadata:
+  Room in Rome:
+    title: Room in Rome
+    year: 2010
+    edition_filter: Theatrical cut
+    sort_title: Room in Rome (2010)
+    content_rating: gb/18
+    country.sync: [Spain]
+    director.sync: [Julio Medem]
+    genre.sync: [Drama, Romance]
+    original_title: "Habitación en Roma"
+    originally_available: 2010-04-24
+    producer.sync: ["Álvaro Longoria"]
+    studio: Morena Films
+    summary: "A hotel room in the centre of Rome serves as the setting for two young and recently acquainted women to have a physical adventure that touches their very souls."
+    tagline: One night of passion that will change their lives
+    writer.sync: [Julio Rojas, Julio Medem, Katherine Fugate]
+    label: [ID__000048650A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -1,0 +1,21 @@
+metadata:
+  The Exterminating Angels:
+    title: The Exterminating Angels
+    year: 2006
+    edition_filter: Theatrical cut
+    sort_title: Exterminating Angels (2006)
+    content_rating: gb/18
+    country.sync: [France]
+    director.sync: [Jean-Claude Brisseau]
+    genre.sync: [Drama, Fantasy]
+    original_title: Les anges exterminateurs
+    originally_available: 2006-05-20
+    producer.sync: [Miléna Poylo, Gilles Sacuto]
+    studio: "La Sorcière Rouge"
+    summary: "A filmmaker holds a series of boundary-pushing auditions for his project about female pleasure."
+    writer.sync: [Jean-Claude Brisseau]
+    label: [ID__000019976A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

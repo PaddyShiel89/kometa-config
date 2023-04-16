@@ -1,0 +1,21 @@
+metadata:
+  "Ma mère":
+    title: "Ma mère"
+    year: 2004
+    edition_filter: Theatrical cut
+    sort_title: "Ma mere (2004)"
+    content_rating: gb/18
+    country.sync: [Austria, France, Portugal, Spain]
+    director.sync: ["Christophe Honoré"]
+    genre.sync: [Drama, Romance]
+    original_title: "Ma mère"
+    originally_available: 2004-05-19
+    producer.sync: [Paulo Branco, "Bernard-Henri Lévy"]
+    studio: Gemini Films
+    summary: "When his father dies, a young man is introduced to a world of hedonism and depravity by his attractive, amoral mother."
+    writer.sync: [Georges Bataille, "Christophe Honoré"]
+    label: [ID__000048266A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -86,6 +86,7 @@ collections:
           - ID__000010753B # Police Story 2 (1988) [Uncut restoration]
           - ID__000001892D # Return of the Jedi (1983) [Blu-ray cut]
           - ID__000330459A # Rogue One: A Star Wars Story (2016)
+          - ID__000048650A # Room in Rome (2010)
           - ID__000027576A # Salt (2010) [Theatrical cut]
           - ID__000027576B # Salt (2010) [Extended cut]
           - ID__000027576C # Salt (2010) [Director's cut]
@@ -137,6 +138,7 @@ collections:
           - ID__000023202A # Trick 'r Treat (2007)
           - ID__000007446A # Tropic Thunder (2008)
           - ID__000009522B # Wedding Crashers (2005)
+          - ID__000112355A # What the Peeper Saw (1972)
           - ID__000682507A # Where the Crawdads Sing (2022)
           - ID__000038319A # Your Highness (2011)
           - ID__000010358A # Zack and Miri Make a Porno (2008)
@@ -174,8 +176,11 @@ collections:
           - ID__000101875A # Dressage (1986)
           - ID__000045690A # I Am Curious (Blue) (1968)
           - ID__000042695A # I Am Curious (Yellow) (1967)
+          - ID__000048266A # Ma mère (2004)
+          - ID__000060015A # Novo (2002)
           - ID__000001892A # Return of the Jedi (1983) [Theatrical cut]
           - ID__000001892C # Return of the Jedi (1983) [DVD cut]
+          - ID__000035712A # Secret Things (2002)
           - ID__000011013A # Secretary (2002)
           - ID__000046534A # Sweet Karma (2009)
           - ID__000000011A # Star Wars (1977) [Theatrical cut]
@@ -185,6 +190,7 @@ collections:
           - ID__000001895B # Star Wars: Episode III - Revenge of the Sith (2005) [DVD cut]
           - ID__000001891A # The Empire Strikes Back (1980) [Theatrical cut]
           - ID__000001891C # The Empire Strikes Back (1980) [DVD cut]
+          - ID__000019976A # The Exterminating Angels (2006)
 
   Source__netflix:
     template:
@@ -435,7 +441,6 @@ collections:
           - Resident Evil (2002) 006
           - Resident Evil (2021) 001
           - Rope (1948)
-          - Room in Rome (2010)
           - Rules of Engagement (2000)
           - Saboteur (1942)
           - "Santa Claus: The Movie (1985)"
@@ -515,7 +520,6 @@ collections:
           - View to a Kill (1985)
           - War Dogs (2016)
           - Watchmen (2009)
-          - What the Peeper Saw (1972)
           - What We Do in the Shadows (2014)
           - Witch (2015)
           - Wolf of Wall Street (2013)
@@ -584,13 +588,11 @@ collections:
           - High Fidelity (2000)
           - Hunger (2008)
           - Juan of the Dead (2012)
-          - Ma mere (2004)
           - Mafia! (1998)
           - Match Point (2005)
           - Mexican (2001)
           - Mighty Aphrodite (1995)
           - Night at the Roxbury (1998)
-          - Novo (2002)
           - "Ong-Bak: Muay Thai Warrior (2003)"
           - Remember the Titans (2000)
           - Room (2003)

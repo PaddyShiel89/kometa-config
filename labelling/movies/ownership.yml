@@ -46,11 +46,15 @@ collections:
           - ID__000045690A # I Am Curious (Blue) (1968)
           - ID__000042695A # I Am Curious (Yellow) (1967)
           - ID__000004998A # Import/Export (2007)
+          - ID__000048266A # Ma mère (2004)
           - ID__000010867A # Malèna (2000) [Original Italian cut]
+          - ID__000060015A # Novo (2002)
           - ID__000001892A # Return of the Jedi (1983) [Theatrical cut]
           - ID__000001892C # Return of the Jedi (1983) [DVD cut]
           - ID__000001892D # Return of the Jedi (1983) [Blu-ray cut]
           - ID__000330459A # Rogue One: A Star Wars Story (2016)
+          - ID__000048650A # Room in Rome (2010)
+          - ID__000035712A # Secret Things (2002)
           - ID__000011013A # Secretary (2002)
           - ID__000348350A # Solo: A Star Wars Story (2018)
           - ID__000000011A # Star Wars (1977) [Theatrical cut]
@@ -72,6 +76,8 @@ collections:
           - ID__000001891A # The Empire Strikes Back (1980) [Theatrical cut]
           - ID__000001891C # The Empire Strikes Back (1980) [DVD cut]
           - ID__000001891D # The Empire Strikes Back (1980) [Blu-ray cut]
+          - ID__000019976A # The Exterminating Angels (2006)
+          - ID__000112355A # What the Peeper Saw (1972)
 
   Ownership__own_different_source:
     template:
@@ -241,7 +247,6 @@ collections:
           - Dark Knight (2008)
           - Dark Knight Rises (2012)
           - Departed (2006)
-          - Exterminating Angels (2006)
           - Farewell, My Queen (2012)
           - Fausto 5.0 (2001)
           - French Dispatch (2021)
@@ -264,21 +269,18 @@ collections:
           - Lion King (1994) 001
           - Lost Girls and Love Hotels (2020)
           - Lucy (2014)
-          - Ma mere (2004)
           - Martha Marcy May Marlene (2011)
           - Match Point (2005)
           - Mexican (2001)
           - Mighty Aphrodite (1995)
           - Night at the Roxbury (1998)
           - No Country for Old Men (2007)
-          - Novo (2002)
           - Ocean's 11 (2001) 003
           - "Ong-Bak: Muay Thai Warrior (2003)"
           - Paul (2011)
           - Quantum of Solace (2008)
           - Remember the Titans (2000)
           - Room (2003)
-          - Room in Rome (2010)
           - Saw (2004) 001
           - Saw (2004) 002
           - Saw (2004) 003
@@ -302,7 +304,6 @@ collections:
           - Under the Skin (2014)
           - Wake Up, Ron Burgundy (2004)
           - Watchmen (2009)
-          - What the Peeper Saw (1972)
           - Wind that Shakes the Barley (2006)
           - Wolf of Wall Street (2013)
           - Wonder Woman (2017) 001
@@ -394,7 +395,6 @@ collections:
           - Rules of Engagement (2000)
           - Saboteur (1942)
           - Scorpion King (2002) 001
-          - Secret Things (2002)
           - Seven (1995)
           - Shadow of a Doubt (1943)
           - Shank (2010)

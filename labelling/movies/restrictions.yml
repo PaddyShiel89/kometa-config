@@ -15,6 +15,12 @@ collections:
       - 64124 # À l'aventure (2009)
       - 101875 # Dressage (1986)
       - 24402 # Emmanuelle (1974)
+      - 48266 # Ma mère (2004)
+      - 60015 # Novo (2002)
+      - 48650 # Room in Rome (2010)
+      - 35712 # Secret Things (2002)
+      - 19976 # The Exterminating Angels (2006)
+      - 112355 # What the Peeper Saw (1972)
 
   # Blacklist for family users
   Restriction__blacklist_family:
