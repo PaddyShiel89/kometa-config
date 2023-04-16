@@ -6,6 +6,6 @@ collections:
       sort_by: duration.asc
     collection_mode: hide
     file_poster: /config/assets/general/Movies/Quick Flicks.png
-    sort_title: "!10_Quick Flicks"
+    sort_title: "!08_00_Quick Flicks"
     summary: "Movies no longer than 100 minutes in length, ordered from shortest to longest."
     sync_mode: sync
