@@ -445,6 +445,7 @@ collections:
     tmdb_movie:
       - 48266 # Ma mère (2004)
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 112355 # What the Peeper Saw (1972)
 
   Theme__journalists:
     template: { name: TMDB theme label, theme_name: journalists }
@@ -640,6 +641,7 @@ collections:
       - 27205 # Inception (2010)
       - 882598 # Smile (2022)
       - 65086 # The Woman in Black (2012)
+      - 112355 # What the Peeper Saw (1972)
 
   Theme__race_and_ethnicity:
     template: { name: TMDB theme label, theme_name: race_and_ethnicity }
@@ -1166,7 +1168,6 @@ collections:
           - Invisible Man (2020)
           - Last Night in Soho (2021)
           - Shutter Island (2010)
-          - What the Peeper Saw (1972)
 
   "Theme: religion":
     template:

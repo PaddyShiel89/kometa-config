@@ -20,6 +20,7 @@ collections:
       - 48650 # Room in Rome (2010)
       - 35712 # Secret Things (2002)
       - 19976 # The Exterminating Angels (2006)
+      - 112355 # What the Peeper Saw (1972)
 
   # Blacklist for family users
   Restriction__blacklist_family:

@@ -77,6 +77,7 @@ collections:
           - ID__000001891C # The Empire Strikes Back (1980) [DVD cut]
           - ID__000001891D # The Empire Strikes Back (1980) [Blu-ray cut]
           - ID__000019976A # The Exterminating Angels (2006)
+          - ID__000112355A # What the Peeper Saw (1972)
 
   Ownership__own_different_source:
     template:
@@ -303,7 +304,6 @@ collections:
           - Under the Skin (2014)
           - Wake Up, Ron Burgundy (2004)
           - Watchmen (2009)
-          - What the Peeper Saw (1972)
           - Wind that Shakes the Barley (2006)
           - Wolf of Wall Street (2013)
           - Wonder Woman (2017) 001
