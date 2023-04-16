@@ -1,0 +1,21 @@
+metadata:
+  Novo:
+    title: Novo
+    year: 2002
+    edition_filter: Theatrical cut
+    sort_title: Novo (2002)
+    content_rating: gb/18
+    country.sync: [France, Spain, Switzerland]
+    director.sync: [Jean-Pierre Limosin]
+    genre.sync: [Drama, Comedy, Romance]
+    original_title: Novo
+    originally_available: 2002-08-03
+    producer.sync: [Hengameh Panahi]
+    studio: Alta Films
+    summary: "Unable to recall the most basic facts of his life and his sexual past, he quickly falls prey to the erotic appetites of the women he encounters."
+    writer.sync: [Christophe Honoré, Jean-Pierre Limosin]
+    label: [ID__000060015A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
