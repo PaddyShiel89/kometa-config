@@ -109,6 +109,16 @@ collections:
         genre: Horror
       sort_by: title.asc
 
+  Quick Flicks:
+    smart_filter:
+      all:
+        duration.lte: 100
+      sort_by: duration.asc
+    collection_mode: hide
+    sort_title: "!08_00_Quick Flicks"
+    summary: "Movies no longer than 100 minutes in length, ordered from shortest to longest."
+    sync_mode: sync
+
   Slasher:
     template:
       - name: Theme
