@@ -28,18 +28,6 @@ collections:
       sort_by: title.asc
     visible_home: range(11/24-01/7)
 
-  "Film Noir & Neo-Noir":
-    template:
-      - name: Theme
-        summary: "in the crime genre associated with a low-key, black-and-white visual style and which emphasize cynical attitudes and motivations. Also includes subgenres and offshoots of film noir, such as neo-noir."
-    smart_filter:
-      any:
-        label:
-          - Theme__neo_noir
-          - "theme: film noir"
-          - "theme: neo-noir"
-      sort_by: title.asc
-
   "Found Footage & Mockumentary":
     template:
       - name: Theme
@@ -81,6 +69,18 @@ collections:
     smart_filter:
       all:
         label: "theme: murder mystery"
+      sort_by: title.asc
+
+  Noir:
+    template:
+      - name: Theme
+        summary: "in the crime genre associated with a low-key, often black-and-white visual style and which emphasize cynical attitudes and motivations. Also includes subgenres and offshoots of film noir, such as neo-noir."
+    smart_filter:
+      any:
+        label:
+          - Theme__neo_noir
+          - "theme: film noir"
+          - "theme: neo-noir"
       sort_by: title.asc
 
   Parodies and Spoofs:
