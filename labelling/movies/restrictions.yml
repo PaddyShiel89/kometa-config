@@ -15,6 +15,7 @@ collections:
       - 64124 # À l'aventure (2009)
       - 101875 # Dressage (1986)
       - 24402 # Emmanuelle (1974)
+      - 19976 # The Exterminating Angels (2006)
 
   # Blacklist for family users
   Restriction__blacklist_family:

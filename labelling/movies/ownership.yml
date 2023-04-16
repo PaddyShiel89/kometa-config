@@ -72,6 +72,7 @@ collections:
           - ID__000001891A # The Empire Strikes Back (1980) [Theatrical cut]
           - ID__000001891C # The Empire Strikes Back (1980) [DVD cut]
           - ID__000001891D # The Empire Strikes Back (1980) [Blu-ray cut]
+          - ID__000019976A # The Exterminating Angels (2006)
 
   Ownership__own_different_source:
     template:
@@ -241,7 +242,6 @@ collections:
           - Dark Knight (2008)
           - Dark Knight Rises (2012)
           - Departed (2006)
-          - Exterminating Angels (2006)
           - Farewell, My Queen (2012)
           - Fausto 5.0 (2001)
           - French Dispatch (2021)
