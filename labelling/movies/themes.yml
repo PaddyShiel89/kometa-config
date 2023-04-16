@@ -305,6 +305,7 @@ collections:
       - 10867 # Malèna (2000)
       - 60015 # Novo (2002)
       - 48650 # Room in Rome (2010)
+      - 35712 # Secret Things (2002)
       - 11013 # Secretary (2002)
       - 46534 # Sweet Karma (2009)
       - 19976 # The Exterminating Angels (2006)
@@ -384,6 +385,7 @@ collections:
       - 10867 # Malèna (2000)
       - 60015 # Novo (2002)
       - 10753 # Police Story 2 (1988)
+      - 35712 # Secret Things (2002)
       - 19976 # The Exterminating Angels (2006)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 94329 # The Raid (2011)
@@ -460,6 +462,7 @@ collections:
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 48650 # Room in Rome (2010)
+      - 35712 # Secret Things (2002)
       - 19976 # The Exterminating Angels (2006)
 
   Theme__mafia:
@@ -710,6 +713,7 @@ collections:
     template: { name: TMDB theme label, theme_name: sex_work }
     tmdb_movie:
       - 48266 # Ma mère (2004)
+      - 35712 # Secret Things (2002)
       - 158914 # The Look of Love (2013)
       - 10358 # Zack and Miri Make a Porno (2008)
 
@@ -956,7 +960,6 @@ collections:
           - Basic Instinct (1992) 001
           - Chloe (2009)
           - Deep Water (2022)
-          - Secret Things (2002)
           - Sliver (1993)
           - Species (1995) 001
 
@@ -1003,7 +1006,6 @@ collections:
           - Pan's Labyrinth (2006)
           - Parasite (2019)
           - Police Story (1985) 001
-          - Secret Things (2002)
           - Train to Busan (2016)
 
   "Theme: heist":
