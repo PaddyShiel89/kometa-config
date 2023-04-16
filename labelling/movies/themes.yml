@@ -89,6 +89,7 @@ collections:
       - 20546 # Goodnight, Mister Tom (1998)
       - 2118 # L.A. Confidential (1997)
       - 947 # Lawrence of Arabia (1962)
+      - 48266 # Ma mère (2004)
       - 180 # Minority Report (2002)
       - 11013 # Secretary (2002)
       - 808 # Shrek (2001)
@@ -295,6 +296,7 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 42695 # I Am Curious (Yellow) (1967)
       - 45690 # I Am Curious (Blue) (1968)
+      - 48266 # Ma mère (2004)
       - 10867 # Malèna (2000)
       - 11013 # Secretary (2002)
       - 46534 # Sweet Karma (2009)
@@ -370,6 +372,7 @@ collections:
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
       - 4998 # Import/Export (2007)
+      - 48266 # Ma mère (2004)
       - 10867 # Malèna (2000)
       - 10753 # Police Story 2 (1988)
       - 19976 # The Exterminating Angels (2006)
@@ -429,6 +432,7 @@ collections:
   Theme__incest:
     template: { name: TMDB theme label, theme_name: incest }
     tmdb_movie:
+      - 48266 # Ma mère (2004)
       - 15472 # The Girl with the Dragon Tattoo (2009)
 
   Theme__journalists:
@@ -445,6 +449,7 @@ collections:
       - 86331 # Desire (2011)
       - 24402 # Emmanuelle (1974)
       - 947 # Lawrence of Arabia (1962)
+      - 48266 # Ma mère (2004)
       - 19976 # The Exterminating Angels (2006)
 
   Theme__mafia:
@@ -694,6 +699,7 @@ collections:
   Theme__sex_work:
     template: { name: TMDB theme label, theme_name: sex_work }
     tmdb_movie:
+      - 48266 # Ma mère (2004)
       - 158914 # The Look of Love (2013)
       - 10358 # Zack and Miri Make a Porno (2008)
 
