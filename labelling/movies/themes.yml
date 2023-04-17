@@ -27,6 +27,7 @@ collections:
       - 524434 # Eternals (2021)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
       - 762504 # Nope (2022)
       - 1892 # Return of the Jedi (1983)
       - 330459 # Rogue One: A Star Wars Story (2016)
@@ -95,6 +96,7 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 20546 # Goodnight, Mister Tom (1998)
       - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
       - 2118 # L.A. Confidential (1997)
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
@@ -131,6 +133,7 @@ collections:
       - 501170 # Doctor Sleep (2019)
       - 343674 # Gerald's Game (2017)
       - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
       - 497 # The Green Mile (1999)
 
   Theme__based_on_true_events:
@@ -173,6 +176,7 @@ collections:
       - 501170 # Doctor Sleep (2019)
       - 620 # Ghostbusters (1984)
       - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
       - 808 # Shrek (2001)
       - 9340 # The Goonies (1985)
       - 45269 # The King's Speech (2010)
@@ -221,6 +225,7 @@ collections:
     template: { name: TMDB theme label, theme_name: clowns }
     tmdb_movie:
       - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
 
   Theme__cold_war:
     template: { name: TMDB theme label, theme_name: cold_war }
@@ -272,6 +277,7 @@ collections:
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
       - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
@@ -533,6 +539,8 @@ collections:
       - 59678 # Attack the Block (2011)
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
+      - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
       - 762504 # Nope (2022)
       - 882598 # Smile (2022)
       - 10216 # Species II (1998)
@@ -643,6 +651,7 @@ collections:
       - 619730 # Don't Worry Darling (2022)
       - 343674 # Gerald's Game (2017)
       - 27205 # Inception (2010)
+      - 474350 # It Chapter Two (2019)
       - 882598 # Smile (2022)
       - 65086 # The Woman in Black (2012)
       - 112355 # What the Peeper Saw (1972)
@@ -676,6 +685,7 @@ collections:
       - 98 # Gladiator (2000)
       - 610253 # Halloween Kills (2021)
       - 68721 # Iron Man 3 (2013)
+      - 474350 # It Chapter Two (2019)
       - 245891 # John Wick (2015)
       - 101 # Léon: The Professional (1995)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
@@ -736,6 +746,7 @@ collections:
     template: { name: TMDB theme label, theme_name: shapeshifters }
     tmdb_movie:
       - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
       - 882598 # Smile (2022)
 
   Theme__slasher:
@@ -816,6 +827,7 @@ collections:
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
       - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
       - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
@@ -906,7 +918,6 @@ collections:
           - Fifth Element (1997)
           - Guardians of the Galaxy (2014) 001
           - Indiana Jones (1981) 004
-          - IT (2017) 002
           - Men in Black (1997) 001
           - Men in Black (1997) 002
           - Muppets from Space (1999)
@@ -1250,7 +1261,6 @@ collections:
           - Indiana Jones (1981) 001
           - Indiana Jones (1981) 002
           - Indiana Jones (1981) 003
-          - IT (2017) 002
           - It Follows (2015)
           - "Lara Croft: Tomb Raider (2001) 001"
           - Mist (2007)

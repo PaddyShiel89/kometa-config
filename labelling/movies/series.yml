@@ -155,6 +155,7 @@ collections:
     template: { name: TMDB series label, series_name: It, series_year: 2017 }
     tmdb_movie:
       - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
 
   Series__John_Wick_2015:
     template:
