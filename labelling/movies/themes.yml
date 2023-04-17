@@ -13,6 +13,7 @@ collections:
     template: { name: TMDB theme label, theme_name: addiction }
     tmdb_movie:
       - 13973 # Choke (2008)
+      - 694 # The Shining (1980)
 
   Theme__aliens:
     template: { name: TMDB theme label, theme_name: aliens }
@@ -114,6 +115,7 @@ collections:
       - 45269 # The King's Speech (2010)
       - 5876 # The Mist (2007)
       - 278 # The Shawshank Redemption (1994)
+      - 694 # The Shining (1980)
       - 16307 # The Wicker Man (1973)
       - 65086 # The Woman in Black (2012)
       - 556694 # Three Thousand Years of Longing (2022)
@@ -142,6 +144,7 @@ collections:
       - 497 # The Green Mile (1999)
       - 5876 # The Mist (2007)
       - 278 # The Shawshank Redemption (1994)
+      - 694 # The Shining (1980)
 
   Theme__based_on_true_events:
     template: { name: TMDB theme label, theme_name: based_on_true_events }
@@ -302,6 +305,7 @@ collections:
       - 3134 # Baise-moi (2000)
       - 619730 # Don't Worry Darling (2022)
       - 20546 # Goodnight, Mister Tom (1998)
+      - 694 # The Shining (1980)
 
   Theme__dreams:
     template: { name: TMDB theme label, theme_name: dreams }
@@ -430,6 +434,7 @@ collections:
       - 157433 # Pet Sematary (2019)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 756999 # The Black Phone (2021)
+      - 694 # The Shining (1980)
       - 65086 # The Woman in Black (2012)
 
   Theme__grief:
@@ -659,6 +664,7 @@ collections:
     tmdb_movie:
       - 501170 # Doctor Sleep (2019)
       - 756999 # The Black Phone (2021)
+      - 694 # The Shining (1980)
 
   Theme__psychological:
     template: { name: TMDB theme label, theme_name: psychological }
@@ -670,6 +676,7 @@ collections:
       - 27205 # Inception (2010)
       - 474350 # It Chapter Two (2019)
       - 882598 # Smile (2022)
+      - 694 # The Shining (1980)
       - 65086 # The Woman in Black (2012)
       - 112355 # What the Peeper Saw (1972)
 
@@ -1290,7 +1297,6 @@ collections:
           - Pirates of the Caribbean (2003) 001
           - Scary Movie (2000) 002
           - Scary Movie (2000) 003
-          - Shining (1980)
           - Silent Hill (2006) 001
           - Tenacious D in the Pick of Destiny (2006)
           - Witch (2015)
