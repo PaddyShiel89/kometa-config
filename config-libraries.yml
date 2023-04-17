@@ -35,6 +35,7 @@ libraries:
       - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
       - repo: metadata/movies/Desire (2011) {tmdb-86331}
       - repo: metadata/movies/Django Unchained (2012) {tmdb-68718}
+      - repo: metadata/movies/Doctor Sleep (2019) {tmdb-501170}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
       - repo: metadata/movies/Doctor Strange in the Multiverse of Madness (2022) {tmdb-453395}
       - repo: metadata/movies/Don't Worry Darling (2022) {tmdb-619730}

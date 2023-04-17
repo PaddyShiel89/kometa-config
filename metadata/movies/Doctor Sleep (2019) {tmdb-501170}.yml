@@ -1,0 +1,21 @@
+metadata:
+  Doctor Sleep:
+    title: Doctor Sleep
+    year: 2019
+    edition_filter: Theatrical
+    sort_title: Doctor Sleep (2019)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Mike Flanagan]
+    genre.sync: [Fantasy, Horror, Thriller]
+    originally_available: 2019-10-30
+    producer.sync: [Jon Berg, Trevor Macy]
+    studio: Intrepid Pictures
+    summary: "Years following the events of The Shining, a now-adult Dan Torrance must protect a young girl with similar powers from a cult who prey on children with powers to remain immortal."
+    tagline: The World will Shine Again.
+    writer.sync: [Mike Flanagan, Stephen King]
+    label: [ID__000501170A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
