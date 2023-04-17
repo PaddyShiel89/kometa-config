@@ -62,6 +62,7 @@ collections:
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 180 # Minority Report (2002)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 5876 # The Mist (2007)
 
   Theme__amnesia:
     template: { name: TMDB theme label, theme_name: amnesia }
@@ -110,6 +111,7 @@ collections:
       - 497 # The Green Mile (1999)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 45269 # The King's Speech (2010)
+      - 5876 # The Mist (2007)
       - 16307 # The Wicker Man (1973)
       - 65086 # The Woman in Black (2012)
       - 556694 # Three Thousand Years of Longing (2022)
@@ -135,6 +137,7 @@ collections:
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 497 # The Green Mile (1999)
+      - 5876 # The Mist (2007)
 
   Theme__based_on_true_events:
     template: { name: TMDB theme label, theme_name: based_on_true_events }
@@ -282,6 +285,11 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 882598 # Smile (2022)
+
+  Theme__disaster:
+    template: { name: TMDB theme label, theme_name: disaster }
+    tmdb_movie:
+      - 5876 # The Mist (2007)
 
   Theme__domestic_violence:
     template: { name: TMDB theme label, theme_name: domestic_violence }
@@ -544,6 +552,7 @@ collections:
       - 762504 # Nope (2022)
       - 882598 # Smile (2022)
       - 10216 # Species II (1998)
+      - 5876 # The Mist (2007)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
 
@@ -836,6 +845,7 @@ collections:
       - 756999 # The Black Phone (2021)
       - 19976 # The Exterminating Angels (2006)
       - 497 # The Green Mile (1999)
+      - 5876 # The Mist (2007)
       - 65086 # The Woman in Black (2012)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
@@ -1263,7 +1273,6 @@ collections:
           - Indiana Jones (1981) 003
           - It Follows (2015)
           - "Lara Croft: Tomb Raider (2001) 001"
-          - Mist (2007)
           - Mummy (1999) 001
           - Muppet Christmas Carol (1992)
           - Nocturne (2020)
