@@ -50,6 +50,7 @@ collections:
           - ID__000025239A # Day of the Woman (1978)
           - ID__000086331A # Desire (2011)
           - ID__000068718A # Django Unchained (2012)
+          - ID__000501170A # Doctor Sleep (2019)
           - ID__000284052A # Doctor Strange (2016)
           - ID__000453395A # Doctor Strange in the Multiverse of Madness (2022)
           - ID__000619730A # Don't Worry Darling (2022)
@@ -67,6 +68,8 @@ collections:
           - ID__000004998A # Import/Export (2007)
           - ID__000027205A # Inception (2010)
           - ID__000068721A # Iron Man 3 (2013)
+          - ID__000346364A # It (2017)
+          - ID__000474350A # It Chapter Two (2019)
           - ID__000245891A # John Wick (2015)
           - ID__000324552A # John Wick: Chapter 2 (2017)
           - ID__000458156A # John Wick: Chapter 3 - Parabellum (2019)
@@ -78,6 +81,7 @@ collections:
           - ID__000010867B # Malèna (2000) [International cut]
           - ID__000000180A # Minority Report (2002)
           - ID__000762504A # Nope (2022)
+          - ID__000157433A # Pet Sematary (2019)
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
@@ -121,11 +125,15 @@ collections:
           - ID__000000240A # The Godfather Part II (1975)
           - ID__000000242A # The Godfather Part III (1990)
           - ID__000009340A # The Goonies (1985)
+          - ID__000000497A # The Green Mile (1999)
           - ID__000007453A # The Hitchhiker's Guide to the Galaxy (2005)
           - ID__000045269A # The King's Speech (2010)
           - ID__000158914A # The Look of Love (2013)
+          - ID__000005876A # The Mist (2007)
           - ID__000094329A # The Raid (2011)
           - ID__000180299A # The Raid 2 (2014)
+          - ID__000000278A # The Shawshank Redemption (1994)
+          - ID__000000694A # The Shining (1980)
           - ID__000648579A # The Unbearable Weight of Massive Talent (2022)
           - ID__000000629A # The Usual Suspects (1995)
           - ID__000016307A # The Wicker Man (1973) [UK theatrical cut]
@@ -268,7 +276,6 @@ collections:
           - Die Hard (1988) 001
           - Disappearance of Alice Creed (2010)
           - District 9 (2009)
-          - Doctor Sleep (2019)
           - "Dodgeball: A True Underdog Story (2004)"
           - Dolce Vita (1960)
           - Dr. No (1962)
@@ -297,7 +304,6 @@ collections:
           - GoldenEye (1995)
           - Goodfellas (1990)
           - Great Muppet Caper (1981)
-          - Green Mile (1999)
           - Guardians of the Galaxy (2014) 001
           - Halloween (1978) 001
           - Halloween (1978) 002
@@ -343,8 +349,6 @@ collections:
           - Invisible Man (2020)
           - Iron Man (2008) 001
           - Iron Man (2008) 002
-          - IT (2017) 001
-          - IT (2017) 002
           - It Follows (2015)
           - Jaws (1975) 001
           - Jojo Rabbit (2019)
@@ -388,7 +392,6 @@ collections:
           - Minority Report (2002)
           - Miracle on 34th Street (1994)
           - Miss Sloane (2016)
-          - Mist (2007)
           - Monster (2004)
           - Moonraker (1979)
           - Mr and Mrs Smith (2005)
@@ -416,7 +419,6 @@ collections:
           - Pan's Labyrinth (2006)
           - Parasite (2019)
           - Paul (2011)
-          - Pet Sematary (2019)
           - Pirates of the Caribbean (2003) 001
           - Planet Terror (2007)
           - Platoon (1986)
@@ -468,10 +470,8 @@ collections:
           - Shame (2011)
           - Shank (2010)
           - Shaun of the Dead (2004)
-          - Shawshank Redemption (1994)
           - Sherlock Holmes (2009) 001
           - Sherlock Holmes (2009) 002
-          - Shining (1980)
           - Shutter Island (2010)
           - Silence of the Lambs (1991)
           - Silent Hill (2006) 001

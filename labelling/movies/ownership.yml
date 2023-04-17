@@ -104,6 +104,7 @@ collections:
           - ID__000027576B # Salt (2010) [Extended cut]
           - ID__000027576C # Salt (2010) [Director's cut]
           - ID__000000558A # Spider-Man 2 (2004) [Theatrical cut]
+          - ID__000000278A # The Shawshank Redemption (1994)
 
   Ownership__rented:
     template:
@@ -145,6 +146,7 @@ collections:
           - ID__000025239A # Day of the Woman (1978)
           - ID__000086331A # Desire (2011)
           - ID__000068718A # Django Unchained (2012)
+          - ID__000501170A # Doctor Sleep (2019)
           - ID__000284052A # Doctor Strange (2016)
           - ID__000453395A # Doctor Strange in the Multiverse of Madness (2022)
           - ID__000619730A # Don't Worry Darling (2022)
@@ -159,6 +161,8 @@ collections:
           - ID__000610253B # Halloween Kills (2021) [Extended cut]
           - ID__000050456A # Hanna (2011)
           - ID__000027205A # Inception (2010)
+          - ID__000346364A # It (2017)
+          - ID__000474350A # It Chapter Two (2019)
           - ID__000245891A # John Wick (2015)
           - ID__000324552A # John Wick: Chapter 2 (2017)
           - ID__000458156A # John Wick: Chapter 3 - Parabellum (2019)
@@ -169,6 +173,7 @@ collections:
           - ID__000010867B # Malèna (2000) [International cut]
           - ID__000000180A # Minority Report (2002)
           - ID__000762504A # Nope (2022)
+          - ID__000157433A # Pet Sematary (2019)
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
@@ -197,11 +202,15 @@ collections:
           - ID__000000240A # The Godfather Part II (1975)
           - ID__000000242A # The Godfather Part III (1990)
           - ID__000009340A # The Goonies (1985)
+          - ID__000000497A # The Green Mile (1999)
           - ID__000007453A # The Hitchhiker's Guide to the Galaxy (2005)
           - ID__000045269A # The King's Speech (2010)
           - ID__000158914A # The Look of Love (2013)
+          - ID__000005876A # The Mist (2007)
           - ID__000094329A # The Raid (2011)
           - ID__000180299A # The Raid 2 (2014)
+          - ID__000000278A # The Shawshank Redemption (1994)
+          - ID__000000694A # The Shining (1980)
           - ID__000648579A # The Unbearable Weight of Massive Talent (2022)
           - ID__000000629A # The Usual Suspects (1995)
           - ID__000016307A # The Wicker Man (1973) [UK theatrical cut]
@@ -398,7 +407,6 @@ collections:
           - Seven (1995)
           - Shadow of a Doubt (1943)
           - Shank (2010)
-          - Shawshank Redemption (1994)
           - Silence of the Lambs (1991)
           - Sin City (2005) 001
           - Super 8 (2011)
@@ -458,7 +466,6 @@ collections:
           - Devil's Advocate (1997)
           - Devil's Backbone (2001)
           - Die Another Day (2002)
-          - Doctor Sleep (2019)
           - "Dodgeball: A True Underdog Story (2004)"
           - Dolce Vita (1960)
           - Dracula (1992)
@@ -473,7 +480,6 @@ collections:
           - Freaked (1994)
           - Gilda (1946)
           - Great Muppet Caper (1981)
-          - Green Mile (1999)
           - Halloween (1978) 001
           - Halloween (1978) 004
           - Halloween (1978) 005
@@ -507,8 +513,6 @@ collections:
           - Indiana Jones (1981) 003
           - Indiana Jones (1981) 004
           - Invisible Man (2020)
-          - IT (2017) 001
-          - IT (2017) 002
           - It Follows (2015)
           - Jojo Rabbit (2019)
           - Jolene (2008)
@@ -532,7 +536,6 @@ collections:
           - Minority Report (2002)
           - Miracle on 34th Street (1994)
           - Miss Sloane (2016)
-          - Mist (2007)
           - Monster (2004)
           - Nativity! (2009) 001
           - National Treasure (2004) 001
@@ -542,7 +545,6 @@ collections:
           - Palm Springs (2020)
           - Pan's Labyrinth (2006)
           - Parasite (2019)
-          - Pet Sematary (2019)
           - Pirates of the Caribbean (2003) 001
           - Planet Terror (2007)
           - Police Story (1985) 001
@@ -576,7 +578,6 @@ collections:
           - Shame (2011)
           - Sherlock Holmes (2009) 001
           - Sherlock Holmes (2009) 002
-          - Shining (1980)
           - Shutter Island (2010)
           - Sin City (2005) 002
           - Single Man (2009)

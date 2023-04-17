@@ -1,0 +1,22 @@
+metadata:
+  It Chapter Two:
+    title: "It: Chapter Two"
+    year: 2019
+    edition_filter: Theatrical cut
+    sort_title: "It (2019) 002"
+    content_rating: gb/15
+    country.sync: [Canada, United States of America]
+    director.sync: [Andy Muschietti]
+    genre.sync: [Fantasy, Horror]
+    original_title: It Chapter Two
+    originally_available: 2019-08-26
+    producer.sync: [Roy Lee, Dan Lin, Barbara Muschietti]
+    studio: Vertigo Entertainment
+    summary: "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club has grown up and moved away, until a devastating phone call brings them back."
+    tagline: "You'll Float Again"
+    writer.sync: [Stephen King, Gary Dauberman]
+    label: [ID__000474350A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

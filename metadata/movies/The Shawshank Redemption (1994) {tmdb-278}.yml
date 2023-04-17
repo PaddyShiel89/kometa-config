@@ -1,0 +1,21 @@
+metadata:
+  The Shawshank Redemption:
+    title: The Shawshank Redemption
+    year: 1994
+    edition_filter: Theatrical cut
+    sort_title: Shawshank Redemption (1994)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Frank Darabont]
+    genre.sync: [Crime, Drama]
+    originally_available: 1994-09-10
+    producer.sync: [Niki Marvin]
+    studio: Castle Rock Entertainment
+    summary: "Over several years, two convicts form a friendship, seeking consolation and eventually redemption through simple compassion."
+    tagline: "Fear can hold you prisoner. Hope can set you free."
+    writer.sync: [Stephen King, Frank Darabont]
+    label: [ID__000000278A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

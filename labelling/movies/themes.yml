@@ -13,6 +13,7 @@ collections:
     template: { name: TMDB theme label, theme_name: addiction }
     tmdb_movie:
       - 13973 # Choke (2008)
+      - 694 # The Shining (1980)
 
   Theme__aliens:
     template: { name: TMDB theme label, theme_name: aliens }
@@ -26,6 +27,8 @@ collections:
       - 299537 # Captain Marvel (2019)
       - 524434 # Eternals (2021)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
+      - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
       - 762504 # Nope (2022)
       - 1892 # Return of the Jedi (1983)
       - 330459 # Rogue One: A Star Wars Story (2016)
@@ -60,6 +63,7 @@ collections:
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 180 # Minority Report (2002)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 5876 # The Mist (2007)
 
   Theme__amnesia:
     template: { name: TMDB theme label, theme_name: amnesia }
@@ -89,21 +93,29 @@ collections:
       - 487558 # BlacKkKlansman (2018)
       - 598 # City of God (2002)
       - 13973 # Choke (2008)
+      - 501170 # Doctor Sleep (2019)
       - 24402 # Emmanuelle (1974)
       - 343674 # Gerald's Game (2017)
       - 20546 # Goodnight, Mister Tom (1998)
+      - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
       - 2118 # L.A. Confidential (1997)
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 180 # Minority Report (2002)
+      - 157433 # Pet Sematary (2019)
       - 11013 # Secretary (2002)
       - 808 # Shrek (2001)
       - 756999 # The Black Phone (2021)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1974)
+      - 497 # The Green Mile (1999)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 45269 # The King's Speech (2010)
+      - 5876 # The Mist (2007)
+      - 278 # The Shawshank Redemption (1994)
+      - 694 # The Shining (1980)
       - 16307 # The Wicker Man (1973)
       - 65086 # The Woman in Black (2012)
       - 556694 # Three Thousand Years of Longing (2022)
@@ -124,7 +136,15 @@ collections:
     template:
       { name: TMDB theme label, theme_name: based_on_works_by_stephen_king }
     tmdb_movie:
+      - 501170 # Doctor Sleep (2019)
       - 343674 # Gerald's Game (2017)
+      - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
+      - 157433 # Pet Sematary (2019)
+      - 497 # The Green Mile (1999)
+      - 5876 # The Mist (2007)
+      - 278 # The Shawshank Redemption (1994)
+      - 694 # The Shining (1980)
 
   Theme__based_on_true_events:
     template: { name: TMDB theme label, theme_name: based_on_true_events }
@@ -163,10 +183,14 @@ collections:
     tmdb_movie:
       - 3134 # Baise-moi (2000)
       - 11001 # Blue Streak (1999)
+      - 501170 # Doctor Sleep (2019)
       - 620 # Ghostbusters (1984)
+      - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
       - 808 # Shrek (2001)
       - 9340 # The Goonies (1985)
       - 45269 # The King's Speech (2010)
+      - 278 # The Shawshank Redemption (1994)
       - 1541 # Thelma & Louise (1991)
       - 9522 # Wedding Crashers (2005)
       - 38319 # Your Highness (2011)
@@ -187,6 +211,7 @@ collections:
     template: { name: TMDB theme label, theme_name: chase }
     tmdb_movie:
       - 339403 # Baby Driver (2017)
+      - 501170 # Doctor Sleep (2019)
       - 50456 # Hanna (2011)
       - 180 # Minority Report (2002)
       - 10216 # Species II (1998)
@@ -207,6 +232,12 @@ collections:
       - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
       - 12180 # Star Wars: The Clone Wars (2008)
 
+  Theme__clowns:
+    template: { name: TMDB theme label, theme_name: clowns }
+    tmdb_movie:
+      - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
+
   Theme__cold_war:
     template: { name: TMDB theme label, theme_name: cold_war }
     tmdb_movie:
@@ -220,6 +251,7 @@ collections:
       - 531309 # Brightburn (2019)
       - 1771 # Captain America: The First Avenger (2011)
       - 598 # City of God (2002)
+      - 346364 # It (2017)
       - 10867 # Malèna (2000)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
@@ -241,6 +273,7 @@ collections:
     template: { name: TMDB theme label, theme_name: cult }
     tmdb_movie:
       - 487558 # BlacKkKlansman (2018)
+      - 501170 # Doctor Sleep (2019)
       - 16307 # The Wicker Man (1973)
 
   Theme__curses:
@@ -254,10 +287,17 @@ collections:
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
+      - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
       - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 882598 # Smile (2022)
+
+  Theme__disaster:
+    template: { name: TMDB theme label, theme_name: disaster }
+    tmdb_movie:
+      - 5876 # The Mist (2007)
 
   Theme__domestic_violence:
     template: { name: TMDB theme label, theme_name: domestic_violence }
@@ -265,6 +305,7 @@ collections:
       - 3134 # Baise-moi (2000)
       - 619730 # Don't Worry Darling (2022)
       - 20546 # Goodnight, Mister Tom (1998)
+      - 694 # The Shining (1980)
 
   Theme__dreams:
     template: { name: TMDB theme label, theme_name: dreams }
@@ -374,27 +415,6 @@ collections:
     filters:
       filepath.not: "/English/"
 
-    tmdb_movie:
-      - 64124 # À l'aventure (2009)
-      - 3134 # Baise-moi (2000)
-      - 454527 # Benedetta (2021)
-      - 598 # City of God (2002)
-      - 86331 # Desire (2011)
-      - 101875 # Dressage (1986)
-      - 24402 # Emmanuelle (1974)
-      - 45690 # I Am Curious (Blue) (1968)
-      - 42695 # I Am Curious (Yellow) (1967)
-      - 4998 # Import/Export (2007)
-      - 48266 # Ma mère (2004)
-      - 10867 # Malèna (2000)
-      - 60015 # Novo (2002)
-      - 10753 # Police Story 2 (1988)
-      - 35712 # Secret Things (2002)
-      - 19976 # The Exterminating Angels (2006)
-      - 15472 # The Girl with the Dragon Tattoo (2009)
-      - 94329 # The Raid (2011)
-      - 180299 # The Raid 2 (2014)
-
   Theme__gangs:
     template: { name: TMDB theme label, theme_name: gangs }
     tmdb_movie:
@@ -408,10 +428,13 @@ collections:
   Theme__ghosts:
     template: { name: TMDB theme label, theme_name: ghosts }
     tmdb_movie:
+      - 501170 # Doctor Sleep (2019)
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
+      - 157433 # Pet Sematary (2019)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 756999 # The Black Phone (2021)
+      - 694 # The Shining (1980)
       - 65086 # The Woman in Black (2012)
 
   Theme__grief:
@@ -419,6 +442,7 @@ collections:
     tmdb_movie:
       - 470 # 21 Grams (2003)
       - 505642 # Black Panther: Wakanda Forever (2022)
+      - 157433 # Pet Sematary (2019)
 
   Theme__gun_fu:
     template: { name: TMDB theme label, theme_name: gun_fu }
@@ -535,9 +559,12 @@ collections:
       - 59678 # Attack the Block (2011)
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
+      - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
       - 762504 # Nope (2022)
       - 882598 # Smile (2022)
       - 10216 # Species II (1998)
+      - 5876 # The Mist (2007)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
 
@@ -628,12 +655,16 @@ collections:
     template: { name: TMDB theme label, theme_name: prison }
     tmdb_movie:
       - 8077 # Alien³ (1992)
+      - 497 # The Green Mile (1999)
       - 180299 # The Raid 2 (2014)
+      - 278 # The Shawshank Redemption (1994)
 
   Theme__psychics:
     template: { name: TMDB theme label, theme_name: psychics }
     tmdb_movie:
+      - 501170 # Doctor Sleep (2019)
       - 756999 # The Black Phone (2021)
+      - 694 # The Shining (1980)
 
   Theme__psychological:
     template: { name: TMDB theme label, theme_name: psychological }
@@ -643,7 +674,9 @@ collections:
       - 619730 # Don't Worry Darling (2022)
       - 343674 # Gerald's Game (2017)
       - 27205 # Inception (2010)
+      - 474350 # It Chapter Two (2019)
       - 882598 # Smile (2022)
+      - 694 # The Shining (1980)
       - 65086 # The Woman in Black (2012)
       - 112355 # What the Peeper Saw (1972)
 
@@ -676,6 +709,7 @@ collections:
       - 98 # Gladiator (2000)
       - 610253 # Halloween Kills (2021)
       - 68721 # Iron Man 3 (2013)
+      - 474350 # It Chapter Two (2019)
       - 245891 # John Wick (2015)
       - 101 # Léon: The Professional (1995)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
@@ -729,11 +763,14 @@ collections:
       - 25239 # Day of the Woman (1978)
       - 947 # Lawrence of Arabia (1962)
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 497 # The Green Mile (1999)
       - 1541 # Thelma & Louise (1991)
 
   Theme__shapeshifters:
     template: { name: TMDB theme label, theme_name: shapeshifters }
     tmdb_movie:
+      - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
       - 882598 # Smile (2022)
 
   Theme__slasher:
@@ -809,9 +846,13 @@ collections:
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }
     tmdb_movie:
+      - 501170 # Doctor Sleep (2019)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
+      - 346364 # It (2017)
+      - 474350 # It Chapter Two (2019)
+      - 157433 # Pet Sematary (2019)
       - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
@@ -819,6 +860,8 @@ collections:
       - 882598 # Smile (2022)
       - 756999 # The Black Phone (2021)
       - 19976 # The Exterminating Angels (2006)
+      - 497 # The Green Mile (1999)
+      - 5876 # The Mist (2007)
       - 65086 # The Woman in Black (2012)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
@@ -857,6 +900,11 @@ collections:
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 9340 # The Goonies (1985)
 
+  Theme__vampires:
+    template: { name: TMDB theme label, theme_name: vampires }
+    tmdb_movie:
+      - 501170 # Doctor Sleep (2019)
+
   Theme__voodoo:
     template: { name: TMDB theme label, theme_name: voodoo }
     tmdb_movie:
@@ -880,6 +928,7 @@ collections:
   Theme__zombies:
     template: { name: TMDB theme label, theme_name: zombies }
     tmdb_movie:
+      - 157433 # Pet Sematary (2019)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 23202 # Trick 'r Treat (2007)
 
@@ -896,8 +945,6 @@ collections:
           - Fifth Element (1997)
           - Guardians of the Galaxy (2014) 001
           - Indiana Jones (1981) 004
-          - IT (2017) 001
-          - IT (2017) 002
           - Men in Black (1997) 001
           - Men in Black (1997) 002
           - Muppets from Space (1999)
@@ -1237,17 +1284,12 @@ collections:
           - Casper (1995)
           - Devil's Advocate (1997)
           - Devil's Backbone (2001)
-          - Doctor Sleep (2019)
           - Fausto 5.0 (2001)
-          - Green Mile (1999)
           - Indiana Jones (1981) 001
           - Indiana Jones (1981) 002
           - Indiana Jones (1981) 003
-          - IT (2017) 001
-          - IT (2017) 002
           - It Follows (2015)
           - "Lara Croft: Tomb Raider (2001) 001"
-          - Mist (2007)
           - Mummy (1999) 001
           - Muppet Christmas Carol (1992)
           - Nocturne (2020)
@@ -1255,7 +1297,6 @@ collections:
           - Pirates of the Caribbean (2003) 001
           - Scary Movie (2000) 002
           - Scary Movie (2000) 003
-          - Shining (1980)
           - Silent Hill (2006) 001
           - Tenacious D in the Pick of Destiny (2006)
           - Witch (2015)

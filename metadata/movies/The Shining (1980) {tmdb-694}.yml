@@ -1,0 +1,21 @@
+metadata:
+  The Shining:
+    title: The Shining
+    year: 1980
+    edition_filter: Theatrical cut
+    sort_title: Shining (1980)
+    content_rating: gb/15
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Stanley Kubrick]
+    genre.sync: [Drama, Horror]
+    originally_available: 1980-05-23
+    producer.sync: [Stanley Kubrick]
+    studio: Hawk Films
+    summary: "A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence. Meanwhile, his son sees horrific visions of the past and future."
+    tagline: He came as the caretaker, but this hotel had its own guardians - who'd been there a long time
+    writer.sync: [Stephen King, Stanley Kubrick, Diane Johnson]
+    label: [ID__000000694A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
