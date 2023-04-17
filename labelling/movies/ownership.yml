@@ -104,6 +104,7 @@ collections:
           - ID__000027576B # Salt (2010) [Extended cut]
           - ID__000027576C # Salt (2010) [Director's cut]
           - ID__000000558A # Spider-Man 2 (2004) [Theatrical cut]
+          - ID__000000278A # The Shawshank Redemption (1994)
 
   Ownership__rented:
     template:
@@ -208,6 +209,7 @@ collections:
           - ID__000005876A # The Mist (2007)
           - ID__000094329A # The Raid (2011)
           - ID__000180299A # The Raid 2 (2014)
+          - ID__000000278A # The Shawshank Redemption (1994)
           - ID__000648579A # The Unbearable Weight of Massive Talent (2022)
           - ID__000000629A # The Usual Suspects (1995)
           - ID__000016307A # The Wicker Man (1973) [UK theatrical cut]
@@ -404,7 +406,6 @@ collections:
           - Seven (1995)
           - Shadow of a Doubt (1943)
           - Shank (2010)
-          - Shawshank Redemption (1994)
           - Silence of the Lambs (1991)
           - Sin City (2005) 001
           - Super 8 (2011)

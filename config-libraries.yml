@@ -118,6 +118,7 @@ libraries:
       - repo: metadata/movies/The Mist (2007) {tmdb-5876}
       - repo: metadata/movies/The Raid (2011) {tmdb-94329}
       - repo: metadata/movies/The Raid 2 (2014) {tmdb-180299}
+      - repo: metadata/movies/The Shawshank Redemption (1994) {tmdb-278}
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
       - repo: metadata/movies/The Unbearable Weight of Massive Talent (2022) {tmdb-648579}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
