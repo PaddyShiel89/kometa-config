@@ -370,6 +370,10 @@ collections:
 
   Theme__foreign_language:
     template: { name: TMDB theme label, theme_name: foreign_language }
+    plex_all: true
+    filters:
+      filepath.not: "/English/"
+
     tmdb_movie:
       - 64124 # À l'aventure (2009)
       - 3134 # Baise-moi (2000)
@@ -986,29 +990,6 @@ collections:
         theme: "found footage"
         title_list:
           - Blair Witch Project (1999) 001
-
-  "Theme: foreign language":
-    template:
-      - name: Theme label
-        theme: "foreign language"
-        title_list:
-          - Angel-A (2005)
-          - Anything For Her (2008)
-          - Blue is the Warmest Colour (2013)
-          - Che (2008) 001
-          - Che (2008) 002
-          - Devil's Backbone (2001)
-          - Dolce Vita (1960)
-          - Farewell, My Queen (2012)
-          - Fausto 5.0 (2001)
-          - Grand Central (2013)
-          - Juan of the Dead (2012)
-          - Kung Fu Hustle (2004)
-          - "Ong-Bak: Muay Thai Warrior (2003)"
-          - Pan's Labyrinth (2006)
-          - Parasite (2019)
-          - Police Story (1985) 001
-          - Train to Busan (2016)
 
   "Theme: heist":
     template:
