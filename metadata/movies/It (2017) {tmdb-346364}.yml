@@ -1,0 +1,26 @@
+metadata:
+  It:
+    title: "It: Chapter One"
+    year: 2017
+    edition_filter: Theatrical cut
+    sort_title: "It (2017) 001"
+    content_rating: gb/15
+    country.sync: [Canada, United States of America]
+    director.sync: [Andy Muschietti]
+    genre.sync: [Horror]
+    original_title: It
+    originally_available: 2017-09-05
+    producer.sync:
+      [
+        Seth Grahame-Smith,
+        David Katzenberg,
+        Roy Lee,
+        Dan Lin,
+        Barbara Muschietti,
+      ]
+    studio: Vertigo Entertainment
+    summary: "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster which disguises itself as a clown and preys on the children of their small town."
+    tagline: "You'll float too."
+    writer.sync:
+      [Chase Palmer, Cary Joji Fukunaga, Gary Dauberman, Stephen King]
+    label: [ID__000346364A]

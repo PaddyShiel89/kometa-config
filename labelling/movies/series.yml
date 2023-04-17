@@ -151,6 +151,11 @@ collections:
       - 10138 # Iron Man 2 (2010)
       - 68721 # Iron Man 3 (2013)
 
+  Series__It_2017:
+    template: { name: TMDB series label, series_name: It, series_year: 2017 }
+    tmdb_movie:
+      - 346364 # It (2017)
+
   Series__John_Wick_2015:
     template:
       { name: TMDB series label, series_name: John_Wick, series_year: 2015 }
@@ -452,14 +457,6 @@ collections:
           - Indiana Jones (1981) 002
           - Indiana Jones (1981) 003
           - Indiana Jones (1981) 004
-
-  "Series: IT (2017)":
-    template:
-      - name: Series label
-        series: "IT (2017)"
-        title_list:
-          - IT (2017) 001
-          - IT (2017) 002
 
   "Series: James Bond (Eon Productions)":
     template:
