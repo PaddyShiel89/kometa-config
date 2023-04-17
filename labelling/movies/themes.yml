@@ -103,6 +103,7 @@ collections:
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1974)
+      - 497 # The Green Mile (1999)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 45269 # The King's Speech (2010)
       - 16307 # The Wicker Man (1973)
@@ -127,6 +128,7 @@ collections:
     tmdb_movie:
       - 501170 # Doctor Sleep (2019)
       - 343674 # Gerald's Game (2017)
+      - 497 # The Green Mile (1999)
 
   Theme__based_on_true_events:
     template: { name: TMDB theme label, theme_name: based_on_true_events }
@@ -613,6 +615,7 @@ collections:
     template: { name: TMDB theme label, theme_name: prison }
     tmdb_movie:
       - 8077 # Alien³ (1992)
+      - 497 # The Green Mile (1999)
       - 180299 # The Raid 2 (2014)
 
   Theme__psychics:
@@ -715,6 +718,7 @@ collections:
       - 25239 # Day of the Woman (1978)
       - 947 # Lawrence of Arabia (1962)
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 497 # The Green Mile (1999)
       - 1541 # Thelma & Louise (1991)
 
   Theme__shapeshifters:
@@ -806,6 +810,7 @@ collections:
       - 882598 # Smile (2022)
       - 756999 # The Black Phone (2021)
       - 19976 # The Exterminating Angels (2006)
+      - 497 # The Green Mile (1999)
       - 65086 # The Woman in Black (2012)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
@@ -1230,7 +1235,6 @@ collections:
           - Devil's Advocate (1997)
           - Devil's Backbone (2001)
           - Fausto 5.0 (2001)
-          - Green Mile (1999)
           - Indiana Jones (1981) 001
           - Indiana Jones (1981) 002
           - Indiana Jones (1981) 003
