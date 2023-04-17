@@ -39,12 +39,3 @@ collections:
       all:
         label: "theme: based on a videogame"
       sort_by: title.asc
-
-  Stephen King:
-    template:
-      - name: Theme
-        summary: "that are adaptations of works created by horror author Stephen King."
-    smart_filter:
-      all:
-        label: "theme: based on Stephen King"
-      sort_by: title.asc

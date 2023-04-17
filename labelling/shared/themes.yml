@@ -44,11 +44,3 @@ collections:
       - name: Theme label (external source)
         theme: based on a videogame
     schedule: weekly(monday)
-
-  "Theme: Stephen King":
-    template:
-      - name: imdb_keyword_list
-        keyword: based-on-the-works-of-stephen-king
-      - name: Theme label (external source)
-        theme: based on Stephen King
-    schedule: weekly(tuesday)

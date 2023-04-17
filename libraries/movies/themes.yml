@@ -166,3 +166,16 @@ collections:
           - Theme__zombies
           - "theme: zombies"
       sort_by: title.asc
+
+  # ----------------------- Updated template collections ----------------------- #
+
+  Stephen King:
+    template:
+      - name: Theme collection
+        theme: Stephen King
+    smart_filter:
+      all:
+        label:
+          - Theme__based_on_works_by_stephen_king
+      sort_by: title.asc
+    summary: Movies based on the written works of horror author Stephen King.

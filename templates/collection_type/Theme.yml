@@ -23,3 +23,23 @@ templates:
     sort_title: "!08_<<title_order>>_<<collection_name>>"
     summary: "<<library_name>> <<summary>>"
     sync_mode: sync
+
+  Theme collection:
+    conditionals:
+      subsection_order:
+        default: "00"
+        conditions:
+          # Horror
+          - collection_name:
+              [
+                Alien Horror,
+                Psychological Horror,
+                Slasher,
+                Splatter,
+                Supernatural Horror,
+                Zombies,
+              ]
+            value: "01"
+    collection_mode: hide
+    sort_title: "!08_<<subsection_order>>_<<collection_name>>"
+    sync_mode: sync
