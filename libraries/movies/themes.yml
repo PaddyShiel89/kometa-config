@@ -40,16 +40,6 @@ collections:
           - "theme: mockumentary"
       sort_by: title.asc
 
-  Foreign Language:
-    template:
-      - name: Theme
-        summary: "where the original audio language is not in English. English audio dub tracks may be available."
-    smart_filter:
-      all:
-        label:
-          - Theme__foreign_language
-      sort_by: title.asc
-
   Martial Arts:
     template:
       - name: Theme
@@ -108,16 +98,6 @@ collections:
         genre: Horror
       sort_by: title.asc
 
-  Quick Flicks:
-    smart_filter:
-      all:
-        duration.lte: 100
-      sort_by: duration.asc
-    collection_mode: hide
-    sort_title: "!08_00_Quick Flicks"
-    summary: "Movies no longer than 100 minutes in length, ordered from shortest to longest."
-    sync_mode: sync
-
   Slasher:
     template:
       - name: Theme
@@ -169,13 +149,27 @@ collections:
 
   # ----------------------- Updated template collections ----------------------- #
 
-  Stephen King:
-    template:
-      - name: Theme collection
-        theme: Stephen King
+  Foreign Language:
+    template: { name: Theme collection }
     smart_filter:
       all:
-        label:
-          - Theme__based_on_works_by_stephen_king
+        label: Theme__foreign_language
+      sort_by: title.asc
+    summary: "Movies where the original audio language is not in English. English audio dub tracks may be available."
+
+  Quick Flicks:
+    template: { name: Theme collection }
+    smart_filter:
+      all:
+        duration.lte: 100
+      sort_by: duration.asc
+    collection_mode: hide
+    summary: Movies no longer than 100 minutes in length, ordered from shortest to longest.
+
+  Stephen King:
+    template: { name: Theme collection }
+    smart_filter:
+      all:
+        label: Theme__based_on_works_by_stephen_king
       sort_by: title.asc
     summary: Movies based on the written works of horror author Stephen King.
