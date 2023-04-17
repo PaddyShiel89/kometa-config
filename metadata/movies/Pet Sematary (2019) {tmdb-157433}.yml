@@ -1,0 +1,21 @@
+metadata:
+  Pet Sematary:
+    title: Pet Sematary
+    year: 2019
+    edition_filter: Theatrical cut
+    sort_title: Pet Sematary (2019)
+    content_rating: gb/15
+    country.sync: [Canada, United States of America]
+    director.sync: ["Kevin Kölsch", Dennis Widmyer]
+    genre.sync: [Horror, Mystery, Thriller]
+    originally_available: 2019-03-16
+    producer.sync: [Lorenzo di Bonaventura, Steven Schneider, Mark Vahradian]
+    studio: Paramount Pictures
+    summary: "A doctor and his wife relocate to rural Maine with their two young children. The couple soon discovers a mysterious burial ground hidden deep in the woods near their new home."
+    tagline: Sometimes Dead Is Better
+    writer.sync: [Stephen King, Matt Greenberg, Jeff Buhler]
+    label: [ID__000157433A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

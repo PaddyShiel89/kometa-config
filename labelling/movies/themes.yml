@@ -102,6 +102,7 @@ collections:
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 180 # Minority Report (2002)
+      - 157433 # Pet Sematary (2019)
       - 11013 # Secretary (2002)
       - 808 # Shrek (2001)
       - 756999 # The Black Phone (2021)
@@ -136,6 +137,7 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
+      - 157433 # Pet Sematary (2019)
       - 497 # The Green Mile (1999)
       - 5876 # The Mist (2007)
 
@@ -422,6 +424,7 @@ collections:
       - 501170 # Doctor Sleep (2019)
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
+      - 157433 # Pet Sematary (2019)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 756999 # The Black Phone (2021)
       - 65086 # The Woman in Black (2012)
@@ -431,6 +434,7 @@ collections:
     tmdb_movie:
       - 470 # 21 Grams (2003)
       - 505642 # Black Panther: Wakanda Forever (2022)
+      - 157433 # Pet Sematary (2019)
 
   Theme__gun_fu:
     template: { name: TMDB theme label, theme_name: gun_fu }
@@ -837,6 +841,7 @@ collections:
       - 2978 # Ghostbusters II (1989)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
+      - 157433 # Pet Sematary (2019)
       - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
@@ -912,6 +917,7 @@ collections:
   Theme__zombies:
     template: { name: TMDB theme label, theme_name: zombies }
     tmdb_movie:
+      - 157433 # Pet Sematary (2019)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 23202 # Trick 'r Treat (2007)
 

@@ -68,6 +68,7 @@ libraries:
       - repo: metadata/movies/Minority Report (2002) {tmdb-180}
       - repo: metadata/movies/Nope (2022) {tmdb-762504}
       - repo: metadata/movies/Novo (2002) {tmdb-60015}
+      - repo: metadata/movies/Pet Sematary (2019) {tmdb-157433}
       - repo: metadata/movies/Pirates of the Caribbean At World's End (2007) {tmdb-285}
       - repo: metadata/movies/Pirates of the Caribbean Dead Man's Chest (2006) {tmdb-58}
       - repo: metadata/movies/Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426}
