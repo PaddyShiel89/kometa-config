@@ -186,6 +186,29 @@ collections:
       - 9056 # Police Story (1985)
       - 10753 # Police Story 2 (1988)
 
+  Series__Resident_Evil_2002:
+    template:
+      { name: TMDB series label, series_name: Resident_Evil, series_year: 2002 }
+    tmdb_movie:
+      - 1576 # Resident Evil (2002)
+      - 1577 # Resident Evil: Apocalype (2004)
+      - 7737 # Resident Evil: Extinction (2007)
+      - 35791 # Resident Evil: Afterlife (2010)
+      - 71679 # Resident Evil: Retribution (2012)
+      - 173897 # Resident Evil: The Final Chapter (2016)
+
+  Series__Resident_Evil_2021:
+    template:
+      { name: TMDB series label, series_name: Resident_Evil, series_year: 2021 }
+    tmdb_movie:
+      - 460458 # Resident Evil: Welcome to Raccoon City (2021)
+
+  Series__Silent_Hill_2006:
+    template:
+      { name: TMDB series label, series_name: Silent_Hill, series_year: 2006 }
+    tmdb_movie:
+      - 588 # Silent Hill (2006)
+
   Series__Shang_Chi_2021:
     template:
       { name: TMDB series label, series_name: Shang_Chi, series_year: 2021 }
@@ -294,6 +317,12 @@ collections:
       - 76338 # Thor: The Dark World (2013)
       - 284053 # Thor: Ragnarok (2017)
       - 616037 # Thor: Love and Thunder (2022)
+
+  Series__Tomb_Raider_2001:
+    template:
+      { name: TMDB series label, series_name: Tomb_Raider, series_year: 2001 }
+    tmdb_movie:
+      - 1995 # Lara Croft: Tomb Raider (2001)
 
   "Series: 28 Days Later (2002)":
     template:
@@ -522,13 +551,6 @@ collections:
         title_list:
           - Kingsman (2014) 001
 
-  "Series: Lara Croft: Tomb Raider (2001)":
-    template:
-      - name: Series label
-        series: "Lara Croft: Tomb Raider (2001)"
-        title_list:
-          - "Lara Croft: Tomb Raider (2001) 001"
-
   "Series: The Lego Movies (2014)":
     template:
       - name: Series label
@@ -637,25 +659,6 @@ collections:
           - Predator (1987) 002
           - Predator (1987) 003
 
-  "Series: Resident Evil (2002)":
-    template:
-      - name: Series label
-        series: "Resident Evil (2002)"
-        title_list:
-          - Resident Evil (2002) 001
-          - Resident Evil (2002) 002
-          - Resident Evil (2002) 003
-          - Resident Evil (2002) 004
-          - Resident Evil (2002) 005
-          - Resident Evil (2002) 006
-
-  "Series: Resident Evil (2021)":
-    template:
-      - name: Series label
-        series: "Resident Evil (2021)"
-        title_list:
-          - Resident Evil (2021) 001
-
   "Series: Saw (2004)":
     template:
       - name: Series label
@@ -718,13 +721,6 @@ collections:
         title_list:
           - Sherlock Holmes (2009) 001
           - Sherlock Holmes (2009) 002
-
-  "Series: Silent Hill (2006)":
-    template:
-      - name: Series label
-        series: "Silent Hill (2006)"
-        title_list:
-          - Silent Hill (2006) 001
 
   "Series: Sin City (2005)":
     template:

@@ -1,0 +1,29 @@
+metadata:
+  "Resident Evil: Afterlife":
+    title: "Resident Evil: Afterlife"
+    year: 2010
+    edition_filter: Theatrical cut
+    sort_title: "Resident Evil (2002) 004"
+    content_rating: gb/15
+    country.sync: [Canada, Germany, United States of America]
+    director.sync: [Paul W.S. Anderson]
+    genre.sync: [Action, Horror, Science Fiction]
+    originally_available: 2010-09-02
+    producer.sync:
+      [
+        Paul W.S. Anderson,
+        Jeremy Bolt,
+        Don Carmody,
+        Bernd Eichinger,
+        Samuel Hadida,
+        Robert Kulzer,
+      ]
+    studio: Constantin Film
+    summary: "While still out to destroy the evil Umbrella Corporation, Alice joins a group of survivors living in a prison surrounded by the infected."
+    tagline: "She's back... And she's bringing a few of her friends."
+    writer.sync: [Paul W.S. Anderson]
+    label: [ID__000035791A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

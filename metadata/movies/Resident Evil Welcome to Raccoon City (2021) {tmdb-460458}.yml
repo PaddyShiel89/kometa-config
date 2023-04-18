@@ -1,0 +1,21 @@
+metadata:
+  "Resident Evil: Welcome to Raccoon City":
+    title: "Resident Evil: Welcome to Raccoon City"
+    year: 2021
+    edition_filter: Theatrical cut
+    sort_title: "Resident Evil (2021) 001"
+    content_rating: gb/15
+    country.sync: [Canada, Germany]
+    director.sync: [Johannes Roberts]
+    genre.sync: [Action, Horror, Science Fiction]
+    originally_available: 2021-11-19
+    producer.sync: [Hartley Gorenstein, James Harris, Robert Kulzer]
+    studio: Constantin Film
+    summary: "A great evil brews below Raccoon City. When it's unleashed, a group of survivors must work together to uncover the truth and make it through the night."
+    tagline: Witness the Beginning of Evil.
+    writer.sync: [Johannes Roberts]
+    label: [ID__000460458A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

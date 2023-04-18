@@ -11,3 +11,12 @@ collections:
     trakt_list: https://trakt.tv/users/drogsahqoom/lists/christmas?sort=rank,asc
     sync_mode: sync
     visible_home: range(12/01-12/31)
+
+  Based on a Videogame:
+    template:
+      - name: Theme
+        summary: "based, however loosely, on videogames."
+    smart_filter:
+      all:
+        label: "theme: based on a videogame"
+      sort_by: title.asc

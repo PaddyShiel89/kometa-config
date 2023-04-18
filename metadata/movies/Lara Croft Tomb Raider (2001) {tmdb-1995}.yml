@@ -1,0 +1,29 @@
+metadata:
+  "Lara Croft: Tomb Raider":
+    title: "Lara Croft: Tomb Raider"
+    year: 2001
+    edition_filter: Uncut edition
+    sort_title: "Lara Croft: Tomb Raider (2001) 001"
+    content_rating: gb/15
+    country.sync: [Germany, Japan, United Kingdom, United States of America]
+    director.sync: [Simon West]
+    genre.sync: [Action, Adventure, Fantasy, Thriller]
+    originally_available: 2001-06-11
+    producer.sync: [Lawrence Gordon, Lloyd Levin, Colin Wilson]
+    studio: Paramount Pictures
+    summary: "A secret from her father's past leads Lara to her greatest challenge: The Triangle of Light, a legendary artefact with the power to alter space and time."
+    tagline: Born into Wealth. Groomed by the Elite. Trained for Combat.
+    writer.sync:
+      [
+        Sara B. Cooper,
+        Mike Werb,
+        Michael Colleary,
+        Simon West,
+        Patrick Massett,
+        John Zinman,
+      ]
+    label: [ID__000001995A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

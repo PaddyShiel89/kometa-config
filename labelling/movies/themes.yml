@@ -63,6 +63,7 @@ collections:
       - 299534 # Avengers: Endgame (2019)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 180 # Minority Report (2002)
+      - 588 # Silent Hill (2006)
       - 634649 # Spider-Man: No Way Home (2021)
       - 5876 # The Mist (2007)
 
@@ -157,6 +158,20 @@ collections:
       - 45269 # The King's Speech (2010)
       - 158914 # The Look of Love (2013)
 
+  Theme__based_on_videogames:
+    template: { name: TMDB theme label, theme_name: based_on_videogames }
+    tmdb_movie:
+      - 1995 # Lara Croft: Tomb Raider (2001)
+      - 1576 # Resident Evil (2002)
+      - 35791 # Resident Evil: Afterlife (2010)
+      - 1577 # Resident Evil: Apocalype (2004)
+      - 7737 # Resident Evil: Extinction (2007)
+      - 71679 # Resident Evil: Retribution (2012)
+      - 173897 # Resident Evil: The Final Chapter (2016)
+      - 460458 # Resident Evil: Welcome to Raccoon City (2021)
+      - 588 # Silent Hill (2006)
+      - 335787 # Uncharted (2022)
+
   Theme__bioweapons:
     template: { name: TMDB theme label, theme_name: bioweapons }
     tmdb_movie:
@@ -179,6 +194,11 @@ collections:
     tmdb_movie:
       - 487558 # BlacKkKlansman (2018)
       - 68718 # Django Unchained (2012)
+
+  Theme__body_horror:
+    template: { name: TMDB theme label, theme_name: body_horror }
+    tmdb_movie:
+      - 588 # Silent Hill (2006)
 
   Theme__buddy_movie:
     template: { name: TMDB theme label, theme_name: buddy_movie }
@@ -230,6 +250,10 @@ collections:
     template: { name: TMDB theme label, theme_name: clones }
     tmdb_movie:
       - 8078 # Alien Resurrection (1997)
+      - 35791 # Resident Evil: Afterlife (2010)
+      - 7737 # Resident Evil: Extinction (2007)
+      - 71679 # Resident Evil: Retribution (2012)
+      - 173897 # Resident Evil: The Final Chapter (2016)
       - 10216 # Species II (1998)
       - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
       - 12180 # Star Wars: The Clone Wars (2008)
@@ -389,10 +413,19 @@ collections:
       - 50456 # Hanna (2011)
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
+      - 1995 # Lara Croft: Tomb Raider (2001)
+      - 1576 # Resident Evil (2002)
+      - 35791 # Resident Evil: Afterlife (2010)
+      - 1577 # Resident Evil: Apocalype (2004)
+      - 7737 # Resident Evil: Extinction (2007)
+      - 71679 # Resident Evil: Retribution (2012)
+      - 173897 # Resident Evil: The Final Chapter (2016)
+      - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 48650 # Room in Rome (2010)
       - 27576 # Salt (2010)
       - 11013 # Secretary (2002)
+      - 588 # Silent Hill (2006)
       - 882598 # Smile (2022)
       - 140607 # Star Wars: The Force Awakens (2015)
       - 181808 # Star Wars: The Last Jedi (2017)
@@ -544,6 +577,7 @@ collections:
   Theme__mind_control:
     template: { name: TMDB theme label, theme_name: mind_control }
     tmdb_movie:
+      - 71679 # Resident Evil: Retribution (2012)
       - 65086 # The Woman in Black (2012)
 
   Theme__mockumentary:
@@ -564,6 +598,8 @@ collections:
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 762504 # Nope (2022)
+      - 460458 # Resident Evil: Welcome to Raccoon City (2021)
+      - 588 # Silent Hill (2006)
       - 882598 # Smile (2022)
       - 10216 # Species II (1998)
       - 5876 # The Mist (2007)
@@ -641,6 +677,7 @@ collections:
       - 11001 # Blue Streak (1999)
       - 2118 # L.A. Confidential (1997)
       - 10753 # Police Story 2 (1988)
+      - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 16307 # The Wicker Man (1973)
       - 629 # The Usual Suspects (1995)
 
@@ -648,6 +685,10 @@ collections:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 35791 # Resident Evil: Afterlife (2010)
+      - 7737 # Resident Evil: Extinction (2007)
+      - 71679 # Resident Evil: Retribution (2012)
+      - 173897 # Resident Evil: The Final Chapter (2016)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
 
   Theme__poverty:
@@ -667,6 +708,7 @@ collections:
     template: { name: TMDB theme label, theme_name: psychics }
     tmdb_movie:
       - 501170 # Doctor Sleep (2019)
+      - 173897 # Resident Evil: The Final Chapter (2016)
       - 756999 # The Black Phone (2021)
       - 694 # The Shining (1980)
 
@@ -800,6 +842,7 @@ collections:
     template: { name: TMDB theme label, theme_name: splatter }
     tmdb_movie:
       - 25239 # Day of the Woman (1978)
+      - 588 # Silent Hill (2006)
       - 10216 # Species II (1998)
 
   Theme__spoof:
@@ -857,10 +900,12 @@ collections:
       - 2978 # Ghostbusters II (1989)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
+      - 1995 # Lara Croft: Tomb Raider (2001)
       - 157433 # Pet Sematary (2019)
       - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 588 # Silent Hill (2006)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 882598 # Smile (2022)
       - 756999 # The Black Phone (2021)
@@ -901,9 +946,11 @@ collections:
   Theme__treasure_hunt:
     template: { name: TMDB theme label, theme_name: treasure_hunt }
     tmdb_movie:
+      - 1995 # Lara Croft: Tomb Raider (2001)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 9340 # The Goonies (1985)
+      - 335787 # Uncharted (2022)
 
   Theme__vampires:
     template: { name: TMDB theme label, theme_name: vampires }
@@ -935,6 +982,13 @@ collections:
     tmdb_movie:
       - 157433 # Pet Sematary (2019)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 1576 # Resident Evil (2002)
+      - 35791 # Resident Evil: Afterlife (2010)
+      - 1577 # Resident Evil: Apocalype (2004)
+      - 7737 # Resident Evil: Extinction (2007)
+      - 71679 # Resident Evil: Retribution (2012)
+      - 173897 # Resident Evil: The Final Chapter (2016)
+      - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 23202 # Trick 'r Treat (2007)
 
   "Theme: aliens":
@@ -979,7 +1033,6 @@ collections:
         theme: "body horror"
         title_list:
           - Freaked (1994)
-          - Silent Hill (2006) 001
           - Thing (1982)
 
   "Theme: cannibals":
@@ -1294,7 +1347,6 @@ collections:
           - Indiana Jones (1981) 002
           - Indiana Jones (1981) 003
           - It Follows (2015)
-          - "Lara Croft: Tomb Raider (2001) 001"
           - Mummy (1999) 001
           - Muppet Christmas Carol (1992)
           - Nocturne (2020)
@@ -1302,7 +1354,6 @@ collections:
           - Pirates of the Caribbean (2003) 001
           - Scary Movie (2000) 002
           - Scary Movie (2000) 003
-          - Silent Hill (2006) 001
           - Tenacious D in the Pick of Destiny (2006)
           - Witch (2015)
 
@@ -1324,12 +1375,6 @@ collections:
           - Cabin in the Woods (2012)
           - Juan of the Dead (2012)
           - Planet Terror (2007)
-          - Resident Evil (2002) 001
-          - Resident Evil (2002) 002
-          - Resident Evil (2002) 003
-          - Resident Evil (2002) 004
-          - Resident Evil (2002) 005
-          - Resident Evil (2002) 006
           - Resident Evil (2021) 001
           - Shaun of the Dead (2004)
           - Train to Busan (2016)

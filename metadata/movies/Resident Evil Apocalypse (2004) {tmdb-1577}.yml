@@ -1,0 +1,22 @@
+metadata:
+  "Resident Evil: Apocalypse":
+    title: "Resident Evil: Apocalypse"
+    year: 2004
+    edition_filter: Theatrical cut
+    sort_title: "Resident Evil (2002) 002"
+    content_rating: gb/15
+    country.sync:
+      [Canada, France, Germany, United Kingdom, United States of America]
+    director.sync: [Alexander Witt]
+    genre.sync: [Action, Horror, Science Fiction, Thriller]
+    originally_available: 2004-08-23
+    producer.sync: [Paul W.S. Anderson, Jeremy Bolt, Don Carmody]
+    studio: Constantin Film
+    summary: "Zombies have overrun Raccoon City, and Alice must now make it out of the city before a nuclear bomb wipes them out."
+    tagline: "You're all going to die"
+    writer.sync: [Paul W.S. Anderson]
+    label: [ID__000001577A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

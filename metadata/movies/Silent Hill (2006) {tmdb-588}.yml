@@ -1,0 +1,21 @@
+metadata:
+  Silent Hill:
+    title: Silent Hill
+    year: 2006
+    edition_filter: Theatrical cut
+    sort_title: Silent Hill (2006) 001
+    content_rating: gb/15
+    country.sync: [Canada, France]
+    director.sync: [Christophe Gans]
+    genre.sync: [Horror, Mystery]
+    originally_available: 2006-04-20
+    producer.sync: [Don Carmody, Samuel Hadida]
+    studio: Davis-Films
+    summary: "A woman goes in search of her adopted daughter within the confines of a strange, desolate town called Silent Hill."
+    tagline: Enjoy your stay.
+    writer.sync: [Roger Avary]
+    label: [ID__000000588A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

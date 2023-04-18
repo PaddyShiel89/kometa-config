@@ -1,0 +1,23 @@
+metadata:
+  Uncharted:
+    title: Uncharted
+    year: 2022
+    edition_filter: Theatrical cut
+    sort_title: Uncharted (2022)
+    content_rating: gb/12
+    country.sync: [Spain, United States of America]
+    director.sync: [Ruben Fleischer]
+    genre.sync: [Action, Adventure]
+    originally_available: 2022-02-10
+    producer.sync: [Ari Arad, Avi Arad, Alex Gartner, Charles Roven]
+    studio: Columbia Pictures
+    summary: "Street-smart Nathan Drake is recruited by seasoned treasure hunter Victor Sullivan to recover a fortune lost 500 years ago by the House of Moncada."
+    writer.sync:
+      [
+        Rafe Judkins,
+        Art Marcum,
+        Matt Holloway,
+        Jon Hanley Rosenberg,
+        Mark D. Walker,
+      ]
+    label: [ID__000335787A]

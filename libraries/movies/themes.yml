@@ -149,6 +149,14 @@ collections:
 
   # ----------------------- Updated template collections ----------------------- #
 
+  Based on a Videogame:
+    template: { name: Theme collection }
+    smart_filter:
+      all:
+        label: Theme__based_on_videogames
+      sort_by: title.asc
+    summary: Movies based, however loosely, on videogames.
+
   Foreign Language:
     template: { name: Theme collection }
     smart_filter:
