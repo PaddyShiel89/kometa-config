@@ -170,6 +170,7 @@ collections:
       - 173897 # Resident Evil: The Final Chapter (2016)
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 588 # Silent Hill (2006)
+      - 335787 # Uncharted (2022)
 
   Theme__bioweapons:
     template: { name: TMDB theme label, theme_name: bioweapons }
@@ -949,6 +950,7 @@ collections:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 9340 # The Goonies (1985)
+      - 335787 # Uncharted (2022)
 
   Theme__vampires:
     template: { name: TMDB theme label, theme_name: vampires }
