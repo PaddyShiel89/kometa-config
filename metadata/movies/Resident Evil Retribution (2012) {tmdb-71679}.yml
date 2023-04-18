@@ -1,0 +1,28 @@
+metadata:
+  "Resident Evil: Retribution":
+    title: "Resident Evil: Retribution"
+    year: 2012
+    edition_filter: Theatrical cut
+    sort_title: "Resident Evil (2002) 005"
+    content_rating: gb/15
+    country.sync: [Canada, Germany, United States of America]
+    director.sync: [Paul W.S. Anderson]
+    genre.sync: [Action, Horror, Science Fiction, Thriller]
+    originally_available: 2012-09-03
+    producer.sync:
+      [
+        Paul W.S. Anderson,
+        Jeremy Bolt,
+        Don Carmody,
+        Samuel Hadida,
+        Robert Kulzer,
+      ]
+    studio: Constantin Film International
+    summary: "Alice fights alongside a resistance movement to regain her freedom from an Umbrella Corporation testing facility."
+    tagline: Evil goes global
+    writer.sync: [Paul W.S. Anderson]
+    label: [ID__000071679A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
