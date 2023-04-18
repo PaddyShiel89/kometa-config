@@ -167,6 +167,7 @@ collections:
       - 7737 # Resident Evil: Extinction (2007)
       - 71679 # Resident Evil: Retribution (2012)
       - 173897 # Resident Evil: The Final Chapter (2016)
+      - 460458 # Resident Evil: Welcome to Raccoon City (2021)
 
   Theme__bioweapons:
     template: { name: TMDB theme label, theme_name: bioweapons }
@@ -411,6 +412,7 @@ collections:
       - 7737 # Resident Evil: Extinction (2007)
       - 71679 # Resident Evil: Retribution (2012)
       - 173897 # Resident Evil: The Final Chapter (2016)
+      - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 48650 # Room in Rome (2010)
       - 27576 # Salt (2010)
@@ -587,6 +589,7 @@ collections:
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 762504 # Nope (2022)
+      - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 882598 # Smile (2022)
       - 10216 # Species II (1998)
       - 5876 # The Mist (2007)
@@ -664,6 +667,7 @@ collections:
       - 11001 # Blue Streak (1999)
       - 2118 # L.A. Confidential (1997)
       - 10753 # Police Story 2 (1988)
+      - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 16307 # The Wicker Man (1973)
       - 629 # The Usual Suspects (1995)
 
@@ -971,6 +975,7 @@ collections:
       - 7737 # Resident Evil: Extinction (2007)
       - 71679 # Resident Evil: Retribution (2012)
       - 173897 # Resident Evil: The Final Chapter (2016)
+      - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 23202 # Trick 'r Treat (2007)
 
   "Theme: aliens":

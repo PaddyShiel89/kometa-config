@@ -197,6 +197,12 @@ collections:
       - 71679 # Resident Evil: Retribution (2012)
       - 173897 # Resident Evil: The Final Chapter (2016)
 
+  Series__Resident_Evil_2021:
+    template:
+      { name: TMDB series label, series_name: Resident_Evil, series_year: 2021 }
+    tmdb_movie:
+      - 460458 # Resident Evil: Welcome to Raccoon City (2021)
+
   Series__Shang_Chi_2021:
     template:
       { name: TMDB series label, series_name: Shang_Chi, series_year: 2021 }
@@ -646,13 +652,6 @@ collections:
           - Predator (1987) 001
           - Predator (1987) 002
           - Predator (1987) 003
-
-  "Series: Resident Evil (2021)":
-    template:
-      - name: Series label
-        series: "Resident Evil (2021)"
-        title_list:
-          - Resident Evil (2021) 001
 
   "Series: Saw (2004)":
     template:
