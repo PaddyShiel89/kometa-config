@@ -1,6 +1,5 @@
 external_templates:
   - repo: templates/collection_type/Theme
-  - repo: templates/source/IMDb
 
 # Note: All summary text is prepended with the library type.
 collections:
@@ -29,13 +28,4 @@ collections:
     smart_filter:
       all:
         label: "theme: based on a true story"
-      sort_by: title.asc
-
-  Based on a Videogame:
-    template:
-      - name: Theme
-        summary: "based, however loosely, on videogames."
-    smart_filter:
-      all:
-        label: "theme: based on a videogame"
       sort_by: title.asc

@@ -36,11 +36,3 @@ collections:
       - name: Theme label (external source)
         theme: based on a true story
     schedule: weekly(sunday)
-
-  "Theme: based on a videogame":
-    template:
-      - name: imdb_keyword_list
-        keyword: based-on-video-game
-      - name: Theme label (external source)
-        theme: based on a videogame
-    schedule: weekly(monday)
