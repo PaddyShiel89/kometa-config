@@ -6,6 +6,7 @@ collections:
     template: { name: TMDB theme label, theme_name: abduction }
     tmdb_movie:
       - 2978 # Ghostbusters II (1989)
+      - 210577 # Gone Girl (2014)
       - 762504 # Nope (2022)
       - 756999 # The Black Phone (2021)
 
@@ -96,6 +97,7 @@ collections:
       - 501170 # Doctor Sleep (2019)
       - 24402 # Emmanuelle (1974)
       - 343674 # Gerald's Game (2017)
+      - 210577 # Gone Girl (2014)
       - 20546 # Goodnight, Mister Tom (1998)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
@@ -571,6 +573,7 @@ collections:
   Theme__murder:
     template: { name: TMDB theme label, theme_name: murder }
     tmdb_movie:
+      - 210577 # Gone Girl (2014)
       - 2118 # L.A. Confidential (1997)
       - 46534 # Sweet Karma (2009)
       - 16307 # The Wicker Man (1973)
@@ -609,6 +612,7 @@ collections:
     tmdb_movie:
       - 470 # 21 Grams (2003)
       - 598 # City of God (2002)
+      - 210577 # Gone Girl (2014)
 
   Theme__orphans:
     template: { name: TMDB theme label, theme_name: orphans }
@@ -673,6 +677,7 @@ collections:
       - 454527 # Benedetta (2021)
       - 619730 # Don't Worry Darling (2022)
       - 343674 # Gerald's Game (2017)
+      - 210577 # Gone Girl (2014)
       - 27205 # Inception (2010)
       - 474350 # It Chapter Two (2019)
       - 882598 # Smile (2022)
