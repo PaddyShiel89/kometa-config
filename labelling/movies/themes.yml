@@ -161,6 +161,12 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_videogames }
     tmdb_movie:
       - 1995 # Lara Croft: Tomb Raider (2001)
+      - 1576 # Resident Evil (2002)
+      - 1577 # Resident Evil: Apocalype (2004)
+      - 7737 # Resident Evil: Extinction (2007)
+      - 35791 # Resident Evil: Afterlife (2010)
+      - 71679 # Resident Evil: Retribution (2012)
+      - 173897 # Resident Evil: The Final Chapter (2016)
 
   Theme__bioweapons:
     template: { name: TMDB theme label, theme_name: bioweapons }
@@ -395,6 +401,12 @@ collections:
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
       - 1995 # Lara Croft: Tomb Raider (2001)
+      - 1576 # Resident Evil (2002)
+      - 1577 # Resident Evil: Apocalype (2004)
+      - 7737 # Resident Evil: Extinction (2007)
+      - 35791 # Resident Evil: Afterlife (2010)
+      - 71679 # Resident Evil: Retribution (2012)
+      - 173897 # Resident Evil: The Final Chapter (2016)
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 48650 # Room in Rome (2010)
       - 27576 # Salt (2010)
@@ -943,6 +955,12 @@ collections:
     tmdb_movie:
       - 157433 # Pet Sematary (2019)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 1576 # Resident Evil (2002)
+      - 1577 # Resident Evil: Apocalype (2004)
+      - 7737 # Resident Evil: Extinction (2007)
+      - 35791 # Resident Evil: Afterlife (2010)
+      - 71679 # Resident Evil: Retribution (2012)
+      - 173897 # Resident Evil: The Final Chapter (2016)
       - 23202 # Trick 'r Treat (2007)
 
   "Theme: aliens":
@@ -1331,12 +1349,6 @@ collections:
           - Cabin in the Woods (2012)
           - Juan of the Dead (2012)
           - Planet Terror (2007)
-          - Resident Evil (2002) 001
-          - Resident Evil (2002) 002
-          - Resident Evil (2002) 003
-          - Resident Evil (2002) 004
-          - Resident Evil (2002) 005
-          - Resident Evil (2002) 006
           - Resident Evil (2021) 001
           - Shaun of the Dead (2004)
           - Train to Busan (2016)

@@ -76,6 +76,7 @@ libraries:
       - repo: metadata/movies/Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426}
       - repo: metadata/movies/Pirates of the Caribbean On Stranger Tides (2011) {tmdb-1865}
       - repo: metadata/movies/Police Story 2 (1988) {tmdb-10753}
+      - repo: metadata/movies/Resident Evil (2002) {tmdb-1576}
       - repo: metadata/movies/Return of the Jedi (1983) {tmdb-1892}
       - repo: metadata/movies/Rogue One A Star Wars Story {tmdb-330459}
       - repo: metadata/movies/Room in Rome (2010) {tmdb-48650}

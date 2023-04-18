@@ -1,0 +1,22 @@
+metadata:
+  Resident Evil:
+    title: Resident Evil
+    year: 2002
+    edition_filter: Theatrical cut
+    sort_title: Resident Evil (2002) 001
+    content_rating: gb/15
+    country.sync: [Germany, United Kingdom]
+    director.sync: [Paul W.S. Anderson]
+    genre.sync: [Action, Horror, Science Fiction]
+    originally_available: 2002-03-12
+    producer.sync:
+      [Paul W.S. Anderson, Jeremy Bolt, Bernd Eichinger, Samuel Hadida]
+    studio: Constantin Film
+    summary: "A special-ops unit fights an out-of-control supercomputer and the hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident."
+    tagline: Survive the Horror
+    writer.sync: [Paul W.S. Anderson]
+    label: [ID__000001576A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
