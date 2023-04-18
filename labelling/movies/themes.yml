@@ -63,6 +63,7 @@ collections:
       - 299534 # Avengers: Endgame (2019)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 180 # Minority Report (2002)
+      - 588 # Silent Hill (2006)
       - 634649 # Spider-Man: No Way Home (2021)
       - 5876 # The Mist (2007)
 
@@ -168,6 +169,7 @@ collections:
       - 71679 # Resident Evil: Retribution (2012)
       - 173897 # Resident Evil: The Final Chapter (2016)
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
+      - 588 # Silent Hill (2006)
 
   Theme__bioweapons:
     template: { name: TMDB theme label, theme_name: bioweapons }
@@ -191,6 +193,11 @@ collections:
     tmdb_movie:
       - 487558 # BlacKkKlansman (2018)
       - 68718 # Django Unchained (2012)
+
+  Theme__body_horror:
+    template: { name: TMDB theme label, theme_name: body_horror }
+    tmdb_movie:
+      - 588 # Silent Hill (2006)
 
   Theme__buddy_movie:
     template: { name: TMDB theme label, theme_name: buddy_movie }
@@ -417,6 +424,7 @@ collections:
       - 48650 # Room in Rome (2010)
       - 27576 # Salt (2010)
       - 11013 # Secretary (2002)
+      - 588 # Silent Hill (2006)
       - 882598 # Smile (2022)
       - 140607 # Star Wars: The Force Awakens (2015)
       - 181808 # Star Wars: The Last Jedi (2017)
@@ -590,6 +598,7 @@ collections:
       - 474350 # It Chapter Two (2019)
       - 762504 # Nope (2022)
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
+      - 588 # Silent Hill (2006)
       - 882598 # Smile (2022)
       - 10216 # Species II (1998)
       - 5876 # The Mist (2007)
@@ -832,6 +841,7 @@ collections:
     template: { name: TMDB theme label, theme_name: splatter }
     tmdb_movie:
       - 25239 # Day of the Woman (1978)
+      - 588 # Silent Hill (2006)
       - 10216 # Species II (1998)
 
   Theme__spoof:
@@ -894,6 +904,7 @@ collections:
       - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 588 # Silent Hill (2006)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 882598 # Smile (2022)
       - 756999 # The Black Phone (2021)
@@ -1020,7 +1031,6 @@ collections:
         theme: "body horror"
         title_list:
           - Freaked (1994)
-          - Silent Hill (2006) 001
           - Thing (1982)
 
   "Theme: cannibals":
@@ -1342,7 +1352,6 @@ collections:
           - Pirates of the Caribbean (2003) 001
           - Scary Movie (2000) 002
           - Scary Movie (2000) 003
-          - Silent Hill (2006) 001
           - Tenacious D in the Pick of Destiny (2006)
           - Witch (2015)
 

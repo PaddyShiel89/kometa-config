@@ -203,6 +203,12 @@ collections:
     tmdb_movie:
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
 
+  Series__Silent_Hill_2006:
+    template:
+      { name: TMDB series label, series_name: Silent_Hill, series_year: 2006 }
+    tmdb_movie:
+      - 588 # Silent Hill (2006)
+
   Series__Shang_Chi_2021:
     template:
       { name: TMDB series label, series_name: Shang_Chi, series_year: 2021 }
@@ -715,13 +721,6 @@ collections:
         title_list:
           - Sherlock Holmes (2009) 001
           - Sherlock Holmes (2009) 002
-
-  "Series: Silent Hill (2006)":
-    template:
-      - name: Series label
-        series: "Silent Hill (2006)"
-        title_list:
-          - Silent Hill (2006) 001
 
   "Series: Sin City (2005)":
     template:

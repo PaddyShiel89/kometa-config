@@ -91,6 +91,7 @@ libraries:
       - repo: metadata/movies/Secretary (2002) {tmdb-11013}
       - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}
       - repo: metadata/movies/Shrek (2001) {tmdb-808}
+      - repo: metadata/movies/Silent Hill (2006) {tmdb-588}
       - repo: metadata/movies/Smile (2022) {tmdb-882598}
       - repo: metadata/movies/Solo A Star Wars Story {tmdb-348350}
       - repo: metadata/movies/Species II (1998) {tmdb-10216}
