@@ -666,6 +666,7 @@ collections:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 7737 # Resident Evil: Extinction (2007)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
 
   Theme__poverty:

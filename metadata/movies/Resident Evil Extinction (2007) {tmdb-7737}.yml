@@ -1,0 +1,28 @@
+metadata:
+  "Resident Evil: Extinction":
+    title: "Resident Evil: Extinction"
+    year: 2007
+    edition_filter: Theatrical cut
+    sort_title: "Resident Evil (2002) 003"
+    content_rating: gb/15
+    country.sync: [Canada, Germany, Mexico, United States of America]
+    director.sync: [Russell Mulcahy]
+    genre.sync: [Action, Horror, Science Fiction]
+    originally_available: 2007-09-20
+    producer.sync:
+      [
+        Paul W.S. Anderson,
+        Jeremy Bolt,
+        Bernd Eichinger,
+        Samuel Hadida,
+        Robert Kulzer,
+      ]
+    studio: Constantin Film
+    summary: "Alice joins a caravan of survivors of the Raccoon City catastrophe as they travel across the Nevada desert, hoping to make it to Alaska."
+    tagline: "The Extinction Is Coming..."
+    writer.sync: [Paul W.S. Anderson]
+    label: [ID__000007737A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
