@@ -77,6 +77,7 @@ libraries:
       - repo: metadata/movies/Pirates of the Caribbean On Stranger Tides (2011) {tmdb-1865}
       - repo: metadata/movies/Police Story 2 (1988) {tmdb-10753}
       - repo: metadata/movies/Resident Evil (2002) {tmdb-1576}
+      - repo: metadata/movies/Resident Evil Afterlife (2010) {tmdb-35791}
       - repo: metadata/movies/Resident Evil Apocalypse (2004) {tmdb-1577}
       - repo: metadata/movies/Resident Evil Extinction (2007) {tmdb-7737}
       - repo: metadata/movies/Return of the Jedi (1983) {tmdb-1892}

@@ -162,9 +162,9 @@ collections:
     tmdb_movie:
       - 1995 # Lara Croft: Tomb Raider (2001)
       - 1576 # Resident Evil (2002)
+      - 35791 # Resident Evil: Afterlife (2010)
       - 1577 # Resident Evil: Apocalype (2004)
       - 7737 # Resident Evil: Extinction (2007)
-      - 35791 # Resident Evil: Afterlife (2010)
       - 71679 # Resident Evil: Retribution (2012)
       - 173897 # Resident Evil: The Final Chapter (2016)
 
@@ -241,6 +241,8 @@ collections:
     template: { name: TMDB theme label, theme_name: clones }
     tmdb_movie:
       - 8078 # Alien Resurrection (1997)
+      - 35791 # Resident Evil: Afterlife (2010)
+      - 7737 # Resident Evil: Extinction (2007)
       - 10216 # Species II (1998)
       - 1894 # Star Wars: Episode II - Attack of the Clones (2002)
       - 12180 # Star Wars: The Clone Wars (2008)
@@ -402,9 +404,9 @@ collections:
       - 42695 # I Am Curious (Yellow) (1967)
       - 1995 # Lara Croft: Tomb Raider (2001)
       - 1576 # Resident Evil (2002)
+      - 35791 # Resident Evil: Afterlife (2010)
       - 1577 # Resident Evil: Apocalype (2004)
       - 7737 # Resident Evil: Extinction (2007)
-      - 35791 # Resident Evil: Afterlife (2010)
       - 71679 # Resident Evil: Retribution (2012)
       - 173897 # Resident Evil: The Final Chapter (2016)
       - 330459 # Rogue One: A Star Wars Story (2016)
@@ -666,6 +668,7 @@ collections:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 35791 # Resident Evil: Afterlife (2010)
       - 7737 # Resident Evil: Extinction (2007)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
 
@@ -957,9 +960,9 @@ collections:
       - 157433 # Pet Sematary (2019)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 1576 # Resident Evil (2002)
+      - 35791 # Resident Evil: Afterlife (2010)
       - 1577 # Resident Evil: Apocalype (2004)
       - 7737 # Resident Evil: Extinction (2007)
-      - 35791 # Resident Evil: Afterlife (2010)
       - 71679 # Resident Evil: Retribution (2012)
       - 173897 # Resident Evil: The Final Chapter (2016)
       - 23202 # Trick 'r Treat (2007)
