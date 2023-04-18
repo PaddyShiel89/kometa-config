@@ -157,6 +157,11 @@ collections:
       - 45269 # The King's Speech (2010)
       - 158914 # The Look of Love (2013)
 
+  Theme__based_on_videogames:
+    template: { name: TMDB theme label, theme_name: based_on_videogames }
+    tmdb_movie:
+      - 1995 # Lara Croft: Tomb Raider (2001)
+
   Theme__bioweapons:
     template: { name: TMDB theme label, theme_name: bioweapons }
     tmdb_movie:
@@ -389,6 +394,7 @@ collections:
       - 50456 # Hanna (2011)
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
+      - 1995 # Lara Croft: Tomb Raider (2001)
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 48650 # Room in Rome (2010)
       - 27576 # Salt (2010)
@@ -857,6 +863,7 @@ collections:
       - 2978 # Ghostbusters II (1989)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
+      - 1995 # Lara Croft: Tomb Raider (2001)
       - 157433 # Pet Sematary (2019)
       - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
@@ -901,6 +908,7 @@ collections:
   Theme__treasure_hunt:
     template: { name: TMDB theme label, theme_name: treasure_hunt }
     tmdb_movie:
+      - 1995 # Lara Croft: Tomb Raider (2001)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 9340 # The Goonies (1985)
@@ -1294,7 +1302,6 @@ collections:
           - Indiana Jones (1981) 002
           - Indiana Jones (1981) 003
           - It Follows (2015)
-          - "Lara Croft: Tomb Raider (2001) 001"
           - Mummy (1999) 001
           - Muppet Christmas Carol (1992)
           - Nocturne (2020)

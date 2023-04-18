@@ -295,6 +295,12 @@ collections:
       - 284053 # Thor: Ragnarok (2017)
       - 616037 # Thor: Love and Thunder (2022)
 
+  Series__Tomb_Raider_2001:
+    template:
+      { name: TMDB series label, series_name: Tomb_Raider, series_year: 2001 }
+    tmdb_movie:
+      - 1995 # Lara Croft: Tomb Raider (2001)
+
   "Series: 28 Days Later (2002)":
     template:
       - name: Series label
@@ -521,13 +527,6 @@ collections:
         series: "Kingsman (2015)"
         title_list:
           - Kingsman (2014) 001
-
-  "Series: Lara Croft: Tomb Raider (2001)":
-    template:
-      - name: Series label
-        series: "Lara Croft: Tomb Raider (2001)"
-        title_list:
-          - "Lara Croft: Tomb Raider (2001) 001"
 
   "Series: The Lego Movies (2014)":
     template:
