@@ -81,6 +81,7 @@ libraries:
       - repo: metadata/movies/Resident Evil Apocalypse (2004) {tmdb-1577}
       - repo: metadata/movies/Resident Evil Extinction (2007) {tmdb-7737}
       - repo: metadata/movies/Resident Evil Retribution (2012) {tmdb-71679}
+      - repo: metadata/movies/Resident Evil The Final Chapter (2016) {tmdb-173897}
       - repo: metadata/movies/Return of the Jedi (1983) {tmdb-1892}
       - repo: metadata/movies/Rogue One A Star Wars Story {tmdb-330459}
       - repo: metadata/movies/Room in Rome (2010) {tmdb-48650}

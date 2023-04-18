@@ -1,0 +1,22 @@
+metadata:
+  "Resident Evil: The Final Chapter":
+    title: "Resident Evil: The Final Chapter"
+    year: 2016
+    edition_filter: Theatrical cut
+    sort_title: "Resident Evil (2002) 006"
+    content_rating: gb/15
+    country.sync: [Canada, Germany]
+    director.sync: [Paul W.S. Anderson]
+    genre.sync: [Action, Horror, Science Fiction]
+    originally_available: 2016-12-13
+    producer.sync:
+      [Paul W.S. Anderson, Jeremy Bolt, Samuel Hadida, Robert Kulzer]
+    studio: Constantin Film
+    summary: "Alice returns to where the nightmare began: Raccoon City, where the Umbrella Corporation is gathering its forces for a final strike against the remaining survivors of the apocalypse."
+    tagline: The beginning of the end.
+    writer.sync: [Paul W.S. Anderson]
+    label: [ID__000173897A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
