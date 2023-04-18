@@ -1,0 +1,22 @@
+metadata:
+  Gone Girl:
+    title: Gone Girl
+    year: 2014
+    edition_filter: Theatrical cut
+    sort_title: Gone Girl (2014)
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [David Fincher]
+    genre.sync: [Drama, Mystery, Thriller]
+    originally_available: 2014-09-26
+    producer.sync:
+      ["Ceán Chaffin", Joshua Donen, Arnon Milchan, Reese Witherspoon]
+    studio: New Regency Productions
+    summary: "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent."
+    tagline: "You don't know what you've got 'til it's..."
+    writer.sync: [Gillian Flynn]
+    label: [ID__000210577A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
