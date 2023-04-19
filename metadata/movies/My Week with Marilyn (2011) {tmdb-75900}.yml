@@ -1,0 +1,20 @@
+metadata:
+  My Week with Marilyn:
+    title: My Week with Marilyn
+    year: 2011
+    edition_filter: Theatrical cut
+    sort_title: My Week with Marilyn (2011)
+    content_rating: gb/15
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Simon Curtis]
+    genre.sync: [Biopic, Drama]
+    originally_available: 2011-10-09
+    producer.sync: [David Parfitt, Harvey Weinstein]
+    studio: BBC Films
+    summary: "Colin Clark, an employee of Sir Laurence Olivier, documents the tense interaction between Olivier and Marilyn Monroe during the production of The Prince and the Showgirl (1957)."
+    writer.sync: [Adrian Hodges, Colin Clark]
+    label: [ID__000075900A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

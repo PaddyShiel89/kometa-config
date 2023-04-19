@@ -92,6 +92,7 @@ collections:
   Theme__based_on_a_book:
     template: { name: TMDB theme label, theme_name: based_on_a_book }
     tmdb_movie:
+      - 44115 # 127 Hours (2010)
       - 487558 # BlacKkKlansman (2018)
       - 598 # City of God (2002)
       - 13973 # Choke (2008)
@@ -152,6 +153,7 @@ collections:
   Theme__based_on_true_events:
     template: { name: TMDB theme label, theme_name: based_on_true_events }
     tmdb_movie:
+      - 44115 # 127 Hours (2010)
       - 487558 # BlacKkKlansman (2018)
       - 947 # Lawrence of Arabia (1962)
       - 8848 # The Bank Job (2008)
@@ -442,6 +444,7 @@ collections:
     tmdb_movie:
       - 615777 # Babylon (2022)
       - 42695 # I Am Curious (Yellow) (1967)
+      - 75900 # My Week with Marilyn (2011)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
 
   Theme__foreign_language:
@@ -919,6 +922,7 @@ collections:
   Theme__survival:
     template: { name: TMDB theme label, theme_name: survival }
     tmdb_movie:
+      - 44115 # 127 Hours (2010)
       - 348 # Alien (1979)
       - 8078 # Alien Resurrection (1997)
       - 8077 # Alien³ (1992)

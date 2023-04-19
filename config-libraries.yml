@@ -4,6 +4,7 @@ libraries:
       assets_for_all: true
     metadata_path:
       - repo: metadata/movies/21 Grams (2003) {tmdb-470}
+      - repo: metadata/movies/127 Hours (2010) {tmdb-44115}
       - repo: metadata/movies/A l'aventure (2009) {tmdb-64124}
       - repo: metadata/movies/After Sex (2007) {tmdb-17097}
       - repo: metadata/movies/Alien (1979) {tmdb-348}
@@ -68,6 +69,7 @@ libraries:
       - repo: metadata/movies/Ma mere (2004) {tmdb-48266}
       - repo: metadata/movies/Malena (2000) {tmdb-10867}
       - repo: metadata/movies/Minority Report (2002) {tmdb-180}
+      - repo: metadata/movies/My Week with Marilyn (2011) {tmdb-75900}
       - repo: metadata/movies/Nope (2022) {tmdb-762504}
       - repo: metadata/movies/Novo (2002) {tmdb-60015}
       - repo: metadata/movies/Pet Sematary (2019) {tmdb-157433}
@@ -231,6 +233,7 @@ libraries:
       - repo: metadata/short_films/Anima (2011) {tmdb-416185}
       - repo: metadata/short_films/Assassin's Creed Embers (2011) {tmdb-79089}
       - repo: metadata/short_films/Blade Runner Black Out 2022 (2017) {tmdb-475946}
+      - repo: metadata/short_films/God of Love (2010) {tmdb-58763}
       - repo: metadata/short_films/Laura Hasn't Slept (2020) {tmdb-689397}
       - repo: metadata/short_films/Marvel One-Shot A Funny Thing Happened on the Way to Thor's Hammer (2011) {tmdb-76535}
       - repo: metadata/short_films/Marvel One-Shot Agent Carter (2013) {tmdb-211387}
