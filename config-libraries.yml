@@ -4,6 +4,7 @@ libraries:
       assets_for_all: true
     metadata_path:
       - repo: metadata/movies/21 Grams (2003) {tmdb-470}
+      - repo: metadata/movies/127 Hours (2010) {tmdb-44115}
       - repo: metadata/movies/A l'aventure (2009) {tmdb-64124}
       - repo: metadata/movies/After Sex (2007) {tmdb-17097}
       - repo: metadata/movies/Alien (1979) {tmdb-348}
