@@ -56,8 +56,10 @@ collections:
       - name: Theme
         summary: "in the crime genre wherein the puzzle regarding who committed the crime is the main focus."
     smart_filter:
-      all:
-        label: "theme: murder mystery"
+      any:
+        label:
+          - Theme__murder_mystery
+          - "theme: murder mystery"
       sort_by: title.asc
 
   Noir:

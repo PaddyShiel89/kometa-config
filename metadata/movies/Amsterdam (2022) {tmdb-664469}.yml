@@ -1,0 +1,28 @@
+metadata:
+  Amsterdam:
+    title: Amsterdam
+    year: 2022
+    edition_filter: Theatrical cut
+    sort_title: Amsterdam (2022)
+    content_rating: gb/15
+    country.sync: [Japan, United States of America]
+    director.sync: [David O. Russell]
+    genre.sync: [Comedy, Drama, History, Mystery, Thriller]
+    originally_available: 2022-09-18
+    producer.sync:
+      [
+        Christian Bale,
+        Matthew Budman,
+        Anthony Katagas,
+        Arnon Milchan,
+        David O. Russell,
+      ]
+    studio: 20th Century Studios
+    summary: "In the 1930s, three friends witness a murder, are framed for it, and uncover one of the most outrageous plots in American history."
+    tagline: "Let the love, murder, and conspiracy begin."
+    writer.sync: [David O. Russell]
+    label: [ID__000664469A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

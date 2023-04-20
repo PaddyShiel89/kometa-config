@@ -12,6 +12,7 @@ libraries:
       - repo: metadata/movies/Alien3 (1992) {tmdb-8077}
       - repo: metadata/movies/Aliens (1986) {tmdb-679}
       - repo: metadata/movies/American Gangster (2007) {tmdb-4982}
+      - repo: metadata/movies/Amsterdam (2022) {tmdb-664469}
       - repo: metadata/movies/Ant-Man and the Wasp (2018) {tmdb-363088}
       - repo: metadata/movies/Atomic Blonde (2017) {tmdb-341013}
       - repo: metadata/movies/Attack the Block (2011) {tmdb-59678}
