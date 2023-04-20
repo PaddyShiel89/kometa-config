@@ -49,6 +49,7 @@ collections:
       - 1891 # The Empire Strikes Back (1980)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 74849 # The Star Wars Holiday Special (1978)
+      - 1091 # The Thing (1982)
       - 616037 # Thor: Love and Thunder (2022)
 
   Theme__alien_invasion:
@@ -56,6 +57,7 @@ collections:
     tmdb_movie:
       - 59678 # Attack the Block (2011)
       - 299534 # Avengers: Endgame (2019)
+      - 1091 # The Thing (1982)
 
   Theme__alternate_timeline:
     template: { name: TMDB theme label, theme_name: alternate_timeline }
@@ -120,6 +122,7 @@ collections:
       - 5876 # The Mist (2007)
       - 278 # The Shawshank Redemption (1994)
       - 694 # The Shining (1980)
+      - 1091 # The Thing (1982)
       - 16307 # The Wicker Man (1973)
       - 65086 # The Woman in Black (2012)
       - 556694 # Three Thousand Years of Longing (2022)
@@ -203,6 +206,7 @@ collections:
     tmdb_movie:
       - 17796 # Freaked (1993)
       - 588 # Silent Hill (2006)
+      - 1091 # The Thing (1982)
 
   Theme__buddy_movie:
     template: { name: TMDB theme label, theme_name: buddy_movie }
@@ -609,6 +613,7 @@ collections:
       - 882598 # Smile (2022)
       - 10216 # Species II (1998)
       - 5876 # The Mist (2007)
+      - 1091 # The Thing (1982)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
 
@@ -831,6 +836,7 @@ collections:
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 882598 # Smile (2022)
+      - 1091 # The Thing (1982)
 
   Theme__slasher:
     template: { name: TMDB theme label, theme_name: slasher }
@@ -937,6 +943,7 @@ collections:
       - 8077 # Alien³ (1992)
       - 679 # Aliens (1986)
       - 50456 # Hanna (2011)
+      - 1091 # The Thing (1982)
 
   Theme__terrorism:
     template: { name: TMDB theme label, theme_name: terrorism }
@@ -1030,7 +1037,6 @@ collections:
           - Star Trek (2009) 001
           - Suicide Squad (2021)
           - Super 8 (2011)
-          - Thing (1982)
           - Thor (2011) 001
           - Thor (2011) 002
           - Thor (2011) 003
@@ -1039,13 +1045,6 @@ collections:
           - Transformers (2007) 003
           - Under the Skin (2014)
           - World's End (2013)
-
-  "Theme: body horror":
-    template:
-      - name: Theme label
-        theme: "body horror"
-        title_list:
-          - Thing (1982)
 
   "Theme: cannibals":
     template:
