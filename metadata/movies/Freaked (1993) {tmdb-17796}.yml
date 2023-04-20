@@ -1,0 +1,21 @@
+metadata:
+  Freaked:
+    title: Freaked
+    year: 1992
+    edition_filter: Theatrical cut
+    sort_title: Freaked (1993)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Tom Stern, Alex Winter]
+    genre.sync: [Comedy, Science Fiction]
+    originally_available: 1993-04-24
+    producer.sync: [Stephen Chiodo, Harry J. Ufland, Mary Jane Ufland]
+    studio: Chiodo Brothers Production
+    summary: "A vain actor, his best friend, and an activist end up at a mutant freak farm run by a weirdo scientist."
+    tagline: Ugliness is in the eye of the beholder.
+    writer.sync: [Tim Burns, Tom Stern, Alex Winter]
+    label: [ID__000017796A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

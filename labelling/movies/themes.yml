@@ -186,6 +186,7 @@ collections:
       - 487558 # BlacKkKlansman (2018)
       - 13973 # Choke (2008)
       - 68718 # Django Unchained (2012)
+      - 17796 # Freaked (1993)
       - 674324 # The Banshees of Inisherin (2022)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
       - 1541 # Thelma & Louise (1991)
@@ -200,6 +201,7 @@ collections:
   Theme__body_horror:
     template: { name: TMDB theme label, theme_name: body_horror }
     tmdb_movie:
+      - 17796 # Freaked (1993)
       - 588 # Silent Hill (2006)
 
   Theme__buddy_movie:
@@ -598,6 +600,7 @@ collections:
       - 59678 # Attack the Block (2011)
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
+      - 17796 # Freaked (1993)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 762504 # Nope (2022)
@@ -667,6 +670,7 @@ collections:
   Theme__parody:
     template: { name: TMDB theme label, theme_name: parody }
     tmdb_movie:
+      - 17796 # Freaked (1993)
       - 808 # Shrek (2001)
 
   Theme__pirates:
@@ -1041,7 +1045,6 @@ collections:
       - name: Theme label
         theme: "body horror"
         title_list:
-          - Freaked (1994)
           - Thing (1982)
 
   "Theme: cannibals":
