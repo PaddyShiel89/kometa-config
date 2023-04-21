@@ -132,6 +132,7 @@ collections:
   Theme__based_on_a_graphic_novel:
     template: { name: TMDB theme label, theme_name: based_on_a_graphic_novel }
     tmdb_movie:
+      - 1271 # 300 (2006)
       - 341013 # Atomic Blonde (2017)
 
   Theme__based_on_works_by_philip_k_dick:
@@ -158,6 +159,7 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_true_events }
     tmdb_movie:
       - 44115 # 127 Hours (2010)
+      - 1271 # 300 (2006)
       - 487558 # BlacKkKlansman (2018)
       - 947 # Lawrence of Arabia (1962)
       - 8848 # The Bank Job (2008)
@@ -233,8 +235,8 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 20504 # The Book of Eli (2010)
 
-  Theme__catholiscism:
-    template: { name: TMDB theme label, theme_name: catholiscism }
+  Theme__catholicism:
+    template: { name: TMDB theme label, theme_name: catholicism }
     tmdb_movie:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
@@ -443,6 +445,7 @@ collections:
       - 181812 # Star Wars: The Rise of Skywalker (2019)
       - 23629 # Sucker Punch (2011)
       - 46534 # Sweet Karma (2009)
+      - 571 # The Birds (1963)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 1541 # Thelma & Louise (1991)
       - 556694 # Three Thousand Years of Longing (2022)

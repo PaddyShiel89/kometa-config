@@ -1,0 +1,23 @@
+metadata:
+  "300":
+    title: "300"
+    year: 2006
+    edition_filter: Thatrical cut
+    sort_title: "300 (2006)"
+    content_rating: gb/15
+    country.sync: [Bulgaria, Canada, United States of America]
+    director.sync: [Zack Snyder]
+    genre.sync: [Action, War]
+    originally_available: 2006-12-09
+    producer.sync:
+      [Mark Canton, Bernie Goldmann, Gianni Nunnari, Jeffrey Silver]
+    studio: Legendary Entertainment
+    summary: "King Leonidas of Sparta and a force of three-hundred men fight the Persians at Thermopylae in 480 B.C."
+    tagline: "Spartans, prepare for glory!"
+    writer.sync:
+      [Zack Snyder, Kurt Johnstad, Michael B. Gordon, Frank Miller, Lynn Varley]
+    label: [ID__000001271A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
