@@ -229,6 +229,7 @@ collections:
   Theme__cannibalism:
     template: { name: TMDB theme label, theme_name: cannibalism }
     tmdb_movie:
+      - 294963 # Bone Tomahawk (2015)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
 
   Theme__catholiscism:
@@ -865,6 +866,7 @@ collections:
   Theme__splatter:
     template: { name: TMDB theme label, theme_name: splatter }
     tmdb_movie:
+      - 294963 # Bone Tomahawk (2015)
       - 25239 # Day of the Woman (1978)
       - 588 # Silent Hill (2006)
       - 10216 # Species II (1998)
@@ -1057,7 +1059,6 @@ collections:
       - name: Theme label
         theme: "cannibals"
         title_list:
-          - Bone Tomahawk (2015)
           - Book of Eli (2010)
 
   "Theme: Christmas":
@@ -1312,7 +1313,6 @@ collections:
       - name: Theme label
         theme: "splatter"
         title_list:
-          - Bone Tomahawk (2015)
           - Hobo with a Shotgun (2011)
           - Saw (2004) 001
           - Saw (2004) 002
