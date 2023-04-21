@@ -1,0 +1,21 @@
+metadata:
+  The Birds:
+    title: The Birds
+    year: 1963
+    edition_filter: Theatrical cut
+    sort_title: Birds (1963)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Alfred Hitchcock]
+    genre.sync: [Drama, Horror, Mystery, Romance]
+    originally_available: 1963-03-28
+    producer.sync: [Alfred Hitchcock]
+    studio: "Alfred J. Hitchcock Productions"
+    summary: "A wealthy socialite pursues a potential boyfriend in a small town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people."
+    tagline: "Suspense and shock beyond anything you have seen or imagined!"
+    writer.sync: [Daphne Du Maurier, Evan Hunter]
+    label: [ID__000000571A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -112,6 +112,7 @@ collections:
       - 157433 # Pet Sematary (2019)
       - 11013 # Secretary (2002)
       - 808 # Shrek (2001)
+      - 571 # The Birds (1963)
       - 756999 # The Black Phone (2021)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 238 # The Godfather (1972)
@@ -647,6 +648,11 @@ collections:
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 556694 # Three Thousand Years of Longing (2022)
 
+  Theme__natural_horror:
+    template: { name: TMDB theme label, theme_name: natural_horror }
+    tmdb_movie:
+      - 571 # The Birds (1963)
+
   Theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }
     tmdb_movie:
@@ -1066,13 +1072,6 @@ collections:
           - Muppet Christmas Carol (1992)
           - Nativity! (2009) 001
           - "Santa Claus: The Movie (1985)"
-
-  "Theme: creature feature":
-    template:
-      - name: Theme label
-        theme: "creature feature"
-        title_list:
-          - Birds (1963)
 
   "Theme: erotic":
     template:

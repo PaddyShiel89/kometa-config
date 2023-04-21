@@ -105,6 +105,7 @@ collections:
           - ID__000027576B # Salt (2010) [Extended cut]
           - ID__000027576C # Salt (2010) [Director's cut]
           - ID__000000558A # Spider-Man 2 (2004) [Theatrical cut]
+          - ID__000000571A # The Birds (1963)
           - ID__000000278A # The Shawshank Redemption (1994)
 
   Ownership__rented:
@@ -210,6 +211,7 @@ collections:
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000008848A # The Bank Job (2008)
           - ID__000674324A # The Banshees of Inisherin (2022)
+          - ID__000000571A # The Birds (1963)
           - ID__000756999A # The Black Phone (2021)
           - ID__000015472A # The Girl with the Dragon Tattoo (2009)
           - ID__000000238A # The Godfather (1972)
@@ -344,7 +346,6 @@ collections:
           - Anything For Her (2008)
           - Basic Instinct (1992) 001
           - Beautiful Mind (2001)
-          - Birds (1963)
           - Black Swan (2010)
           - Blades of Glory (2007)
           - Boogie Nights (1997)
