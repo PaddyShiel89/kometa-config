@@ -231,6 +231,7 @@ collections:
     tmdb_movie:
       - 294963 # Bone Tomahawk (2015)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
+      - 20504 # The Book of Eli (2010)
 
   Theme__catholiscism:
     template: { name: TMDB theme label, theme_name: catholiscism }
@@ -713,6 +714,7 @@ collections:
       - 7737 # Resident Evil: Extinction (2007)
       - 71679 # Resident Evil: Retribution (2012)
       - 173897 # Resident Evil: The Final Chapter (2016)
+      - 20504 # The Book of Eli (2010)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
 
   Theme__poverty:
@@ -765,6 +767,7 @@ collections:
     tmdb_movie:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
+      - 20504 # The Book of Eli (2010)
 
   Theme__regicide:
     template: { name: TMDB theme label, theme_name: regicide }
@@ -1054,13 +1057,6 @@ collections:
           - Under the Skin (2014)
           - World's End (2013)
 
-  "Theme: cannibals":
-    template:
-      - name: Theme label
-        theme: "cannibals"
-        title_list:
-          - Book of Eli (2010)
-
   "Theme: Christmas":
     template:
       - name: Theme label
@@ -1249,7 +1245,6 @@ collections:
       - name: Theme label
         theme: "post-apocalyptic"
         title_list:
-          - Book of Eli (2010)
           - Hunger Games (2012) 001
           - Hunger Games (2012) 002
           - Hunger Games (2012) 003
@@ -1271,7 +1266,6 @@ collections:
       - name: Theme label
         theme: "religion"
         title_list:
-          - Book of Eli (2010)
           - Indiana Jones (1981) 001
           - Indiana Jones (1981) 003
 

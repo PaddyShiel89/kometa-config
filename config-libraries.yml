@@ -120,6 +120,7 @@ libraries:
       - repo: metadata/movies/The Banshees of Inisherin (2022) {tmdb-674324}
       - repo: metadata/movies/The Birds (1963) {tmdb-571}
       - repo: metadata/movies/The Black Phone (2022) {tmdb-756999}
+      - repo: metadata/movies/The Book of Eli (2010) {tmdb-20504}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
       - repo: metadata/movies/The Exterminating Angels (2006) {tmdb-19976}
       - repo: metadata/movies/The Girl with the Dragon Tattoo (2009) {tmdb-15472}
