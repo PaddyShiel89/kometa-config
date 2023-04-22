@@ -9,6 +9,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000301502A # Blonde (2022)
           - ID__000343674A # Gerald's Game (2017)
           - ID__000001892B # Return of the Jedi (1983) [Special edition]
           - ID__000001892E # Return of the Jedi (1983) [Despecialized edition]
@@ -463,7 +464,6 @@ collections:
           - Blade Runner (1982) 001 2007
           - Blade Runner (1982) 002
           - Blair Witch Project (1999) 001
-          - Blonde (2022)
           - Blue is the Warmest Colour (2013)
           - Bone Collector (1999)
           - Boogie Woogie (2009)

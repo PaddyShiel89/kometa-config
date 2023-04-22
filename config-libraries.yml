@@ -28,6 +28,7 @@ libraries:
       - repo: metadata/movies/Black Panther Wakanda Forever (2022) {tmdb-505642}
       - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
       - repo: metadata/movies/BlacKkKlansman (2018) {tmdb-487558}
+      - repo: metadata/movies/Blonde (2022) {tmdb-301502}
       - repo: metadata/movies/Blue Streak (1999) {tmdb-11001}
       - repo: metadata/movies/Bone Tomahawk (2015) {tmdb-294963}
       - repo: metadata/movies/Borat (2006) {tmdb-496}

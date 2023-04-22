@@ -179,6 +179,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000301502A # Blonde (2022)
           - ID__000343674A # Gerald's Game (2017)
           - ID__000001892B # Return of the Jedi (1983) [Special edition]
           - ID__000001892E # Return of the Jedi (1983) [Despecialized edition]
@@ -230,6 +231,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000301502A # Blonde (2022)
           - ID__000343674A # Gerald's Game (2017)
 
   "Source: blu-ray":
@@ -545,7 +547,6 @@ collections:
       - name: Source label
         source: "download"
         title_list:
-          - Blonde (2022)
           - Deep Water (2022)
           - Grand Central (2013)
           - Jolene (2008)
@@ -616,6 +617,5 @@ collections:
       - name: Source label
         source: "Netflix"
         title_list:
-          - Blonde (2022)
           - Sergio (2020)
           - Wasp Network (2020)

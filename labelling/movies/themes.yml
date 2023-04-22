@@ -97,6 +97,7 @@ collections:
       - 44115 # 127 Hours (2010)
       - 453 # A Beautiful Mind (2001)
       - 487558 # BlacKkKlansman (2018)
+      - 301502 # Blonde (2022)
       - 598 # City of God (2002)
       - 13973 # Choke (2008)
       - 501170 # Doctor Sleep (2019)
@@ -166,6 +167,7 @@ collections:
       - 53182 # 300: Rise of an Empire (2014)
       - 453 # A Beautiful Mind (2001)
       - 487558 # BlacKkKlansman (2018)
+      - 301502 # Blonde (2022)
       - 947 # Lawrence of Arabia (1962)
       - 8848 # The Bank Job (2008)
       - 9676 # The Black Dahlia (2006)
@@ -593,6 +595,7 @@ collections:
     template: { name: TMDB theme label, theme_name: mental_health }
     tmdb_movie:
       - 453 # A Beautiful Mind (2001)
+      - 301502 # Blonde (2022)
       - 68721 # Iron Man 3 (2013)
       - 947 # Lawrence of Arabia (1962)
       - 23629 # Sucker Punch (2011)
@@ -757,6 +760,7 @@ collections:
     tmdb_movie:
       - 470 # 21 Grams (2003)
       - 454527 # Benedetta (2021)
+      - 301502 # Blonde (2022)
       - 619730 # Don't Worry Darling (2022)
       - 343674 # Gerald's Game (2017)
       - 210577 # Gone Girl (2014)
