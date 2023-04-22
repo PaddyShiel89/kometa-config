@@ -89,6 +89,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000453A # A Beautiful Mind (2001)
           - ID__000000348A # Alien (1979) [Theatrical cut]
           - ID__000000348B # Alien (1979) [Director's cut]
           - ID__000008078A # Alien Resurrection (1997) [Theatrical cut]
@@ -119,6 +120,7 @@ collections:
         label:
           - ID__000000470A # 21 Grams (2003)
           - ID__000044115A # 127 Hours (2010)
+          - ID__000000453A # A Beautiful Mind (2001)
           - ID__000000348A # Alien (1979) [Theatrical cut]
           - ID__000000348B # Alien (1979) [Director's cut]
           - ID__000008078A # Alien Resurrection (1997) [Theatrical cut]
@@ -347,7 +349,6 @@ collections:
           - Angel-A (2005)
           - Anything For Her (2008)
           - Basic Instinct (1992) 001
-          - Beautiful Mind (2001)
           - Black Swan (2010)
           - Blades of Glory (2007)
           - Boogie Nights (1997)

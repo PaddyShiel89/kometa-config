@@ -95,6 +95,7 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_a_book }
     tmdb_movie:
       - 44115 # 127 Hours (2010)
+      - 453 # A Beautiful Mind (2001)
       - 487558 # BlacKkKlansman (2018)
       - 598 # City of God (2002)
       - 13973 # Choke (2008)
@@ -162,6 +163,7 @@ collections:
       - 44115 # 127 Hours (2010)
       - 1271 # 300 (2006)
       - 53182 # 300: Rise of an Empire (2014)
+      - 453 # A Beautiful Mind (2001)
       - 487558 # BlacKkKlansman (2018)
       - 947 # Lawrence of Arabia (1962)
       - 8848 # The Bank Job (2008)
@@ -587,6 +589,7 @@ collections:
   Theme__mental_health:
     template: { name: TMDB theme label, theme_name: mental_health }
     tmdb_movie:
+      - 453 # A Beautiful Mind (2001)
       - 68721 # Iron Man 3 (2013)
       - 947 # Lawrence of Arabia (1962)
       - 23629 # Sucker Punch (2011)
