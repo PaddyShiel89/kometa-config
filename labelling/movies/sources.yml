@@ -218,6 +218,7 @@ collections:
           - ID__000001893B # Star Wars: Episode I - The Phantom Menace (1999) [DVD cut]
           - ID__000001894B # Star Wars: Episode II - Attack of the Clones (2002) [DVD cut]
           - ID__000001895B # Star Wars: Episode III - Revenge of the Sith (2005) [DVD cut]
+          - ID__000009676A # The Black Dahlia (2006)
           - ID__000001891A # The Empire Strikes Back (1980) [Theatrical cut]
           - ID__000001891C # The Empire Strikes Back (1980) [DVD cut]
           - ID__000019976A # The Exterminating Angels (2006)
@@ -574,7 +575,6 @@ collections:
         title_list:
           - Anything For Her (2008)
           - Big Nothing (2006)
-          - Black Dahlia (2006)
           - Black Dynamite (2010)
           - Boogie Woogie (2009)
           - Boss'n Up (2005)

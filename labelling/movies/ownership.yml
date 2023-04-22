@@ -31,6 +31,7 @@ collections:
           - ID__000017097A # After Sex (2007)
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
           - ID__000068721A # Iron Man 3 (2013)
+          - ID__000009676A # The Black Dahlia (2006)
 
   Ownership__own:
     template:
@@ -457,7 +458,6 @@ collections:
           - Batman (2022) 001
           - BFG (2016)
           - Birds of Prey (2020)
-          - Black Dahlia (2006)
           - Black Dynamite (2010)
           - Black Panther (2018) 001
           - Blade Runner (1982) 001 2007
