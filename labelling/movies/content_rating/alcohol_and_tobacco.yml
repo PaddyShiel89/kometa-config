@@ -45,3 +45,14 @@ collections:
           - ID__000009340A # The Goonies (1985)
           - ID__000045269A # The King's Speech (2010)
           - ID__000001541A # Thelma & Louise (1991)
+
+  BBFC alcohol & tobacco lvl 2:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: alcohol_and_tobacco
+        level: 2
+    plex_search:
+      any:
+        label:
+          - ID__000000524A # Casino (1995)

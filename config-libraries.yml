@@ -39,6 +39,7 @@ libraries:
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/movies/Cashback (2006) {tmdb-12225}
+      - repo: metadata/movies/Casino (1995) {tmdb-524}
       - repo: metadata/movies/Choke (2008) {tmdb-13973}
       - repo: metadata/movies/City of God (2002) {tmdb-598}
       - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
