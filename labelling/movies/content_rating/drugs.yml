@@ -2,6 +2,17 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  BBFC drugs lvl 2:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: drugs
+        level: 2
+    plex_search:
+      any:
+        label:
+          - ID__000008696A # Calendar Girls (2003)
+
   BBFC drugs lvl 3:
     template:
       - name: Content rating numeric label

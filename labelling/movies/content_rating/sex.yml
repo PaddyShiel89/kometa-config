@@ -60,6 +60,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000008696A # Calendar Girls (2003)
           - ID__000068718A # Django Unchained (2012)
           - ID__000524434A # Eternals (2021)
           - ID__000000620A # Ghostbusters (1984)
