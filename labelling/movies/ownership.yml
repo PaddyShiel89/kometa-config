@@ -40,6 +40,7 @@ collections:
       any:
         label:
           - ID__000001271A # 300 (2006)
+          - ID__000053182A # 300: Rise of an Empire (2014)
           - ID__000064124A # À l'aventure (2009)
           - ID__000012225A # Cashback (2006)
           - ID__000013973A # Choke (2008)
@@ -254,7 +255,6 @@ collections:
         status: "own"
         title_list:
           - 4.3.2.1 (2010)
-          - 300 (2007) 002
           - Avengers (2012) 001
           - Avengers (2012) 002
           - Avengers (2012) 003

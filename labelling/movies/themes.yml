@@ -133,6 +133,7 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_a_graphic_novel }
     tmdb_movie:
       - 1271 # 300 (2006)
+      - 53182 # 300: Rise of an Empire (2014)
       - 341013 # Atomic Blonde (2017)
 
   Theme__based_on_works_by_philip_k_dick:
@@ -160,6 +161,7 @@ collections:
     tmdb_movie:
       - 44115 # 127 Hours (2010)
       - 1271 # 300 (2006)
+      - 53182 # 300: Rise of an Empire (2014)
       - 487558 # BlacKkKlansman (2018)
       - 947 # Lawrence of Arabia (1962)
       - 8848 # The Bank Job (2008)
