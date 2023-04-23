@@ -1,0 +1,21 @@
+metadata:
+  The Seven Year Itch:
+    title: The Seven Year Itch
+    year: 1955
+    edition_filter: Theatrical cut
+    sort_title: Seven Year Itch (1955)
+    content_rating: gb/PG
+    country.sync: [United States of America]
+    director.sync: [Billy Wilder]
+    genre.sync: [Comedy, Romance]
+    originally_available: 1955-06-01
+    producer.sync: [Charles K. Feldman, Billy Wilder]
+    studio: Charles K. Feldman Group
+    summary: When his family goes away for the summer, a hitherto faithful husband with an overactive imagination is tempted by his beautiful neighbour.
+    tagline: It TICKLES and TANTALIZES! - The funniest comedy since laughter began!
+    writer.sync: [Billy Wilder, George Axelrod]
+    label: [ID__000010653A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
