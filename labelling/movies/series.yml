@@ -300,7 +300,7 @@ collections:
         series_year: 1971,
       }
     tmdb_movie:
-      - 2518 # The Last Picture Show (1971)
+      - 25188 # The Last Picture Show (1971)
 
   Series__The_Raid_2011:
     template:
