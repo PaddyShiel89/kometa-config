@@ -131,6 +131,11 @@ collections:
     tmdb_movie:
       - 341013 # Atomic Blonde (2017)
 
+  Theme__based_on_a_play:
+    template: { name: TMDB theme label, theme_name: based_on_a_play }
+    tmdb_movie:
+      - 10653 # The Seven Year Itch (1955)
+
   Theme__based_on_works_by_philip_k_dick:
     template:
       { name: TMDB theme label, theme_name: based_on_works_by_philip_k_dick }
