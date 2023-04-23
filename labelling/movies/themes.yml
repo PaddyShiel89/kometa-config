@@ -117,6 +117,7 @@ collections:
       - 497 # The Green Mile (1999)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 45269 # The King's Speech (2010)
+      - 2518 # The Last Picture Show (1971)
       - 5876 # The Mist (2007)
       - 278 # The Shawshank Redemption (1994)
       - 694 # The Shining (1980)
@@ -284,6 +285,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 2518 # The Last Picture Show (1971)
       - 682507 # Where the Crawdads Sing (2022)
 
   Theme__con_artists:

@@ -127,6 +127,7 @@ libraries:
       - repo: metadata/movies/The Green Mile (1999) {tmdb-497}
       - repo: metadata/movies/The Hitchhiker's Guide to the Galaxy (2005) {tmdb-7453}
       - repo: metadata/movies/The King's Speech (2010) {tmdb-45269}
+      - repo: metadata/movies/The Last Picture Show (1971) {tmdb-2518}
       - repo: metadata/movies/The Look of Love (2013) {tmdb-158914}
       - repo: metadata/movies/The Mist (2007) {tmdb-5876}
       - repo: metadata/movies/The Raid (2011) {tmdb-94329}
