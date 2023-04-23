@@ -139,10 +139,12 @@ libraries:
       - repo: metadata/movies/The Green Mile (1999) {tmdb-497}
       - repo: metadata/movies/The Hitchhiker's Guide to the Galaxy (2005) {tmdb-7453}
       - repo: metadata/movies/The King's Speech (2010) {tmdb-45269}
+      - repo: metadata/movies/The Last Picture Show (1971) {tmdb-2518}
       - repo: metadata/movies/The Look of Love (2013) {tmdb-158914}
       - repo: metadata/movies/The Mist (2007) {tmdb-5876}
       - repo: metadata/movies/The Raid (2011) {tmdb-94329}
       - repo: metadata/movies/The Raid 2 (2014) {tmdb-180299}
+      - repo: metadata/movies/The Seven Year Itch (1955) {tmdb-10653}
       - repo: metadata/movies/The Shawshank Redemption (1994) {tmdb-278}
       - repo: metadata/movies/The Shining (1980) {tmdb-694}
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
@@ -158,6 +160,7 @@ libraries:
       - repo: metadata/movies/Trick 'r Treat (2007) {tmdb-23202}
       - repo: metadata/movies/Tropic Thunder (2008) {tmdb-7446}
       - repo: metadata/movies/Uncharted (2022) {tmdb-335787}
+      - repo: metadata/movies/Warrior (2011) {tmdb-59440}
       - repo: metadata/movies/Wedding Crashers (2005) {tmdb-9522}
       - repo: metadata/movies/What the Peeper Saw (1972) {tmdb-112355}
       - repo: metadata/movies/Where the Crawdads Sing (2022) {tmdb-682507}

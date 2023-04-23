@@ -292,6 +292,16 @@ collections:
       - 240 # The Godfather Part II (1975)
       - 242 # The Godfather Part III (1990)
 
+  Series__The_Last_Picture_Show_1971:
+    template:
+      {
+        name: TMDB series label,
+        series_name: The_Last_Picture_Show,
+        series_year: 1971,
+      }
+    tmdb_movie:
+      - 2518 # The Last Picture Show (1971)
+
   Series__The_Raid_2011:
     template:
       { name: TMDB series label, series_name: The_Raid, series_year: 2011 }
