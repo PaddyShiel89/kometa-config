@@ -50,6 +50,7 @@ collections:
       - 1891 # The Empire Strikes Back (1980)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 74849 # The Star Wars Holiday Special (1978)
+      - 1091 # The Thing (1982)
       - 616037 # Thor: Love and Thunder (2022)
 
   Theme__alien_invasion:
@@ -57,6 +58,7 @@ collections:
     tmdb_movie:
       - 59678 # Attack the Block (2011)
       - 299534 # Avengers: Endgame (2019)
+      - 1091 # The Thing (1982)
 
   Theme__alternate_timeline:
     template: { name: TMDB theme label, theme_name: alternate_timeline }
@@ -94,7 +96,10 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_a_book }
     tmdb_movie:
       - 44115 # 127 Hours (2010)
+      - 453 # A Beautiful Mind (2001)
       - 487558 # BlacKkKlansman (2018)
+      - 301502 # Blonde (2022)
+      - 524 # Casino (1995)
       - 598 # City of God (2002)
       - 13973 # Choke (2008)
       - 501170 # Doctor Sleep (2019)
@@ -111,6 +116,8 @@ collections:
       - 157433 # Pet Sematary (2019)
       - 11013 # Secretary (2002)
       - 808 # Shrek (2001)
+      - 571 # The Birds (1963)
+      - 9676 # The Black Dahlia (2006)
       - 756999 # The Black Phone (2021)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 238 # The Godfather (1972)
@@ -118,10 +125,11 @@ collections:
       - 497 # The Green Mile (1999)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 45269 # The King's Speech (2010)
-      - 2518 # The Last Picture Show (1971)
+      - 25188 # The Last Picture Show (1971)
       - 5876 # The Mist (2007)
       - 278 # The Shawshank Redemption (1994)
       - 694 # The Shining (1980)
+      - 1091 # The Thing (1982)
       - 16307 # The Wicker Man (1973)
       - 65086 # The Woman in Black (2012)
       - 556694 # Three Thousand Years of Longing (2022)
@@ -130,6 +138,8 @@ collections:
   Theme__based_on_a_graphic_novel:
     template: { name: TMDB theme label, theme_name: based_on_a_graphic_novel }
     tmdb_movie:
+      - 1271 # 300 (2006)
+      - 53182 # 300: Rise of an Empire (2014)
       - 341013 # Atomic Blonde (2017)
 
   Theme__based_on_a_play:
@@ -161,9 +171,18 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_true_events }
     tmdb_movie:
       - 44115 # 127 Hours (2010)
+      - 1271 # 300 (2006)
+      - 53182 # 300: Rise of an Empire (2014)
+      - 453 # A Beautiful Mind (2001)
+      - 4982 # American Gangster (2007)
+      - 454527 # Benedetta (2021)
       - 487558 # BlacKkKlansman (2018)
+      - 301502 # Blonde (2022)
+      - 8696 # Calendar Girls (2003)
+      - 524 # Casino (1995)
       - 947 # Lawrence of Arabia (1962)
       - 8848 # The Bank Job (2008)
+      - 9676 # The Black Dahlia (2006)
       - 45269 # The King's Speech (2010)
       - 158914 # The Look of Love (2013)
 
@@ -193,6 +212,7 @@ collections:
       - 487558 # BlacKkKlansman (2018)
       - 13973 # Choke (2008)
       - 68718 # Django Unchained (2012)
+      - 17796 # Freaked (1993)
       - 674324 # The Banshees of Inisherin (2022)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
       - 1541 # Thelma & Louise (1991)
@@ -207,13 +227,17 @@ collections:
   Theme__body_horror:
     template: { name: TMDB theme label, theme_name: body_horror }
     tmdb_movie:
+      - 17796 # Freaked (1993)
       - 588 # Silent Hill (2006)
+      - 1091 # The Thing (1982)
 
   Theme__buddy_movie:
     template: { name: TMDB theme label, theme_name: buddy_movie }
     tmdb_movie:
       - 3134 # Baise-moi (2000)
       - 11001 # Blue Streak (1999)
+      - 4995 # Boogie Nights (1997)
+      - 8696 # Calendar Girls (2003)
       - 501170 # Doctor Sleep (2019)
       - 620 # Ghostbusters (1984)
       - 346364 # It (2017)
@@ -229,10 +253,12 @@ collections:
   Theme__cannibalism:
     template: { name: TMDB theme label, theme_name: cannibalism }
     tmdb_movie:
+      - 294963 # Bone Tomahawk (2015)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
+      - 20504 # The Book of Eli (2010)
 
-  Theme__catholiscism:
-    template: { name: TMDB theme label, theme_name: catholiscism }
+  Theme__catholicism:
+    template: { name: TMDB theme label, theme_name: catholicism }
     tmdb_movie:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
@@ -291,7 +317,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
-      - 2518 # The Last Picture Show (1971)
+      - 25188 # The Last Picture Show (1971)
       - 682507 # Where the Crawdads Sing (2022)
 
   Theme__con_artists:
@@ -356,6 +382,8 @@ collections:
       - 59678 # Attack the Block (2011)
       - 615777 # Babylon (2022)
       - 3134 # Baise-moi (2000)
+      - 4995 # Boogie Nights (1997)
+      - 524 # Casino (1995)
       - 598 # City of God (2002)
       - 94329 # The Raid (2011)
       - 180299 # The Raid 2 (2014)
@@ -413,6 +441,8 @@ collections:
       - 26715 # Bitch Slap (2009)
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 497698 # Black Widow (2021)
+      - 301502 # Blonde (2022)
+      - 8696 # Calendar Girls (2003)
       - 299537 # Captain Marvel (2019)
       - 25239 # Day of the Woman (1978)
       - 86331 # Desire (2011)
@@ -442,6 +472,7 @@ collections:
       - 181812 # Star Wars: The Rise of Skywalker (2019)
       - 23629 # Sucker Punch (2011)
       - 46534 # Sweet Karma (2009)
+      - 571 # The Birds (1963)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 1541 # Thelma & Louise (1991)
       - 556694 # Three Thousand Years of Longing (2022)
@@ -451,6 +482,7 @@ collections:
     template: { name: TMDB theme label, theme_name: filmmaking }
     tmdb_movie:
       - 615777 # Babylon (2022)
+      - 4995 # Boogie Nights (1997)
       - 42695 # I Am Curious (Yellow) (1967)
       - 75900 # My Week with Marilyn (2011)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
@@ -460,6 +492,11 @@ collections:
     plex_all: true
     filters:
       filepath.not: "/English/"
+
+  Theme__gambling:
+    template: { name: TMDB theme label, theme_name: gambling }
+    tmdb_movie:
+      - 524 # Casino (1995)
 
   Theme__gangs:
     template: { name: TMDB theme label, theme_name: gangs }
@@ -538,12 +575,14 @@ collections:
       - 48266 # Ma mère (2004)
       - 48650 # Room in Rome (2010)
       - 35712 # Secret Things (2002)
+      - 9676 # The Black Dahlia (2006)
       - 19976 # The Exterminating Angels (2006)
 
   Theme__mafia:
     template: { name: TMDB theme label, theme_name: mafia }
     tmdb_movie:
       - 341013 # Atomic Blonde (2017)
+      - 524 # Casino (1995)
       - 245891 # John Wick (2015)
       - 2118 # L.A. Confidential (1997)
       - 46534 # Sweet Karma (2009)
@@ -582,6 +621,8 @@ collections:
   Theme__mental_health:
     template: { name: TMDB theme label, theme_name: mental_health }
     tmdb_movie:
+      - 453 # A Beautiful Mind (2001)
+      - 301502 # Blonde (2022)
       - 68721 # Iron Man 3 (2013)
       - 947 # Lawrence of Arabia (1962)
       - 23629 # Sucker Punch (2011)
@@ -607,6 +648,7 @@ collections:
       - 59678 # Attack the Block (2011)
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
+      - 17796 # Freaked (1993)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 762504 # Nope (2022)
@@ -615,17 +657,20 @@ collections:
       - 882598 # Smile (2022)
       - 10216 # Species II (1998)
       - 5876 # The Mist (2007)
+      - 1091 # The Thing (1982)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
 
   Theme__murder:
     template: { name: TMDB theme label, theme_name: murder }
     tmdb_movie:
+      - 524 # Casino (1995)
       - 210577 # Gone Girl (2014)
       - 2118 # L.A. Confidential (1997)
       - 46534 # Sweet Karma (2009)
-      - 16307 # The Wicker Man (1973)
+      - 9676 # The Black Dahlia (2006)
       - 629 # The Usual Suspects (1995)
+      - 16307 # The Wicker Man (1973)
       - 682507 # Where the Crawdads Sing (2022)
 
   Theme__murder_mystery:
@@ -648,6 +693,11 @@ collections:
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 556694 # Three Thousand Years of Longing (2022)
 
+  Theme__natural_horror:
+    template: { name: TMDB theme label, theme_name: natural_horror }
+    tmdb_movie:
+      - 571 # The Birds (1963)
+
   Theme__neo_noir:
     template: { name: TMDB theme label, theme_name: neo_noir }
     tmdb_movie:
@@ -658,6 +708,7 @@ collections:
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
       - 2118 # L.A. Confidential (1997)
       - 180 # Minority Report (2002)
+      - 9676 # The Black Dahlia (2006)
       - 629 # The Usual Suspects (1995)
 
   Theme__nonlinear:
@@ -676,6 +727,7 @@ collections:
   Theme__parody:
     template: { name: TMDB theme label, theme_name: parody }
     tmdb_movie:
+      - 17796 # Freaked (1993)
       - 808 # Shrek (2001)
 
   Theme__pirates:
@@ -695,8 +747,9 @@ collections:
       - 2118 # L.A. Confidential (1997)
       - 10753 # Police Story 2 (1988)
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
-      - 16307 # The Wicker Man (1973)
+      - 9676 # The Black Dahlia (2006)
       - 629 # The Usual Suspects (1995)
+      - 16307 # The Wicker Man (1973)
 
   Theme__post_apocalyptic:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
@@ -706,6 +759,7 @@ collections:
       - 7737 # Resident Evil: Extinction (2007)
       - 71679 # Resident Evil: Retribution (2012)
       - 173897 # Resident Evil: The Final Chapter (2016)
+      - 20504 # The Book of Eli (2010)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
 
   Theme__poverty:
@@ -734,6 +788,7 @@ collections:
     tmdb_movie:
       - 470 # 21 Grams (2003)
       - 454527 # Benedetta (2021)
+      - 301502 # Blonde (2022)
       - 619730 # Don't Worry Darling (2022)
       - 343674 # Gerald's Game (2017)
       - 210577 # Gone Girl (2014)
@@ -758,6 +813,7 @@ collections:
     tmdb_movie:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
+      - 20504 # The Book of Eli (2010)
 
   Theme__regicide:
     template: { name: TMDB theme label, theme_name: regicide }
@@ -816,6 +872,7 @@ collections:
   Theme__sex_work:
     template: { name: TMDB theme label, theme_name: sex_work }
     tmdb_movie:
+      - 4995 # Boogie Nights (1997)
       - 48266 # Ma mère (2004)
       - 35712 # Secret Things (2002)
       - 158914 # The Look of Love (2013)
@@ -836,6 +893,7 @@ collections:
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 882598 # Smile (2022)
+      - 1091 # The Thing (1982)
 
   Theme__slasher:
     template: { name: TMDB theme label, theme_name: slasher }
@@ -858,6 +916,7 @@ collections:
   Theme__splatter:
     template: { name: TMDB theme label, theme_name: splatter }
     tmdb_movie:
+      - 294963 # Bone Tomahawk (2015)
       - 25239 # Day of the Woman (1978)
       - 588 # Silent Hill (2006)
       - 10216 # Species II (1998)
@@ -942,6 +1001,7 @@ collections:
       - 8077 # Alien³ (1992)
       - 679 # Aliens (1986)
       - 50456 # Hanna (2011)
+      - 1091 # The Thing (1982)
 
   Theme__terrorism:
     template: { name: TMDB theme label, theme_name: terrorism }
@@ -1035,7 +1095,6 @@ collections:
           - Star Trek (2009) 001
           - Suicide Squad (2021)
           - Super 8 (2011)
-          - Thing (1982)
           - Thor (2011) 001
           - Thor (2011) 002
           - Thor (2011) 003
@@ -1044,22 +1103,6 @@ collections:
           - Transformers (2007) 003
           - Under the Skin (2014)
           - World's End (2013)
-
-  "Theme: body horror":
-    template:
-      - name: Theme label
-        theme: "body horror"
-        title_list:
-          - Freaked (1994)
-          - Thing (1982)
-
-  "Theme: cannibals":
-    template:
-      - name: Theme label
-        theme: "cannibals"
-        title_list:
-          - Bone Tomahawk (2015)
-          - Book of Eli (2010)
 
   "Theme: Christmas":
     template:
@@ -1073,13 +1116,6 @@ collections:
           - Muppet Christmas Carol (1992)
           - Nativity! (2009) 001
           - "Santa Claus: The Movie (1985)"
-
-  "Theme: creature feature":
-    template:
-      - name: Theme label
-        theme: "creature feature"
-        title_list:
-          - Birds (1963)
 
   "Theme: erotic":
     template:
@@ -1256,7 +1292,6 @@ collections:
       - name: Theme label
         theme: "post-apocalyptic"
         title_list:
-          - Book of Eli (2010)
           - Hunger Games (2012) 001
           - Hunger Games (2012) 002
           - Hunger Games (2012) 003
@@ -1278,7 +1313,6 @@ collections:
       - name: Theme label
         theme: "religion"
         title_list:
-          - Book of Eli (2010)
           - Indiana Jones (1981) 001
           - Indiana Jones (1981) 003
 
@@ -1320,7 +1354,6 @@ collections:
       - name: Theme label
         theme: "splatter"
         title_list:
-          - Bone Tomahawk (2015)
           - Hobo with a Shotgun (2011)
           - Saw (2004) 001
           - Saw (2004) 002

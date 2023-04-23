@@ -1,0 +1,21 @@
+metadata:
+  The Black Dahlia:
+    title: The Black Dahlia
+    year: 2006
+    edition_filter: Theatrical cut
+    sort_title: Black Dahlia (2006)
+    content_rating: gb/15
+    country.sync: [France, Germany, United States of America]
+    director.sync: [Brian De Palma]
+    genre.sync: [Crime, Drama, Mystery, Thriller]
+    originally_available: 2006-08-09
+    producer.sync: [Rudy Cohen, Moshe Diamant, Avi Lerner, Art Linson]
+    studio: Millennium Films
+    summary: Two policemen see their personal and professional lives fall apart in the wake of the "Black Dahlia" Elizabeth Short murder investigation.
+    tagline: Inspired by the most notorious unsolved murder in California history.
+    writer.sync: [Josh Friedman, James Ellroy]
+    label: [ID__000009676A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

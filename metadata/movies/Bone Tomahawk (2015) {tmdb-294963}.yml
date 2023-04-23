@@ -1,0 +1,21 @@
+metadata:
+  Bone Tomahawk:
+    title: Bone Tomahawk
+    year: 2015
+    edition_filter: Theatrical cut
+    sort_title: Bone Tomahawk (2015)
+    content_rating: gb/18
+    country.sync: [United Kingdom, United States of Amercina]
+    director.sync: [S. Craig Zahler]
+    genre.sync: [Horror, Western]
+    originally_available: 2015-10-01
+    producer.sync: [Jack Heller, Dallas Sonnier]
+    studio: Caliber Media Company
+    summary: "In the dying days of the old west, an elderly sheriff and his posse set out to rescue their town's doctor from cannibalistic cave dwellers."
+    tagline: "May the Lord have mercy and grant you a swift death."
+    writer.sync: [S. Craig Zahler]
+    label: [ID__000294963A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -1,0 +1,28 @@
+metadata:
+  The Book of Eli:
+    title: The Book of Eli
+    year: 2010
+    edition_filter:
+    sort_title: Book of Eli (2010)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Albert Hughes, Allen Hughes]
+    genre.sync: [Action, Adventure, Thriller]
+    originally_available: 2010-01-11
+    producer.sync:
+      [
+        Broderick Johnson,
+        Andrew A. Kosove,
+        Joel Silver,
+        David Valdes,
+        Denzel Washington,
+      ]
+    studio: Alcon Entertainment
+    summary: "A lone man fights his way across post-apocalyptic America to protect a sacred book that holds the secrets to saving humankind."
+    tagline: "Some will kill to have it. He will kill to protect it."
+    writer.sync: [Gary Whitta]
+    label: [ID__000020504A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

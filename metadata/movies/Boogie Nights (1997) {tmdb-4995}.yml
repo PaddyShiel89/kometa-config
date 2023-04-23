@@ -1,0 +1,22 @@
+metadata:
+  Boogie Nights:
+    title: Boogie Nights
+    year: 1997
+    edition_filter: Theatrical cut
+    sort_title: Boogie Nights (1997)
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Paul Thomas Anderson]
+    genre.sync: [Drama]
+    originally_available: 1997-09-11
+    producer.sync:
+      [Paul Thomas Anderson, Lloyd Levin, John S. Lyons, JoAnne Sellar]
+    studio: New Line Cinema
+    summary: "Back when sex was safe, pleasure was a business, and business was booming, an idealistic porn producer aspires to elevate his craft to art when he discovers a hot young talent."
+    tagline: Everyone has one special thing
+    writer.sync: [Paul Thomas Anderson]
+    label: [ID__000004995A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

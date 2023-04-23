@@ -5,6 +5,9 @@ libraries:
     metadata_path:
       - repo: metadata/movies/21 Grams (2003) {tmdb-470}
       - repo: metadata/movies/127 Hours (2010) {tmdb-44115}
+      - repo: metadata/movies/300 (2006) {tmdb-1271}
+      - repo: metadata/movies/300 Rise of an Empire (2014) {tmdb-53182}
+      - repo: metadata/movies/A Beautiful Mind (2001) {tmdb-453}
       - repo: metadata/movies/A l'aventure (2009) {tmdb-64124}
       - repo: metadata/movies/After Sex (2007) {tmdb-17097}
       - repo: metadata/movies/Alien (1979) {tmdb-348}
@@ -25,13 +28,18 @@ libraries:
       - repo: metadata/movies/Black Panther Wakanda Forever (2022) {tmdb-505642}
       - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
       - repo: metadata/movies/BlacKkKlansman (2018) {tmdb-487558}
+      - repo: metadata/movies/Blonde (2022) {tmdb-301502}
       - repo: metadata/movies/Blue Streak (1999) {tmdb-11001}
+      - repo: metadata/movies/Bone Tomahawk (2015) {tmdb-294963}
+      - repo: metadata/movies/Boogie Nights (1997) {tmdb-4995}
       - repo: metadata/movies/Borat (2006) {tmdb-496}
       - repo: metadata/movies/Brightburn (2019) {tmdb-531309}
+      - repo: metadata/movies/Calendar Girls (2003) {tmdb-8696}
       - repo: metadata/movies/Calvary (2014) {tmdb-157832}
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/movies/Cashback (2006) {tmdb-12225}
+      - repo: metadata/movies/Casino (1995) {tmdb-524}
       - repo: metadata/movies/Choke (2008) {tmdb-13973}
       - repo: metadata/movies/City of God (2002) {tmdb-598}
       - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
@@ -44,6 +52,7 @@ libraries:
       - repo: metadata/movies/Dressage (1986) {tmdb-101875}
       - repo: metadata/movies/Emmanuelle (1974) {tmdb-24402}
       - repo: metadata/movies/Eternals (2021) {tmdb-524434}
+      - repo: metadata/movies/Freaked (1993) {tmdb-17796}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
       - repo: metadata/movies/Ghostbusters (1984) {tmdb-620}
       - repo: metadata/movies/Ghostbusters II (1989) {tmdb-2978}
@@ -116,7 +125,10 @@ libraries:
       - repo: metadata/movies/Sweet Karma (2009) {tmdb-46534}
       - repo: metadata/movies/The Bank Job (2008) {tmdb-8848}
       - repo: metadata/movies/The Banshees of Inisherin (2022) {tmdb-674324}
+      - repo: metadata/movies/The Birds (1963) {tmdb-571}
+      - repo: metadata/movies/The Black Dahlia (2006) {tmdb-9676}
       - repo: metadata/movies/The Black Phone (2022) {tmdb-756999}
+      - repo: metadata/movies/The Book of Eli (2010) {tmdb-20504}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
       - repo: metadata/movies/The Exterminating Angels (2006) {tmdb-19976}
       - repo: metadata/movies/The Girl with the Dragon Tattoo (2009) {tmdb-15472}
@@ -127,7 +139,7 @@ libraries:
       - repo: metadata/movies/The Green Mile (1999) {tmdb-497}
       - repo: metadata/movies/The Hitchhiker's Guide to the Galaxy (2005) {tmdb-7453}
       - repo: metadata/movies/The King's Speech (2010) {tmdb-45269}
-      - repo: metadata/movies/The Last Picture Show (1971) {tmdb-2518}
+      - repo: metadata/movies/The Last Picture Show (1971) {tmdb-25188}
       - repo: metadata/movies/The Look of Love (2013) {tmdb-158914}
       - repo: metadata/movies/The Mist (2007) {tmdb-5876}
       - repo: metadata/movies/The Raid (2011) {tmdb-94329}
@@ -136,6 +148,7 @@ libraries:
       - repo: metadata/movies/The Shawshank Redemption (1994) {tmdb-278}
       - repo: metadata/movies/The Shining (1980) {tmdb-694}
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
+      - repo: metadata/movies/The Thing (1982) {tmdb-1091}
       - repo: metadata/movies/The Unbearable Weight of Massive Talent (2022) {tmdb-648579}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
       - repo: metadata/movies/The Voyeurs (2021) {tmdb-645710}

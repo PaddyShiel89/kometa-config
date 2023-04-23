@@ -20,6 +20,9 @@ collections:
         label:
           - ID__000000470A # 21 Grams (2003)
           - ID__000044115A # 127 Hours (2010)
+          - ID__000001271A # 300 (2006)
+          - ID__000053182A # 300: Rise of an Empire (2014)
+          - ID__000000453A # A Beautiful Mind (2001)
           - ID__000000348A # Alien (1979) [Theatrical cut]
           - ID__000000348B # Alien (1979) [Director's cut]
           - ID__000008078A # Alien Resurrection (1997) [Theatrical cut]
@@ -42,11 +45,14 @@ collections:
           - ID__000497698A # Black Widow (2021)
           - ID__000487558A # BlacKkKlansman (2018)
           - ID__000011001A # Blue Streak (1999)
+          - ID__000294963A # Bone Tomahawk (2015)
+          - ID__000004995A # Boogie Nights (1997)
           - ID__000000496A # Borat (2006)
           - ID__000531309A # Brightburn (2019)
           - ID__000157832A # Calvary (2014)
           - ID__000001771A # Captain America: The First Avenger (2011)
           - ID__000299537A # Captain Marvel (2019)
+          - ID__000000524A # Casino (1995)
           - ID__000000598A # City of God (2002)
           - ID__000013973A # Choke (2008)
           - ID__000025239A # Day of the Woman (1978)
@@ -131,7 +137,9 @@ collections:
           - ID__000023629B # Sucker Punch (2011) [Extended cut]
           - ID__000008848A # The Bank Job (2008)
           - ID__000674324A # The Banshees of Inisherin (2022)
+          - ID__000000571A # The Birds (1963)
           - ID__000756999A # The Black Phone (2021)
+          - ID__000020504A # The Book of Eli (2010)
           - ID__000001891D # The Empire Strikes Back (1980) [Blu-ray cut]
           - ID__000015472A # The Girl with the Dragon Tattoo (2009)
           - ID__000000238A # The Godfather (1972)
@@ -141,7 +149,7 @@ collections:
           - ID__000000497A # The Green Mile (1999)
           - ID__000007453A # The Hitchhiker's Guide to the Galaxy (2005)
           - ID__000045269A # The King's Speech (2010)
-          - ID__000002518A # The Last Picture Show (1971)
+          - ID__000025188A # The Last Picture Show (1971)
           - ID__000158914A # The Look of Love (2013)
           - ID__000005876A # The Mist (2007)
           - ID__000094329A # The Raid (2011)
@@ -149,6 +157,7 @@ collections:
           - ID__000010653A # The Seven Year Itch (1955)
           - ID__000000278A # The Shawshank Redemption (1994)
           - ID__000000694A # The Shining (1980)
+          - ID__000001091A # The Thing (1982)
           - ID__000648579A # The Unbearable Weight of Massive Talent (2022)
           - ID__000000629A # The Usual Suspects (1995)
           - ID__000016307A # The Wicker Man (1973) [UK theatrical cut]
@@ -175,6 +184,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000301502A # Blonde (2022)
           - ID__000343674A # Gerald's Game (2017)
           - ID__000001892B # Return of the Jedi (1983) [Special edition]
           - ID__000001892E # Return of the Jedi (1983) [Despecialized edition]
@@ -197,8 +207,10 @@ collections:
           - ID__000017097A # After Sex (2007)
           - ID__000003134A # Baise-moi (2000)
           - ID__000026715A # Bitch Slap (2009)
+          - ID__000008696A # Calendar Girls (2003)
           - ID__000012225A # Cashback (2006)
           - ID__000101875A # Dressage (1986)
+          - ID__000017796A # Freaked (1993)
           - ID__000045690A # I Am Curious (Blue) (1968)
           - ID__000042695A # I Am Curious (Yellow) (1967)
           - ID__000048266A # Ma mère (2004)
@@ -213,6 +225,7 @@ collections:
           - ID__000001893B # Star Wars: Episode I - The Phantom Menace (1999) [DVD cut]
           - ID__000001894B # Star Wars: Episode II - Attack of the Clones (2002) [DVD cut]
           - ID__000001895B # Star Wars: Episode III - Revenge of the Sith (2005) [DVD cut]
+          - ID__000009676A # The Black Dahlia (2006)
           - ID__000001891A # The Empire Strikes Back (1980) [Theatrical cut]
           - ID__000001891C # The Empire Strikes Back (1980) [DVD cut]
           - ID__000019976A # The Exterminating Angels (2006)
@@ -224,6 +237,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000301502A # Blonde (2022)
           - ID__000343674A # Gerald's Game (2017)
 
   "Source: blu-ray":
@@ -234,8 +248,6 @@ collections:
           - 4.3.2.1 (2010)
           - 28 Days Later (2002) 001
           - 28 Days Later (2002) 002
-          - 300 (2007) 001
-          - 300 (2007) 002
           - "Alien: Covenant (2017)"
           - Amazing Spider-Man (2012) 002
           - American Beauty (1999)
@@ -255,7 +267,6 @@ collections:
           - Batman (1989) 004
           - Batman (2022) 001
           - Batman Begins (2005)
-          - Beautiful Mind (2001)
           - BFG (2016)
           - Birds (1963)
           - Birds of Prey (2020)
@@ -267,15 +278,11 @@ collections:
           - Blair Witch Project (1999) 001
           - Blue is the Warmest Colour (2013)
           - Bone Collector (1999)
-          - Bone Tomahawk (2015)
-          - Boogie Nights (1997)
-          - Book of Eli (2010)
           - Bugsy Malone (1976)
           - Cabin in the Woods (2012)
           - Captain America (2011) 001
           - Captain America (2011) 002
           - Captain America (2011) 003
-          - Casino (1995)
           - Casino Royale (2006)
           - Casper (1995)
           - Che (2008) 001
@@ -500,7 +507,6 @@ collections:
           - Taken (2008) 001
           - Taxi Driver (1976)
           - There Will Be Blood (2008)
-          - Thing (1982)
           - Thor (2011) 001
           - Thor (2011) 002
           - Thor (2011) 003
@@ -545,7 +551,6 @@ collections:
       - name: Source label
         source: "download"
         title_list:
-          - Blonde (2022)
           - Deep Water (2022)
           - Grand Central (2013)
           - Jolene (2008)
@@ -575,11 +580,9 @@ collections:
         title_list:
           - Anything For Her (2008)
           - Big Nothing (2006)
-          - Black Dahlia (2006)
           - Black Dynamite (2010)
           - Boogie Woogie (2009)
           - Boss'n Up (2005)
-          - Calendar Girls (2003)
           - Card Player (2004)
           - Cathy Come Home (1966)
           - Chicken Run (2000)
@@ -589,7 +592,6 @@ collections:
           - Exterminating Angels (2006)
           - Fatal Instinct (1993)
           - Fausto 5.0 (2001)
-          - Freaked (1994)
           - Hard Boiled (1992)
           - Head in the Clouds (2004)
           - High Fidelity (2000)
@@ -618,6 +620,5 @@ collections:
       - name: Source label
         source: "Netflix"
         title_list:
-          - Blonde (2022)
           - Sergio (2020)
           - Wasp Network (2020)

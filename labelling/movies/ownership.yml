@@ -9,6 +9,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000301502A # Blonde (2022)
           - ID__000343674A # Gerald's Game (2017)
           - ID__000001892B # Return of the Jedi (1983) [Special edition]
           - ID__000001892E # Return of the Jedi (1983) [Despecialized edition]
@@ -29,8 +30,10 @@ collections:
       any:
         label:
           - ID__000017097A # After Sex (2007)
+          - ID__000008696A # Calendar Girls (2003)
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
           - ID__000068721A # Iron Man 3 (2013)
+          - ID__000009676A # The Black Dahlia (2006)
 
   Ownership__own:
     template:
@@ -39,6 +42,8 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000001271A # 300 (2006)
+          - ID__000053182A # 300: Rise of an Empire (2014)
           - ID__000064124A # À l'aventure (2009)
           - ID__000012225A # Cashback (2006)
           - ID__000013973A # Choke (2008)
@@ -87,6 +92,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000453A # A Beautiful Mind (2001)
           - ID__000000348A # Alien (1979) [Theatrical cut]
           - ID__000000348B # Alien (1979) [Director's cut]
           - ID__000008078A # Alien Resurrection (1997) [Theatrical cut]
@@ -97,6 +103,8 @@ collections:
           - ID__000000679B # Aliens (1986) [Special edition]
           - ID__000004982A # American Gangster (2007) [Theatrical cut]
           - ID__000004982B # American Gangster (2007) [Extended edition]
+          - ID__000004995A # Boogie Nights (1997)
+          - ID__000000524A # Casino (1995)
           - ID__000025239A # Day of the Woman (1978)
           - ID__000086331A # Desire (2011)
           - ID__000024402A # Emmanuelle (1974)
@@ -105,6 +113,7 @@ collections:
           - ID__000027576B # Salt (2010) [Extended cut]
           - ID__000027576C # Salt (2010) [Director's cut]
           - ID__000000558A # Spider-Man 2 (2004) [Theatrical cut]
+          - ID__000000571A # The Birds (1963)
           - ID__000000278A # The Shawshank Redemption (1994)
 
   Ownership__rented:
@@ -116,6 +125,7 @@ collections:
         label:
           - ID__000000470A # 21 Grams (2003)
           - ID__000044115A # 127 Hours (2010)
+          - ID__000000453A # A Beautiful Mind (2001)
           - ID__000000348A # Alien (1979) [Theatrical cut]
           - ID__000000348B # Alien (1979) [Director's cut]
           - ID__000008078A # Alien Resurrection (1997) [Theatrical cut]
@@ -140,11 +150,14 @@ collections:
           - ID__000497698A # Black Widow (2021)
           - ID__000487558A # BlacKkKlansman (2018)
           - ID__000011001A # Blue Streak (1999)
+          - ID__000294963A # Bone Tomahawk (2015)
+          - ID__000004995A # Boogie Nights (1997)
           - ID__000000496A # Borat (2006)
           - ID__000531309A # Brightburn (2019)
           - ID__000157832A # Calvary (2014)
           - ID__000001771A # Captain America: The First Avenger (2011)
           - ID__000299537A # Captain Marvel (2019)
+          - ID__000000524A # Casino (1995)
           - ID__000000598A # City of God (2002)
           - ID__000025239A # Day of the Woman (1978)
           - ID__000086331A # Desire (2011)
@@ -155,6 +168,7 @@ collections:
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000024402A # Emmanuelle (1974)
           - ID__000524434A # Eternals (2021)
+          - ID__000017796A # Freaked (1993)
           - ID__000000620A # Ghostbusters (1984)
           - ID__000002978A # Ghostbusters II (1989)
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
@@ -209,7 +223,9 @@ collections:
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000008848A # The Bank Job (2008)
           - ID__000674324A # The Banshees of Inisherin (2022)
+          - ID__000000571A # The Birds (1963)
           - ID__000756999A # The Black Phone (2021)
+          - ID__000020504A # The Book of Eli (2010)
           - ID__000015472A # The Girl with the Dragon Tattoo (2009)
           - ID__000000238A # The Godfather (1972)
           - ID__000000240A # The Godfather Part II (1975)
@@ -218,7 +234,7 @@ collections:
           - ID__000000497A # The Green Mile (1999)
           - ID__000007453A # The Hitchhiker's Guide to the Galaxy (2005)
           - ID__000045269A # The King's Speech (2010)
-          - ID__000002518A # The Last Picture Show (1971)
+          - ID__000025188A # The Last Picture Show (1971)
           - ID__000158914A # The Look of Love (2013)
           - ID__000005876A # The Mist (2007)
           - ID__000094329A # The Raid (2011)
@@ -226,6 +242,7 @@ collections:
           - ID__000010653A # The Seven Year Itch (1955)
           - ID__000000278A # The Shawshank Redemption (1994)
           - ID__000000694A # The Shining (1980)
+          - ID__000001091A # The Thing (1982)
           - ID__000648579A # The Unbearable Weight of Massive Talent (2022)
           - ID__000000629A # The Usual Suspects (1995)
           - ID__000016307A # The Wicker Man (1973) [UK theatrical cut]
@@ -250,8 +267,6 @@ collections:
         status: "own"
         title_list:
           - 4.3.2.1 (2010)
-          - 300 (2007) 001
-          - 300 (2007) 002
           - Avengers (2012) 001
           - Avengers (2012) 002
           - Avengers (2012) 003
@@ -344,12 +359,8 @@ collections:
           - Angel-A (2005)
           - Anything For Her (2008)
           - Basic Instinct (1992) 001
-          - Beautiful Mind (2001)
-          - Birds (1963)
           - Black Swan (2010)
           - Blades of Glory (2007)
-          - Boogie Nights (1997)
-          - Casino (1995)
           - Clash of the Titans (1981)
           - Dad's Army (1971) 001
           - Diamonds Are Forever (1971)
@@ -454,22 +465,17 @@ collections:
           - Batman (2022) 001
           - BFG (2016)
           - Birds of Prey (2020)
-          - Black Dahlia (2006)
           - Black Dynamite (2010)
           - Black Panther (2018) 001
           - Blade Runner (1982) 001 2007
           - Blade Runner (1982) 002
           - Blair Witch Project (1999) 001
-          - Blonde (2022)
           - Blue is the Warmest Colour (2013)
           - Bone Collector (1999)
-          - Bone Tomahawk (2015)
           - Boogie Woogie (2009)
-          - Book of Eli (2010)
           - Boss'n Up (2005)
           - Bugsy Malone (1976)
           - Cabin in the Woods (2012)
-          - Calendar Girls (2003)
           - Captain America (2011) 001
           - Card Player (2004)
           - Casper (1995)
@@ -493,7 +499,6 @@ collections:
           - Fatal Instinct (1993)
           - Favourite (2018)
           - Fifth Element (1997)
-          - Freaked (1994)
           - Gilda (1946)
           - Great Muppet Caper (1981)
           - Halloween (1978) 001
@@ -600,7 +605,6 @@ collections:
           - Spirit (2008)
           - Spy Who Loved Me (1977)
           - Suicide Squad (2021)
-          - Thing (1982)
           - Thor (2011) 001
           - Thor (2011) 003
           - Titanic (1997)
