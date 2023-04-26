@@ -7,6 +7,7 @@ libraries:
       - repo: metadata/movies/127 Hours (2010) {tmdb-44115}
       - repo: metadata/movies/300 (2006) {tmdb-1271}
       - repo: metadata/movies/300 Rise of an Empire (2014) {tmdb-53182}
+      - repo: metadata/movies/2012 (2009) {tmdb-14161}
       - repo: metadata/movies/A Beautiful Mind (2001) {tmdb-453}
       - repo: metadata/movies/A l'aventure (2009) {tmdb-64124}
       - repo: metadata/movies/After Sex (2007) {tmdb-17097}

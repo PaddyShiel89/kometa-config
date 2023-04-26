@@ -359,6 +359,7 @@ collections:
   Theme__disaster:
     template: { name: TMDB theme label, theme_name: disaster }
     tmdb_movie:
+      - 14161 # 2012 (2009)
       - 5876 # The Mist (2007)
 
   Theme__domestic_violence:
