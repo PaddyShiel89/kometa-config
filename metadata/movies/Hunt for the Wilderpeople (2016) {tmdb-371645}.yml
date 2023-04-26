@@ -1,0 +1,21 @@
+metadata:
+  Hunt for the Wilderpeople:
+    title: Hunt for the Wilderpeople
+    year: 2016
+    edition_filter: Theatrical cut
+    sort_title: Hunt for the Wilderpeople (2016)
+    content_rating: gb/12
+    country.sync: [New Zealand]
+    director.sync: [Taika Waititi]
+    genre.sync: [Adventure, Comedy, Drama]
+    originally_available: 2016-01-22
+    producer.sync: [Carthew Neal, Matt Noonan, Leanne Saunders, Taika Waititi]
+    studio: Curious Film
+    summary: "A national manhunt begins for a rebellious kid and his foster uncle when they go missing in the wild New Zealand bush."
+    tagline: Nature just got gangster
+    writer.sync: [Taika Waititi, Barry Crump, Tearepa Kahi]
+    label: [ID__000371645A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

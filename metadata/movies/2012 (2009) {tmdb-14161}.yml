@@ -1,0 +1,21 @@
+metadata:
+  "2012":
+    title: "2012"
+    year: 2009
+    edition_filter: Theatrical cut
+    sort_title: "2012 (2009)"
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Roland Emmerich]
+    genre.sync: [Action, Adventure, Science Fiction]
+    originally_available: 2009-11-11
+    producer.sync: [Larry Franco, Mark Gordon, Harald Kloser]
+    studio: Columbia Pictures
+    summary: "When a series of global catastrophes threatens to annihilate mankind, a frustrated writer struggles to keep his family alive."
+    tagline: "We Were Warned."
+    writer.sync: [Roland Emmerich, Harald Kloser]
+    label: [ID__000014161A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

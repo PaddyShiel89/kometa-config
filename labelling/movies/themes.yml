@@ -107,6 +107,7 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 210577 # Gone Girl (2014)
       - 20546 # Goodnight, Mister Tom (1998)
+      - 371645 # Hunt for the Wilderpeople (2016)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 2118 # L.A. Confidential (1997)
@@ -270,6 +271,7 @@ collections:
       - 339403 # Baby Driver (2017)
       - 501170 # Doctor Sleep (2019)
       - 50456 # Hanna (2011)
+      - 371645 # Hunt for the Wilderpeople (2016)
       - 180 # Minority Report (2002)
       - 10216 # Species II (1998)
       - 1541 # Thelma & Louise (1991)
@@ -312,6 +314,7 @@ collections:
       - 531309 # Brightburn (2019)
       - 1771 # Captain America: The First Avenger (2011)
       - 598 # City of God (2002)
+      - 371645 # Hunt for the Wilderpeople (2016)
       - 346364 # It (2017)
       - 10867 # Malèna (2000)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
@@ -359,6 +362,7 @@ collections:
   Theme__disaster:
     template: { name: TMDB theme label, theme_name: disaster }
     tmdb_movie:
+      - 14161 # 2012 (2009)
       - 5876 # The Mist (2007)
 
   Theme__domestic_violence:
