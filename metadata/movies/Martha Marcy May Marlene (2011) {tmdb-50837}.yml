@@ -1,0 +1,21 @@
+metadata:
+  Martha Marcy May Marlene:
+    title: Martha Marcy May Marlene
+    year: 2011
+    edition_filter: Theatrical cut
+    sort_title: Martha Marcy May Marlene (2011)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Sean Durkin]
+    genre.sync: [Drama, Mystery, Thriller]
+    originally_available: 2011-01-21
+    producer.sync:
+      [Antonio Campos, Patrick Cunningham, Chris Maybach, Josh Mond]
+    studio: Searchlight Pictures
+    summary: "Haunted by painful memories and increasing paranoia, a survivor struggles to re-assimilate with her family after fleeing an abusive cult."
+    writer.sync: [Sean Durkin]
+    label: [ID__000050837A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
