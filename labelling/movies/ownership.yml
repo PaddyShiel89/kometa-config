@@ -46,6 +46,8 @@ collections:
           - ID__000053182A # 300: Rise of an Empire (2014)
           - ID__000064124A # À l'aventure (2009)
           - ID__000012225A # Cashback (2006)
+          - ID__000008881A # Che: Part One (2008)
+          - ID__000008880A # Che: Part Two (2008)
           - ID__000013973A # Choke (2008)
           - ID__000101875A # Dressage (1986)
           - ID__000045690A # I Am Curious (Blue) (1968)
@@ -54,6 +56,7 @@ collections:
           - ID__000001995A # Lara Croft: Tomb Raider (2001)
           - ID__000048266A # Ma mère (2004)
           - ID__000010867A # Malèna (2000) [Original Italian cut]
+          - ID__000050837A # Martha Marcy May Marlene (2011)
           - ID__000060015A # Novo (2002)
           - ID__000001892A # Return of the Jedi (1983) [Theatrical cut]
           - ID__000001892C # Return of the Jedi (1983) [DVD cut]
@@ -284,8 +287,6 @@ collections:
           - Captain America (2011) 002
           - Captain America (2011) 003
           - Casino Royale (2006)
-          - Che (2008) 001
-          - Che (2008) 002
           - Complicity (2000)
           - Dark Knight (2008)
           - Dark Knight Rises (2012)
@@ -311,7 +312,6 @@ collections:
           - Lion King (1994) 001
           - Lost Girls and Love Hotels (2020)
           - Lucy (2014)
-          - Martha Marcy May Marlene (2011)
           - Match Point (2005)
           - Mexican (2001)
           - Mighty Aphrodite (1995)

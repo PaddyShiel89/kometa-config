@@ -54,8 +54,10 @@ collections:
           - ID__000001771A # Captain America: The First Avenger (2011)
           - ID__000299537A # Captain Marvel (2019)
           - ID__000000524A # Casino (1995)
-          - ID__000000598A # City of God (2002)
+          - ID__000008881A # Che: Part One (2008)
+          - ID__000008880A # Che: Part Two (2008)
           - ID__000013973A # Choke (2008)
+          - ID__000000598A # City of God (2002)
           - ID__000025239A # Day of the Woman (1978)
           - ID__000086331A # Desire (2011)
           - ID__000068718A # Django Unchained (2012)
@@ -91,6 +93,7 @@ collections:
           - ID__000000101B # Léon: The Professional (1995) [Director's cut]
           - ID__000010867A # Malèna (2000) [Original Italian cut]
           - ID__000010867B # Malèna (2000) [International cut]
+          - ID__000050837A # Martha Marcy May Marlene (2011)
           - ID__000000180A # Minority Report (2002)
           - ID__000075900A # My Week with Marilyn (2011)
           - ID__000762504A # Nope (2022)
@@ -287,7 +290,6 @@ collections:
           - Captain America (2011) 003
           - Casino Royale (2006)
           - Casper (1995)
-          - Che (2008) 001
           - Che (2008) 002
           - Chloe (2009)
           - Clash of the Titans (1981)
@@ -408,7 +410,6 @@ collections:
           - Man Who Knew Too Much (1956)
           - Man with the Golden Gun (1974)
           - Marnie (1964)
-          - Martha Marcy May Marlene (2011)
           - Matrix (1999) 001
           - Matrix (1999) 002
           - Matrix (1999) 003

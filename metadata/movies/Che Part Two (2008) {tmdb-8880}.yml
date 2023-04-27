@@ -1,0 +1,21 @@
+metadata:
+  "Che: Part Two":
+    title: "Che: Part Two"
+    year: 2008
+    edition_filter: Theatrical cut
+    sort_title: "Che (2008) 002"
+    content_rating: gb/15
+    country.sync: [France, Spain, United States of America]
+    director.sync: [Steven Soderbergh]
+    genre.sync: [Biopic, Drama, History, War]
+    originally_available: 2008-05-22
+    producer.sync: [Laura Bickford, Benicio Del Toro]
+    studio: Wild Bunch
+    summary: "Set in 1967, Ernesto 'Che' Guevara leads a small partisan army to fight an ill-fated revolutionary guerrilla war in Bolivia, South America."
+    writer.sync:
+      [Peter Buchman, Benjamin A. van der Veen, Ernesto 'Che' Guevara]
+    label: [ID__000008880A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

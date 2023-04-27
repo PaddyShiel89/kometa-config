@@ -41,6 +41,8 @@ libraries:
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/movies/Cashback (2006) {tmdb-12225}
       - repo: metadata/movies/Casino (1995) {tmdb-524}
+      - repo: metadata/movies/Che Part One (2008) {tmdb-8881}
+      - repo: metadata/movies/Che Part Two (2008) {tmdb-8880}
       - repo: metadata/movies/Choke (2008) {tmdb-13973}
       - repo: metadata/movies/City of God (2002) {tmdb-598}
       - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
@@ -80,6 +82,7 @@ libraries:
       - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
       - repo: metadata/movies/Ma mere (2004) {tmdb-48266}
       - repo: metadata/movies/Malena (2000) {tmdb-10867}
+      - repo: metadata/movies/Martha Marcy May Marlene (2011) {tmdb-50837}
       - repo: metadata/movies/Minority Report (2002) {tmdb-180}
       - repo: metadata/movies/My Week with Marilyn (2011) {tmdb-75900}
       - repo: metadata/movies/Nope (2022) {tmdb-762504}

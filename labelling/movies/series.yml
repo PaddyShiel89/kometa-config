@@ -74,6 +74,12 @@ collections:
     tmdb_movie:
       - 299537 # Captain Marvel (2019)
 
+  Series__Che_2008:
+    template: { name: TMDB series label, series_name: Che, series_year: 2008 }
+    tmdb_movie:
+      - 8881 # Che: Part One (2008)
+      - 8880 # Che: Part Two (2008)
+
   Series__Doctor Strange_2016:
     template:
       {
@@ -393,14 +399,6 @@ collections:
         series: "The Blair Witch Project (1999)"
         title_list:
           - Blair Witch Project (1999) 001
-
-  "Series: Che (2008)":
-    template:
-      - name: Series label
-        series: "Che (2008)"
-        title_list:
-          - Che (2008) 001
-          - Che (2008) 002
 
   "Series: The Dark Knight Saga":
     template:
