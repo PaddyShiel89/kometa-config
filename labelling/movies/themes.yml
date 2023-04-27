@@ -100,8 +100,9 @@ collections:
       - 487558 # BlacKkKlansman (2018)
       - 301502 # Blonde (2022)
       - 524 # Casino (1995)
-      - 598 # City of God (2002)
+      - 8881 # Che: Part One (2008)
       - 13973 # Choke (2008)
+      - 598 # City of God (2002)
       - 501170 # Doctor Sleep (2019)
       - 24402 # Emmanuelle (1974)
       - 343674 # Gerald's Game (2017)
@@ -181,6 +182,7 @@ collections:
       - 301502 # Blonde (2022)
       - 8696 # Calendar Girls (2003)
       - 524 # Casino (1995)
+      - 8881 # Che: Part One (2008)
       - 947 # Lawrence of Arabia (1962)
       - 8848 # The Bank Job (2008)
       - 9676 # The Black Dahlia (2006)
@@ -719,6 +721,7 @@ collections:
     template: { name: TMDB theme label, theme_name: nonlinear }
     tmdb_movie:
       - 470 # 21 Grams (2003)
+      - 8881 # Che: Part One (2008)
       - 598 # City of God (2002)
       - 210577 # Gone Girl (2014)
 
