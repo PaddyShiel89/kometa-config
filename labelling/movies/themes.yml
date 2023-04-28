@@ -361,6 +361,11 @@ collections:
       - 808 # Shrek (2001)
       - 882598 # Smile (2022)
 
+  Theme__cyberpunk:
+    template: { name: TMDB theme label, theme_name: cyberpunk }
+    tmdb_movie:
+      - 624860 # The Matrix Resurrections (2021)
+
   Theme__demons:
     template: { name: TMDB theme label, theme_name: demons }
     tmdb_movie:
@@ -552,6 +557,7 @@ collections:
       - 245891 # John Wick (2015)
       - 324552 # John Wick: Chapter 2 (2017)
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
+      - 624860 # The Matrix Resurrections (2021)
 
   Theme__heist:
     template: { name: TMDB theme label, theme_name: heist }
