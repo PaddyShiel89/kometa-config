@@ -1,0 +1,21 @@
+metadata:
+  The Muppets:
+    title: The Muppets
+    year: 2011
+    edition_filter: Theatrical cut
+    sort_title: Muppets (2011)
+    content_rating: gb/U
+    country.sync: [United States of America]
+    director.sync: [James Bobin]
+    genre.sync: [Adventure, Comedy, Family, Musical]
+    originally_available: 2011-11-04
+    producer.sync: [David Hoberman, Todd Lieberman]
+    studio: The Muppets Studio
+    summary: A Muppet fanatic must regroup the Muppet gang to stop an avaricious oil mogul from taking down one of their precious life-longing treasures.
+    tagline: They're closer than you think.
+    writer.sync: [Jason Segel, Nicholas Stoller]
+    label: [ID__000064328A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
