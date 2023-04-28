@@ -58,6 +58,8 @@ collections:
     template:
       - name: Series
         summary: "featuring Jim Henson's Muppets."
+        label_list:
+          - ID__000064328A # The Muppets (2011)
         title_list:
           - Great Muppet Caper (1981)
           - Muppet Christmas Carol (1992)

@@ -75,6 +75,11 @@ collections:
     tmdb_movie:
       - 60015 # Novo (2002)
 
+  Theme__animals:
+    template: { name: TMDB theme label, theme_name: animals }
+    tmdb_movie:
+      - 57212 # War Horse (2011)
+
   Theme__anthology:
     template: { name: TMDB theme label, theme_name: anthology }
     tmdb_movie:
@@ -109,6 +114,7 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 210577 # Gone Girl (2014)
       - 20546 # Goodnight, Mister Tom (1998)
+      - 13092 # How to Lose Friends & Alienate People (2008)
       - 371645 # Hunt for the Wilderpeople (2016)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
@@ -136,6 +142,7 @@ collections:
       - 16307 # The Wicker Man (1973)
       - 65086 # The Woman in Black (2012)
       - 556694 # Three Thousand Years of Longing (2022)
+      - 57212 # War Horse (2011)
       - 682507 # Where the Crawdads Sing (2022)
 
   Theme__based_on_a_graphic_novel:
@@ -149,6 +156,7 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_a_play }
     tmdb_movie:
       - 10653 # The Seven Year Itch (1955)
+      - 57212 # War Horse (2011)
 
   Theme__based_on_works_by_philip_k_dick:
     template:
@@ -185,6 +193,7 @@ collections:
       - 524 # Casino (1995)
       - 8881 # Che: Part One (2008)
       - 8880 # Che: Part Two (2008)
+      - 13092 # How to Lose Friends & Alienate People (2008)
       - 947 # Lawrence of Arabia (1962)
       - 8848 # The Bank Job (2008)
       - 9676 # The Black Dahlia (2006)
@@ -351,6 +360,11 @@ collections:
     tmdb_movie:
       - 808 # Shrek (2001)
       - 882598 # Smile (2022)
+
+  Theme__cyberpunk:
+    template: { name: TMDB theme label, theme_name: cyberpunk }
+    tmdb_movie:
+      - 624860 # The Matrix Resurrections (2021)
 
   Theme__demons:
     template: { name: TMDB theme label, theme_name: demons }
@@ -543,6 +557,7 @@ collections:
       - 245891 # John Wick (2015)
       - 324552 # John Wick: Chapter 2 (2017)
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
+      - 624860 # The Matrix Resurrections (2021)
 
   Theme__heist:
     template: { name: TMDB theme label, theme_name: heist }
@@ -571,6 +586,7 @@ collections:
   Theme__journalists:
     template: { name: TMDB theme label, theme_name: journalists }
     tmdb_movie:
+      - 13092 # How to Lose Friends & Alienate People (2008)
       - 15472 # The Girl with the Dragon Tattoo (2009)
 
   Theme__lgbtq:
@@ -1060,6 +1076,7 @@ collections:
     template: { name: TMDB theme label, theme_name: world_war_i }
     tmdb_movie:
       - 947 # Lawrence of Arabia (1962)
+      - 57212 # War Horse (2011)
 
   Theme__world_war_ii:
     template: { name: TMDB theme label, theme_name: world_war_ii }
