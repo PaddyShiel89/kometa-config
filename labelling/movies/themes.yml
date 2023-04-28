@@ -75,6 +75,11 @@ collections:
     tmdb_movie:
       - 60015 # Novo (2002)
 
+  Theme__animals:
+    template: { name: TMDB theme label, theme_name: animals }
+    tmdb_movie:
+      - 57212 # War Horse (2011)
+
   Theme__anthology:
     template: { name: TMDB theme label, theme_name: anthology }
     tmdb_movie:
@@ -136,6 +141,7 @@ collections:
       - 16307 # The Wicker Man (1973)
       - 65086 # The Woman in Black (2012)
       - 556694 # Three Thousand Years of Longing (2022)
+      - 57212 # War Horse (2011)
       - 682507 # Where the Crawdads Sing (2022)
 
   Theme__based_on_a_graphic_novel:
@@ -149,6 +155,7 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_a_play }
     tmdb_movie:
       - 10653 # The Seven Year Itch (1955)
+      - 57212 # War Horse (2011)
 
   Theme__based_on_works_by_philip_k_dick:
     template:
@@ -1060,6 +1067,7 @@ collections:
     template: { name: TMDB theme label, theme_name: world_war_i }
     tmdb_movie:
       - 947 # Lawrence of Arabia (1962)
+      - 57212 # War Horse (2011)
 
   Theme__world_war_ii:
     template: { name: TMDB theme label, theme_name: world_war_ii }

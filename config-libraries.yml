@@ -165,6 +165,7 @@ libraries:
       - repo: metadata/movies/Trick 'r Treat (2007) {tmdb-23202}
       - repo: metadata/movies/Tropic Thunder (2008) {tmdb-7446}
       - repo: metadata/movies/Uncharted (2022) {tmdb-335787}
+      - repo: metadata/movies/War Horse (2011) {tmdb-57212}
       - repo: metadata/movies/Warrior (2011) {tmdb-59440}
       - repo: metadata/movies/Wedding Crashers (2005) {tmdb-9522}
       - repo: metadata/movies/What the Peeper Saw (1972) {tmdb-112355}
