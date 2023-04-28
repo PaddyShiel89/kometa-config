@@ -114,6 +114,7 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 210577 # Gone Girl (2014)
       - 20546 # Goodnight, Mister Tom (1998)
+      - 13092 # How to Lose Friends & Alienate People (2008)
       - 371645 # Hunt for the Wilderpeople (2016)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
@@ -192,6 +193,7 @@ collections:
       - 524 # Casino (1995)
       - 8881 # Che: Part One (2008)
       - 8880 # Che: Part Two (2008)
+      - 13092 # How to Lose Friends & Alienate People (2008)
       - 947 # Lawrence of Arabia (1962)
       - 8848 # The Bank Job (2008)
       - 9676 # The Black Dahlia (2006)
@@ -578,6 +580,7 @@ collections:
   Theme__journalists:
     template: { name: TMDB theme label, theme_name: journalists }
     tmdb_movie:
+      - 13092 # How to Lose Friends & Alienate People (2008)
       - 15472 # The Girl with the Dragon Tattoo (2009)
 
   Theme__lgbtq:

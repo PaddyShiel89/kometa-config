@@ -65,6 +65,7 @@ libraries:
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
       - repo: metadata/movies/Halloween Kills (2021) {tmdb-610253}
       - repo: metadata/movies/Hanna (2011) {tmdb-50456}
+      - repo: metadata/movies/How to Lose Friends & Alienate People (2008) {tmdb-13092}
       - repo: metadata/movies/Hunt for the Wilderpeople (2016) {tmdb-371645}
       - repo: metadata/movies/I Am Curious (Blue) (1968) {tmdb-45690}
       - repo: metadata/movies/I Am Curious (Yellow) (1967) {tmdb-42695}
