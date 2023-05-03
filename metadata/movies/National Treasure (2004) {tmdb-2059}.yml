@@ -1,0 +1,28 @@
+metadata:
+  National Treasure:
+    title: National Treasure
+    year: 2004
+    edition_filter: Theatrical cut
+    sort_title: National Treasure (2004) 001
+    content_rating: gb/PG
+    country.sync: [United States of America]
+    director.sync: [Jon Turteltaub]
+    genre.sync: [Action, Adventure, Mystery, Thriller]
+    originally_available: 2004-11-08
+    producer.sync: [Jerry Bruckheimer, Jon Turteltaub]
+    studio: Jerry Bruckheimer Films
+    summary: "A historian races to find the legendary Templar Treasure before a team of mercenaries."
+    tagline: The greatest adventure history has ever revealed.
+    writer.sync:
+      [
+        Jim Kouf,
+        Cormac Wibberley,
+        Marianne Wibberley,
+        Oren Aviv,
+        Charles Segars,
+      ]
+    label: [ID__000002059A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -34,6 +34,7 @@ collections:
       - 762504 # Nope (2022)
       - 1892 # Return of the Jedi (1983)
       - 330459 # Rogue One: A Star Wars Story (2016)
+      - 4256 # Scary Movie 3 (2003)
       - 348350 # Solo: A Star Wars Story (2018)
       - 10216 # Species II (1998)
       - 54138 # Star Trek Into Darkness (2013)
@@ -58,6 +59,7 @@ collections:
     tmdb_movie:
       - 59678 # Attack the Block (2011)
       - 299534 # Avengers: Endgame (2019)
+      - 4256 # Scary Movie 3 (2003)
       - 1091 # The Thing (1982)
 
   Theme__alternate_timeline:
@@ -488,6 +490,9 @@ collections:
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 48650 # Room in Rome (2010)
       - 27576 # Salt (2010)
+      - 4247 # Scary Movie (2000)
+      - 4248 # Scary Movie 2 (2001)
+      - 4256 # Scary Movie 3 (2003)
       - 11013 # Secretary (2002)
       - 588 # Silent Hill (2006)
       - 882598 # Smile (2022)
@@ -540,6 +545,7 @@ collections:
       - 2978 # Ghostbusters II (1989)
       - 157433 # Pet Sematary (2019)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 4248 # Scary Movie 2 (2001)
       - 756999 # The Black Phone (2021)
       - 694 # The Shining (1980)
       - 65086 # The Woman in Black (2012)
@@ -566,9 +572,10 @@ collections:
       - 339403 # Baby Driver (2017)
       - 26715 # Bitch Slap (2009)
       - 11001 # Blue Streak (1999)
-      - 8848 # The Bank Job (2008)
       - 27205 # Inception (2010)
+      - 2059 # National Treasure (2004)
       - 348350 # Solo: A Star Wars Story (2018)
+      - 8848 # The Bank Job (2008)
       - 629 # The Usual Suspects (1995)
 
   Theme__immigration:
@@ -756,6 +763,9 @@ collections:
     template: { name: TMDB theme label, theme_name: parody }
     tmdb_movie:
       - 17796 # Freaked (1993)
+      - 4247 # Scary Movie (2000)
+      - 4248 # Scary Movie 2 (2001)
+      - 4256 # Scary Movie 3 (2003)
       - 808 # Shrek (2001)
 
   Theme__pirates:
@@ -765,6 +775,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
       - 9340 # The Goonies (1985)
 
   Theme__police:
@@ -886,6 +897,7 @@ collections:
     template: { name: TMDB theme label, theme_name: serial_killer }
     tmdb_movie:
       - 610253 # Halloween Kills (2021)
+      - 4247 # Scary Movie (2000)
       - 756999 # The Black Phone (2021)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 23202 # Trick 'r Treat (2007)
@@ -931,6 +943,7 @@ collections:
     template: { name: TMDB theme label, theme_name: slasher }
     tmdb_movie:
       - 610253 # Halloween Kills (2021)
+      - 4247 # Scary Movie (2000)
 
   Theme__slavery:
     template: { name: TMDB theme label, theme_name: slavery }
@@ -966,6 +979,8 @@ collections:
   Theme__stoner_movies:
     template: { name: TMDB theme label, theme_name: stoner_movies }
     tmdb_movie:
+      - 4247 # Scary Movie (2000)
+      - 4248 # Scary Movie 2 (2001)
       - 38319 # Your Highness (2011)
 
   Theme__suicide:
@@ -1013,6 +1028,9 @@ collections:
       - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+      - 4248 # Scary Movie 2 (2001)
+      - 4256 # Scary Movie 3 (2003)
       - 588 # Silent Hill (2006)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 882598 # Smile (2022)
@@ -1057,8 +1075,11 @@ collections:
     template: { name: TMDB theme label, theme_name: treasure_hunt }
     tmdb_movie:
       - 1995 # Lara Croft: Tomb Raider (2001)
+      - 2059 # National Treasure (2004)
+      - 6637 # National Treasure: Book of Secrets (2007)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
       - 9340 # The Goonies (1985)
       - 335787 # Uncharted (2022)
 
@@ -1093,6 +1114,7 @@ collections:
     tmdb_movie:
       - 157433 # Pet Sematary (2019)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
       - 1576 # Resident Evil (2002)
       - 35791 # Resident Evil: Afterlife (2010)
       - 1577 # Resident Evil: Apocalype (2004)
@@ -1123,7 +1145,6 @@ collections:
           - Predator (1987) 002
           - Predator (1987) 003
           - Prometheus (2012)
-          - Scary Movie (2000) 003
           - Species (1995) 001
           - Star Trek (2009) 001
           - Suicide Squad (2021)
@@ -1190,7 +1211,6 @@ collections:
         title_list:
           - Die Hard (1988) 001
           - Great Muppet Caper (1981)
-          - National Treasure (2004) 001
           - Ocean's 11 (2001) 001
           - Ocean's 11 (2001) 002
           - Ocean's 11 (2001) 003
@@ -1307,9 +1327,6 @@ collections:
         theme: "parody"
         title_list:
           - Mafia! (1998)
-          - Scary Movie (2000) 001
-          - Scary Movie (2000) 002
-          - Scary Movie (2000) 003
 
   "Theme: pirates":
     template:
@@ -1318,7 +1335,6 @@ collections:
         title_list:
           - Hook (1991)
           - Muppet Treasure Island (1996)
-          - Pirates of the Caribbean (2003) 001
 
   "Theme: post-apocalyptic":
     template:
@@ -1373,7 +1389,6 @@ collections:
           - Halloween (2018) 001
           - Psycho (1960)
           - Ready or Not (2019)
-          - Scary Movie (2000) 001
           - Scream (1996) 001
           - Scream (1996) 002
           - Scream (1996) 003
@@ -1435,9 +1450,6 @@ collections:
           - Muppet Christmas Carol (1992)
           - Nocturne (2020)
           - Pet Sematary (2019)
-          - Pirates of the Caribbean (2003) 001
-          - Scary Movie (2000) 002
-          - Scary Movie (2000) 003
           - Tenacious D in the Pick of Destiny (2006)
           - Witch (2015)
 

@@ -197,12 +197,15 @@ collections:
           - ID__000010867B # Malèna (2000) [International cut]
           - ID__000000180A # Minority Report (2002)
           - ID__000075900A # My Week with Marilyn (2011)
+          - ID__000002059A # National Treasure (2004)
+          - ID__000006637A # National Treasure: Book of Secrets (2007)
           - ID__000762504A # Nope (2022)
           - ID__000157433A # Pet Sematary (2019)
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
           - ID__000001865A # Pirates of the Caribbean: On Stranger Tides (2011)
+          - ID__000000022A # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
           - ID__000010753A # Police Story 2 (1988) [Original Hong Kong cut]
           - ID__000010753B # Police Story 2 (1988) [Uncut restoration]
           - ID__000001576A # Resident Evil (2002)
@@ -215,6 +218,9 @@ collections:
           - ID__000027576A # Salt (2010) [Theatrical cut]
           - ID__000027576B # Salt (2010) [Extended cut]
           - ID__000027576C # Salt (2010) [Director's cut]
+          - ID__000004247A # Scary Movie (2000)
+          - ID__000004248A # Scary Movie 2 (2001)
+          - ID__000004256A # Scary Movie 3 (2003)
           - ID__000566525A # Shang-Chi and the Legend of the Ten Rings (2021)
           - ID__000000808A # Shrek (2001)
           - ID__000000588A # Silent Hill (2006)
@@ -566,14 +572,11 @@ collections:
           - Miss Sloane (2016)
           - Monster (2004)
           - Nativity! (2009) 001
-          - National Treasure (2004) 001
-          - National Treasure (2004) 002
           - No Time to Die (2021)
           - Nocturne (2020)
           - Palm Springs (2020)
           - Pan's Labyrinth (2006)
           - Parasite (2019)
-          - Pirates of the Caribbean (2003) 001
           - Planet Terror (2007)
           - Police Story (1985) 001
           - Prometheus (2012)
@@ -581,9 +584,6 @@ collections:
           - Ready or Not (2019)
           - Red Sparrow (2018)
           - "Santa Claus: The Movie (1985)"
-          - Scary Movie (2000) 001
-          - Scary Movie (2000) 002
-          - Scary Movie (2000) 003
           - Schindler's List (1993)
           - School of Rock (2003)
           - "Scooby-Doo 2: Monsters Unleashed (2004)"

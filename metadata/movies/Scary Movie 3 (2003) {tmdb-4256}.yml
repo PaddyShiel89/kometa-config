@@ -1,0 +1,21 @@
+metadata:
+  Scary Movie 3:
+    title: Scary Movie 3
+    year: 2003
+    edition_filter: Extended edition
+    sort_title: Scary Movie (2000) 003
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [David Zucker]
+    genre.sync: [Comedy, Horror, Science Fiction]
+    originally_available: 2003-10-20
+    producer.sync: [Robert K. Weiss]
+    studio: Brad Grey Pictures
+    summary: Cindy must help the President prevent an alien invasion by investigating mysterious crop circles and videotapes.
+    tagline: Reload for a third shot
+    writer.sync: [Craig Mazin, Pat Proft]
+    label: [ID__000004256A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

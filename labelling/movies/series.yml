@@ -177,6 +177,16 @@ collections:
       - 324552 # John Wick: Chapter 2 (2017)
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
 
+  Series__National_Treasure_2004:
+    template:
+      {
+        name: TMDB series label,
+        series_name: National_Treasure,
+        series_year: 2004,
+      }
+      - 2059 # National Treasure (2004)
+      - 6637 # National Treasure: Book of Secrets (2007)
+
   Series__Pirates_of_the_Caribbean_2003:
     template:
       {
@@ -214,6 +224,14 @@ collections:
       { name: TMDB series label, series_name: Resident_Evil, series_year: 2021 }
     tmdb_movie:
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
+
+  Series__Scary_Movie_2000:
+    template:
+      { name: TMDB series label, series_name: Scary_Movie, series_year: 2000 }
+    tmdb_movie:
+      - 4247 # Scary Movie (2000)
+      - 4248 # Scary Movie 2 (2001)
+      - 4256 # Scary Movie 3 (2003)
 
   Series__Silent_Hill_2006:
     template:
@@ -625,14 +643,6 @@ collections:
           - Naked Gun (1988) 002 The Smell of Fear
           - Naked Gun (1988) 003 The Final Insult
 
-  "Series: National Treasure (2004)":
-    template:
-      - name: Series label
-        series: "National Treasure (2004)"
-        title_list:
-          - National Treasure (2004) 001
-          - National Treasure (2004) 002
-
   "Series: Nativity! (2009)":
     template:
       - name: Series label
@@ -678,15 +688,6 @@ collections:
           - Saw (2004) 006
           - Saw (2004) 007
           - Spiral (2021)
-
-  "Series: Scary Movie (2000)":
-    template:
-      - name: Series label
-        series: "Scary Movie (2000)"
-        title_list:
-          - Scary Movie (2000) 001
-          - Scary Movie (2000) 002
-          - Scary Movie (2000) 003
 
   "Series: Scooby-Doo (2002)":
     template:

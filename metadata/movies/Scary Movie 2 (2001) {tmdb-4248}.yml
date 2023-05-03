@@ -1,0 +1,30 @@
+metadata:
+  Scary Movie 2:
+    title: Scary Movie 2
+    year: 2001
+    edition_filter: Theatrical cut
+    sort_title: Scary Movie (2000) 002
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Keenen Ivory Wayans]
+    genre.sync: [Comedy, Horror]
+    originally_available: 2001-07-04
+    producer.sync: [Eric L. Gold]
+    studio: Wayans Bros. Entertainment
+    summary: A college professor tricks four students into visiting a haunted house for a school project.
+    tagline: More Merciless. More Shameless.
+    writer.sync:
+      [
+        Shawn Wayans,
+        Marlon Wayans,
+        Alyson Fouse,
+        Greg Grabianski,
+        Dave Polsky,
+        Michael Anthony Snowden,
+        Craig Wayans,
+      ]
+    label: [ID__000004248A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
