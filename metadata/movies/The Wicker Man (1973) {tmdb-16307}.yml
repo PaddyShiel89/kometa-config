@@ -6,7 +6,7 @@ metadata:
     title: The Wicker Man
     year: 1973
     edition_filter: UK theatrical cut
-    sort_title: The Wicker Man (1973) 001A
+    sort_title: Wicker Man (1973) 001A
     content_rating: gb/15
     country.sync: [United Kingdom]
     director.sync: [Robin Hardy]
@@ -23,7 +23,7 @@ metadata:
     title: The Wicker Man
     year: 1973
     edition_filter: Director's cut
-    sort_title: The Wicker Man (1973) 001B
+    sort_title: Wicker Man (1973) 001B
     content_rating: gb/15
     country.sync: [United Kingdom]
     director.sync: [Robin Hardy]
@@ -40,7 +40,7 @@ metadata:
     title: The Wicker Man
     year: 1973
     edition_filter: The Final Cut
-    sort_title: The Wicker Man (1973) 001A
+    sort_title: Wicker Man (1973) 001A
     content_rating: gb/15
     country.sync: [United Kingdom]
     director.sync: [Robin Hardy]
@@ -57,5 +57,5 @@ collections:
   "The Wicker Man":
     template: { name: Edition }
     tmdb_movie: 16307
-    sort_title: The Wicker Man (1973) 001
+    sort_title: Wicker Man (1973) 001
     summary: "A puritan police sergeant arrives in a Scottish island village in search of a missing girl, who the Pagan locals claim never existed."
