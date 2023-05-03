@@ -231,6 +231,7 @@ collections:
     tmdb_movie:
       - 4247 # Scary Movie (2000)
       - 4248 # Scary Movie 2 (2001)
+      - 4256 # Scary Movie 3 (2003)
 
   Series__Silent_Hill_2006:
     template:
@@ -687,13 +688,6 @@ collections:
           - Saw (2004) 006
           - Saw (2004) 007
           - Spiral (2021)
-
-  "Series: Scary Movie (2000)":
-    template:
-      - name: Series label
-        series: "Scary Movie (2000)"
-        title_list:
-          - Scary Movie (2000) 003
 
   "Series: Scooby-Doo (2002)":
     template:

@@ -34,6 +34,7 @@ collections:
       - 762504 # Nope (2022)
       - 1892 # Return of the Jedi (1983)
       - 330459 # Rogue One: A Star Wars Story (2016)
+      - 4256 # Scary Movie 3 (2003)
       - 348350 # Solo: A Star Wars Story (2018)
       - 10216 # Species II (1998)
       - 54138 # Star Trek Into Darkness (2013)
@@ -58,6 +59,7 @@ collections:
     tmdb_movie:
       - 59678 # Attack the Block (2011)
       - 299534 # Avengers: Endgame (2019)
+      - 4256 # Scary Movie 3 (2003)
       - 1091 # The Thing (1982)
 
   Theme__alternate_timeline:
@@ -490,6 +492,7 @@ collections:
       - 27576 # Salt (2010)
       - 4247 # Scary Movie (2000)
       - 4248 # Scary Movie 2 (2001)
+      - 4256 # Scary Movie 3 (2003)
       - 11013 # Secretary (2002)
       - 588 # Silent Hill (2006)
       - 882598 # Smile (2022)
@@ -762,6 +765,7 @@ collections:
       - 17796 # Freaked (1993)
       - 4247 # Scary Movie (2000)
       - 4248 # Scary Movie 2 (2001)
+      - 4256 # Scary Movie 3 (2003)
       - 808 # Shrek (2001)
 
   Theme__pirates:
@@ -1026,6 +1030,7 @@ collections:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
       - 4248 # Scary Movie 2 (2001)
+      - 4256 # Scary Movie 3 (2003)
       - 588 # Silent Hill (2006)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 882598 # Smile (2022)
@@ -1140,7 +1145,6 @@ collections:
           - Predator (1987) 002
           - Predator (1987) 003
           - Prometheus (2012)
-          - Scary Movie (2000) 003
           - Species (1995) 001
           - Star Trek (2009) 001
           - Suicide Squad (2021)
@@ -1323,7 +1327,6 @@ collections:
         theme: "parody"
         title_list:
           - Mafia! (1998)
-          - Scary Movie (2000) 003
 
   "Theme: pirates":
     template:
@@ -1447,7 +1450,6 @@ collections:
           - Muppet Christmas Carol (1992)
           - Nocturne (2020)
           - Pet Sematary (2019)
-          - Scary Movie (2000) 003
           - Tenacious D in the Pick of Destiny (2006)
           - Witch (2015)
 
