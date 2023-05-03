@@ -177,6 +177,16 @@ collections:
       - 324552 # John Wick: Chapter 2 (2017)
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
 
+  Series__National_Treasure_2004:
+    template:
+      {
+        name: TMDB series label,
+        series_name: National_Treasure,
+        series_year: 2004,
+      }
+      - 2059 # National Treasure (2004)
+      - 6637 # National Treasure: Book of Secrets (2007)
+
   Series__Pirates_of_the_Caribbean_2003:
     template:
       {
@@ -624,14 +634,6 @@ collections:
           - Naked Gun (1988) 001
           - Naked Gun (1988) 002 The Smell of Fear
           - Naked Gun (1988) 003 The Final Insult
-
-  "Series: National Treasure (2004)":
-    template:
-      - name: Series label
-        series: "National Treasure (2004)"
-        title_list:
-          - National Treasure (2004) 001
-          - National Treasure (2004) 002
 
   "Series: Nativity! (2009)":
     template:
