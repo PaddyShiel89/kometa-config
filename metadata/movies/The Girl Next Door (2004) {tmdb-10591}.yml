@@ -1,0 +1,21 @@
+metadata:
+  The Girl Next Door:
+    title: The Girl Next Door
+    year: 2004
+    edition_filter: Theatrical cut
+    sort_title: Girl Next Door (2004)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Luke Greenfield]
+    genre.sync: [Comedy, Drama, Romance]
+    originally_available: 2004-02-18
+    producer.sync: [Harry Gittes, Charles Gordon, Marc Sternberg]
+    studio: New Regency Productions
+    summary: "A teenager's dreams come true when a former adult film star moves in next door."
+    tagline: "Matt never saw her coming... but all his friends had!"
+    writer.sync: [David Wagner, Brent Goldberg, Stuart Blumberg]
+    label: [ID__000010591A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
