@@ -137,6 +137,7 @@ libraries:
       - repo: metadata/movies/The Book of Eli (2010) {tmdb-20504}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
       - repo: metadata/movies/The Exterminating Angels (2006) {tmdb-19976}
+      - repo: metadata/movies/The Girl Next Door (2004) {tmdb-10591}
       - repo: metadata/movies/The Girl with the Dragon Tattoo (2009) {tmdb-15472}
       - repo: metadata/movies/The Godfather (1972) {tmdb-238}
       - repo: metadata/movies/The Godfather Part II (1974) {tmdb-240}
