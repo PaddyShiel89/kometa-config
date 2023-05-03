@@ -488,6 +488,8 @@ collections:
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 48650 # Room in Rome (2010)
       - 27576 # Salt (2010)
+      - 4247 # Scary Movie (2000)
+      - 4248 # Scary Movie 2 (2001)
       - 11013 # Secretary (2002)
       - 588 # Silent Hill (2006)
       - 882598 # Smile (2022)
@@ -540,6 +542,7 @@ collections:
       - 2978 # Ghostbusters II (1989)
       - 157433 # Pet Sematary (2019)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 4248 # Scary Movie 2 (2001)
       - 756999 # The Black Phone (2021)
       - 694 # The Shining (1980)
       - 65086 # The Woman in Black (2012)
@@ -758,6 +761,7 @@ collections:
     tmdb_movie:
       - 17796 # Freaked (1993)
       - 4247 # Scary Movie (2000)
+      - 4248 # Scary Movie 2 (2001)
       - 808 # Shrek (2001)
 
   Theme__pirates:
@@ -972,6 +976,7 @@ collections:
     template: { name: TMDB theme label, theme_name: stoner_movies }
     tmdb_movie:
       - 4247 # Scary Movie (2000)
+      - 4248 # Scary Movie 2 (2001)
       - 38319 # Your Highness (2011)
 
   Theme__suicide:
@@ -1020,6 +1025,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+      - 4248 # Scary Movie 2 (2001)
       - 588 # Silent Hill (2006)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 882598 # Smile (2022)
@@ -1317,7 +1323,6 @@ collections:
         theme: "parody"
         title_list:
           - Mafia! (1998)
-          - Scary Movie (2000) 002
           - Scary Movie (2000) 003
 
   "Theme: pirates":
@@ -1442,7 +1447,6 @@ collections:
           - Muppet Christmas Carol (1992)
           - Nocturne (2020)
           - Pet Sematary (2019)
-          - Scary Movie (2000) 002
           - Scary Movie (2000) 003
           - Tenacious D in the Pick of Destiny (2006)
           - Witch (2015)
