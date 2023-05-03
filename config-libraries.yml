@@ -95,6 +95,7 @@ libraries:
       - repo: metadata/movies/Pirates of the Caribbean Dead Man's Chest (2006) {tmdb-58}
       - repo: metadata/movies/Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426}
       - repo: metadata/movies/Pirates of the Caribbean On Stranger Tides (2011) {tmdb-1865}
+      - repo: metadata/movies/Pirates of the Caribbean The Curse of the Black Pearl (2003) {tmdb-22}
       - repo: metadata/movies/Police Story 2 (1988) {tmdb-10753}
       - repo: metadata/movies/Resident Evil (2002) {tmdb-1576}
       - repo: metadata/movies/Resident Evil Afterlife (2010) {tmdb-35791}

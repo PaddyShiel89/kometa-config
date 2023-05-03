@@ -766,6 +766,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
       - 9340 # The Goonies (1985)
 
   Theme__police:
@@ -1014,6 +1015,7 @@ collections:
       - 285 # Pirates of the Caribbean: At World's End (2007)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+      - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
       - 588 # Silent Hill (2006)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 882598 # Smile (2022)
@@ -1062,6 +1064,7 @@ collections:
       - 6637 # National Treasure: Book of Secrets (2007)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
       - 9340 # The Goonies (1985)
       - 335787 # Uncharted (2022)
 
@@ -1096,6 +1099,7 @@ collections:
     tmdb_movie:
       - 157433 # Pet Sematary (2019)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
       - 1576 # Resident Evil (2002)
       - 35791 # Resident Evil: Afterlife (2010)
       - 1577 # Resident Evil: Apocalype (2004)
@@ -1320,7 +1324,6 @@ collections:
         title_list:
           - Hook (1991)
           - Muppet Treasure Island (1996)
-          - Pirates of the Caribbean (2003) 001
 
   "Theme: post-apocalyptic":
     template:
@@ -1437,7 +1440,6 @@ collections:
           - Muppet Christmas Carol (1992)
           - Nocturne (2020)
           - Pet Sematary (2019)
-          - Pirates of the Caribbean (2003) 001
           - Scary Movie (2000) 002
           - Scary Movie (2000) 003
           - Tenacious D in the Pick of Destiny (2006)
