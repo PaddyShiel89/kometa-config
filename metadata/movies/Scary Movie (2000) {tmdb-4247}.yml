@@ -1,0 +1,36 @@
+metadata:
+  Scary Movie:
+    title: Scary Movie
+    year: 2000
+    edition_filter: Theatrical cut
+    sort_title: Scary Movie (2000) 001
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Keenen Ivory Wayans]
+    genre.sync: [Comedy, Horror]
+    originally_available: 2000-07-07
+    producer.sync:
+      [
+        Eric L. Gold,
+        Lee R. Mayes,
+        Keenen Ivory Wayans,
+        Marlon Wayans,
+        Shawn Wayans,
+      ]
+    studio: Wayans Bros. Entertainment
+    summary: "A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer."
+    tagline: A killer comedy
+    writer.sync:
+      [
+        Shawn Wayans,
+        Marlon Wayans,
+        Buddy Johnson,
+        Phil Beauman,
+        Jason Friedberg,
+        Aaron Seltzer,
+      ]
+    label: [ID__000004247A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

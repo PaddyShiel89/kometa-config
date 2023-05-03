@@ -225,6 +225,12 @@ collections:
     tmdb_movie:
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
 
+  Series__Scary_Movie_2000:
+    template:
+      { name: TMDB series label, series_name: Scary_Movie, series_year: 2000 }
+    tmdb_movie:
+      - 4247 # Scary Movie (2000)
+
   Series__Silent_Hill_2006:
     template:
       { name: TMDB series label, series_name: Silent_Hill, series_year: 2006 }
@@ -686,7 +692,6 @@ collections:
       - name: Series label
         series: "Scary Movie (2000)"
         title_list:
-          - Scary Movie (2000) 001
           - Scary Movie (2000) 002
           - Scary Movie (2000) 003
 

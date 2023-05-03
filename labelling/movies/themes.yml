@@ -757,6 +757,7 @@ collections:
     template: { name: TMDB theme label, theme_name: parody }
     tmdb_movie:
       - 17796 # Freaked (1993)
+      - 4247 # Scary Movie (2000)
       - 808 # Shrek (2001)
 
   Theme__pirates:
@@ -888,6 +889,7 @@ collections:
     template: { name: TMDB theme label, theme_name: serial_killer }
     tmdb_movie:
       - 610253 # Halloween Kills (2021)
+      - 4247 # Scary Movie (2000)
       - 756999 # The Black Phone (2021)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 23202 # Trick 'r Treat (2007)
@@ -933,6 +935,7 @@ collections:
     template: { name: TMDB theme label, theme_name: slasher }
     tmdb_movie:
       - 610253 # Halloween Kills (2021)
+      - 4247 # Scary Movie (2000)
 
   Theme__slavery:
     template: { name: TMDB theme label, theme_name: slavery }
@@ -968,6 +971,7 @@ collections:
   Theme__stoner_movies:
     template: { name: TMDB theme label, theme_name: stoner_movies }
     tmdb_movie:
+      - 4247 # Scary Movie (2000)
       - 38319 # Your Highness (2011)
 
   Theme__suicide:
@@ -1313,7 +1317,6 @@ collections:
         theme: "parody"
         title_list:
           - Mafia! (1998)
-          - Scary Movie (2000) 001
           - Scary Movie (2000) 002
           - Scary Movie (2000) 003
 
@@ -1378,7 +1381,6 @@ collections:
           - Halloween (2018) 001
           - Psycho (1960)
           - Ready or Not (2019)
-          - Scary Movie (2000) 001
           - Scream (1996) 001
           - Scream (1996) 002
           - Scream (1996) 003
