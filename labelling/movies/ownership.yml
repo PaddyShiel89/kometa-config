@@ -221,6 +221,7 @@ collections:
           - ID__000004247A # Scary Movie (2000)
           - ID__000004248A # Scary Movie 2 (2001)
           - ID__000004256A # Scary Movie 3 (2003)
+          - ID__000000424A # Schindler's List (1993)
           - ID__000566525A # Shang-Chi and the Legend of the Ten Rings (2021)
           - ID__000000808A # Shrek (2001)
           - ID__000000588A # Silent Hill (2006)
@@ -246,6 +247,10 @@ collections:
           - ID__000009340A # The Goonies (1985)
           - ID__000000497A # The Green Mile (1999)
           - ID__000007453A # The Hitchhiker's Guide to the Galaxy (2005)
+          - ID__000070160A # The Hunger Games (2012)
+          - ID__000101299A # The Hunger Games: Catching Fire (2013)
+          - ID__000131631A # The Hunger Games: Mockingjay - Part 1 (2014)
+          - ID__000131634A # The Hunger Games: Mockingjay - Part 2 (2015)
           - ID__000045269A # The King's Speech (2010)
           - ID__000025188A # The Last Picture Show (1971)
           - ID__000158914A # The Look of Love (2013)
@@ -536,10 +541,6 @@ collections:
           - Hobbit (2012) 003
           - Holiday (2006)
           - Hook (1991)
-          - Hunger Games (2012) 001
-          - Hunger Games (2012) 002
-          - Hunger Games (2012) 003
-          - Hunger Games (2012) 004
           - Incredible Hulk (2008) 001
           - Incredibles (2004) 001
           - Indiana Jones (1981) 001
@@ -584,7 +585,6 @@ collections:
           - Ready or Not (2019)
           - Red Sparrow (2018)
           - "Santa Claus: The Movie (1985)"
-          - Schindler's List (1993)
           - School of Rock (2003)
           - "Scooby-Doo 2: Monsters Unleashed (2004)"
           - Scott Pilgrim vs. the World (2010)

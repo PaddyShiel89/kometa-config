@@ -316,6 +316,15 @@ collections:
       - 240 # The Godfather Part II (1975)
       - 242 # The Godfather Part III (1990)
 
+  Series__The_Hunger_Games_2012:
+    template:
+      { name: TMDB series label, series_name: The_Hunger_Games, series_year: 2012 }
+    tmdb_movie:
+      - 70160 # The Hunger Games (2012)
+      - 101299 # The Hunger Games: Catching Fire (2013)
+      - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
+      - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
+
   Series__The_Last_Picture_Show_1971:
     template:
       {
@@ -477,16 +486,6 @@ collections:
         series: "Hot Tub Time Machine (2010)"
         title_list:
           - Hot Tub Time Machine (2010)
-
-  "Series: The Hunger Games (2012)":
-    template:
-      - name: Series label
-        series: "The Hunger Games (2012)"
-        title_list:
-          - Hunger Games (2012) 001
-          - Hunger Games (2012) 002
-          - Hunger Games (2012) 003
-          - Hunger Games (2012) 004
 
   "Series: The Incredible Hulk (2008)":
     template:

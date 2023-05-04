@@ -22,6 +22,7 @@ collections:
           - ID__000001894C # Star Wars: Episode II - Attack of the Clones (2002) [Blu-ray cut]
           - ID__000012180A # Star Wars: The Clone Wars (2008)
           - ID__000140607A # Star Wars: The Force Awakens (2015)
+          - ID__000070160A # The Hunger Games (2012)
 
   BBFC language lvl 2:
     template:
@@ -74,6 +75,7 @@ collections:
           - ID__000566525A # Shang-Chi and the Legend of the Ten Rings (2021)
           - ID__000634649A # Spider-Man: Far from Home (2019)
           - ID__000009340A # The Goonies (1985)
+          - ID__000101299A # The Hunger Games: Catching Fire (2013)
           - ID__000045269A # The King's Speech (2010)
           - ID__000682507A # Where the Crawdads Sing (2022)
 
@@ -98,6 +100,7 @@ collections:
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000346364A # It (2017)
           - ID__000762504A # Nope (2022)
+          - ID__000000424A # Schindler's List (1993)
           - ID__000674324A # The Banshees of Inisherin (2022)
           - ID__000756999A # The Black Phone (2021)
           - ID__000001541A # Thelma & Louise (1991)

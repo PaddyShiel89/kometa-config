@@ -2,6 +2,17 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  BBFC sexual violence and sexual threat lvl 2:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: sexual_violence_and_sexual_threat
+        level: 2
+    plex_search:
+      any:
+        label:
+          - ID__000131631A # The Hunger Games: Mockingjay - Part 1 (2014)
+
   BBFC sexual violence and sexual threat lvl 3:
     template:
       - name: Content rating numeric label
@@ -12,6 +23,7 @@ collections:
       any:
         label:
           - ID__000000022A # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+          - ID__000000424A # Schindler's List (1993)
 
   BBFC sexual violence and sexual threat lvl 4:
     template:

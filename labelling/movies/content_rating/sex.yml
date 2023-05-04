@@ -29,6 +29,9 @@ collections:
           - ID__000001894C # Star Wars: Episode II - Attack of the Clones (2002) [Blu-ray cut]
           - ID__000012180A # Star Wars: The Clone Wars (2008)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
+          - ID__000070160A # The Hunger Games (2012)
+          - ID__000101299A # The Hunger Games: Catching Fire (2013)
+          - ID__000131631A # The Hunger Games: Mockingjay - Part 1 (2014)
 
   BBFC sex lvl 2:
     template:
@@ -72,6 +75,7 @@ collections:
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
           - ID__000346364A # It (2017)
           - ID__000762504A # Nope (2022)
+          - ID__000000424A # Schindler's List (1993)
           - ID__000634649A # Spider-Man: Far from Home (2019)
           - ID__000674324A # The Banshees of Inisherin (2022)
           - ID__000009340A # The Goonies (1985)

@@ -1,0 +1,21 @@
+metadata:
+  "The Hunger Games: Mockingjay - Part 2":
+    title: "The Hunger Games: Mockingjay - Part 2"
+    year: 2015
+    edition_filter: Theatrical cut
+    sort_title: Hunger Games (2012) 004
+    content_rating: gb/12
+    country.sync: [Canada, France, Germany, United States of America]
+    director.sync: [Francis Lawrence]
+    genre.sync: [Action, Adventure, Science Fiction, Thriller]
+    originally_available: 2015-11-04
+    producer.sync: [Nina Jacobson, Jon Kilik]
+    studio: Lionsgate
+    summary: Katniss and a team of rebels from District 13 prepare for the final battle that will decide the fate of Panem.
+    tagline: The revolution is about all of us
+    writer.sync: [Peter Craig, Danny Strong, Suzanne Collins]
+    label: [ID__000131634A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
