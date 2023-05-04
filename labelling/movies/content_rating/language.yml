@@ -22,6 +22,7 @@ collections:
           - ID__000001894C # Star Wars: Episode II - Attack of the Clones (2002) [Blu-ray cut]
           - ID__000012180A # Star Wars: The Clone Wars (2008)
           - ID__000140607A # Star Wars: The Force Awakens (2015)
+          - ID__000070160A # The Hunger Games (2012)
 
   BBFC language lvl 2:
     template:
