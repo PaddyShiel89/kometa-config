@@ -111,6 +111,7 @@ libraries:
       - repo: metadata/movies/Scary Movie (2000) {tmdb-4247}
       - repo: metadata/movies/Scary Movie 2 (2001) {tmdb-4248}
       - repo: metadata/movies/Scary Movie 3 (2003) {tmdb-4256}
+      - repo: metadata/movies/Schindler's List (1993) {tmdb-424}
       - repo: metadata/movies/Secret Things (2002) {tmdb-35712}
       - repo: metadata/movies/Secretary (2002) {tmdb-11013}
       - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}

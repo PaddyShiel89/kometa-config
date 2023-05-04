@@ -125,6 +125,7 @@ collections:
       - 48266 # Ma mère (2004)
       - 180 # Minority Report (2002)
       - 157433 # Pet Sematary (2019)
+      - 424 # Schindler's List (1993)
       - 11013 # Secretary (2002)
       - 808 # Shrek (2001)
       - 571 # The Birds (1963)
@@ -197,6 +198,7 @@ collections:
       - 8880 # Che: Part Two (2008)
       - 13092 # How to Lose Friends & Alienate People (2008)
       - 947 # Lawrence of Arabia (1962)
+      - 424 # Schindler's List (1993)
       - 8848 # The Bank Job (2008)
       - 9676 # The Black Dahlia (2006)
       - 45269 # The King's Speech (2010)
@@ -845,14 +847,16 @@ collections:
       - 4982 # American Gangster (2007)
       - 487558 # BlacKkKlansman (2018)
       - 496 # Borat (2006)
-      - 947 # Lawrence of Arabia (1962)
       - 68718 # Django Unchained (2012)
+      - 947 # Lawrence of Arabia (1962)
+      - 424 # Schindler's List (1993)
 
   Theme__religion:
     template: { name: TMDB theme label, theme_name: religion }
     tmdb_movie:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
+      - 424 # Schindler's List (1993)
       - 20504 # The Book of Eli (2010)
 
   Theme__regicide:
@@ -1107,6 +1111,7 @@ collections:
       - 1771 # Captain America: The First Avenger (2011)
       - 20546 # Goodnight, Mister Tom (1998)
       - 10867 # Malèna (2000)
+      - 424 # Schindler's List (1993)
       - 45269 # The King's Speech (2010)
 
   Theme__zombies:
