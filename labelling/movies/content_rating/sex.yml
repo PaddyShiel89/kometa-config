@@ -30,6 +30,7 @@ collections:
           - ID__000012180A # Star Wars: The Clone Wars (2008)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000070160A # The Hunger Games (2012)
+          - ID__000101299A # The Hunger Games: Catching Fire (2013)
 
   BBFC sex lvl 2:
     template:

@@ -153,6 +153,7 @@ libraries:
       - repo: metadata/movies/The Green Mile (1999) {tmdb-497}
       - repo: metadata/movies/The Hitchhiker's Guide to the Galaxy (2005) {tmdb-7453}
       - repo: metadata/movies/The Hunger Games (2012) {tmdb-70160}
+      - repo: metadata/movies/The Hunger Games Catching Fire (2013) {tmdb-101299}
       - repo: metadata/movies/The King's Speech (2010) {tmdb-45269}
       - repo: metadata/movies/The Last Picture Show (1971) {tmdb-25188}
       - repo: metadata/movies/The Look of Love (2013) {tmdb-158914}
