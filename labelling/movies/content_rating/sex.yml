@@ -31,6 +31,7 @@ collections:
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000070160A # The Hunger Games (2012)
           - ID__000101299A # The Hunger Games: Catching Fire (2013)
+          - ID__000131631A # The Hunger Games: Mockingjay - Part 1 (2014)
 
   BBFC sex lvl 2:
     template:
