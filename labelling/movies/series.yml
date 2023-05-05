@@ -148,6 +148,12 @@ collections:
       - 424139 # Halloween (2018)
       - 610253 # Halloween Kills (2021)
 
+  Series__Horrible_Bosses_2011:
+    template:
+      { name: TMDB series label, series_name: Horrible_Bosses, series_year: 2011 }
+    tmdb_movie:
+      - 51540 # Horrible Bosses (2011)
+
   Series__I_Am_Curious_1967:
     template:
       { name: TMDB series label, series_name: I_Am_Curious, series_year: 1967 }
