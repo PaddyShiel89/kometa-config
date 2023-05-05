@@ -1,0 +1,21 @@
+metadata:
+  Horrible Bosses:
+    title: Horrible Bosses
+    year: 2011
+    edition_filter: Extended cut
+    sort_title: Horrible Bosses (2011) 001
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Seth Gordon]
+    genre.sync: [Comedy, Crime]
+    originally_available: 2011-07-08
+    producer.sync: [Brett Ratner, Jay Stern]
+    studio: Rat Entertainment
+    summary: Three friends conspire to murder their awful bosses when they realise they are in the way of their happiness.
+    tagline: Is your boss a slave-driving psycho?
+    writer.sync: [Michael Markowitz, John Francis Daley, Jonathan Goldstein]
+    label: [ID__000051540A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
