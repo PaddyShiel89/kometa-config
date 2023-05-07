@@ -54,6 +54,7 @@ collections:
       - 1091 # The Thing (1982)
       - 10195 # Thor (2011)
       - 616037 # Thor: Love and Thunder (2022)
+      - 76338 # Thor: The Dark World (2013)
 
   Theme__alien_invasion:
     template: { name: TMDB theme label, theme_name: alien_invasion }
@@ -739,6 +740,7 @@ collections:
       - 16307 # The Wicker Man (1973)
       - 10195 # Thor (2011)
       - 616037 # Thor: Love and Thunder (2022)
+      - 76338 # Thor: The Dark World (2013)
       - 556694 # Three Thousand Years of Longing (2022)
 
   Theme__mythical_creatures:
@@ -1045,6 +1047,7 @@ collections:
       - 8285 # The Spirit (2008)
       - 10195 # Thor (2011)
       - 616037 # Thor: Love and Thunder (2022)
+      - 76338 # Thor: The Dark World (2013)
 
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }
