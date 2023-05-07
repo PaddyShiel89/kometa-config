@@ -158,6 +158,7 @@ collections:
       - 1271 # 300 (2006)
       - 53182 # 300: Rise of an Empire (2014)
       - 341013 # Atomic Blonde (2017)
+      - 8285 # The Spirit (2008)
 
   Theme__based_on_a_play:
     template: { name: TMDB theme label, theme_name: based_on_a_play }
@@ -733,6 +734,7 @@ collections:
     template: { name: TMDB theme label, theme_name: mythology }
     tmdb_movie:
       - 524434 # Eternals (2021)
+      - 8285 # The Spirit (2008)
       - 16307 # The Wicker Man (1973)
       - 616037 # Thor: Love and Thunder (2022)
       - 556694 # Three Thousand Years of Longing (2022)
@@ -760,6 +762,7 @@ collections:
       - 2118 # L.A. Confidential (1997)
       - 180 # Minority Report (2002)
       - 9676 # The Black Dahlia (2006)
+      - 8285 # The Spirit (2008)
       - 629 # The Usual Suspects (1995)
 
   Theme__nonlinear:
@@ -1037,6 +1040,7 @@ collections:
       - 558 # Spider-Man 2 (2004)
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 8285 # The Spirit (2008)
       - 616037 # Thor: Love and Thunder (2022)
 
   Theme__supernatural:
