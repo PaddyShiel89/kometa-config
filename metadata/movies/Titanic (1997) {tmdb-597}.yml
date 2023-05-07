@@ -1,0 +1,22 @@
+metadata:
+  Titanic:
+    title: Titanic
+    year: 1997
+    edition_filter: Theatrical cut
+    sort_title: Titanic (1997)
+    content_rating: gb/12
+    country.sync: [Mexico, United States of America]
+    director.sync: [James Cameron]
+    genre.sync: [Drama, Romance]
+    original_title:
+    originally_available: 1997-11-01
+    producer.sync: [James Cameron, Jon Landau]
+    studio: Paramount Pictures
+    summary: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+    tagline: Nothing On Earth Could Come Between Them.
+    writer.sync: [James Cameron]
+    label: [ID__000000597A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
