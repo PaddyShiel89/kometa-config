@@ -1,0 +1,24 @@
+metadata:
+  Thor:
+    title: Thor
+    year: 2011
+    edition_filter: Theatrical cut
+    sort_title: Thor (2011) 001
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Kenneth Branagh]
+    genre.sync: [Action, Fantasy]
+    originally_available: 2011-04-17
+    producer.sync: [Kevin Feige]
+    studio: Marvel Studios
+    summary: The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard, where he soon becomes one of their finest defenders.
+    tagline: Two worlds. One hero.
+    writer.sync:
+      [
+        Ashley Miller,
+        Zack Stentz,
+        Don Payne,
+        J. Michael Straczynski,
+        Mark Protosevich,
+      ]
+    label: [ID__000010195A]

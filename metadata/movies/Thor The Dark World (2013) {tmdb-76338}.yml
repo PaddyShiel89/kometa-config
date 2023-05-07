@@ -1,0 +1,29 @@
+metadata:
+  "Thor: The Dark World":
+    title: "Thor: The Dark World"
+    year: 2013
+    edition_filter: Theatrical cut
+    sort_title: Thor (2011) 002
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Alan Taylor]
+    genre.sync: [Action, Adventure, Fantasy]
+    original_title:
+    originally_available: 2013-10-22
+    producer.sync: [Kenneth Branagh, Kevin Feige]
+    studio: Marvel Studios
+    summary: When the Dark Elves attempt to plunge the universe into darkness, Thor must embark on a perilous and personal journey that will reunite him with Jane Foster.
+    tagline: There was darkness.
+    writer.sync:
+      [
+        Christopher L. Yost,
+        Christopher Markus,
+        Stephen McFeely,
+        Don Payne,
+        Robert Rodat,
+      ]
+    label: [ID__000076338A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

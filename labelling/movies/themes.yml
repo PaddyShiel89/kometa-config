@@ -52,7 +52,9 @@ collections:
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 74849 # The Star Wars Holiday Special (1978)
       - 1091 # The Thing (1982)
+      - 10195 # Thor (2011)
       - 616037 # Thor: Love and Thunder (2022)
+      - 76338 # Thor: The Dark World (2013)
 
   Theme__alien_invasion:
     template: { name: TMDB theme label, theme_name: alien_invasion }
@@ -158,6 +160,7 @@ collections:
       - 1271 # 300 (2006)
       - 53182 # 300: Rise of an Empire (2014)
       - 341013 # Atomic Blonde (2017)
+      - 8285 # The Spirit (2008)
 
   Theme__based_on_a_play:
     template: { name: TMDB theme label, theme_name: based_on_a_play }
@@ -207,6 +210,7 @@ collections:
       - 9676 # The Black Dahlia (2006)
       - 45269 # The King's Speech (2010)
       - 158914 # The Look of Love (2013)
+      - 597 # Titanic (1997)
 
   Theme__based_on_videogames:
     template: { name: TMDB theme label, theme_name: based_on_videogames }
@@ -393,6 +397,7 @@ collections:
     tmdb_movie:
       - 14161 # 2012 (2009)
       - 5876 # The Mist (2007)
+      - 597 # Titanic (1997)
 
   Theme__domestic_violence:
     template: { name: TMDB theme label, theme_name: domestic_violence }
@@ -733,8 +738,11 @@ collections:
     template: { name: TMDB theme label, theme_name: mythology }
     tmdb_movie:
       - 524434 # Eternals (2021)
+      - 8285 # The Spirit (2008)
       - 16307 # The Wicker Man (1973)
+      - 10195 # Thor (2011)
       - 616037 # Thor: Love and Thunder (2022)
+      - 76338 # Thor: The Dark World (2013)
       - 556694 # Three Thousand Years of Longing (2022)
 
   Theme__mythical_creatures:
@@ -760,6 +768,7 @@ collections:
       - 2118 # L.A. Confidential (1997)
       - 180 # Minority Report (2002)
       - 9676 # The Black Dahlia (2006)
+      - 8285 # The Spirit (2008)
       - 629 # The Usual Suspects (1995)
 
   Theme__nonlinear:
@@ -769,6 +778,7 @@ collections:
       - 8881 # Che: Part One (2008)
       - 598 # City of God (2002)
       - 210577 # Gone Girl (2014)
+      - 597 # Titanic (1997)
 
   Theme__orphans:
     template: { name: TMDB theme label, theme_name: orphans }
@@ -1037,7 +1047,10 @@ collections:
       - 558 # Spider-Man 2 (2004)
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 8285 # The Spirit (2008)
+      - 10195 # Thor (2011)
       - 616037 # Thor: Love and Thunder (2022)
+      - 76338 # Thor: The Dark World (2013)
 
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }
@@ -1079,6 +1092,7 @@ collections:
       - 70160 # The Hunger Games (2012)
       - 101299 # The Hunger Games: Catching Fire (2013)
       - 1091 # The Thing (1982)
+      - 597 # Titanic (1997)
 
   Theme__terrorism:
     template: { name: TMDB theme label, theme_name: terrorism }
@@ -1177,7 +1191,6 @@ collections:
           - Star Trek (2009) 001
           - Suicide Squad (2021)
           - Super 8 (2011)
-          - Thor (2011) 001
           - Thor (2011) 002
           - Thor (2011) 003
           - Transformers (2007) 001
