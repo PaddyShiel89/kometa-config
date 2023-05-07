@@ -52,6 +52,7 @@ collections:
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 74849 # The Star Wars Holiday Special (1978)
       - 1091 # The Thing (1982)
+      - 10195 # Thor (2011)
       - 616037 # Thor: Love and Thunder (2022)
 
   Theme__alien_invasion:
@@ -736,6 +737,7 @@ collections:
       - 524434 # Eternals (2021)
       - 8285 # The Spirit (2008)
       - 16307 # The Wicker Man (1973)
+      - 10195 # Thor (2011)
       - 616037 # Thor: Love and Thunder (2022)
       - 556694 # Three Thousand Years of Longing (2022)
 
@@ -1041,6 +1043,7 @@ collections:
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
       - 8285 # The Spirit (2008)
+      - 10195 # Thor (2011)
       - 616037 # Thor: Love and Thunder (2022)
 
   Theme__supernatural:
@@ -1181,7 +1184,6 @@ collections:
           - Star Trek (2009) 001
           - Suicide Squad (2021)
           - Super 8 (2011)
-          - Thor (2011) 001
           - Thor (2011) 002
           - Thor (2011) 003
           - Transformers (2007) 001
