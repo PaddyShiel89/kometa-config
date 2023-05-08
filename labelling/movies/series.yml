@@ -150,7 +150,11 @@ collections:
 
   Series__Horrible_Bosses_2011:
     template:
-      { name: TMDB series label, series_name: Horrible_Bosses, series_year: 2011 }
+      {
+        name: TMDB series label,
+        series_name: Horrible_Bosses,
+        series_year: 2011,
+      }
     tmdb_movie:
       - 51540 # Horrible Bosses (2011)
 
@@ -190,6 +194,7 @@ collections:
         series_name: National_Treasure,
         series_year: 2004,
       }
+    tmdb_movie:
       - 2059 # National Treasure (2004)
       - 6637 # National Treasure: Book of Secrets (2007)
 
@@ -324,7 +329,11 @@ collections:
 
   Series__The_Hunger_Games_2012:
     template:
-      { name: TMDB series label, series_name: The_Hunger_Games, series_year: 2012 }
+      {
+        name: TMDB series label,
+        series_name: The_Hunger_Games,
+        series_year: 2012,
+      }
     tmdb_movie:
       - 70160 # The Hunger Games (2012)
       - 101299 # The Hunger Games: Catching Fire (2013)
