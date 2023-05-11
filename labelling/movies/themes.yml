@@ -251,6 +251,7 @@ collections:
       - 674324 # The Banshees of Inisherin (2022)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
       - 1541 # Thelma & Louise (1991)
+      - 359940 # Three Billboards Outside Ebbing, Missouri (2017)
       - 23202 # Trick 'r Treat (2007)
 
   Theme__blaxploitation:
@@ -504,6 +505,7 @@ collections:
       - 619730 # Don't Worry Darling (2022)
       - 524434 # Eternals (2021)
       - 343674 # Gerald's Game (2017)
+      - 315837 # Ghost in the Shell (2017)
       - 610253 # Halloween Kills (2021)
       - 50456 # Hanna (2011)
       - 45690 # I Am Curious (Blue) (1968)
@@ -537,6 +539,7 @@ collections:
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
       - 1541 # Thelma & Louise (1991)
+      - 359940 # Three Billboards Outside Ebbing, Missouri (2017)
       - 556694 # Three Thousand Years of Longing (2022)
       - 682507 # Where the Crawdads Sing (2022)
 
@@ -589,6 +592,7 @@ collections:
       - 470 # 21 Grams (2003)
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 157433 # Pet Sematary (2019)
+      - 359940 # Three Billboards Outside Ebbing, Missouri (2017)
 
   Theme__gun_fu:
     template: { name: TMDB theme label, theme_name: gun_fu }
@@ -1143,6 +1147,7 @@ collections:
     template: { name: TMDB theme label, theme_name: tragicomedies }
     tmdb_movie:
       - 674324 # The Banshees of Inisherin (2022)
+      - 359940 # Three Billboards Outside Ebbing, Missouri (2017)
 
   Theme__treasure_hunt:
     template: { name: TMDB theme label, theme_name: treasure_hunt }
