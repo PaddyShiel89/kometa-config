@@ -63,6 +63,7 @@ libraries:
       - repo: metadata/movies/Ghostbusters (1984) {tmdb-620}
       - repo: metadata/movies/Ghostbusters II (1989) {tmdb-2978}
       - repo: metadata/movies/Gladiator (2000) {tmdb-98}
+      - repo: metadata/movies/Glass (2019) {tmdb-450465}
       - repo: metadata/movies/Gone Girl (2014) {tmdb-210577}
       - repo: metadata/movies/Goodnight, Mister Tom (1998) {tmdb-20546}
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}

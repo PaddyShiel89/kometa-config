@@ -294,6 +294,7 @@ collections:
     template: { name: TMDB theme label, theme_name: cannibalism }
     tmdb_movie:
       - 294963 # Bone Tomahawk (2015)
+      - 450465 # Glass (2019)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 381288 # Split (2016)
       - 20504 # The Book of Eli (2010)
@@ -714,6 +715,7 @@ collections:
       - 453 # A Beautiful Mind (2001)
       - 301502 # Blonde (2022)
       - 3580 # Changeling (2008)
+      - 450465 # Glass (2019)
       - 68721 # Iron Man 3 (2013)
       - 947 # Lawrence of Arabia (1962)
       - 50837 # Martha Marcy May Marlene (2011)
@@ -902,6 +904,7 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 419430 # Get Out (2017)
       - 315837 # Ghost in the Shell (2017)
+      - 450465 # Glass (2019)
       - 210577 # Gone Girl (2014)
       - 27205 # Inception (2010)
       - 474350 # It Chapter Two (2019)
@@ -1086,6 +1089,7 @@ collections:
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 524434 # Eternals (2021)
+      - 450465 # Glass (2019)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
       - 68721 # Iron Man 3 (2013)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
