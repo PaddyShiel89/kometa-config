@@ -1,0 +1,22 @@
+metadata:
+  Get Out:
+    title: Get Out
+    year: 2017
+    edition_filter: Theatrical cut
+    sort_title: Get Out (2017)
+    content_rating: gb/15
+    country.sync: [Japan, United States of America]
+    director.sync: [Jordan Peele]
+    genre.sync: [Horror, Mystery, Thriller]
+    originally_available: 2017-01-23
+    producer.sync:
+      [Jason Blum, Edward H. Hamm Jr., Sean McKittrick, Jordan Peele]
+    studio: Blumhouse Productions
+    summary: When a young African-American visits his white girlfriend's parents for the weekend, his uneasiness about their reception of him eventually reaches boiling point.
+    tagline: Just because you're invited, doesn't mean you're welcome.
+    writer.sync: [Jordan Peele]
+    label: [ID__000419430A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

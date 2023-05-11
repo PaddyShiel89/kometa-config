@@ -255,6 +255,7 @@ collections:
     template: { name: TMDB theme label, theme_name: body_horror }
     tmdb_movie:
       - 17796 # Freaked (1993)
+      - 419430 # Get Out (2017)
       - 588 # Silent Hill (2006)
       - 1091 # The Thing (1982)
 
@@ -599,6 +600,12 @@ collections:
       - 8848 # The Bank Job (2008)
       - 629 # The Usual Suspects (1995)
 
+  Theme__hypnosis:
+    template: { name: TMDB theme label, theme_name: hypnosis }
+    tmdb_movie:
+      - 64124 # À l'aventure (2009)
+      - 419430 # Get Out (2017)
+
   Theme__immigration:
     template: { name: TMDB theme label, theme_name: immigration }
     tmdb_movie:
@@ -861,6 +868,7 @@ collections:
       - 301502 # Blonde (2022)
       - 619730 # Don't Worry Darling (2022)
       - 343674 # Gerald's Game (2017)
+      - 419430 # Get Out (2017)
       - 210577 # Gone Girl (2014)
       - 27205 # Inception (2010)
       - 474350 # It Chapter Two (2019)
@@ -877,6 +885,7 @@ collections:
       - 487558 # BlacKkKlansman (2018)
       - 496 # Borat (2006)
       - 68718 # Django Unchained (2012)
+      - 419430 # Get Out (2017)
       - 947 # Lawrence of Arabia (1962)
       - 424 # Schindler's List (1993)
 
