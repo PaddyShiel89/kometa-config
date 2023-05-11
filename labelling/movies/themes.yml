@@ -5,6 +5,7 @@ collections:
   Theme__abduction:
     template: { name: TMDB theme label, theme_name: abduction }
     tmdb_movie:
+      - 3580 # Changeling (2008)
       - 2978 # Ghostbusters II (1989)
       - 210577 # Gone Girl (2014)
       - 762504 # Nope (2022)
@@ -209,6 +210,7 @@ collections:
       - 301502 # Blonde (2022)
       - 8696 # Calendar Girls (2003)
       - 524 # Casino (1995)
+      - 3580 # Changeling (2008)
       - 8881 # Che: Part One (2008)
       - 8880 # Che: Part Two (2008)
       - 13092 # How to Lose Friends & Alienate People (2008)
@@ -295,6 +297,11 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 381288 # Split (2016)
       - 20504 # The Book of Eli (2010)
+
+  Theme__capital_punishment:
+    template: { name: TMDB theme label, theme_name: capital_punishment }
+    tmdb_movie:
+      - 3580 # Changeling (2008)
 
   Theme__catholicism:
     template: { name: TMDB theme label, theme_name: catholicism }
@@ -642,6 +649,7 @@ collections:
   Theme__kidnapping:
     template: { name: TMDB theme label, theme_name: kidnapping }
     tmdb_movie:
+      - 3580 # Changeling (2008)
       - 381288 # Split (2016)
       - 756999 # The Black Phone (2021)
 
@@ -705,6 +713,7 @@ collections:
     tmdb_movie:
       - 453 # A Beautiful Mind (2001)
       - 301502 # Blonde (2022)
+      - 3580 # Changeling (2008)
       - 68721 # Iron Man 3 (2013)
       - 947 # Lawrence of Arabia (1962)
       - 50837 # Martha Marcy May Marlene (2011)
@@ -994,6 +1003,7 @@ collections:
   Theme__sexual_violence:
     template: { name: TMDB theme label, theme_name: sexual_violence }
     tmdb_movie:
+      - 3580 # Changeling (2008)
       - 25239 # Day of the Woman (1978)
       - 947 # Lawrence of Arabia (1962)
       - 50837 # Martha Marcy May Marlene (2011)
