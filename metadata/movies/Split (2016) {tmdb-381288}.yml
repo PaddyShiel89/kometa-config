@@ -1,0 +1,21 @@
+metadata:
+  Split:
+    title: Split
+    year: 2016
+    edition_filter: Theatrical cut
+    sort_title: Split (2016)
+    content_rating: gb/15
+    country.sync: [Japan, United States of America]
+    director.sync: [M. Night Shyamalan]
+    genre.sync: [Horror, Thriller]
+    originally_available: 2016-09-26
+    producer.sync: [Marc Bienstock, Jason Blum, M. Night Shyamalan]
+    studio: Blumhouse Productions
+    summary: A man diagnosed with 23 distinct personalities kidnaps three young women. They must try to escape before the emergence of a terrifying 24th identity.
+    tagline: Kevin has 23 distinct personalities. The 24th is about to be unleashed.
+    writer.sync: [M. Night Shyamalan]
+    label: [ID__000381288A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

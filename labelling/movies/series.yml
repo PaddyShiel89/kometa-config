@@ -91,6 +91,13 @@ collections:
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
 
+  Series__Eastrail_177_2000:
+    template:
+      { name: TMDB series label, series_name: Eastrail_177, series_year: 2000 }
+    tmdb_movie:
+      - 381288 # Split (2016)
+      - 450465 # Glass (2019)
+
   Series__Emmanuelle_1974:
     template:
       { name: TMDB series label, series_name: Emmanuelle, series_year: 1974 }

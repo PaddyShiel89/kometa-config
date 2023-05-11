@@ -16,6 +16,15 @@ collections:
     content_rating: gb/15
     summary: 'The Alien series depicts warrant officer Ellen Ripley (Sigourney Weaver) and her battles with an extraterrestrial lifeform, commonly referred to as "the Alien" or Xenomorph.'
 
+  Eastrail 177 Trilogy:
+    template:
+      - name: Smart series
+        label_list:
+          - Series__Eastrail_177_2000
+    sort_title: Eastrail 177 Trilogy
+    content_rating: gb/15
+    summary: "An American superhero thriller and psychological horror film series, featuring superhero David Dunn and his archenemy Elijah Price."
+
   The Marvel Cinematic Universe:
     template:
       - name: Smart series

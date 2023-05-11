@@ -8,6 +8,7 @@ collections:
       - 2978 # Ghostbusters II (1989)
       - 210577 # Gone Girl (2014)
       - 762504 # Nope (2022)
+      - 381288 # Split (2016)
       - 756999 # The Black Phone (2021)
 
   Theme__addiction:
@@ -291,6 +292,7 @@ collections:
     tmdb_movie:
       - 294963 # Bone Tomahawk (2015)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
+      - 381288 # Split (2016)
       - 20504 # The Book of Eli (2010)
 
   Theme__catholicism:
@@ -633,6 +635,12 @@ collections:
       - 13092 # How to Lose Friends & Alienate People (2008)
       - 15472 # The Girl with the Dragon Tattoo (2009)
 
+  Theme__kidnapping:
+    template: { name: TMDB theme label, theme_name: kidnapping }
+    tmdb_movie:
+      - 381288 # Split (2016)
+      - 756999 # The Black Phone (2021)
+
   Theme__lgbtq:
     template: { name: TMDB theme label, theme_name: lgbtq }
     tmdb_movie:
@@ -696,6 +704,7 @@ collections:
       - 68721 # Iron Man 3 (2013)
       - 947 # Lawrence of Arabia (1962)
       - 50837 # Martha Marcy May Marlene (2011)
+      - 381288 # Split (2016)
       - 23629 # Sucker Punch (2011)
 
   Theme__mind_control:
@@ -885,6 +894,7 @@ collections:
       - 474350 # It Chapter Two (2019)
       - 50837 # Martha Marcy May Marlene (2011)
       - 882598 # Smile (2022)
+      - 381288 # Split (2016)
       - 694 # The Shining (1980)
       - 65086 # The Woman in Black (2012)
       - 112355 # What the Peeper Saw (1972)
@@ -1068,6 +1078,7 @@ collections:
       - 558 # Spider-Man 2 (2004)
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 381288 # Split (2016)
       - 8285 # The Spirit (2008)
       - 10195 # Thor (2011)
       - 616037 # Thor: Love and Thunder (2022)
