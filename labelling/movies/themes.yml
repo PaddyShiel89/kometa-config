@@ -423,6 +423,7 @@ collections:
     template: { name: TMDB theme label, theme_name: domestic_violence }
     tmdb_movie:
       - 3134 # Baise-moi (2000)
+      - 793 # Blue Velvet (1986)
       - 619730 # Don't Worry Darling (2022)
       - 20546 # Goodnight, Mister Tom (1998)
       - 50837 # Martha Marcy May Marlene (2011)
@@ -464,6 +465,7 @@ collections:
       - 64124 # À l'aventure (2009)
       - 3134 # Baise-moi (2000)
       - 454527 # Benedetta (2021)
+      - 793 # Blue Velvet (1986)
       - 86331 # Desire (2011)
       - 101875 # Dressage (1986)
       - 24402 # Emmanuelle (1974)
@@ -508,6 +510,7 @@ collections:
       - 301502 # Blonde (2022)
       - 8696 # Calendar Girls (2003)
       - 299537 # Captain Marvel (2019)
+      - 3580 # Changeling (2008)
       - 25239 # Day of the Woman (1978)
       - 86331 # Desire (2011)
       - 619730 # Don't Worry Darling (2022)
@@ -803,6 +806,7 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
       - 3134 # Baise-moi (2000)
+      - 793 # Blue Velvet (1986)
       - 245891 # John Wick (2015)
       - 324552 # John Wick: Chapter 2 (2017)
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
@@ -900,6 +904,7 @@ collections:
       - 470 # 21 Grams (2003)
       - 454527 # Benedetta (2021)
       - 301502 # Blonde (2022)
+      - 793 # Blue Velvet (1986)
       - 619730 # Don't Worry Darling (2022)
       - 343674 # Gerald's Game (2017)
       - 419430 # Get Out (2017)
