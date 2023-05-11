@@ -77,7 +77,13 @@ collections:
   Theme__amnesia:
     template: { name: TMDB theme label, theme_name: amnesia }
     tmdb_movie:
+      - 315837 # Ghost in the Shell (2017)
       - 60015 # Novo (2002)
+
+  Theme__androids:
+    template: { name: TMDB theme label, theme_name: androids }
+    tmdb_movie:
+      - 315837 # Ghost in the Shell (2017)
 
   Theme__animals:
     template: { name: TMDB theme label, theme_name: animals }
@@ -160,6 +166,7 @@ collections:
       - 1271 # 300 (2006)
       - 53182 # 300: Rise of an Empire (2014)
       - 341013 # Atomic Blonde (2017)
+      - 315837 # Ghost in the Shell (2017)
       - 8285 # The Spirit (2008)
 
   Theme__based_on_a_play:
@@ -379,6 +386,7 @@ collections:
   Theme__cyberpunk:
     template: { name: TMDB theme label, theme_name: cyberpunk }
     tmdb_movie:
+      - 315837 # Ghost in the Shell (2017)
       - 624860 # The Matrix Resurrections (2021)
 
   Theme__demons:
@@ -432,6 +440,7 @@ collections:
   Theme__dystopian:
     template: { name: TMDB theme label, theme_name: dystopian }
     tmdb_movie:
+      - 315837 # Ghost in the Shell (2017)
       - 180 # Minority Report (2002)
       - 70160 # The Hunger Games (2012)
       - 101299 # The Hunger Games: Catching Fire (2013)
@@ -692,6 +701,7 @@ collections:
   Theme__mind_control:
     template: { name: TMDB theme label, theme_name: mind_control }
     tmdb_movie:
+      - 315837 # Ghost in the Shell (2017)
       - 71679 # Resident Evil: Retribution (2012)
       - 65086 # The Woman in Black (2012)
 
@@ -869,6 +879,7 @@ collections:
       - 619730 # Don't Worry Darling (2022)
       - 343674 # Gerald's Game (2017)
       - 419430 # Get Out (2017)
+      - 315837 # Ghost in the Shell (2017)
       - 210577 # Gone Girl (2014)
       - 27205 # Inception (2010)
       - 474350 # It Chapter Two (2019)
@@ -908,6 +919,7 @@ collections:
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 25239 # Day of the Woman (1978)
       - 68718 # Django Unchained (2012)
+      - 315837 # Ghost in the Shell (2017)
       - 98 # Gladiator (2000)
       - 610253 # Halloween Kills (2021)
       - 51540 # Horrible Bosses (2011)

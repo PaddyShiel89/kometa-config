@@ -1,0 +1,21 @@
+metadata:
+  Ghost in the Shell:
+    title: Ghost in the Shell
+    year: 2017
+    edition_filter: Theatrical cut
+    sort_title: Ghost in the Shell (2017)
+    content_rating: gb/12
+    country.sync: [Canada, China, Hong Kong, India, United States of America]
+    director.sync: [Rupert Sanders]
+    genre.sync: [Action, Crime, Mystery, Science Fiction, Thriller]
+    originally_available: 2017-03-16
+    producer.sync: [Ari Arad, Avi Arad, Michael Costigan, Steven Paul]
+    studio: Dreamworks Pictures
+    summary: A woman saved from a terrible crash is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.
+    tagline: They did not save your life. They stole it.
+    writer.sync: [Shirow Masamune, Jamie Moss, William Wheeler, Ehren Kruger]
+    label: [ID__000315837A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
