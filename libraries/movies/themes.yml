@@ -152,7 +152,7 @@ collections:
   # ----------------------- Updated template collections ----------------------- #
 
   Based on a Videogame:
-    template: { name: Theme collection }
+    template: { name: Theme collection, subsection: based_on }
     smart_filter:
       all:
         label: Theme__based_on_videogames
@@ -160,24 +160,31 @@ collections:
     summary: Movies based, however loosely, on videogames.
 
   Foreign Language:
-    template: { name: Theme collection }
+    template: { name: Theme collection, subsection: meta }
     smart_filter:
       all:
         label: Theme__foreign_language
       sort_by: title.asc
     summary: "Movies where the original audio language is not in English. English audio dub tracks may be available."
 
+  Movies with Commentary:
+    template: { name: Theme collection, subsection: meta }
+    plex_all: true
+    collection_order: alpha
+    filters:
+      audio_track_title: "Commentary -"
+    summary: "Movies with one or more audio commentary tracks, usually by the cast and/or crew."
+
   Quick Flicks:
-    template: { name: Theme collection }
+    template: { name: Theme collection, subsection: meta }
     smart_filter:
       all:
         duration.lte: 100
       sort_by: duration.asc
-    collection_mode: hide
     summary: Movies no longer than 100 minutes in length, ordered from shortest to longest.
 
   Stephen King:
-    template: { name: Theme collection }
+    template: { name: Theme collection, subsection: based_on }
     smart_filter:
       all:
         label: Theme__based_on_works_by_stephen_king

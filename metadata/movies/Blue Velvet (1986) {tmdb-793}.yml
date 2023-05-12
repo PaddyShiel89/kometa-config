@@ -1,0 +1,21 @@
+metadata:
+  Blue Velvet:
+    title: Blue Velvet
+    year: 1986
+    edition_filter: Theatrical cut
+    sort_title: Blue Velvet (1986)
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [David Lynch]
+    genre.sync: [Crime, Drama, Mystery, Thriller]
+    originally_available: 1986-08-30
+    producer.sync: [Fred C. Caruso]
+    studio: De Laurentiis Entertainment Group (DEG)
+    summary: The discovery of a severed human ear in a field leads a young man on an investigation related to a beautiful nightclub singer and a group of psychopathic criminals.
+    tagline: Now It's Dark.
+    writer.sync: [David Lynch]
+    label: [ID__000000793A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

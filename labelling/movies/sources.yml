@@ -46,6 +46,7 @@ collections:
           - ID__000497698A # Black Widow (2021)
           - ID__000487558A # BlacKkKlansman (2018)
           - ID__000011001A # Blue Streak (1999)
+          - ID__000000793A # Blue Velvet (1986)
           - ID__000294963A # Bone Tomahawk (2015)
           - ID__000004995A # Boogie Nights (1997)
           - ID__000000496A # Borat (2006)
@@ -54,6 +55,7 @@ collections:
           - ID__000001771A # Captain America: The First Avenger (2011)
           - ID__000299537A # Captain Marvel (2019)
           - ID__000000524A # Casino (1995)
+          - ID__000003580A # Changeling (2008)
           - ID__000008881A # Che: Part One (2008)
           - ID__000008880A # Che: Part Two (2008)
           - ID__000013973A # Choke (2008)
@@ -67,10 +69,13 @@ collections:
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000024402A # Emmanuelle (1974)
           - ID__000524434A # Eternals (2021)
+          - ID__000419430A # Get Out (2017)
+          - ID__000315837A # Ghost in the Shell (2017)
           - ID__000000620A # Ghostbusters (1984)
           - ID__000002978A # Ghostbusters II (1989)
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
           - ID__000000098B # Gladiator (2000) [Extended edition]
+          - ID__000450465A # Glass (2019)
           - ID__000210577A # Gone Girl (2014)
           - ID__000020546A # Goodnight, Mister Tom (1998)
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
@@ -136,6 +141,7 @@ collections:
           - ID__000000558B # Spider-Man 2.1 (2004) [Extended edition]
           - ID__000634649A # Spider-Man: Far from Home (2019)
           - ID__000634649A # Spider-Man: No Way Home (2021)
+          - ID__000381288A # Split (2016)
           - ID__000054138A # Star Trek Into Darkness (2013)
           - ID__000000011D # Star Wars (1977) [Blu-ray cut]
           - ID__000001893C # Star Wars: Episode I - The Phantom Menace (1999) [Blu-ray cut]
@@ -190,6 +196,7 @@ collections:
           - ID__000010195A # Thor (2011)
           - ID__000616037A # Thor: Love and Thunder (2022)
           - ID__000076338A # Thor: The Dark World (2013)
+          - ID__000359940A # Three Billboards Outside Ebbing, Missouri (2017)
           - ID__000556694A # Three Thousand Years of Longing (2022)
           - ID__000000597A # Titanic (1997)
           - ID__000023202A # Trick 'r Treat (2007)

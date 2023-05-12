@@ -31,6 +31,7 @@ libraries:
       - repo: metadata/movies/BlacKkKlansman (2018) {tmdb-487558}
       - repo: metadata/movies/Blonde (2022) {tmdb-301502}
       - repo: metadata/movies/Blue Streak (1999) {tmdb-11001}
+      - repo: metadata/movies/Blue Velvet (1986) {tmdb-793}
       - repo: metadata/movies/Bone Tomahawk (2015) {tmdb-294963}
       - repo: metadata/movies/Boogie Nights (1997) {tmdb-4995}
       - repo: metadata/movies/Borat (2006) {tmdb-496}
@@ -41,6 +42,7 @@ libraries:
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/movies/Cashback (2006) {tmdb-12225}
       - repo: metadata/movies/Casino (1995) {tmdb-524}
+      - repo: metadata/movies/Changeling (2008) {tmdb-3580}
       - repo: metadata/movies/Che Part One (2008) {tmdb-8881}
       - repo: metadata/movies/Che Part Two (2008) {tmdb-8880}
       - repo: metadata/movies/Choke (2008) {tmdb-13973}
@@ -57,9 +59,12 @@ libraries:
       - repo: metadata/movies/Eternals (2021) {tmdb-524434}
       - repo: metadata/movies/Freaked (1993) {tmdb-17796}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
+      - repo: metadata/movies/Get Out (2017) {tmdb-419430}
+      - repo: metadata/movies/Ghost in the Shell (2017) {tmdb-315837}
       - repo: metadata/movies/Ghostbusters (1984) {tmdb-620}
       - repo: metadata/movies/Ghostbusters II (1989) {tmdb-2978}
       - repo: metadata/movies/Gladiator (2000) {tmdb-98}
+      - repo: metadata/movies/Glass (2019) {tmdb-450465}
       - repo: metadata/movies/Gone Girl (2014) {tmdb-210577}
       - repo: metadata/movies/Goodnight, Mister Tom (1998) {tmdb-20546}
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
@@ -124,6 +129,7 @@ libraries:
       - repo: metadata/movies/Spider-Man 2 (2004) {tmdb-558}
       - repo: metadata/movies/Spider-Man Far from Home (2019) {tmdb-429617}
       - repo: metadata/movies/Spider-Man No Way Home (2021) {tmdb-634649}
+      - repo: metadata/movies/Split (2016) {tmdb-381288}
       - repo: metadata/movies/Star Trek Into Darkness (2013) {tmdb-54138}
       - repo: metadata/movies/Star Wars (1977) {tmdb-11}
       - repo: metadata/movies/Star Wars Episode I - The Phantom Menace (1999) {tmdb-1893}
@@ -180,6 +186,7 @@ libraries:
       - repo: metadata/movies/Thor (2011) {tmdb-10195}
       - repo: metadata/movies/Thor Love and Thunder (2022) {tmdb-616037}
       - repo: metadata/movies/Thor The Dark World (2013) {tmdb-76338}
+      - repo: metadata/movies/Three Billboards Outside Ebbing, Missouri (2017) {tmdb-359940}
       - repo: metadata/movies/Three Thousand Years of Longing (2022) {tmdb-556694}
       - repo: metadata/movies/Titanic (1997) {tmdb-597}
       - repo: metadata/movies/Trick 'r Treat (2007) {tmdb-23202}

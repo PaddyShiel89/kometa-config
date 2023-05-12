@@ -1,0 +1,22 @@
+metadata:
+  Glass:
+    title: Glass
+    year: 2019
+    edition_filter: Theatrical cut
+    sort_title: Glass (2019)
+    content_rating: gb/15
+    country.sync: [China, United States of America]
+    director.sync: [M. Night Shyamalan]
+    genre.sync: [Horror, Science Fiction, Thriller]
+    originally_available: 2019-01-07
+    producer.sync:
+      [Marc Bienstock, Jason Blum, Ashwin Rajan, M. Night Shyamalan]
+    studio: Blinding Edge Pictures
+    summary: Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man with twenty-four personalities.
+    tagline: You Cannot Contain What You Are.
+    writer.sync: [M. Night Shyamalan]
+    label: [ID__000450465A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

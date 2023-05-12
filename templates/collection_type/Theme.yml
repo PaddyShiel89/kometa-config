@@ -25,10 +25,20 @@ templates:
     sync_mode: sync
 
   Theme collection:
+    optional:
+      - subsection
     conditionals:
       subsection_order:
-        default: "00"
+        default: "02" # subgenre
         conditions:
+          - subsection: meta
+            value: "00"
+          - subsection: based_on
+            value: "01"
+          - subsection: subgenre
+            value: "02"
+          - subsection: horror_subgenre
+            value: "03"
           # Horror
           - collection_name:
               [
@@ -39,7 +49,7 @@ templates:
                 Supernatural Horror,
                 Zombies,
               ]
-            value: "01"
+            value: "03"
     collection_mode: hide
     sort_title: "!08_<<subsection_order>>_<<collection_name>>"
     sync_mode: sync

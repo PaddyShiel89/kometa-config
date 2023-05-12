@@ -1,0 +1,21 @@
+metadata:
+  Changeling:
+    title: Changeling
+    year: 2008
+    edition_filter: Theatrical cut
+    sort_title: Changeling (2008)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Clint Eastwood]
+    genre.sync: [Biopic, Crime, Drama, History, Mystery, Thriller]
+    originally_available: 2008-05-20
+    producer.sync: [Clint Eastwood, Brian Grazer, Ron Howard, Robert Lorenz]
+    studio: Imagine Entertainment
+    summary: Grief-stricken mother Christine Collins takes on the L.A.P.D. when they try to pass off an impostor as her missing child.
+    tagline: To find her son, she did what no one else dared.
+    writer.sync: [J. Michael Straczynski]
+    label: [ID__000003580A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
