@@ -169,10 +169,10 @@ collections:
 
   Movies with Commentary:
     template: { name: Theme collection, subsection: meta }
-    plex_all: true
-    collection_order: alpha
-    filters:
-      audio_track_title: "Commentary -"
+    smart_filter:
+      all:
+        label: Theme__commentary_track
+      sort_by: title.asc
     summary: "Movies with one or more audio commentary tracks, usually by the cast and/or crew."
 
   Quick Flicks:
