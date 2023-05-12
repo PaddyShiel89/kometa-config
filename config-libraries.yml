@@ -292,6 +292,7 @@ libraries:
       - repo: metadata/short_films/Marvel One-Shot The Consultant (2011) {tmdb-76122}
       - repo: metadata/short_films/Season's Greetings (1996) {tmdb-140149}
       - repo: metadata/short_films/Shadowprowler (2021) {tmdb-801109}
+      - repo: metadata/short_films/Six Shooter (2004) {tmdb-25126}
       - repo: metadata/short_films/Team Darryl (2018) {tmdb-505945}
       - repo: metadata/short_films/Team Thor Part 2 (2017) {tmdb-441829}
       - repo: labelling/short_films/ownership
