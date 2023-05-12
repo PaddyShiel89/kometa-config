@@ -369,6 +369,12 @@ collections:
       - 25188 # The Last Picture Show (1971)
       - 682507 # Where the Crawdads Sing (2022)
 
+  Theme__commentary_track:
+    template: { name: TMDB theme label, theme_name: commentary_track }
+    plex_all: true
+    filters:
+      audio_track_title: "Commentary -"
+
   Theme__con_artists:
     template: { name: TMDB theme label, theme_name: con_artists }
     tmdb_movie:
