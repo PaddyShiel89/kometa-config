@@ -22,6 +22,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000117974A # Sightseers (2012)
           - ID__000009340A # The Goonies (1985)
           - ID__000001541A # Thelma & Louise (1991)
 
