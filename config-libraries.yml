@@ -103,6 +103,7 @@ libraries:
       - repo: metadata/movies/Pirates of the Caribbean On Stranger Tides (2011) {tmdb-1865}
       - repo: metadata/movies/Pirates of the Caribbean The Curse of the Black Pearl (2003) {tmdb-22}
       - repo: metadata/movies/Police Story 2 (1988) {tmdb-10753}
+      - repo: metadata/movies/Requiem for a Dream (2000) {tmdb-641}
       - repo: metadata/movies/Resident Evil (2002) {tmdb-1576}
       - repo: metadata/movies/Resident Evil Afterlife (2010) {tmdb-35791}
       - repo: metadata/movies/Resident Evil Apocalypse (2004) {tmdb-1577}
@@ -122,6 +123,7 @@ libraries:
       - repo: metadata/movies/Secretary (2002) {tmdb-11013}
       - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}
       - repo: metadata/movies/Shrek (2001) {tmdb-808}
+      - repo: metadata/movies/Sightseers (2012)
       - repo: metadata/movies/Silent Hill (2006) {tmdb-588}
       - repo: metadata/movies/Smile (2022) {tmdb-882598}
       - repo: metadata/movies/Solo A Star Wars Story {tmdb-348350}
@@ -191,6 +193,7 @@ libraries:
       - repo: metadata/movies/Titanic (1997) {tmdb-597}
       - repo: metadata/movies/Trick 'r Treat (2007) {tmdb-23202}
       - repo: metadata/movies/Tropic Thunder (2008) {tmdb-7446}
+      - repo: metadata/movies/Unbreakable (2000) {tmdb-9741}
       - repo: metadata/movies/Uncharted (2022) {tmdb-335787}
       - repo: metadata/movies/War Horse (2011) {tmdb-57212}
       - repo: metadata/movies/Warrior (2011) {tmdb-59440}

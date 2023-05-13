@@ -6,7 +6,7 @@ templates:
       - summary
     conditionals:
       title_order:
-        default: "00"
+        default: "02" # subgenre
         conditions:
           # Horror
           - collection_name:
@@ -18,7 +18,7 @@ templates:
                 Supernatural Horror,
                 Zombies,
               ]
-            value: "01"
+            value: "03"
     collection_mode: hide
     sort_title: "!08_<<title_order>>_<<collection_name>>"
     summary: "<<library_name>> <<summary>>"

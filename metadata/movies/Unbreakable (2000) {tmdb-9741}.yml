@@ -1,0 +1,21 @@
+metadata:
+  Unbreakable:
+    title: Unbreakable
+    year: 2000
+    edition_filter: Theatrical cut
+    sort_title: Unbreakable (2000)
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [M. Night Shyamalan]
+    genre.sync: [Mystery, Science Fiction, Thriller]
+    originally_available: 2000-11-14
+    producer.sync: [Barry Mendel, Sam Mercer, M. Night Shyamalan]
+    studio: Touchstone Pictures
+    summary: An ordinary man makes an extraordinary discovery when a train accident leaves his fellow passengers dead — and him unscathed.
+    tagline: Are You Ready For The Truth?
+    writer.sync: [M. Night Shyamalan]
+    label: [ID__000009741A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
