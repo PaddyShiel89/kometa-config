@@ -8,6 +8,10 @@ templates:
       title_order:
         default: "02" # subgenre
         conditions:
+          # Based on XYZ
+          - collection_name:
+              [Based on a Book, Based on a Comic Book, Based on a True Story]
+            value: "01"
           # Horror
           - collection_name:
               [
