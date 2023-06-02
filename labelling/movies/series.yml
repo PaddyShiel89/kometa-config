@@ -358,6 +358,18 @@ collections:
     tmdb_movie:
       - 25188 # The Last Picture Show (1971)
 
+  Series__The_Lord_of_the_Rings_2001:
+    template:
+      {
+        name: TMDB series label,
+        series_name: The_Lord_of_the_Rings,
+        series_year: 2001,
+      }
+    tmdb_movie:
+      - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
+      - 121 # The Lord of the Rings: The Two Towers (2002)
+      - 122 # The Lord of the Rings: The Return of the King (2003)
+
   Series__The_Raid_2011:
     template:
       { name: TMDB series label, series_name: The_Raid, series_year: 2011 }
@@ -604,15 +616,6 @@ collections:
         title_list:
           - Lego Movie (2014) 001
           - Lego Movie (2014) 002
-
-  "Series: The Lord of the Rings (2001)":
-    template:
-      - name: Series label
-        series: "The Lord of the Rings (2001)"
-        title_list:
-          - Lord of the Rings (2001) 001B
-          - Lord of the Rings (2001) 002B
-          - Lord of the Rings (2001) 003B
 
   "Series: Machete (2010)":
     template:

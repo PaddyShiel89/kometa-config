@@ -1,0 +1,44 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "The Lord of the Rings: The Fellowship of the Ring (2001) [Theatrical cut]":
+    title: "The Lord of the Rings: The Fellowship of the Ring"
+    year: 2001
+    edition_filter: Theatrical cut
+    sort_title: Lord of the Rings (2001) 001A
+    content_rating: gb/PG
+    country.sync: [New Zealand, United States of America]
+    director.sync: [Peter Jackson]
+    genre.sync: [Action, Adventure, Drama, Fantasy]
+    originally_available: 2001-12-10
+    producer.sync: [Peter Jackson, Barrie M. Osborne, Tim Sanders, Fran Walsh]
+    studio: New Line Cinema
+    summary: A hobbit from the Shire sets out on a journey with eight companions to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+    tagline: One Ring To Rule Them All.
+    writer.sync: [J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Peter Jackson]
+    label: [ID__000000120A]
+
+  "The Lord of the Rings: The Fellowship of the Ring (2001) [Extended edition]":
+    title: "The Lord of the Rings: The Fellowship of the Ring"
+    year: 2001
+    edition_filter: Extended edition
+    sort_title: Lord of the Rings (2001) 001B
+    content_rating: gb/12
+    country.sync: [New Zealand, United States of America]
+    director.sync: [Peter Jackson]
+    genre.sync: [Action, Adventure, Drama, Fantasy]
+    originally_available: 2001-12-10
+    producer.sync: [Peter Jackson, Barrie M. Osborne, Tim Sanders, Fran Walsh]
+    studio: New Line Cinema
+    summary: A hobbit from the Shire sets out on a journey with eight companions to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+    tagline: One Ring To Rule Them All.
+    writer.sync: [J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Peter Jackson]
+    label: [ID__000000120B]
+
+collections:
+  "The Lord of the Rings: The Fellowship of the Ring (2001)":
+    template: { name: Edition }
+    tmdb_movie: 120
+    sort_title: Lord of the Rings (2001) 001
+    summary: A hobbit from the Shire sets out on a journey with eight companions to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.

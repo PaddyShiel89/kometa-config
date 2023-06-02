@@ -153,6 +153,7 @@ collections:
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
       - 45269 # The King's Speech (2010)
       - 25188 # The Last Picture Show (1971)
+      - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
       - 5876 # The Mist (2007)
       - 278 # The Shawshank Redemption (1994)
       - 694 # The Shining (1980)
@@ -640,6 +641,11 @@ collections:
       - 8848 # The Bank Job (2008)
       - 629 # The Usual Suspects (1995)
 
+  Theme__high_fantasy:
+    template: { name: TMDB theme label, theme_name: high_fantasy }
+    tmdb_movie:
+      - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
+
   Theme__hypnosis:
     template: { name: TMDB theme label, theme_name: hypnosis }
     tmdb_movie:
@@ -707,6 +713,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
       - 556694 # Three Thousand Years of Longing (2022)
       - 38319 # Your Highness (2011)
 
@@ -769,6 +776,7 @@ collections:
       - 588 # Silent Hill (2006)
       - 882598 # Smile (2022)
       - 10216 # Species II (1998)
+      - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
       - 5876 # The Mist (2007)
       - 1091 # The Thing (1982)
       - 23202 # Trick 'r Treat (2007)
@@ -988,6 +996,7 @@ collections:
     template: { name: TMDB theme label, theme_name: road_movies }
     tmdb_movie:
       - 496 # Borat (2006)
+      - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
       - 1541 # Thelma & Louise (1991)
 
   Theme__royalty:

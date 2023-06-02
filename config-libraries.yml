@@ -168,6 +168,7 @@ libraries:
       - repo: metadata/movies/The King's Speech (2010) {tmdb-45269}
       - repo: metadata/movies/The Last Picture Show (1971) {tmdb-25188}
       - repo: metadata/movies/The Look of Love (2013) {tmdb-158914}
+      - repo: metadata/movies/The Lord of the Rings The Fellowship of the Ring (2001) {tmdb-120}
       - repo: metadata/movies/The Matrix Resurrections (2021) {tmdb-624860}
       - repo: metadata/movies/The Mist (2007) {tmdb-5876}
       - repo: metadata/movies/The Muppets (2011) {tmdb-64328}
