@@ -12,8 +12,8 @@ collections:
       - name: Series
         summary: "on elements of Peter Jackson's Middle-earth saga."
         label_list:
+          - Series__The_Lord_of_the_Rings_2001
           - "series: The Hobbit (2012)"
-          - "series: The Lord of the Rings (2001)"
 
   Star Wars Collection:
     template:

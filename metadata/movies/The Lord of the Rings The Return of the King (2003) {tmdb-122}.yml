@@ -1,0 +1,44 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "The Lord of the Rings: The Return of the King (2003) [Theatrical cut]":
+    title: "The Lord of the Rings: The Return of the King"
+    year: 2003
+    edition_filter: Theatrical cut
+    sort_title: Lord of the Rings (2001) 003A
+    content_rating: gb/12
+    country.sync: [New Zealand, United States of America]
+    director.sync: [Peter Jackson]
+    genre.sync: [Action, Adventure, Drama, Fantasy, War]
+    originally_available: 2003-12-01
+    producer.sync: [Peter Jackson, Eric Monette, Barrie M. Osborne, Fran Walsh]
+    studio: New Line Cinema
+    summary: As Frodo and Sam approach Mount Doom with the One Ring, Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze.
+    tagline: The eye of the enemy is moving.
+    writer.sync: [J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Peter Jackson]
+    label: [ID__000000122A]
+
+  "The Lord of the Rings: The Return of the King (2003) [Extended edition]":
+    title: "The Lord of the Rings: The Return of the King"
+    year: 2003
+    edition_filter: Extended edition
+    sort_title: Lord of the Rings (2001) 003B
+    content_rating: gb/12
+    country.sync: [New Zealand, United States of America]
+    director.sync: [Peter Jackson]
+    genre.sync: [Action, Adventure, Drama, Fantasy, War]
+    originally_available: 2003-12-01
+    producer.sync: [Peter Jackson, Eric Monette, Barrie M. Osborne, Fran Walsh]
+    studio: New Line Cinema
+    summary: As Frodo and Sam approach Mount Doom with the One Ring, Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze.
+    tagline: The eye of the enemy is moving.
+    writer.sync: [J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Peter Jackson]
+    label: [ID__000000122B]
+
+collections:
+  "The Lord of the Rings: The Return of the King (2003)":
+    template: { name: Edition }
+    tmdb_movie: 122
+    sort_title: Lord of the Rings (2001) 003
+    summary: As Frodo and Sam approach Mount Doom with the One Ring, Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze.

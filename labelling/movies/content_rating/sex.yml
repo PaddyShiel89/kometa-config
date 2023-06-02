@@ -32,6 +32,10 @@ collections:
           - ID__000070160A # The Hunger Games (2012)
           - ID__000101299A # The Hunger Games: Catching Fire (2013)
           - ID__000131631A # The Hunger Games: Mockingjay - Part 1 (2014)
+          - ID__000000120A # The Lord of the Rings: The Fellowship of the Ring (2001) [Theatrical cut]
+          - ID__000000120B # The Lord of the Rings: The Fellowship of the Ring (2001) [Extended edition]
+          - ID__000000121A # The Lord of the Rings: The Two Towers (2002) [Theatrical cut]
+          - ID__000000121B # The Lord of the Rings: The Two Towers (2002) [Extended edition]
 
   BBFC sex lvl 2:
     template:

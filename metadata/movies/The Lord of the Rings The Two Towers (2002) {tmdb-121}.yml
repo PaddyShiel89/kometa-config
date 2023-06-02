@@ -1,0 +1,58 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "The Lord of the Rings: The Two Towers (2002) [Theatrical cut]":
+    title: "The Lord of the Rings: The Two Towers"
+    year: 2002
+    edition_filter: Theatrical cut
+    sort_title: Lord of the Rings (2001) 002A
+    content_rating: gb/12
+    country.sync: [New Zealand, United States of America]
+    director.sync: [Peter Jackson]
+    genre.sync: [Action, Adventure, Drama, Fantasy]
+    originally_available: 2002-12-05
+    producer.sync: [Peter Jackson, Eric Monette, Barrie M. Osborne, Fran Walsh]
+    studio: New Line Cinema
+    summary: While Frodo and Sam edge closer to Mordor with the help of Gollum, the divided fellowship stand against Sauron's new ally, Saruman, and his hordes of Isengard.
+    tagline: A New Power Is Rising.
+    writer.sync:
+      [
+        J.R.R. Tolkien,
+        Fran Walsh,
+        Philippa Boyens,
+        Stephen Sinclair,
+        Peter Jackson,
+      ]
+    label: [ID__000000121A]
+
+  "The Lord of the Rings: The Two Towers (2002) [Extended edition]":
+    title: "The Lord of the Rings: The Two Towers"
+    year: 2002
+    edition_filter: Extended edition
+    sort_title: Lord of the Rings (2001) 002B
+    content_rating: gb/12
+    country.sync: [New Zealand, United States of America]
+    director.sync: [Peter Jackson]
+    genre.sync: [Action, Adventure, Drama, Fantasy]
+    originally_available: 2002-12-05
+    producer.sync: [Peter Jackson, Eric Monette, Barrie M. Osborne, Fran Walsh]
+    studio: New Line Cinema
+    summary: While Frodo and Sam edge closer to Mordor with the help of Gollum, the divided fellowship stand against Sauron's new ally, Saruman, and his hordes of Isengard.
+    tagline: A New Power Is Rising.
+    writer.sync:
+      [
+        J.R.R. Tolkien,
+        Fran Walsh,
+        Philippa Boyens,
+        Stephen Sinclair,
+        Peter Jackson,
+      ]
+    label: [ID__000000121B]
+
+collections:
+  "The Lord of the Rings: The Two Towers (2002)":
+    template: { name: Edition }
+    tmdb_movie: 121
+    sort_title: Lord of the Rings (2001) 002
+    summary: While Frodo and Sam edge closer to Mordor with the help of Gollum, the divided fellowship stand against Sauron's new ally, Saruman, and his hordes of Isengard.

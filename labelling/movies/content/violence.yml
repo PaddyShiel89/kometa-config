@@ -130,9 +130,6 @@ collections:
           - "Lara Croft: Tomb Raider (2001) 001"
           - Licence to Kill (1989)
           - Living Daylights (1987)
-          - Lord of the Rings (2001) 001B
-          - Lord of the Rings (2001) 002B
-          - Lord of the Rings (2001) 003B
           - Man with the Golden Gun (1974)
           - Match Point (2005)
           - Minority Report (2002)
@@ -382,7 +379,6 @@ collections:
         content: violence
         level: battle
         title_list:
-          - Lord of the Rings (2001) 001B
           - Troy (2004) 001B
 
   "Content: violence (bloody)":
@@ -492,7 +488,6 @@ collections:
           - Incredible Hulk (2008) 001
           - Lego Movie (2014) 001
           - Lego Movie (2014) 002
-          - Lord of the Rings (2001) 002B
           - Spider-Man (2002) 002
           - Star Wars 003
           - Star Wars Rebels (2014) 002
