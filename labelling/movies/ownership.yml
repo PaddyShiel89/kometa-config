@@ -119,6 +119,7 @@ collections:
           - ID__000000558A # Spider-Man 2 (2004) [Theatrical cut]
           - ID__000000571A # The Birds (1963)
           - ID__000000120B # The Lord of the Rings: The Fellowship of the Ring (2001) [Extended edition]
+          - ID__000000122B # The Lord of the Rings: The Return of the King (2003) [Extended edition]
           - ID__000000121B # The Lord of the Rings: The Two Towers (2002) [Extended edition]
           - ID__000000278A # The Shawshank Redemption (1994)
 
@@ -267,6 +268,8 @@ collections:
           - ID__000025188A # The Last Picture Show (1971)
           - ID__000000120A # The Lord of the Rings: The Fellowship of the Ring (2001) [Theatrical cut]
           - ID__000000120B # The Lord of the Rings: The Fellowship of the Ring (2001) [Extended edition]
+          - ID__000000122A # The Lord of the Rings: The Return of the King (2003) [Theatrical cut]
+          - ID__000000122B # The Lord of the Rings: The Return of the King (2003) [Extended edition]
           - ID__000000121A # The Lord of the Rings: The Two Towers (2002) [Theatrical cut]
           - ID__000000121B # The Lord of the Rings: The Two Towers (2002) [Extended edition]
           - ID__000158914A # The Look of Love (2013)
@@ -430,7 +433,6 @@ collections:
           - Jurassic Park (1993) 003
           - Kung Fu Hustle (2004)
           - Licence to Kill (1989)
-          - Lord of the Rings (2001) 003B
           - Man Who Knew Too Much (1956)
           - Man with the Golden Gun (1974)
           - Marnie (1964)
