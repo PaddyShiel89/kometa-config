@@ -177,6 +177,8 @@ collections:
           - ID__000131634A # The Hunger Games: Mockingjay - Part 2 (2015)
           - ID__000000120A # The Lord of the Rings: The Fellowship of the Ring (2001) [Theatrical cut]
           - ID__000000120B # The Lord of the Rings: The Fellowship of the Ring (2001) [Extended edition]
+          - ID__000000121A # The Lord of the Rings: The Two Towers (2002) [Theatrical cut]
+          - ID__000000121B # The Lord of the Rings: The Two Towers (2002) [Extended edition]
           - ID__000045269A # The King's Speech (2010)
           - ID__000025188A # The Last Picture Show (1971)
           - ID__000158914A # The Look of Love (2013)
@@ -428,7 +430,6 @@ collections:
           - Lion King (1994) 001
           - Live and Let Die (1973)
           - Living Daylights (1987)
-          - Lord of the Rings (2001) 002B
           - Lord of the Rings (2001) 003B
           - Lost Girls and Love Hotels (2020)
           - Lucy (2014)

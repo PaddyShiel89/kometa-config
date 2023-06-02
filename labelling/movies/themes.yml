@@ -154,6 +154,7 @@ collections:
       - 45269 # The King's Speech (2010)
       - 25188 # The Last Picture Show (1971)
       - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
+      - 121 # The Lord of the Rings: The Two Towers (2002)
       - 5876 # The Mist (2007)
       - 278 # The Shawshank Redemption (1994)
       - 694 # The Shining (1980)
@@ -645,6 +646,7 @@ collections:
     template: { name: TMDB theme label, theme_name: high_fantasy }
     tmdb_movie:
       - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
+      - 121 # The Lord of the Rings: The Two Towers (2002)
 
   Theme__hypnosis:
     template: { name: TMDB theme label, theme_name: hypnosis }
@@ -714,6 +716,7 @@ collections:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 634649 # Spider-Man: No Way Home (2021)
       - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
+      - 121 # The Lord of the Rings: The Two Towers (2002)
       - 556694 # Three Thousand Years of Longing (2022)
       - 38319 # Your Highness (2011)
 
@@ -777,6 +780,7 @@ collections:
       - 882598 # Smile (2022)
       - 10216 # Species II (1998)
       - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
+      - 121 # The Lord of the Rings: The Two Towers (2002)
       - 5876 # The Mist (2007)
       - 1091 # The Thing (1982)
       - 23202 # Trick 'r Treat (2007)
