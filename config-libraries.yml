@@ -152,6 +152,7 @@ libraries:
       - repo: metadata/movies/The Black Dahlia (2006) {tmdb-9676}
       - repo: metadata/movies/The Black Phone (2022) {tmdb-756999}
       - repo: metadata/movies/The Book of Eli (2010) {tmdb-20504}
+      - repo: metadata/movies/The Curious Case of Benjamin Button (2008) {tmdb-4922}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
       - repo: metadata/movies/The Exterminating Angels (2006) {tmdb-19976}
       - repo: metadata/movies/The Girl Next Door (2004) {tmdb-10591}
