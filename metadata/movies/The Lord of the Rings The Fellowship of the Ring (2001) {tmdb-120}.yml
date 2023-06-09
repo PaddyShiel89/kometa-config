@@ -37,7 +37,7 @@ metadata:
     label: [ID__000000120B]
 
 collections:
-  "The Lord of the Rings: The Fellowship of the Ring (2001)":
+  "The Lord of the Rings: The Fellowship of the Ring":
     template: { name: Edition }
     tmdb_movie: 120
     sort_title: Lord of the Rings (2001) 001

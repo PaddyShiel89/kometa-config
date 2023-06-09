@@ -37,7 +37,7 @@ metadata:
     label: [ID__000000122B]
 
 collections:
-  "The Lord of the Rings: The Return of the King (2003)":
+  "The Lord of the Rings: The Return of the King":
     template: { name: Edition }
     tmdb_movie: 122
     sort_title: Lord of the Rings (2001) 003
