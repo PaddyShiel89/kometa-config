@@ -1036,6 +1036,7 @@ collections:
     template: { name: TMDB theme label, theme_name: sex_comedy }
     tmdb_movie:
       - 13973 # Choke (2008)
+      - 9870 # Forgetting Sarah Marshall (2008)
       - 11013 # Secretary (2002)
       - 10591 # The Girl Next Door (2004)
       - 38319 # Your Highness (2011)
