@@ -100,6 +100,7 @@ collections:
           - ID__000000598A # City of God (2002)
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000117974A # Sightseers (2012)
+          - ID__000018785A # The Hangover (2009) [Theatrical cut]
           - ID__000001541A # Thelma & Louise (1991)
 
   BBFC sex lvl 5:
@@ -112,6 +113,7 @@ collections:
       any:
         label:
           - ID__000615777A # Babylon (2022)
+          - ID__000018785B # The Hangover (2009) [Uncut version]
 
   Real sex:
     template:
