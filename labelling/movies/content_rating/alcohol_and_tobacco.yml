@@ -23,6 +23,7 @@ collections:
           - ID__000027205A # Inception (2010)
           - ID__000068721A # Iron Man 3 (2013)
           - ID__000346364A # It (2017)
+          - ID__000475557A # Joker (2019)
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
@@ -66,6 +67,8 @@ collections:
         label:
           - ID__000000524A # Casino (1995)
           - ID__000000022A # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+          - ID__000018785A # The Hangover (2009) [Theatrical cut]
+          - ID__000018785B # The Hangover (2009) [Uncut version]
           - ID__000070160A # The Hunger Games (2012)
           - ID__000101299A # The Hunger Games: Catching Fire (2013)
           - ID__000057212A # War Horse (2011)

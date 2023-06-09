@@ -57,6 +57,7 @@ libraries:
       - repo: metadata/movies/Dressage (1986) {tmdb-101875}
       - repo: metadata/movies/Emmanuelle (1974) {tmdb-24402}
       - repo: metadata/movies/Eternals (2021) {tmdb-524434}
+      - repo: metadata/movies/Forgetting Sarah Marshall (2008) {tmdb-9870}
       - repo: metadata/movies/Freaked (1993) {tmdb-17796}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
       - repo: metadata/movies/Get Out (2017) {tmdb-419430}
@@ -83,7 +84,9 @@ libraries:
       - repo: metadata/movies/John Wick (2014) {tmdb-245891}
       - repo: metadata/movies/John Wick Chapter 2 (2017) {tmdb-324552}
       - repo: metadata/movies/John Wick Chapter 3 - Parabellum (2019) {tmdb-458156}
+      - repo: metadata/movies/Joker (2019) {tmdb-475557}
       - repo: metadata/movies/L.A. Confidential (1997) {tmdb-2118}
+      - repo: metadata/movies/Ladder 49 (2004) {tmdb-11128}
       - repo: metadata/movies/Lara Croft Tomb Raider (2001) {tmdb-1995}
       - repo: metadata/movies/Lawrence of Arabia (1962) {tmdb-947}
       - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
@@ -151,6 +154,7 @@ libraries:
       - repo: metadata/movies/The Black Dahlia (2006) {tmdb-9676}
       - repo: metadata/movies/The Black Phone (2022) {tmdb-756999}
       - repo: metadata/movies/The Book of Eli (2010) {tmdb-20504}
+      - repo: metadata/movies/The Curious Case of Benjamin Button (2008) {tmdb-4922}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
       - repo: metadata/movies/The Exterminating Angels (2006) {tmdb-19976}
       - repo: metadata/movies/The Girl Next Door (2004) {tmdb-10591}
@@ -160,6 +164,7 @@ libraries:
       - repo: metadata/movies/The Godfather Part III (1990) {tmdb-242}
       - repo: metadata/movies/The Goonies (1985) {tmdb-9340}
       - repo: metadata/movies/The Green Mile (1999) {tmdb-497}
+      - repo: metadata/movies/The Hangover (2009) {tmdb-18785}
       - repo: metadata/movies/The Hitchhiker's Guide to the Galaxy (2005) {tmdb-7453}
       - repo: metadata/movies/The Hunger Games (2012) {tmdb-70160}
       - repo: metadata/movies/The Hunger Games Catching Fire (2013) {tmdb-101299}

@@ -1,0 +1,45 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "The Hangover (2009) [Theatrical cut]":
+    title: The Hangover
+    year: 2009
+    edition_filter: Theatrical cut
+    sort_title: Hangover (2009) 001A
+    content_rating: gb/15
+    country.sync: [Germany, United States of America]
+    director.sync: [Todd Phillips]
+    genre.sync: [Comedy]
+    originally_available: 2009-05-30
+    producer.sync: [Daniel Goldberg, Todd Phillips]
+    studio: Legendary Entertainment
+    summary: Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.
+    tagline: Some guys just can't handle Vegas
+    writer.sync: [Jon Lucas, Scott Moore]
+    label: [ID__000018785A]
+
+metadata:
+  "The Hangover (2009) [Uncut version]":
+    title: The Hangover
+    year: 2009
+    edition_filter: Uncut version
+    sort_title: Hangover (2009) 001B
+    content_rating: gb/18
+    country.sync: [Germany, United States of America]
+    director.sync: [Todd Phillips]
+    genre.sync: [Comedy]
+    originally_available: 2009-05-30
+    producer.sync: [Daniel Goldberg, Todd Phillips]
+    studio: Legendary Entertainment
+    summary: Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.
+    tagline: Some guys just can't handle Vegas
+    writer.sync: [Jon Lucas, Scott Moore]
+    label: [ID__000018785B]
+
+collections:
+  "The Hangover":
+    template: { name: Edition }
+    tmdb_movie: 18785
+    sort_title: Hangover (2009) 001
+    summary: Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.

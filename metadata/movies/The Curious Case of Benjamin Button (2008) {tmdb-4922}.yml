@@ -1,0 +1,21 @@
+metadata:
+  The Curious Case of Benjamin Button:
+    title: The Curious Case of Benjamin Button
+    year: 2008
+    edition_filter: Theatrical cut
+    sort_title: Curious Case of Benjamin Button (2008)
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [David Fincher]
+    genre.sync: [Drama, Fantasy, Romance]
+    originally_available: 2008-12-10
+    producer.sync: [Ceán Chaffin, Kathleen Kennedy, Frank Marshall]
+    studio: Paramount Pictures
+    summary: The story of Benjamin Button; a man who starts ageing backwards with consequences.
+    tagline: Life isn't measured in minutes, but in moments
+    writer.sync: [Eric Roth, Robin Swicord, F. Scott Fitzgerald]
+    label: [ID__000004922A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

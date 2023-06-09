@@ -12,6 +12,7 @@ collections:
       any:
         label:
           - ID__000008696A # Calendar Girls (2003)
+          - ID__000475557A # Joker (2019)
 
   BBFC drugs lvl 3:
     template:
@@ -38,6 +39,8 @@ collections:
           - ID__000059678A # Attack the Block (2011)
           - ID__000000524A # Casino (1995)
           - ID__000756999A # The Black Phone (2021)
+          - ID__000018785A # The Hangover (2009) [Theatrical cut]
+          - ID__000018785B # The Hangover (2009) [Uncut version]
 
   BBFC drugs lvl 5:
     template:

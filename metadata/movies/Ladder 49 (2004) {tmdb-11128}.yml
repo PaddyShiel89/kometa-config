@@ -1,0 +1,21 @@
+metadata:
+  Ladder 49:
+    title: Ladder 49
+    year: 2004
+    edition_filter: Theatrical cut
+    sort_title: Ladder 49 (2004)
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Jay Russell]
+    genre.sync: [Action, Drama, Thriller]
+    originally_available: 2004-09-20
+    producer.sync: [Casey Silver]
+    studio: Touchstone Pictures
+    summary: A firefighter, injured and trapped in a burning building, has flashbacks of his life while fellow firefighters attempt to rescue him.
+    tagline: A bond forged by fire is never broken.
+    writer.sync: [Lewis Colick]
+    label: [ID__000011128A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
