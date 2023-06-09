@@ -174,6 +174,7 @@ collections:
       - 53182 # 300: Rise of an Empire (2014)
       - 341013 # Atomic Blonde (2017)
       - 315837 # Ghost in the Shell (2017)
+      - 475557 # Joker (2019)
       - 8285 # The Spirit (2008)
 
   Theme__based_on_a_play:
@@ -442,6 +443,7 @@ collections:
     tmdb_movie:
       - 3134 # Baise-moi (2000)
       - 793 # Blue Velvet (1986)
+      - 475557 # Joker (2019)
       - 619730 # Don't Worry Darling (2022)
       - 20546 # Goodnight, Mister Tom (1998)
       - 50837 # Martha Marcy May Marlene (2011)
@@ -750,6 +752,7 @@ collections:
       - 3580 # Changeling (2008)
       - 450465 # Glass (2019)
       - 68721 # Iron Man 3 (2013)
+      - 475557 # Joker (2019)
       - 947 # Lawrence of Arabia (1962)
       - 50837 # Martha Marcy May Marlene (2011)
       - 381288 # Split (2016)
@@ -799,6 +802,7 @@ collections:
       - 524 # Casino (1995)
       - 210577 # Gone Girl (2014)
       - 51540 # Horrible Bosses (2011)
+      - 475557 # Joker (2019)
       - 2118 # L.A. Confidential (1997)
       - 46534 # Sweet Karma (2009)
       - 9676 # The Black Dahlia (2006)
@@ -843,6 +847,7 @@ collections:
       - 245891 # John Wick (2015)
       - 324552 # John Wick: Chapter 2 (2017)
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
+      - 475557 # Joker (2019)
       - 2118 # L.A. Confidential (1997)
       - 180 # Minority Report (2002)
       - 9676 # The Black Dahlia (2006)
@@ -946,6 +951,7 @@ collections:
       - 210577 # Gone Girl (2014)
       - 27205 # Inception (2010)
       - 474350 # It Chapter Two (2019)
+      - 475557 # Joker (2019)
       - 50837 # Martha Marcy May Marlene (2011)
       - 641 # Requiem for a Dream (2000)
       - 882598 # Smile (2022)

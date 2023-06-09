@@ -12,6 +12,7 @@ collections:
       any:
         label:
           - ID__000008696A # Calendar Girls (2003)
+          - ID__000475557A # Joker (2019)
 
   BBFC drugs lvl 3:
     template:
