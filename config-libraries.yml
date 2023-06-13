@@ -205,6 +205,7 @@ libraries:
       - repo: metadata/movies/Tropic Thunder (2008) {tmdb-7446}
       - repo: metadata/movies/Unbreakable (2000) {tmdb-9741}
       - repo: metadata/movies/Uncharted (2022) {tmdb-335787}
+      - repo: metadata/movies/Vicky Cristina Barcelona (2008) {tmdb-5038}
       - repo: metadata/movies/War Horse (2011) {tmdb-57212}
       - repo: metadata/movies/Warrior (2011) {tmdb-59440}
       - repo: metadata/movies/Wedding Crashers (2005) {tmdb-9522}
