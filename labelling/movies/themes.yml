@@ -693,6 +693,7 @@ collections:
       - 64124 # À l'aventure (2009)
       - 341013 # Atomic Blonde (2017)
       - 26715 # Bitch Slap (2009)
+      - 18480 # Brüno (2009)
       - 86331 # Desire (2011)
       - 24402 # Emmanuelle (1974)
       - 947 # Lawrence of Arabia (1962)
@@ -771,6 +772,7 @@ collections:
     template: { name: TMDB theme label, theme_name: mockumentary }
     tmdb_movie:
       - 496 # Borat (2006)
+      - 18480 # Brüno (2009)
 
   Theme__monsters:
     template: { name: TMDB theme label, theme_name: monsters }

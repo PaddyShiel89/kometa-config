@@ -36,6 +36,7 @@ libraries:
       - repo: metadata/movies/Boogie Nights (1997) {tmdb-4995}
       - repo: metadata/movies/Borat (2006) {tmdb-496}
       - repo: metadata/movies/Brightburn (2019) {tmdb-531309}
+      - repo: metadata/movies/Bruno (2009) {tmdb-18480}
       - repo: metadata/movies/Bullet Train (2022) {tmdb-718930}
       - repo: metadata/movies/Calendar Girls (2003) {tmdb-8696}
       - repo: metadata/movies/Calvary (2014) {tmdb-157832}
