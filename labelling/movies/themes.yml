@@ -116,6 +116,7 @@ collections:
       - 453 # A Beautiful Mind (2001)
       - 487558 # BlacKkKlansman (2018)
       - 301502 # Blonde (2022)
+      - 718930 # Bullet Train (2022)
       - 524 # Casino (1995)
       - 8881 # Che: Part One (2008)
       - 8880 # Che: Part Two (2008)
@@ -705,6 +706,7 @@ collections:
     template: { name: TMDB theme label, theme_name: mafia }
     tmdb_movie:
       - 341013 # Atomic Blonde (2017)
+      - 718930 # Bullet Train (2022)
       - 524 # Casino (1995)
       - 245891 # John Wick (2015)
       - 2118 # L.A. Confidential (1997)

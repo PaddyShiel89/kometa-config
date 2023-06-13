@@ -22,6 +22,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000718930A # Bullet Train (2022)
           - ID__000027205A # Inception (2010)
           - ID__000117974A # Sightseers (2012)
           - ID__000009340A # The Goonies (1985)
