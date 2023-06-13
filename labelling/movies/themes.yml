@@ -90,6 +90,7 @@ collections:
   Theme__animals:
     template: { name: TMDB theme label, theme_name: animals }
     tmdb_movie:
+      - 254 # King Kong (2005)
       - 57212 # War Horse (2011)
 
   Theme__anthology:
@@ -791,6 +792,7 @@ collections:
       - 17796 # Freaked (1993)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
+      - 254 # King Kong (2005)
       - 762504 # Nope (2022)
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 588 # Silent Hill (2006)
