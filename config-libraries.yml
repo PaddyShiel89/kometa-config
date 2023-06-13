@@ -166,6 +166,7 @@ libraries:
       - repo: metadata/movies/The Godfather Part III (1990) {tmdb-242}
       - repo: metadata/movies/The Goonies (1985) {tmdb-9340}
       - repo: metadata/movies/The Green Mile (1999) {tmdb-497}
+      - repo: metadata/movies/The Guard (2011) {tmdb-67913}
       - repo: metadata/movies/The Hangover (2009) {tmdb-18785}
       - repo: metadata/movies/The Hitchhiker's Guide to the Galaxy (2005) {tmdb-7453}
       - repo: metadata/movies/The Hunger Games (2012) {tmdb-70160}

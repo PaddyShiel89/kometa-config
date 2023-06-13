@@ -1,0 +1,22 @@
+metadata:
+  The Guard:
+    title: The Guard
+    year: 2011
+    edition_filter: Theatrical cut
+    sort_title: Guard (2011)
+    content_rating: gb/15
+    country.sync: [Ireland, United Kingdom, United States of America]
+    director.sync: [John Michael McDonagh]
+    genre.sync: [Comedy, Crime, Thriller]
+    originally_available: 2011-01-20
+    producer.sync:
+      [Chris Clark, Flora Fernandez-Marengo, Ed Guiney, Andrew Lowe]
+    studio: Reprisal Films
+    summary: An unorthodox Irish policeman with a confrontational personality is partnered with an uptight F.B.I. agent to investigate an international drug-smuggling ring.
+    tagline: The FBI are about to discover that things work a little different around here.
+    writer.sync: [John Michael McDonagh]
+    label: [ID__000067913A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
