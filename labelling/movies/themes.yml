@@ -162,6 +162,7 @@ collections:
       - 5876 # The Mist (2007)
       - 278 # The Shawshank Redemption (1994)
       - 694 # The Shining (1980)
+      - 15121 # The Sound of Music (1965)
       - 1091 # The Thing (1982)
       - 16307 # The Wicker Man (1973)
       - 65086 # The Woman in Black (2012)
@@ -183,6 +184,7 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_a_play }
     tmdb_movie:
       - 10653 # The Seven Year Itch (1955)
+      - 15121 # The Sound of Music (1965)
       - 57212 # War Horse (2011)
 
   Theme__based_on_works_by_philip_k_dick:
@@ -228,6 +230,7 @@ collections:
       - 9676 # The Black Dahlia (2006)
       - 45269 # The King's Speech (2010)
       - 158914 # The Look of Love (2013)
+      - 15121 # The Sound of Music (1965)
       - 597 # Titanic (1997)
 
   Theme__based_on_videogames:
@@ -322,6 +325,7 @@ collections:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
       - 242 # The Godfather Part III (1990)
+      - 15121 # The Sound of Music (1965)
 
   Theme__chase:
     template: { name: TMDB theme label, theme_name: chase }
@@ -576,6 +580,7 @@ collections:
       - 101299 # The Hunger Games: Catching Fire (2013)
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
+      - 15121 # The Sound of Music (1965)
       - 1541 # Thelma & Louise (1991)
       - 359940 # Three Billboards Outside Ebbing, Missouri (2017)
       - 556694 # Three Thousand Years of Longing (2022)

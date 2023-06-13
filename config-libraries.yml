@@ -188,6 +188,7 @@ libraries:
       - repo: metadata/movies/The Seven Year Itch (1955) {tmdb-10653}
       - repo: metadata/movies/The Shawshank Redemption (1994) {tmdb-278}
       - repo: metadata/movies/The Shining (1980) {tmdb-694}
+      - repo: metadata/movies/The Sound of Music (1965) {tmdb-15121}
       - repo: metadata/movies/The Spirit (2008) {tmdb-8285}
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
       - repo: metadata/movies/The Thing (1982) {tmdb-1091}
