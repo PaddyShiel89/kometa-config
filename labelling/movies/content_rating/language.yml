@@ -43,6 +43,8 @@ collections:
           - ID__000000620A # Ghostbusters (1984)
           - ID__000002978A # Ghostbusters II (1989)
           - ID__000027205A # Inception (2010)
+          - ID__000000254A # King Kong (2005) [Theatrical cut]
+          - ID__000000254B # King Kong (2005) [Extended edition]
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
@@ -95,6 +97,7 @@ collections:
           - ID__000004982B # American Gangster (2007) [Extended edition]
           - ID__000059678A # Attack the Block (2011)
           - ID__000615777A # Babylon (2022)
+          - ID__000718930A # Bullet Train (2022)
           - ID__000000524A # Casino (1995)
           - ID__000000598A # City of God (2002)
           - ID__000068718A # Django Unchained (2012)

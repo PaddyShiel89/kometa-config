@@ -1,0 +1,60 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "King Kong (2005) [Theatrical cut]":
+    title: King Kong
+    year: 2005
+    edition_filter: Theatrical cut
+    sort_title: King Kong (2005) 001A
+    content_rating: gb/12
+    country.sync: [Germany, New Zealand, United States of America]
+    director.sync: [Peter Jackson]
+    genre.sync: [Action, Adventure, Drama, Romance]
+    originally_available: 2005-12-05
+    producer.sync:
+      [Jan Blenkin, Carolynne Cunningham, Peter Jackson, Fran Walsh]
+    studio: WingNut Films
+    summary: A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.
+    tagline: The eighth wonder of the world.
+    writer.sync:
+      [
+        Fran Walsh,
+        Philippa Boyens,
+        Peter Jackson,
+        Merian C. Cooper,
+        Edgar Wallace,
+      ]
+    label: [ID__000000254A]
+
+  "King Kong (2005) [Extended edition]":
+    title: King Kong
+    year: 2005
+    edition_filter: Extended edition
+    sort_title: King Kong (2005) 001B
+    content_rating: gb/12
+    country.sync: [Germany, New Zealand, United States of America]
+    director.sync: [Peter Jackson]
+    genre.sync: [Action, Adventure, Drama, Romance]
+    originally_available: 2005-12-05
+    producer.sync:
+      [Jan Blenkin, Carolynne Cunningham, Peter Jackson, Fran Walsh]
+    studio: WingNut Films
+    summary: A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.
+    tagline: The eighth wonder of the world.
+    writer.sync:
+      [
+        Fran Walsh,
+        Philippa Boyens,
+        Peter Jackson,
+        Merian C. Cooper,
+        Edgar Wallace,
+      ]
+    label: [ID__000000254B]
+
+collections:
+  "King Kong":
+    template: { name: Edition }
+    tmdb_movie: 254
+    sort_title: King Kong (2005) 001
+    summary: A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.

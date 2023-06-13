@@ -24,6 +24,8 @@ collections:
           - ID__000068721A # Iron Man 3 (2013)
           - ID__000346364A # It (2017)
           - ID__000475557A # Joker (2019)
+          - ID__000000254A # King Kong (2005) [Theatrical cut]
+          - ID__000000254B # King Kong (2005) [Extended edition]
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
@@ -53,6 +55,7 @@ collections:
           - ID__000000122B # The Lord of the Rings: The Return of the King (2003) [Extended edition]
           - ID__000000121A # The Lord of the Rings: The Two Towers (2002) [Theatrical cut]
           - ID__000000121B # The Lord of the Rings: The Two Towers (2002) [Extended edition]
+          - ID__000015121A # The Sound of Music (1965)
           - ID__000001541A # Thelma & Louise (1991)
           - ID__000010195A # Thor (2011)
 

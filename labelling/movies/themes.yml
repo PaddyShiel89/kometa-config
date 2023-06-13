@@ -90,6 +90,7 @@ collections:
   Theme__animals:
     template: { name: TMDB theme label, theme_name: animals }
     tmdb_movie:
+      - 254 # King Kong (2005)
       - 57212 # War Horse (2011)
 
   Theme__anthology:
@@ -116,6 +117,7 @@ collections:
       - 453 # A Beautiful Mind (2001)
       - 487558 # BlacKkKlansman (2018)
       - 301502 # Blonde (2022)
+      - 718930 # Bullet Train (2022)
       - 524 # Casino (1995)
       - 8881 # Che: Part One (2008)
       - 8880 # Che: Part Two (2008)
@@ -160,6 +162,7 @@ collections:
       - 5876 # The Mist (2007)
       - 278 # The Shawshank Redemption (1994)
       - 694 # The Shining (1980)
+      - 15121 # The Sound of Music (1965)
       - 1091 # The Thing (1982)
       - 16307 # The Wicker Man (1973)
       - 65086 # The Woman in Black (2012)
@@ -181,6 +184,7 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_a_play }
     tmdb_movie:
       - 10653 # The Seven Year Itch (1955)
+      - 15121 # The Sound of Music (1965)
       - 57212 # War Horse (2011)
 
   Theme__based_on_works_by_philip_k_dick:
@@ -226,6 +230,7 @@ collections:
       - 9676 # The Black Dahlia (2006)
       - 45269 # The King's Speech (2010)
       - 158914 # The Look of Love (2013)
+      - 15121 # The Sound of Music (1965)
       - 597 # Titanic (1997)
 
   Theme__based_on_videogames:
@@ -258,6 +263,7 @@ collections:
       - 51540 # Horrible Bosses (2011)
       - 117974 # Sightseers (2012)
       - 674324 # The Banshees of Inisherin (2022)
+      - 67913 # The Guard (2011)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
       - 1541 # Thelma & Louise (1991)
       - 359940 # Three Billboards Outside Ebbing, Missouri (2017)
@@ -291,6 +297,7 @@ collections:
       - 474350 # It Chapter Two (2019)
       - 808 # Shrek (2001)
       - 9340 # The Goonies (1985)
+      - 67913 # The Guard (2011)
       - 18785 # The Hangover (2009)
       - 45269 # The King's Speech (2010)
       - 278 # The Shawshank Redemption (1994)
@@ -318,6 +325,7 @@ collections:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
       - 242 # The Godfather Part III (1990)
+      - 15121 # The Sound of Music (1965)
 
   Theme__chase:
     template: { name: TMDB theme label, theme_name: chase }
@@ -466,6 +474,7 @@ collections:
       - 524 # Casino (1995)
       - 598 # City of God (2002)
       - 641 # Requiem for a Dream (2000)
+      - 67913 # The Guard (2011)
       - 18785 # The Hangover (2009)
       - 94329 # The Raid (2011)
       - 180299 # The Raid 2 (2014)
@@ -571,9 +580,11 @@ collections:
       - 101299 # The Hunger Games: Catching Fire (2013)
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
+      - 15121 # The Sound of Music (1965)
       - 1541 # Thelma & Louise (1991)
       - 359940 # Three Billboards Outside Ebbing, Missouri (2017)
       - 556694 # Three Thousand Years of Longing (2022)
+      - 5038 # Vicky Cristina Barcelona (2008)
       - 682507 # Where the Crawdads Sing (2022)
 
   Theme__filmmaking:
@@ -692,6 +703,7 @@ collections:
       - 64124 # À l'aventure (2009)
       - 341013 # Atomic Blonde (2017)
       - 26715 # Bitch Slap (2009)
+      - 18480 # Brüno (2009)
       - 86331 # Desire (2011)
       - 24402 # Emmanuelle (1974)
       - 947 # Lawrence of Arabia (1962)
@@ -705,6 +717,7 @@ collections:
     template: { name: TMDB theme label, theme_name: mafia }
     tmdb_movie:
       - 341013 # Atomic Blonde (2017)
+      - 718930 # Bullet Train (2022)
       - 524 # Casino (1995)
       - 245891 # John Wick (2015)
       - 2118 # L.A. Confidential (1997)
@@ -769,6 +782,7 @@ collections:
     template: { name: TMDB theme label, theme_name: mockumentary }
     tmdb_movie:
       - 496 # Borat (2006)
+      - 18480 # Brüno (2009)
 
   Theme__monsters:
     template: { name: TMDB theme label, theme_name: monsters }
@@ -783,6 +797,7 @@ collections:
       - 17796 # Freaked (1993)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
+      - 254 # King Kong (2005)
       - 762504 # Nope (2022)
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 588 # Silent Hill (2006)
@@ -806,6 +821,7 @@ collections:
       - 2118 # L.A. Confidential (1997)
       - 46534 # Sweet Karma (2009)
       - 9676 # The Black Dahlia (2006)
+      - 67913 # The Guard (2011)
       - 629 # The Usual Suspects (1995)
       - 16307 # The Wicker Man (1973)
       - 682507 # Where the Crawdads Sing (2022)
@@ -897,6 +913,7 @@ collections:
       - 10753 # Police Story 2 (1988)
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 9676 # The Black Dahlia (2006)
+      - 67913 # The Guard (2011)
       - 629 # The Usual Suspects (1995)
       - 16307 # The Wicker Man (1973)
 
@@ -1050,6 +1067,7 @@ collections:
       - 641 # Requiem for a Dream (2000)
       - 35712 # Secret Things (2002)
       - 10591 # The Girl Next Door (2004)
+      - 67913 # The Guard (2011)
       - 158914 # The Look of Love (2013)
       - 10358 # Zack and Miri Make a Porno (2008)
 

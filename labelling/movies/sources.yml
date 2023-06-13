@@ -51,6 +51,8 @@ collections:
           - ID__000004995A # Boogie Nights (1997)
           - ID__000000496A # Borat (2006)
           - ID__000531309A # Brightburn (2019)
+          - ID__000018480A # Brüno (2009)
+          - ID__000718930A # Bullet Train (2022)
           - ID__000157832A # Calvary (2014)
           - ID__000001771A # Captain America: The First Avenger (2011)
           - ID__000299537A # Captain Marvel (2019)
@@ -95,6 +97,8 @@ collections:
           - ID__000324552A # John Wick: Chapter 2 (2017)
           - ID__000458156A # John Wick: Chapter 3 - Parabellum (2019)
           - ID__000475557A # Joker (2019)
+          - ID__000000254A # King Kong (2005) [Theatrical cut]
+          - ID__000000254B # King Kong (2005) [Extended edition]
           - ID__000002118A # L.A. Confidential (1997)
           - ID__000011128A # Ladder 49 (2004)
           - ID__000001995A # Lara Croft: Tomb Raider (2001)
@@ -174,6 +178,7 @@ collections:
           - ID__000000242A # The Godfather Part III (1990)
           - ID__000009340A # The Goonies (1985)
           - ID__000000497A # The Green Mile (1999)
+          - ID__000067913A # The Guard (2011)
           - ID__000018785A # The Hangover (2009) [Theatrical cut]
           - ID__000018785B # The Hangover (2009) [Uncut version]
           - ID__000007453A # The Hitchhiker's Guide to the Galaxy (2005)
@@ -198,6 +203,7 @@ collections:
           - ID__000010653A # The Seven Year Itch (1955)
           - ID__000000278A # The Shawshank Redemption (1994)
           - ID__000000694A # The Shining (1980)
+          - ID__000015121A # The Sound of Music (1965)
           - ID__000008285A # The Spirit (2008)
           - ID__000001091A # The Thing (1982)
           - ID__000648579A # The Unbearable Weight of Massive Talent (2022)
@@ -217,6 +223,7 @@ collections:
           - ID__000007446A # Tropic Thunder (2008)
           - ID__000009741A # Unbreakable (2000)
           - ID__000335787A # Uncharted (2022)
+          - ID__000005038A # Vicky Cristina Barcelona (2008)
           - ID__000057212A # War Horse (2011)
           - ID__000059440A # Warrior (2011)
           - ID__000009522B # Wedding Crashers (2005)

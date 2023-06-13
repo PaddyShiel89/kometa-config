@@ -36,6 +36,8 @@ libraries:
       - repo: metadata/movies/Boogie Nights (1997) {tmdb-4995}
       - repo: metadata/movies/Borat (2006) {tmdb-496}
       - repo: metadata/movies/Brightburn (2019) {tmdb-531309}
+      - repo: metadata/movies/Bruno (2009) {tmdb-18480}
+      - repo: metadata/movies/Bullet Train (2022) {tmdb-718930}
       - repo: metadata/movies/Calendar Girls (2003) {tmdb-8696}
       - repo: metadata/movies/Calvary (2014) {tmdb-157832}
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
@@ -85,6 +87,7 @@ libraries:
       - repo: metadata/movies/John Wick Chapter 2 (2017) {tmdb-324552}
       - repo: metadata/movies/John Wick Chapter 3 - Parabellum (2019) {tmdb-458156}
       - repo: metadata/movies/Joker (2019) {tmdb-475557}
+      - repo: metadata/movies/King Kong (2005) {tmdb-254}
       - repo: metadata/movies/L.A. Confidential (1997) {tmdb-2118}
       - repo: metadata/movies/Ladder 49 (2004) {tmdb-11128}
       - repo: metadata/movies/Lara Croft Tomb Raider (2001) {tmdb-1995}
@@ -164,6 +167,7 @@ libraries:
       - repo: metadata/movies/The Godfather Part III (1990) {tmdb-242}
       - repo: metadata/movies/The Goonies (1985) {tmdb-9340}
       - repo: metadata/movies/The Green Mile (1999) {tmdb-497}
+      - repo: metadata/movies/The Guard (2011) {tmdb-67913}
       - repo: metadata/movies/The Hangover (2009) {tmdb-18785}
       - repo: metadata/movies/The Hitchhiker's Guide to the Galaxy (2005) {tmdb-7453}
       - repo: metadata/movies/The Hunger Games (2012) {tmdb-70160}
@@ -184,6 +188,7 @@ libraries:
       - repo: metadata/movies/The Seven Year Itch (1955) {tmdb-10653}
       - repo: metadata/movies/The Shawshank Redemption (1994) {tmdb-278}
       - repo: metadata/movies/The Shining (1980) {tmdb-694}
+      - repo: metadata/movies/The Sound of Music (1965) {tmdb-15121}
       - repo: metadata/movies/The Spirit (2008) {tmdb-8285}
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
       - repo: metadata/movies/The Thing (1982) {tmdb-1091}
@@ -203,6 +208,7 @@ libraries:
       - repo: metadata/movies/Tropic Thunder (2008) {tmdb-7446}
       - repo: metadata/movies/Unbreakable (2000) {tmdb-9741}
       - repo: metadata/movies/Uncharted (2022) {tmdb-335787}
+      - repo: metadata/movies/Vicky Cristina Barcelona (2008) {tmdb-5038}
       - repo: metadata/movies/War Horse (2011) {tmdb-57212}
       - repo: metadata/movies/Warrior (2011) {tmdb-59440}
       - repo: metadata/movies/Wedding Crashers (2005) {tmdb-9522}
