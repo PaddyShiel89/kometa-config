@@ -335,6 +335,12 @@ collections:
       - 240 # The Godfather Part II (1975)
       - 242 # The Godfather Part III (1990)
 
+  Series__The_Hangover_2009:
+    template:
+      { name: TMDB series label, series_name: The_Hangover, series_year: 2009 }
+    tmdb_movie:
+      - 18785 # The Hangover (2009)
+
   Series__The_Hunger_Games_2012:
     template:
       {

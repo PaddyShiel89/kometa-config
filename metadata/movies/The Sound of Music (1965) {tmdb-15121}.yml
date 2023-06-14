@@ -1,0 +1,24 @@
+metadata:
+  The Sound of Music:
+    title: The Sound of Music
+    year: 1965
+    edition_filter: Theatrical cut
+    sort_title: Sound of Music (1965)
+    content_rating: gb/U
+    country.sync: [United States of America]
+    director.sync: [Robert Wise]
+    genre.sync: [Biopic, Drama, Family, Musical, Romance]
+    originally_available: 1965-03-02
+    producer.sync: [Robert Wise]
+    studio: Robert Wise Productions
+    summary: In 1930s Austria, a convent sends a young novice to become a governess to the seven children of a widowed naval officer.
+    tagline: The hills are alive. With the sound of music.
+    writer.sync:
+      [
+        Georg Hurdalek,
+        Howard Lindsay,
+        Russel Crouse,
+        Ernest Lehman,
+        Maria von Trapp,
+      ]
+    label: [ID__000015121A]

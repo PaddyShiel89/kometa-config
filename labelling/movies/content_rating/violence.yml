@@ -69,6 +69,8 @@ collections:
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
           - ID__000027205A # Inception (2010)
           - ID__000068721A # Iron Man 3 (2013)
+          - ID__000000254A # King Kong (2005) [Theatrical cut]
+          - ID__000000254B # King Kong (2005) [Extended edition]
           - ID__000762504A # Nope (2022)
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
@@ -84,6 +86,8 @@ collections:
           - ID__000054138A # Star Trek Into Darkness (2013)
           - ID__000140607A # Star Wars: The Force Awakens (2015)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
+          - ID__000018785A # The Hangover (2009) [Theatrical cut]
+          - ID__000018785B # The Hangover (2009) [Uncut version]
           - ID__000101299A # The Hunger Games: Catching Fire (2013)
           - ID__000131631A # The Hunger Games: Mockingjay - Part 1 (2014)
           - ID__000000120A # The Lord of the Rings: The Fellowship of the Ring (2001) [Theatrical cut]
@@ -110,10 +114,12 @@ collections:
           - ID__000004982B # American Gangster (2007) [Extended edition]
           - ID__000059678A # Attack the Block (2011)
           - ID__000615777A # Babylon (2022)
+          - ID__000718930A # Bullet Train (2022)
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
           - ID__000000098B # Gladiator (2000) [Extended edition]
           - ID__000346364A # It (2017)
+          - ID__000475557A # Joker (2019)
           - ID__000000424A # Schindler's List (1993)
           - ID__000117974A # Sightseers (2012)
           - ID__000674324A # The Banshees of Inisherin (2022)

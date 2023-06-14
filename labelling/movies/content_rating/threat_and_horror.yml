@@ -18,6 +18,7 @@ collections:
           - ID__000001892E # Return of the Jedi (1983) [Despecialized edition]
           - ID__000001892F # Return of the Jedi (1983) [Project 4K83]
           - ID__000000808A # Shrek (2001)
+          - ID__000015121A # The Sound of Music (1965)
 
   BBFC threat and horror lvl 2:
     template:
@@ -65,12 +66,15 @@ collections:
         label:
           - ID__000059678A # Attack the Block (2011)
           - ID__000505642A # Black Panther: Wakanda Forever (2022)
+          - ID__000718930A # Bullet Train (2022)
           - ID__000001771A # Captain America: The First Avenger (2011)
           - ID__000000598A # City of God (2002)
           - ID__000284052A # Doctor Strange (2016)
           - ID__000524434A # Eternals (2021)
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
           - ID__000068721A # Iron Man 3 (2013)
+          - ID__000000254A # King Kong (2005) [Theatrical cut]
+          - ID__000000254B # King Kong (2005) [Extended edition]
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000001865A # Pirates of the Caribbean: On Stranger Tides (2011)

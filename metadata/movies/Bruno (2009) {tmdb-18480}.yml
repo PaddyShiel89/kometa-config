@@ -1,0 +1,28 @@
+metadata:
+  "Brüno":
+    title: "Brüno"
+    year: 2009
+    edition_filter: Theatrical cut
+    sort_title: "Brüno (2009)"
+    content_rating: gb/18
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Larry Charles]
+    genre.sync: [Comedy]
+    originally_available: 2009-06-25
+    producer.sync: [Sacha Baron Cohen, Monica Levinson, Dan Mazer, Jay Roach]
+    studio: Universal Pictures
+    summary: Flamboyant, gay Austrian Brüno looks for new fame in America.
+    tagline: Borat was so 2006
+    writer.sync:
+      [
+        Sacha Baron Cohen,
+        Anthony Hines,
+        Dan Mazer,
+        Jeff Schaffer,
+        Peter Baynham,
+      ]
+    label: [ID__000018480A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

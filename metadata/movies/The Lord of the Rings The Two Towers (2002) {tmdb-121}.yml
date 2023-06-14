@@ -51,7 +51,7 @@ metadata:
     label: [ID__000000121B]
 
 collections:
-  "The Lord of the Rings: The Two Towers (2002)":
+  "The Lord of the Rings: The Two Towers":
     template: { name: Edition }
     tmdb_movie: 121
     sort_title: Lord of the Rings (2001) 002
