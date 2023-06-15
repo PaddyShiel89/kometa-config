@@ -1,0 +1,21 @@
+metadata:
+  The Girlfriend Experience:
+    title: The Girlfriend Experience
+    year: 2009
+    edition_filter: Theatrical cut
+    sort_title: Girlfriend Experience (2009)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Steven Soderbergh]
+    genre.sync: [Drama]
+    originally_available: 2009-01-20
+    producer.sync: [Gregory Jacobs, Todd Wagner]
+    studio: 2929 Productions
+    summary: A high-end Manhattan call girl meets the daily challenges of her boyfriend, her clients, and her work in the lead-up to the 2008 Presidential election
+    tagline: See it with someone you ****
+    writer.sync: [David Levien, Brian Koppelman]
+    label: [ID__000017680A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
