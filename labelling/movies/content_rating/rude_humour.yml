@@ -23,3 +23,14 @@ collections:
           - ID__000000558B # Spider-Man 2.1 (2004) [Extended edition]
           - ID__000634649A # Spider-Man: Far from Home (2019)
           - ID__000012180A # Star Wars: The Clone Wars (2008)
+
+  BBFC rude humour lvl 3:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: rude_humour
+        level: 3
+    plex_search:
+      any:
+        label:
+          - ID__000640146A # Ant-Man and the Wasp: Quantumania (2023)

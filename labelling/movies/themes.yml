@@ -69,6 +69,7 @@ collections:
   Theme__alternate_timeline:
     template: { name: TMDB theme label, theme_name: alternate_timeline }
     tmdb_movie:
+      - 640146 # Ant-Man and the Wasp: Quantumania (2023)
       - 299534 # Avengers: Endgame (2019)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 180 # Minority Report (2002)
@@ -175,6 +176,7 @@ collections:
     tmdb_movie:
       - 1271 # 300 (2006)
       - 53182 # 300: Rise of an Empire (2014)
+      - 640146 # Ant-Man and the Wasp: Quantumania (2023)
       - 341013 # Atomic Blonde (2017)
       - 315837 # Ghost in the Shell (2017)
       - 475557 # Joker (2019)
@@ -1148,6 +1150,7 @@ collections:
     template: { name: TMDB theme label, theme_name: superheroes }
     tmdb_movie:
       - 363088 # Ant-Man and The Wasp (2018)
+      - 640146 # Ant-Man and the Wasp: Quantumania (2023)
       - 299534 # Avengers: Endgame (2019)
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 497698 # Black Widow (2021)

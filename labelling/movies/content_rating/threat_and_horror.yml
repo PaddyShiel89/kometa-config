@@ -29,6 +29,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000640146A # Ant-Man and the Wasp: Quantumania (2023)
           - ID__000299534A # Avengers: Endgame (2019)
           - ID__000299537A # Captain Marvel (2019)
           - ID__000000620A # Ghostbusters (1984)
