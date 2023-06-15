@@ -24,6 +24,7 @@ collections:
     tmdb_movie:
       - 102899 # Ant-Man (2015)
       - 363088 # Ant-Man and the Wasp (2018)
+      - 640146 # Ant-Man and the Wasp: Quantumania (2023)
 
   Series__Avengers_2012:
     template:

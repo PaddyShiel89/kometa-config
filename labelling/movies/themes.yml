@@ -69,6 +69,7 @@ collections:
   Theme__alternate_timeline:
     template: { name: TMDB theme label, theme_name: alternate_timeline }
     tmdb_movie:
+      - 640146 # Ant-Man and the Wasp: Quantumania (2023)
       - 299534 # Avengers: Endgame (2019)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 180 # Minority Report (2002)
@@ -123,6 +124,7 @@ collections:
       - 8880 # Che: Part Two (2008)
       - 13973 # Choke (2008)
       - 598 # City of God (2002)
+      - 884 # Crash (1996)
       - 501170 # Doctor Sleep (2019)
       - 24402 # Emmanuelle (1974)
       - 343674 # Gerald's Game (2017)
@@ -175,6 +177,7 @@ collections:
     tmdb_movie:
       - 1271 # 300 (2006)
       - 53182 # 300: Rise of an Empire (2014)
+      - 640146 # Ant-Man and the Wasp: Quantumania (2023)
       - 341013 # Atomic Blonde (2017)
       - 315837 # Ghost in the Shell (2017)
       - 475557 # Joker (2019)
@@ -497,6 +500,7 @@ collections:
       - 3134 # Baise-moi (2000)
       - 454527 # Benedetta (2021)
       - 793 # Blue Velvet (1986)
+      - 884 # Crash (1996)
       - 86331 # Desire (2011)
       - 101875 # Dressage (1986)
       - 24402 # Emmanuelle (1974)
@@ -518,6 +522,7 @@ collections:
     tmdb_movie:
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
+      - 17680 # The Girlfriend Experience (2009)
 
   Theme__fairytales:
     template: { name: TMDB theme label, theme_name: fairytales }
@@ -704,6 +709,7 @@ collections:
       - 341013 # Atomic Blonde (2017)
       - 26715 # Bitch Slap (2009)
       - 18480 # Brüno (2009)
+      - 884 # Crash (1996)
       - 86331 # Desire (2011)
       - 24402 # Emmanuelle (1974)
       - 947 # Lawrence of Arabia (1962)
@@ -763,6 +769,7 @@ collections:
       - 453 # A Beautiful Mind (2001)
       - 301502 # Blonde (2022)
       - 3580 # Changeling (2008)
+      - 884 # Crash (1996)
       - 450465 # Glass (2019)
       - 68721 # Iron Man 3 (2013)
       - 475557 # Joker (2019)
@@ -1067,6 +1074,7 @@ collections:
       - 641 # Requiem for a Dream (2000)
       - 35712 # Secret Things (2002)
       - 10591 # The Girl Next Door (2004)
+      - 17680 # The Girlfriend Experience (2009)
       - 67913 # The Guard (2011)
       - 158914 # The Look of Love (2013)
       - 10358 # Zack and Miri Make a Porno (2008)
@@ -1100,6 +1108,11 @@ collections:
     template: { name: TMDB theme label, theme_name: slavery }
     tmdb_movie:
       - 68718 # Django Unchained (2012)
+
+  Theme__slice_of_life:
+    template: { name: TMDB theme label, theme_name: slice_of_life }
+    tmdb_movie:
+      - 17680 # The Girlfriend Experience (2009)
 
   Theme__spies:
     template: { name: TMDB theme label, theme_name: spies }
@@ -1148,6 +1161,7 @@ collections:
     template: { name: TMDB theme label, theme_name: superheroes }
     tmdb_movie:
       - 363088 # Ant-Man and The Wasp (2018)
+      - 640146 # Ant-Man and the Wasp: Quantumania (2023)
       - 299534 # Avengers: Endgame (2019)
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 497698 # Black Widow (2021)
