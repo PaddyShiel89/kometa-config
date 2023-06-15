@@ -50,6 +50,7 @@ libraries:
       - repo: metadata/movies/Che Part Two (2008) {tmdb-8880}
       - repo: metadata/movies/Choke (2008) {tmdb-13973}
       - repo: metadata/movies/City of God (2002) {tmdb-598}
+      - repo: metadata/movies/Crash (1996) {tmdb-884}
       - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
       - repo: metadata/movies/Desire (2011) {tmdb-86331}
       - repo: metadata/movies/Django Unchained (2012) {tmdb-68718}
