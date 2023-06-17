@@ -171,6 +171,7 @@ collections:
       - 65086 # The Woman in Black (2012)
       - 556694 # Three Thousand Years of Longing (2022)
       - 57212 # War Horse (2011)
+      - 71859 # We Need to Talk About Kevin (2011)
       - 682507 # Where the Crawdads Sing (2022)
 
   Theme__based_on_a_graphic_novel:
@@ -833,6 +834,7 @@ collections:
       - 67913 # The Guard (2011)
       - 629 # The Usual Suspects (1995)
       - 16307 # The Wicker Man (1973)
+      - 71859 # We Need to Talk About Kevin (2011)
       - 682507 # Where the Crawdads Sing (2022)
 
   Theme__murder_mystery:
@@ -986,6 +988,7 @@ collections:
       - 694 # The Shining (1980)
       - 65086 # The Woman in Black (2012)
       - 9741 # Unbreakable (2000)
+      - 71859 # We Need to Talk About Kevin (2011)
       - 112355 # What the Peeper Saw (1972)
 
   Theme__race_and_ethnicity:
