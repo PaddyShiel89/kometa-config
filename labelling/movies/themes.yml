@@ -91,6 +91,7 @@ collections:
   Theme__animals:
     template: { name: TMDB theme label, theme_name: animals }
     tmdb_movie:
+      - 425 # Ice Age (2002)
       - 254 # King Kong (2005)
       - 57212 # War Horse (2011)
 
@@ -170,6 +171,7 @@ collections:
       - 65086 # The Woman in Black (2012)
       - 556694 # Three Thousand Years of Longing (2022)
       - 57212 # War Horse (2011)
+      - 71859 # We Need to Talk About Kevin (2011)
       - 682507 # Where the Crawdads Sing (2022)
 
   Theme__based_on_a_graphic_novel:
@@ -649,6 +651,7 @@ collections:
       - 245891 # John Wick (2015)
       - 324552 # John Wick: Chapter 2 (2017)
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
+      - 603692 # John Wick: Chapter 4 (2023)
       - 624860 # The Matrix Resurrections (2021)
 
   Theme__heist:
@@ -831,6 +834,7 @@ collections:
       - 67913 # The Guard (2011)
       - 629 # The Usual Suspects (1995)
       - 16307 # The Wicker Man (1973)
+      - 71859 # We Need to Talk About Kevin (2011)
       - 682507 # Where the Crawdads Sing (2022)
 
   Theme__murder_mystery:
@@ -870,6 +874,7 @@ collections:
       - 245891 # John Wick (2015)
       - 324552 # John Wick: Chapter 2 (2017)
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
+      - 603692 # John Wick: Chapter 4 (2023)
       - 475557 # Joker (2019)
       - 2118 # L.A. Confidential (1997)
       - 180 # Minority Report (2002)
@@ -983,6 +988,7 @@ collections:
       - 694 # The Shining (1980)
       - 65086 # The Woman in Black (2012)
       - 9741 # Unbreakable (2000)
+      - 71859 # We Need to Talk About Kevin (2011)
       - 112355 # What the Peeper Saw (1972)
 
   Theme__race_and_ethnicity:
@@ -1037,6 +1043,7 @@ collections:
     template: { name: TMDB theme label, theme_name: road_movies }
     tmdb_movie:
       - 496 # Borat (2006)
+      - 425 # Ice Age (2002)
       - 18785 # The Hangover (2009)
       - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
       - 1541 # Thelma & Louise (1991)

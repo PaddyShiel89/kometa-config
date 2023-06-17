@@ -2,6 +2,17 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  BBFC drugs lvl 1:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: drugs
+        level: 1
+    plex_search:
+      any:
+        label:
+          - ID__000071859A # We Need to Talk About Kevin (2011)
+
   BBFC drugs lvl 2:
     template:
       - name: Content rating numeric label
