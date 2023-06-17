@@ -1,0 +1,21 @@
+metadata:
+  Ice Age:
+    title: Ice Age
+    year: 2002
+    edition_filter: Theatrical cut
+    sort_title: Ice Age (2002) 001
+    content_rating: gb/U
+    country.sync: [Canada, France, United States of America]
+    director.sync: [Chris Wedge, Carlos Saldanha]
+    genre.sync: [Animation, Adventure, Comedy, Family]
+    originally_available: 2002-03-12
+    producer.sync: [Lori Forte]
+    studio: Blue Sky Studios
+    summary: A loner woolly mammoth with a tragic past joins a wisecracking sloth and a scheming sabre-toothed tiger on a perilous journey to reunite a one-year-old boy with his hunter father.
+    tagline: The Coolest Event In 16,000 Years.
+    writer.sync: [Michael J. Wilson, Michael Berg, Peter Ackerman]
+    label: [ID__000000425A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

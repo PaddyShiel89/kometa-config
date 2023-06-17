@@ -91,6 +91,7 @@ collections:
   Theme__animals:
     template: { name: TMDB theme label, theme_name: animals }
     tmdb_movie:
+      - 425 # Ice Age (2002)
       - 254 # King Kong (2005)
       - 57212 # War Horse (2011)
 
@@ -1037,6 +1038,7 @@ collections:
     template: { name: TMDB theme label, theme_name: road_movies }
     tmdb_movie:
       - 496 # Borat (2006)
+      - 425 # Ice Age (2002)
       - 18785 # The Hangover (2009)
       - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
       - 1541 # Thelma & Louise (1991)
