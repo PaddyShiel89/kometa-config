@@ -267,6 +267,7 @@ collections:
       - 17796 # Freaked (1993)
       - 51540 # Horrible Bosses (2011)
       - 117974 # Sightseers (2012)
+      - 3989 # Team America: World Police (2004)
       - 674324 # The Banshees of Inisherin (2022)
       - 67913 # The Guard (2011)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
@@ -905,6 +906,7 @@ collections:
       - 4248 # Scary Movie 2 (2001)
       - 4256 # Scary Movie 3 (2003)
       - 808 # Shrek (2001)
+      - 3989 # Team America: World Police (2004)
 
   Theme__pirates:
     template: { name: TMDB theme label, theme_name: pirates }
@@ -1001,6 +1003,7 @@ collections:
       - 419430 # Get Out (2017)
       - 947 # Lawrence of Arabia (1962)
       - 424 # Schindler's List (1993)
+      - 3989 # Team America: World Police (2004)
 
   Theme__religion:
     template: { name: TMDB theme label, theme_name: religion }
@@ -1240,6 +1243,7 @@ collections:
       - 68721 # Iron Man 3 (2013)
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 54138 # Star Trek Into Darkness (2013)
+      - 3989 # Team America: World Police (2004)
       - 7446 # Tropic Thunder (2008)
 
   Theme__time_travel:

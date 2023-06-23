@@ -1,0 +1,21 @@
+metadata:
+  "Team America: World Police":
+    title: "Team America: World Police"
+    year: 2004
+    edition_filter: Theatrical cut
+    sort_title: "Team America: World Police (2004)"
+    content_rating: gb/15
+    country.sync: [Germany, United States of America]
+    director.sync: [Trey Parker]
+    genre.sync: [Action, Comedy, Musical]
+    originally_available: 2004-10-11
+    producer.sync: [Pam Brady, Trey Parker, Scott Rudin, Matt Stone]
+    studio: Paramount Pictures
+    summary: Broadway actor Gary Johnston is recruited by the global counter-terrorism organisation Team America.
+    tagline: Putting The "F" Back In Freedom.
+    writer.sync: [Trey Parker, Matt Stone, Pam Brady]
+    label: [ID__000003989A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
