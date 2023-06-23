@@ -425,6 +425,7 @@ collections:
   Series__X_2022:
     template: { name: TMDB series label, series_name: X, series_year: 2022 }
     tmdb_movie:
+      - 760104 # X (2022)
       - 949423 # Pearl (2022)
 
   Series__X-Men_2000:

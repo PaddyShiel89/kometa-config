@@ -523,6 +523,7 @@ collections:
       - 46534 # Sweet Karma (2009)
       - 19976 # The Exterminating Angels (2006)
       - 645710 # The Voyeurs (2021)
+      - 760104 # X (2022)
 
   Theme__experimental:
     template: { name: TMDB theme label, theme_name: experimental }
@@ -599,6 +600,7 @@ collections:
       - 556694 # Three Thousand Years of Longing (2022)
       - 5038 # Vicky Cristina Barcelona (2008)
       - 682507 # Where the Crawdads Sing (2022)
+      - 760104 # X (2022)
 
   Theme__filmmaking:
     template: { name: TMDB theme label, theme_name: filmmaking }
@@ -844,6 +846,7 @@ collections:
       - 16307 # The Wicker Man (1973)
       - 71859 # We Need to Talk About Kevin (2011)
       - 682507 # Where the Crawdads Sing (2022)
+      - 760104 # X (2022)
 
   Theme__murder_mystery:
     template: { name: TMDB theme label, theme_name: murder_mystery }
@@ -1082,6 +1085,7 @@ collections:
       - 9870 # Forgetting Sarah Marshall (2008)
       - 11013 # Secretary (2002)
       - 10591 # The Girl Next Door (2004)
+      - 760104 # X (2022)
       - 38319 # Your Highness (2011)
       - 10358 # Zack and Miri Make a Porno (2008)
 
@@ -1096,6 +1100,7 @@ collections:
       - 17680 # The Girlfriend Experience (2009)
       - 67913 # The Guard (2011)
       - 158914 # The Look of Love (2013)
+      - 760104 # X (2022)
       - 10358 # Zack and Miri Make a Porno (2008)
 
   Theme__sexual_violence:
@@ -1125,6 +1130,7 @@ collections:
       - 610253 # Halloween Kills (2021)
       - 949423 # Pearl (2022)
       - 4247 # Scary Movie (2000)
+      - 760104 # X (2022)
 
   Theme__slavery:
     template: { name: TMDB theme label, theme_name: slavery }
@@ -1591,7 +1597,6 @@ collections:
           - Scream (1996) 004
           - Scream (1996) 005
           - Tucker and Dale vs. Evil (2010)
-          - X (2022)
 
   "Theme: splatter":
     template:
