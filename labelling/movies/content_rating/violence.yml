@@ -102,6 +102,9 @@ collections:
           - ID__000335787A # Uncharted (2022)
           - ID__000057212A # War Horse (2011)
           - ID__000071859A # We Need to Talk About Kevin (2011)
+          - ID__000036657A # X-Men (2000)
+          - ID__000036668A # X-Men: The Last Stand (2006)
+          - ID__000036658A # X2: X-Men United (2003)
 
   BBFC violence lvl 4:
     template:
@@ -123,6 +126,7 @@ collections:
           - ID__000346364A # It (2017)
           - ID__000603692A # John Wick: Chapter 4 (2023)
           - ID__000475557A # Joker (2019)
+          - ID__000949423A # Pearl (2022)
           - ID__000000424A # Schindler's List (1993)
           - ID__000117974A # Sightseers (2012)
           - ID__000674324A # The Banshees of Inisherin (2022)

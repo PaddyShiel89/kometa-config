@@ -1,0 +1,21 @@
+metadata:
+  X:
+    title: X
+    year: 2022
+    edition_filter: Theatrical cut
+    sort_title: X (2022)
+    content_rating: gb/18
+    country.sync: [Canada, United States of America]
+    director.sync: [Ti West]
+    genre.sync: [Horror, Mystery, Thriller]
+    originally_available: 2022-03-13
+    producer.sync: [Jacob Jaffke, Harrison Kreiss, Kevin Turen, Ti West]
+    studio: A24
+    summary: In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their elderly hosts catch them in the act, they find themselves fighting for their lives.
+    tagline: Dying to Show You a Good Time
+    writer.sync: [Ti West]
+    label: [ID__000760104A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

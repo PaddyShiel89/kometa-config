@@ -422,6 +422,19 @@ collections:
     tmdb_movie:
       - 1995 # Lara Croft: Tomb Raider (2001)
 
+  Series__X_2022:
+    template: { name: TMDB series label, series_name: X, series_year: 2022 }
+    tmdb_movie:
+      - 760104 # X (2022)
+      - 949423 # Pearl (2022)
+
+  Series__X-Men_2000:
+    template: { name: TMDB series label, series_name: X-Men, series_year: 2000 }
+    tmdb_movie:
+      - 36657 # X-Men (2000)
+      - 36658 # X2: X-Men United (2003)
+      - 36668 # X-Men: The Last Stand (2006)
+
   "Series: 28 Days Later (2002)":
     template:
       - name: Series label

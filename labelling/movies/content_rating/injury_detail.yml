@@ -61,6 +61,9 @@ collections:
           - ID__000140607A # Star Wars: The Force Awakens (2015)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000001541A # Thelma & Louise (1991)
+          - ID__000036657A # X-Men (2000)
+          - ID__000036668A # X-Men: The Last Stand (2006)
+          - ID__000036658A # X2: X-Men United (2003)
 
   BBFC injury detail lvl 3:
     template:
@@ -118,5 +121,6 @@ collections:
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
           - ID__000000098B # Gladiator (2000) [Extended edition]
           - ID__000762504A # Nope (2022)
+          - ID__000949423A # Pearl (2022)
           - ID__000117974A # Sightseers (2012)
           - ID__000674324A # The Banshees of Inisherin (2022)

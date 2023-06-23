@@ -1,0 +1,21 @@
+metadata:
+  The Pirates! In an Adventure with Scientists!:
+    title: The Pirates! In an Adventure with Scientists!
+    year: 2012
+    edition_filter: Theatrical cut
+    sort_title: Pirates! In an Adventure with Scientists! (2012)
+    content_rating: gb/U
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Peter Lord, Jeff Newitt]
+    genre.sync: [Animation, Adventure, Comedy, Family, Fantasy]
+    originally_available: 2012-03-28
+    producer.sync: [Julie Lockhart, Peter Lord, David Sproxton]
+    studio: Aardman Animations
+    summary: Pirate Captain sets out to defeat his rivals for the Pirate of the Year Award, taking his crew from the shores of Blood Island to the foggy streets of Victorian London.
+    tagline: It's a plunderful life
+    writer.sync: [Gideon Defoe]
+    label: [ID__000072197A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

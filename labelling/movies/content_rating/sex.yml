@@ -61,6 +61,9 @@ collections:
           - ID__000045269A # The King's Speech (2010)
           - ID__000335787A # Uncharted (2022)
           - ID__000057212A # War Horse (2011)
+          - ID__000036657A # X-Men (2000)
+          - ID__000036668A # X-Men: The Last Stand (2006)
+          - ID__000036658A # X2: X-Men United (2003)
 
   BBFC sex lvl 3:
     template:
@@ -103,6 +106,7 @@ collections:
           - ID__000718930A # Bullet Train (2022)
           - ID__000000598A # City of God (2002)
           - ID__000619730A # Don't Worry Darling (2022)
+          - ID__000949423A # Pearl (2022)
           - ID__000117974A # Sightseers (2012)
           - ID__000018785A # The Hangover (2009) [Theatrical cut]
           - ID__000001541A # Thelma & Louise (1991)
