@@ -224,6 +224,7 @@ libraries:
       - repo: metadata/movies/What the Peeper Saw (1972) {tmdb-112355}
       - repo: metadata/movies/Where the Crawdads Sing (2022) {tmdb-682507}
       - repo: metadata/movies/X-Men (2000) {tmdb-36657}
+      - repo: metadata/movies/X-Men The Last Stand (2006) {tmdb-36668}
       - repo: metadata/movies/X2 (2003) {tmdb-36658}
       - repo: metadata/movies/Your Highness (2011) {tmdb-38319}
       - repo: metadata/movies/Zack and Miri Make a Porno (2008) {tmdb-10358}

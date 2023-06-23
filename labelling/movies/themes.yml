@@ -186,6 +186,7 @@ collections:
       - 475557 # Joker (2019)
       - 8285 # The Spirit (2008)
       - 36657 # X-Men (2000)
+      - 36668 # X-Men: The Last Stand (2006)
       - 36658 # X2: X-Men United (2003)
 
   Theme__based_on_a_play:
@@ -1116,6 +1117,7 @@ collections:
       - 882598 # Smile (2022)
       - 1091 # The Thing (1982)
       - 36657 # X-Men (2000)
+      - 36668 # X-Men: The Last Stand (2006)
 
   Theme__slasher:
     template: { name: TMDB theme label, theme_name: slasher }
@@ -1210,6 +1212,7 @@ collections:
       - 76338 # Thor: The Dark World (2013)
       - 9741 # Unbreakable (2000)
       - 36657 # X-Men (2000)
+      - 36668 # X-Men: The Last Stand (2006)
       - 36658 # X2: X-Men United (2003)
 
   Theme__supernatural:
