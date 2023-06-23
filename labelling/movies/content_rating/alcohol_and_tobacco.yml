@@ -60,6 +60,7 @@ collections:
           - ID__000010195A # Thor (2011)
           - ID__000071859A # We Need to Talk About Kevin (2011)
           - ID__000036657A # X-Men (2000)
+          - ID__000036658A # X2: X-Men United (2003)
 
   BBFC alcohol & tobacco lvl 2:
     template:

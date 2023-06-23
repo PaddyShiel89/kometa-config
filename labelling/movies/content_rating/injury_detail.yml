@@ -62,6 +62,7 @@ collections:
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000001541A # Thelma & Louise (1991)
           - ID__000036657A # X-Men (2000)
+          - ID__000036658A # X2: X-Men United (2003)
 
   BBFC injury detail lvl 3:
     template:

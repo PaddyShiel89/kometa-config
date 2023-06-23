@@ -431,6 +431,7 @@ collections:
     template: { name: TMDB series label, series_name: X-Men, series_year: 2000 }
     tmdb_movie:
       - 36657 # X-Men (2000)
+      - 36658 # X2: X-Men United (2003)
 
   "Series: 28 Days Later (2002)":
     template:

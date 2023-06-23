@@ -186,6 +186,7 @@ collections:
       - 475557 # Joker (2019)
       - 8285 # The Spirit (2008)
       - 36657 # X-Men (2000)
+      - 36658 # X2: X-Men United (2003)
 
   Theme__based_on_a_play:
     template: { name: TMDB theme label, theme_name: based_on_a_play }
@@ -791,6 +792,7 @@ collections:
       - 315837 # Ghost in the Shell (2017)
       - 71679 # Resident Evil: Retribution (2012)
       - 65086 # The Woman in Black (2012)
+      - 36658 # X2: X-Men United (2003)
 
   Theme__mockumentary:
     template: { name: TMDB theme label, theme_name: mockumentary }
@@ -1208,6 +1210,7 @@ collections:
       - 76338 # Thor: The Dark World (2013)
       - 9741 # Unbreakable (2000)
       - 36657 # X-Men (2000)
+      - 36658 # X2: X-Men United (2003)
 
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }
