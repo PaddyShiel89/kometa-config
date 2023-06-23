@@ -563,6 +563,7 @@ collections:
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
       - 1995 # Lara Croft: Tomb Raider (2001)
+      - 949423 # Pearl (2022)
       - 1576 # Resident Evil (2002)
       - 35791 # Resident Evil: Afterlife (2010)
       - 1577 # Resident Evil: Apocalype (2004)
@@ -832,6 +833,7 @@ collections:
       - 51540 # Horrible Bosses (2011)
       - 475557 # Joker (2019)
       - 2118 # L.A. Confidential (1997)
+      - 949423 # Pearl (2022)
       - 46534 # Sweet Karma (2009)
       - 9676 # The Black Dahlia (2006)
       - 67913 # The Guard (2011)
@@ -987,6 +989,7 @@ collections:
       - 474350 # It Chapter Two (2019)
       - 475557 # Joker (2019)
       - 50837 # Martha Marcy May Marlene (2011)
+      - 949423 # Pearl (2022)
       - 641 # Requiem for a Dream (2000)
       - 882598 # Smile (2022)
       - 381288 # Split (2016)
@@ -1116,6 +1119,7 @@ collections:
     template: { name: TMDB theme label, theme_name: slasher }
     tmdb_movie:
       - 610253 # Halloween Kills (2021)
+      - 949423 # Pearl (2022)
       - 4247 # Scary Movie (2000)
 
   Theme__slavery:
