@@ -163,6 +163,7 @@ collections:
       - 122 # The Lord of the Rings: The Return of the King (2003)
       - 121 # The Lord of the Rings: The Two Towers (2002)
       - 5876 # The Mist (2007)
+      - 72197 # The Pirates! In an Adventure with Scientists! (2012)
       - 278 # The Shawshank Redemption (1994)
       - 694 # The Shining (1980)
       - 15121 # The Sound of Music (1965)
@@ -918,6 +919,7 @@ collections:
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
       - 9340 # The Goonies (1985)
+      - 72197 # The Pirates! In an Adventure with Scientists! (2012)
 
   Theme__police:
     template: { name: TMDB theme label, theme_name: police }
@@ -1158,6 +1160,11 @@ collections:
       - 4247 # Scary Movie (2000)
       - 4248 # Scary Movie 2 (2001)
       - 38319 # Your Highness (2011)
+
+  Theme__stop_motion:
+    template: { name: TMDB theme label, theme_name: stop_motion }
+    tmdb_movie:
+      - 72197 # The Pirates! In an Adventure with Scientists! (2012)
 
   Theme__suicide:
     template: { name: TMDB theme label, theme_name: suicide }
