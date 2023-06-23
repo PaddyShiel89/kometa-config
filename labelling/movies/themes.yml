@@ -184,6 +184,7 @@ collections:
       - 315837 # Ghost in the Shell (2017)
       - 475557 # Joker (2019)
       - 8285 # The Spirit (2008)
+      - 36657 # X-Men (2000)
 
   Theme__based_on_a_play:
     template: { name: TMDB theme label, theme_name: based_on_a_play }
@@ -1107,6 +1108,7 @@ collections:
       - 474350 # It Chapter Two (2019)
       - 882598 # Smile (2022)
       - 1091 # The Thing (1982)
+      - 36657 # X-Men (2000)
 
   Theme__slasher:
     template: { name: TMDB theme label, theme_name: slasher }
@@ -1194,6 +1196,7 @@ collections:
       - 616037 # Thor: Love and Thunder (2022)
       - 76338 # Thor: The Dark World (2013)
       - 9741 # Unbreakable (2000)
+      - 36657 # X-Men (2000)
 
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }

@@ -61,6 +61,7 @@ collections:
           - ID__000045269A # The King's Speech (2010)
           - ID__000335787A # Uncharted (2022)
           - ID__000057212A # War Horse (2011)
+          - ID__000036657A # X-Men (2000)
 
   BBFC sex lvl 3:
     template:
