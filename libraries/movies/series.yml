@@ -47,6 +47,15 @@ collections:
     content_rating: gb/12
     summary: "From Iron Man to Captain America to Daredevil, Guardians of the Galaxy, Jessica Jones, and more, the MCU brings some of the most legendary comic heroes -- and some lesser known ones -- to vibrant, colorful, action-packed life."
 
+  X Collection:
+    template:
+      - name: Smart series
+        label_list:
+          - Series__X_2022
+    sort_title: X (2022) Collection
+    content_rating: gb/18
+    summary: "An American slasher-horror film series, featuring young aspiring actress Maxine Mink and aging housewife Pearl."
+
   DC Extended Universe:
     template:
       - name: Series

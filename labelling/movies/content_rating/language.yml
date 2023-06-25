@@ -33,6 +33,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000640146A # Ant-Man and the Wasp: Quantumania (2023)
           - ID__000299534A # Avengers: Endgame (2019)
           - ID__000505642A # Black Panther: Wakanda Forever (2022)
           - ID__000497698A # Black Widow (2021)
@@ -81,6 +82,9 @@ collections:
           - ID__000101299A # The Hunger Games: Catching Fire (2013)
           - ID__000045269A # The King's Speech (2010)
           - ID__000682507A # Where the Crawdads Sing (2022)
+          - ID__000036657A # X-Men (2000)
+          - ID__000036668A # X-Men: The Last Stand (2006)
+          - ID__000036658A # X2: X-Men United (2003)
 
   BBFC language lvl 4:
     template:
@@ -103,6 +107,7 @@ collections:
           - ID__000068718A # Django Unchained (2012)
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000346364A # It (2017)
+          - ID__000603692A # John Wick: Chapter 4 (2023)
           - ID__000475557A # Joker (2019)
           - ID__000762504A # Nope (2022)
           - ID__000000424A # Schindler's List (1993)
@@ -112,3 +117,4 @@ collections:
           - ID__000018785A # The Hangover (2009) [Theatrical cut]
           - ID__000018785B # The Hangover (2009) [Uncut version]
           - ID__000001541A # Thelma & Louise (1991)
+          - ID__000071859A # We Need to Talk About Kevin (2011)

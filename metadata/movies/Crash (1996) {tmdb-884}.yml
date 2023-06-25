@@ -1,0 +1,21 @@
+metadata:
+  Crash:
+    title: Crash
+    year: 1996
+    edition_filter: Theatrical cut
+    sort_title: Crash (1996)
+    content_rating: gb/18
+    country.sync: [Canada, United Kingdom]
+    director.sync: [David Cronenberg]
+    genre.sync: [Drama]
+    originally_available: 1996-05-17
+    producer.sync: [David Cronenberg]
+    studio: Alliance Communications Corporation
+    summary: After getting into a car accident, a TV director discovers an underground sub-culture of crash victims to try to rejuvenate his sex life with his wife.
+    tagline: The most controversial film you will ever see.
+    writer.sync: [J.G. Ballard, David Cronenberg]
+    label: [ID__000000884A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

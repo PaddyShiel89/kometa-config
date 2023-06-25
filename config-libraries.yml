@@ -18,6 +18,7 @@ libraries:
       - repo: metadata/movies/American Gangster (2007) {tmdb-4982}
       - repo: metadata/movies/Amsterdam (2022) {tmdb-664469}
       - repo: metadata/movies/Ant-Man and the Wasp (2018) {tmdb-363088}
+      - repo: metadata/movies/Ant-Man and the Wasp Quantumania (2023) {tmdb-640146}
       - repo: metadata/movies/Atomic Blonde (2017) {tmdb-341013}
       - repo: metadata/movies/Attack the Block (2011) {tmdb-59678}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
@@ -49,6 +50,7 @@ libraries:
       - repo: metadata/movies/Che Part Two (2008) {tmdb-8880}
       - repo: metadata/movies/Choke (2008) {tmdb-13973}
       - repo: metadata/movies/City of God (2002) {tmdb-598}
+      - repo: metadata/movies/Crash (1996) {tmdb-884}
       - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
       - repo: metadata/movies/Desire (2011) {tmdb-86331}
       - repo: metadata/movies/Django Unchained (2012) {tmdb-68718}
@@ -78,6 +80,7 @@ libraries:
       - repo: metadata/movies/Hunt for the Wilderpeople (2016) {tmdb-371645}
       - repo: metadata/movies/I Am Curious (Blue) (1968) {tmdb-45690}
       - repo: metadata/movies/I Am Curious (Yellow) (1967) {tmdb-42695}
+      - repo: metadata/movies/Ice Age (2002) {tmdb-425}
       - repo: metadata/movies/Import Export (2007) {tmdb-4998}
       - repo: metadata/movies/Inception (2010) {tmdb-27205}
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
@@ -86,6 +89,7 @@ libraries:
       - repo: metadata/movies/John Wick (2014) {tmdb-245891}
       - repo: metadata/movies/John Wick Chapter 2 (2017) {tmdb-324552}
       - repo: metadata/movies/John Wick Chapter 3 - Parabellum (2019) {tmdb-458156}
+      - repo: metadata/movies/John Wick Chapter 4 (2023) {tmdb-603692}
       - repo: metadata/movies/Joker (2019) {tmdb-475557}
       - repo: metadata/movies/King Kong (2005) {tmdb-254}
       - repo: metadata/movies/L.A. Confidential (1997) {tmdb-2118}
@@ -102,6 +106,7 @@ libraries:
       - repo: metadata/movies/National Treasure Book of Secrets (2007) {tmdb-6637}
       - repo: metadata/movies/Nope (2022) {tmdb-762504}
       - repo: metadata/movies/Novo (2002) {tmdb-60015}
+      - repo: metadata/movies/Pearl (2022) {tmdb-949423}
       - repo: metadata/movies/Pet Sematary (2019) {tmdb-157433}
       - repo: metadata/movies/Pirates of the Caribbean At World's End (2007) {tmdb-285}
       - repo: metadata/movies/Pirates of the Caribbean Dead Man's Chest (2006) {tmdb-58}
@@ -151,6 +156,7 @@ libraries:
       - repo: metadata/movies/Star Wars The Rise of Skywalker (2019) {tmdb-181812}
       - repo: metadata/movies/Sucker Punch (2011) {tmdb-23629}
       - repo: metadata/movies/Sweet Karma (2009) {tmdb-46534}
+      - repo: metadata/movies/Team America World Police (2004) {tmdb-3989}
       - repo: metadata/movies/The Bank Job (2008) {tmdb-8848}
       - repo: metadata/movies/The Banshees of Inisherin (2022) {tmdb-674324}
       - repo: metadata/movies/The Birds (1963) {tmdb-571}
@@ -162,6 +168,7 @@ libraries:
       - repo: metadata/movies/The Exterminating Angels (2006) {tmdb-19976}
       - repo: metadata/movies/The Girl Next Door (2004) {tmdb-10591}
       - repo: metadata/movies/The Girl with the Dragon Tattoo (2009) {tmdb-15472}
+      - repo: metadata/movies/The Girlfriend Experience (2009) {tmdb-17680}
       - repo: metadata/movies/The Godfather (1972) {tmdb-238}
       - repo: metadata/movies/The Godfather Part II (1974) {tmdb-240}
       - repo: metadata/movies/The Godfather Part III (1990) {tmdb-242}
@@ -183,6 +190,7 @@ libraries:
       - repo: metadata/movies/The Matrix Resurrections (2021) {tmdb-624860}
       - repo: metadata/movies/The Mist (2007) {tmdb-5876}
       - repo: metadata/movies/The Muppets (2011) {tmdb-64328}
+      - repo: metadata/movies/The Pirates! In an Adventure with Scientists! (2012) {tmdb-72197}
       - repo: metadata/movies/The Raid (2011) {tmdb-94329}
       - repo: metadata/movies/The Raid 2 (2014) {tmdb-180299}
       - repo: metadata/movies/The Seven Year Itch (1955) {tmdb-10653}
@@ -211,9 +219,14 @@ libraries:
       - repo: metadata/movies/Vicky Cristina Barcelona (2008) {tmdb-5038}
       - repo: metadata/movies/War Horse (2011) {tmdb-57212}
       - repo: metadata/movies/Warrior (2011) {tmdb-59440}
+      - repo: metadata/movies/We Need to Talk About Kevin (2011) {tmdb-71859}
       - repo: metadata/movies/Wedding Crashers (2005) {tmdb-9522}
       - repo: metadata/movies/What the Peeper Saw (1972) {tmdb-112355}
       - repo: metadata/movies/Where the Crawdads Sing (2022) {tmdb-682507}
+      - repo: metadata/movies/X (2022) {tmdb-760104}
+      - repo: metadata/movies/X-Men (2000) {tmdb-36657}
+      - repo: metadata/movies/X-Men The Last Stand (2006) {tmdb-36668}
+      - repo: metadata/movies/X2 (2003) {tmdb-36658}
       - repo: metadata/movies/Your Highness (2011) {tmdb-38319}
       - repo: metadata/movies/Zack and Miri Make a Porno (2008) {tmdb-10358}
       - repo: labelling/movies/editions
