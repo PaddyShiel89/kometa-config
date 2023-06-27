@@ -356,5 +356,6 @@ libraries:
 playlist_files:
   - repo: playlists/admin
   - repo: playlists/halloween
+  - repo: playlists/marvel
   - repo: playlists/movie_charts
   - repo: playlists/star_wars
