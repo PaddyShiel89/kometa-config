@@ -63,6 +63,7 @@ libraries:
       - repo: metadata/movies/Eternals (2021) {tmdb-524434}
       - repo: metadata/movies/Forgetting Sarah Marshall (2008) {tmdb-9870}
       - repo: metadata/movies/Freaked (1993) {tmdb-17796}
+      - repo: metadata/movies/Frost-Nixon (2008) {tmdb-11499}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
       - repo: metadata/movies/Get Out (2017) {tmdb-419430}
       - repo: metadata/movies/Ghost in the Shell (2017) {tmdb-315837}

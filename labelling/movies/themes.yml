@@ -192,6 +192,7 @@ collections:
   Theme__based_on_a_play:
     template: { name: TMDB theme label, theme_name: based_on_a_play }
     tmdb_movie:
+      - 11499 # Frost/Nixon (2008)
       - 10653 # The Seven Year Itch (1955)
       - 15121 # The Sound of Music (1965)
       - 57212 # War Horse (2011)
@@ -232,6 +233,7 @@ collections:
       - 3580 # Changeling (2008)
       - 8881 # Che: Part One (2008)
       - 8880 # Che: Part Two (2008)
+      - 11499 # Frost/Nixon (2008)
       - 13092 # How to Lose Friends & Alienate People (2008)
       - 947 # Lawrence of Arabia (1962)
       - 424 # Schindler's List (1993)
