@@ -1,0 +1,7 @@
+playlists:
+  "MCU Chronological Timeline":
+    sync_mode: sync
+    libraries: Movies, Short films
+    trakt_list: https://trakt.tv/users/username57/lists/marvel-cinematic-universe-mcu-timeline?sort=rank,asc
+    summary: "All MCU films, TV shows, and shorts in chronological order"
+    sync_to_users: all

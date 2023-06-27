@@ -1,0 +1,21 @@
+metadata:
+  Frost/Nixon:
+    title: Frost/Nixon
+    year: 2008
+    edition_filter: Theatrical cut
+    sort_title: Frost/Nixon (2008)
+    content_rating: gb/15
+    country.sync: [France, United Kingdom, United States of America]
+    director.sync: [Ron Howard]
+    genre.sync: [Biopic, Drama, History]
+    originally_available: 2008-10-15
+    producer.sync: [Tim Bevan, Eric Fellner, Brian Grazer]
+    studio: Working Title Films
+    summary: A dramatic retelling of the post-Watergate television interviews between British talk-show host David Frost and former US president Richard Nixon.
+    tagline: 400 million people were waiting for the truth.
+    writer.sync: [Peter Morgan]
+    label: [ID__000011499A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

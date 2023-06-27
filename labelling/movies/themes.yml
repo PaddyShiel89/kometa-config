@@ -186,12 +186,15 @@ collections:
       - 475557 # Joker (2019)
       - 8285 # The Spirit (2008)
       - 36657 # X-Men (2000)
+      - 49538 # X-Men: First Class (2011)
+      - 2080 # X-Men Origins: Wolverine (2009)
       - 36668 # X-Men: The Last Stand (2006)
       - 36658 # X2: X-Men United (2003)
 
   Theme__based_on_a_play:
     template: { name: TMDB theme label, theme_name: based_on_a_play }
     tmdb_movie:
+      - 11499 # Frost/Nixon (2008)
       - 10653 # The Seven Year Itch (1955)
       - 15121 # The Sound of Music (1965)
       - 57212 # War Horse (2011)
@@ -232,6 +235,7 @@ collections:
       - 3580 # Changeling (2008)
       - 8881 # Che: Part One (2008)
       - 8880 # Che: Part Two (2008)
+      - 11499 # Frost/Nixon (2008)
       - 13092 # How to Lose Friends & Alienate People (2008)
       - 947 # Lawrence of Arabia (1962)
       - 424 # Schindler's List (1993)
@@ -378,6 +382,7 @@ collections:
     tmdb_movie:
       - 341013 # Atomic Blonde (2017)
       - 27576 # Salt (2010)
+      - 49538 # X-Men: First Class (2011)
 
   Theme__coming_of_age:
     template: { name: TMDB theme label, theme_name: coming_of_age }
@@ -448,6 +453,7 @@ collections:
     template: { name: TMDB theme label, theme_name: disability }
     tmdb_movie:
       - 9741 # Unbreakable (2000)
+      - 49538 # X-Men: First Class (2011)
 
   Theme__disaster:
     template: { name: TMDB theme label, theme_name: disaster }
@@ -1053,6 +1059,8 @@ collections:
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
       - 180299 # The Raid 2 (2014)
+      - 49538 # X-Men: First Class (2011)
+      - 2080 # X-Men Origins: Wolverine (2009)
 
   Theme__road_movies:
     template: { name: TMDB theme label, theme_name: road_movies }
@@ -1218,6 +1226,8 @@ collections:
       - 76338 # Thor: The Dark World (2013)
       - 9741 # Unbreakable (2000)
       - 36657 # X-Men (2000)
+      - 49538 # X-Men: First Class (2011)
+      - 2080 # X-Men Origins: Wolverine (2009)
       - 36668 # X-Men: The Last Stand (2006)
       - 36658 # X2: X-Men United (2003)
 
@@ -1321,6 +1331,7 @@ collections:
       - 10867 # Malèna (2000)
       - 424 # Schindler's List (1993)
       - 45269 # The King's Speech (2010)
+      - 49538 # X-Men: First Class (2011)
 
   Theme__zombies:
     template: { name: TMDB theme label, theme_name: zombies }

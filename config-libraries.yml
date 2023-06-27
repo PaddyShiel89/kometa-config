@@ -63,6 +63,7 @@ libraries:
       - repo: metadata/movies/Eternals (2021) {tmdb-524434}
       - repo: metadata/movies/Forgetting Sarah Marshall (2008) {tmdb-9870}
       - repo: metadata/movies/Freaked (1993) {tmdb-17796}
+      - repo: metadata/movies/Frost-Nixon (2008) {tmdb-11499}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
       - repo: metadata/movies/Get Out (2017) {tmdb-419430}
       - repo: metadata/movies/Ghost in the Shell (2017) {tmdb-315837}
@@ -225,6 +226,8 @@ libraries:
       - repo: metadata/movies/Where the Crawdads Sing (2022) {tmdb-682507}
       - repo: metadata/movies/X (2022) {tmdb-760104}
       - repo: metadata/movies/X-Men (2000) {tmdb-36657}
+      - repo: metadata/movies/X-Men First Class (2011) {tmdb-49538}
+      - repo: metadata/movies/X-Men Origins Wolverine (2009) {tmdb-2080}
       - repo: metadata/movies/X-Men The Last Stand (2006) {tmdb-36668}
       - repo: metadata/movies/X2 (2003) {tmdb-36658}
       - repo: metadata/movies/Your Highness (2011) {tmdb-38319}
@@ -353,5 +356,6 @@ libraries:
 playlist_files:
   - repo: playlists/admin
   - repo: playlists/halloween
+  - repo: playlists/marvel
   - repo: playlists/movie_charts
   - repo: playlists/star_wars
