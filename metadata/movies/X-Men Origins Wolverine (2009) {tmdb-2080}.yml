@@ -1,0 +1,28 @@
+metadata:
+  "X-Men Origins: Wolverine":
+    title: "X-Men Origins: Wolverine"
+    year: 2009
+    edition_filter: Theatrical cut
+    sort_title: X-Men (2000) 004
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Gavin Hood]
+    genre.sync: [Action, Science-Fiction]
+    originally_available: 2009-04-08
+    producer.sync:
+      [
+        Hugh Jackman,
+        John Palermo,
+        Lauren Shuler Donner,
+        Bryan Singer,
+        Ralph Winter,
+      ]
+    studio: Twentieth Century Fox
+    summary: Wolverine unites with legends of the X-Men Universe in a revolution that pits mutants against forces determined to eliminate them.
+    tagline: Witness the Origin.
+    writer.sync: [David Benioff, Skip Woods]
+    label: [ID__000002080A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

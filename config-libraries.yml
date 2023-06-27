@@ -226,6 +226,7 @@ libraries:
       - repo: metadata/movies/Where the Crawdads Sing (2022) {tmdb-682507}
       - repo: metadata/movies/X (2022) {tmdb-760104}
       - repo: metadata/movies/X-Men (2000) {tmdb-36657}
+      - repo: metadata/movies/X-Men Origins Wolverine (2009) {tmdb-2080}
       - repo: metadata/movies/X-Men The Last Stand (2006) {tmdb-36668}
       - repo: metadata/movies/X2 (2003) {tmdb-36658}
       - repo: metadata/movies/Your Highness (2011) {tmdb-38319}
