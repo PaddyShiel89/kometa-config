@@ -914,6 +914,7 @@ collections:
   Theme__orphans:
     template: { name: TMDB theme label, theme_name: orphans }
     tmdb_movie:
+      - 20352 # Despicable Me (2010)
       - 101 # Léon: The Professional (1995)
       - 348350 # Solo: A Star Wars Story (2018)
 
@@ -1044,6 +1045,7 @@ collections:
     tmdb_movie:
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 25239 # Day of the Woman (1978)
+      - 20352 # Despicable Me (2010)
       - 68718 # Django Unchained (2012)
       - 315837 # Ghost in the Shell (2017)
       - 98 # Gladiator (2000)

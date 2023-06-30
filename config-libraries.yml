@@ -54,6 +54,7 @@ libraries:
       - repo: metadata/movies/Crash (1996) {tmdb-884}
       - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
       - repo: metadata/movies/Desire (2011) {tmdb-86331}
+      - repo: metadata/movies/Despicable Me (2010) {tmdb-20352}
       - repo: metadata/movies/Django Unchained (2012) {tmdb-68718}
       - repo: metadata/movies/Doctor Sleep (2019) {tmdb-501170}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
@@ -235,6 +236,7 @@ libraries:
       - repo: metadata/movies/Zack and Miri Make a Porno (2008) {tmdb-10358}
       - repo: labelling/movies/editions
       - repo: labelling/movies/content_rating/alcohol_and_tobacco
+      - repo: labelling/movies/content_rating/dangerous_behaviour
       - repo: labelling/movies/content_rating/discrimination
       - repo: labelling/movies/content_rating/disturbing_images
       - repo: labelling/movies/content_rating/drugs
