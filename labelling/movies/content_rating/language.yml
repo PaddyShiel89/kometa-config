@@ -11,6 +11,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000020352A # Despicable Me (2010)
           - ID__000000808A # Shrek (2001)
           - ID__000000011A # Star Wars (1977) [Theatrical cut]
           - ID__000000011B # Star Wars (1977) [Special edition]

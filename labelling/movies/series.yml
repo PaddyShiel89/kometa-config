@@ -81,6 +81,12 @@ collections:
       - 8881 # Che: Part One (2008)
       - 8880 # Che: Part Two (2008)
 
+  Series__Despicable_Me_2010:
+    template:
+      { name: TMDB series label, series_name: Despicable_Me, series_year: 2010 }
+    tmdb_movie:
+      - 20352 # Despicable Me (2010)
+
   Series__Doctor Strange_2016:
     template:
       {

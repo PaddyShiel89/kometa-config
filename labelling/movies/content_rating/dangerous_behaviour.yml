@@ -1,0 +1,14 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  BBFC dangerous behaviour lvl 1:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: dangerous_behaviour
+        level: 1
+    plex_search:
+      any:
+        label:
+          - ID__000020352A # Despicable Me (2010)

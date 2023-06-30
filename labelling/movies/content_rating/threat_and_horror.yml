@@ -11,6 +11,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000020352A # Despicable Me (2010)
           - ID__000001892A # Return of the Jedi (1983) [Theatrical cut]
           - ID__000001892B # Return of the Jedi (1983) [Special edition]
           - ID__000001892C # Return of the Jedi (1983) [DVD cut]

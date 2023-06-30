@@ -11,6 +11,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000020352A # Despicable Me (2010)
           - ID__000068718A # Django Unchained (2012)
           - ID__000002978A # Ghostbusters II (1989)
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
