@@ -69,6 +69,7 @@ collections:
   Theme__alternate_timeline:
     template: { name: TMDB theme label, theme_name: alternate_timeline }
     tmdb_movie:
+      - 61891 # Anonymous (2011)
       - 640146 # Ant-Man and the Wasp: Quantumania (2023)
       - 299534 # Avengers: Endgame (2019)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
@@ -702,6 +703,7 @@ collections:
   Theme__incest:
     template: { name: TMDB theme label, theme_name: incest }
     tmdb_movie:
+      - 61891 # Anonymous (2011)
       - 48266 # Ma mère (2004)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 112355 # What the Peeper Saw (1972)
@@ -903,6 +905,7 @@ collections:
     template: { name: TMDB theme label, theme_name: nonlinear }
     tmdb_movie:
       - 470 # 21 Grams (2003)
+      - 61891 # Anonymous (2011)
       - 8881 # Che: Part One (2008)
       - 598 # City of God (2002)
       - 210577 # Gone Girl (2014)
