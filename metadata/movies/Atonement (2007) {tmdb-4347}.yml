@@ -1,0 +1,21 @@
+metadata:
+  Atonement:
+    title: Atonement
+    year: 2007
+    edition_filter: Theatrical cut
+    sort_title: Atonement (2007)
+    content_rating: gb/15
+    country.sync: [France, United Kingdom, United States of America]
+    director.sync: [Joe Wright]
+    genre.sync: [Drama, Mystery, Romance, War]
+    originally_available: 2007-08-28
+    producer.sync: [Tim Bevan, Eric Fellner, Paul Webster]
+    studio: StudioCanal
+    summary: Thirteen-year-old fledgling writer Briony Tallis irrevocably changes several lives when she accuses her older sister's lover of a crime he did not commit.
+    tagline: You can only imagine the truth.
+    writer.sync: [Ian McEwan, Christopher Hampton]
+    label: [ID__000004347A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

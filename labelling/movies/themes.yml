@@ -118,6 +118,7 @@ collections:
     tmdb_movie:
       - 44115 # 127 Hours (2010)
       - 453 # A Beautiful Mind (2001)
+      - 4347 # Atonement (2007)
       - 487558 # BlacKkKlansman (2018)
       - 301502 # Blonde (2022)
       - 718930 # Bullet Train (2022)
@@ -165,6 +166,7 @@ collections:
       - 121 # The Lord of the Rings: The Two Towers (2002)
       - 5876 # The Mist (2007)
       - 72197 # The Pirates! In an Adventure with Scientists! (2012)
+      - 20766 # The Road (2009)
       - 278 # The Shawshank Redemption (1994)
       - 694 # The Shining (1980)
       - 15121 # The Sound of Music (1965)
@@ -328,6 +330,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 381288 # Split (2016)
       - 20504 # The Book of Eli (2010)
+      - 20766 # The Road (2009)
 
   Theme__capital_punishment:
     template: { name: TMDB theme label, theme_name: capital_punishment }
@@ -461,6 +464,7 @@ collections:
     tmdb_movie:
       - 14161 # 2012 (2009)
       - 5876 # The Mist (2007)
+      - 20766 # The Road (2009)
       - 597 # Titanic (1997)
 
   Theme__domestic_violence:
@@ -906,9 +910,11 @@ collections:
     tmdb_movie:
       - 470 # 21 Grams (2003)
       - 61891 # Anonymous (2011)
+      - 4347 # Atonement (2007)
       - 8881 # Che: Part One (2008)
       - 598 # City of God (2002)
       - 210577 # Gone Girl (2014)
+      - 20766 # The Road (2009)
       - 597 # Titanic (1997)
 
   Theme__orphans:
@@ -966,6 +972,7 @@ collections:
       - 101299 # The Hunger Games: Catching Fire (2013)
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
+      - 20766 # The Road (2009)
 
   Theme__poverty:
     template: { name: TMDB theme label, theme_name: poverty }
@@ -1275,6 +1282,7 @@ collections:
       - 50456 # Hanna (2011)
       - 70160 # The Hunger Games (2012)
       - 101299 # The Hunger Games: Catching Fire (2013)
+      - 20766 # The Road (2009)
       - 1091 # The Thing (1982)
       - 597 # Titanic (1997)
 
@@ -1331,6 +1339,7 @@ collections:
   Theme__world_war_ii:
     template: { name: TMDB theme label, theme_name: world_war_ii }
     tmdb_movie:
+      - 4347 # Atonement (2007)
       - 1771 # Captain America: The First Avenger (2011)
       - 20546 # Goodnight, Mister Tom (1998)
       - 10867 # Malèna (2000)
