@@ -118,6 +118,7 @@ collections:
     tmdb_movie:
       - 44115 # 127 Hours (2010)
       - 453 # A Beautiful Mind (2001)
+      - 4347 # Atonement (2007)
       - 487558 # BlacKkKlansman (2018)
       - 301502 # Blonde (2022)
       - 718930 # Bullet Train (2022)
@@ -906,6 +907,7 @@ collections:
     tmdb_movie:
       - 470 # 21 Grams (2003)
       - 61891 # Anonymous (2011)
+      - 4347 # Atonement (2007)
       - 8881 # Che: Part One (2008)
       - 598 # City of God (2002)
       - 210577 # Gone Girl (2014)
@@ -1331,6 +1333,7 @@ collections:
   Theme__world_war_ii:
     template: { name: TMDB theme label, theme_name: world_war_ii }
     tmdb_movie:
+      - 4347 # Atonement (2007)
       - 1771 # Captain America: The First Avenger (2011)
       - 20546 # Goodnight, Mister Tom (1998)
       - 10867 # Malèna (2000)
