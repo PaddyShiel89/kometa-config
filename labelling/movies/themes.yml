@@ -69,6 +69,7 @@ collections:
   Theme__alternate_timeline:
     template: { name: TMDB theme label, theme_name: alternate_timeline }
     tmdb_movie:
+      - 61891 # Anonymous (2011)
       - 640146 # Ant-Man and the Wasp: Quantumania (2023)
       - 299534 # Avengers: Endgame (2019)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
@@ -117,6 +118,7 @@ collections:
     tmdb_movie:
       - 44115 # 127 Hours (2010)
       - 453 # A Beautiful Mind (2001)
+      - 4347 # Atonement (2007)
       - 487558 # BlacKkKlansman (2018)
       - 301502 # Blonde (2022)
       - 718930 # Bullet Train (2022)
@@ -164,6 +166,7 @@ collections:
       - 121 # The Lord of the Rings: The Two Towers (2002)
       - 5876 # The Mist (2007)
       - 72197 # The Pirates! In an Adventure with Scientists! (2012)
+      - 20766 # The Road (2009)
       - 278 # The Shawshank Redemption (1994)
       - 694 # The Shining (1980)
       - 15121 # The Sound of Music (1965)
@@ -186,12 +189,15 @@ collections:
       - 475557 # Joker (2019)
       - 8285 # The Spirit (2008)
       - 36657 # X-Men (2000)
+      - 49538 # X-Men: First Class (2011)
+      - 2080 # X-Men Origins: Wolverine (2009)
       - 36668 # X-Men: The Last Stand (2006)
       - 36658 # X2: X-Men United (2003)
 
   Theme__based_on_a_play:
     template: { name: TMDB theme label, theme_name: based_on_a_play }
     tmdb_movie:
+      - 11499 # Frost/Nixon (2008)
       - 10653 # The Seven Year Itch (1955)
       - 15121 # The Sound of Music (1965)
       - 57212 # War Horse (2011)
@@ -232,6 +238,7 @@ collections:
       - 3580 # Changeling (2008)
       - 8881 # Che: Part One (2008)
       - 8880 # Che: Part Two (2008)
+      - 11499 # Frost/Nixon (2008)
       - 13092 # How to Lose Friends & Alienate People (2008)
       - 947 # Lawrence of Arabia (1962)
       - 424 # Schindler's List (1993)
@@ -323,6 +330,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 381288 # Split (2016)
       - 20504 # The Book of Eli (2010)
+      - 20766 # The Road (2009)
 
   Theme__capital_punishment:
     template: { name: TMDB theme label, theme_name: capital_punishment }
@@ -378,6 +386,7 @@ collections:
     tmdb_movie:
       - 341013 # Atomic Blonde (2017)
       - 27576 # Salt (2010)
+      - 49538 # X-Men: First Class (2011)
 
   Theme__coming_of_age:
     template: { name: TMDB theme label, theme_name: coming_of_age }
@@ -448,12 +457,14 @@ collections:
     template: { name: TMDB theme label, theme_name: disability }
     tmdb_movie:
       - 9741 # Unbreakable (2000)
+      - 49538 # X-Men: First Class (2011)
 
   Theme__disaster:
     template: { name: TMDB theme label, theme_name: disaster }
     tmdb_movie:
       - 14161 # 2012 (2009)
       - 5876 # The Mist (2007)
+      - 20766 # The Road (2009)
       - 597 # Titanic (1997)
 
   Theme__domestic_violence:
@@ -696,6 +707,7 @@ collections:
   Theme__incest:
     template: { name: TMDB theme label, theme_name: incest }
     tmdb_movie:
+      - 61891 # Anonymous (2011)
       - 48266 # Ma mère (2004)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 112355 # What the Peeper Saw (1972)
@@ -897,14 +909,18 @@ collections:
     template: { name: TMDB theme label, theme_name: nonlinear }
     tmdb_movie:
       - 470 # 21 Grams (2003)
+      - 61891 # Anonymous (2011)
+      - 4347 # Atonement (2007)
       - 8881 # Che: Part One (2008)
       - 598 # City of God (2002)
       - 210577 # Gone Girl (2014)
+      - 20766 # The Road (2009)
       - 597 # Titanic (1997)
 
   Theme__orphans:
     template: { name: TMDB theme label, theme_name: orphans }
     tmdb_movie:
+      - 20352 # Despicable Me (2010)
       - 101 # Léon: The Professional (1995)
       - 348350 # Solo: A Star Wars Story (2018)
 
@@ -956,6 +972,7 @@ collections:
       - 101299 # The Hunger Games: Catching Fire (2013)
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
+      - 20766 # The Road (2009)
 
   Theme__poverty:
     template: { name: TMDB theme label, theme_name: poverty }
@@ -1035,6 +1052,7 @@ collections:
     tmdb_movie:
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 25239 # Day of the Woman (1978)
+      - 20352 # Despicable Me (2010)
       - 68718 # Django Unchained (2012)
       - 315837 # Ghost in the Shell (2017)
       - 98 # Gladiator (2000)
@@ -1053,6 +1071,8 @@ collections:
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
       - 180299 # The Raid 2 (2014)
+      - 49538 # X-Men: First Class (2011)
+      - 2080 # X-Men Origins: Wolverine (2009)
 
   Theme__road_movies:
     template: { name: TMDB theme label, theme_name: road_movies }
@@ -1218,6 +1238,8 @@ collections:
       - 76338 # Thor: The Dark World (2013)
       - 9741 # Unbreakable (2000)
       - 36657 # X-Men (2000)
+      - 49538 # X-Men: First Class (2011)
+      - 2080 # X-Men Origins: Wolverine (2009)
       - 36668 # X-Men: The Last Stand (2006)
       - 36658 # X2: X-Men United (2003)
 
@@ -1260,6 +1282,7 @@ collections:
       - 50456 # Hanna (2011)
       - 70160 # The Hunger Games (2012)
       - 101299 # The Hunger Games: Catching Fire (2013)
+      - 20766 # The Road (2009)
       - 1091 # The Thing (1982)
       - 597 # Titanic (1997)
 
@@ -1316,11 +1339,13 @@ collections:
   Theme__world_war_ii:
     template: { name: TMDB theme label, theme_name: world_war_ii }
     tmdb_movie:
+      - 4347 # Atonement (2007)
       - 1771 # Captain America: The First Avenger (2011)
       - 20546 # Goodnight, Mister Tom (1998)
       - 10867 # Malèna (2000)
       - 424 # Schindler's List (1993)
       - 45269 # The King's Speech (2010)
+      - 49538 # X-Men: First Class (2011)
 
   Theme__zombies:
     template: { name: TMDB theme label, theme_name: zombies }

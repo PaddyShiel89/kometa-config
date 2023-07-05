@@ -1,0 +1,21 @@
+metadata:
+  The Road:
+    title: The Road
+    year: 2009
+    edition_filter: Theatrical cut
+    sort_title: Road (2009)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [John Hillcoat]
+    genre.sync: [Drama, Thriller]
+    originally_available: 2009-09-03
+    producer.sync: [Paula Mae Schwartz, Steve Schwartz, Nick Wechsler]
+    studio: Dimension Films
+    summary: In a dangerous post-apocalyptic world, an ailing father defends his son as they slowly travel to the coast.
+    tagline: In a moment the world changed forever.
+    writer.sync: [Joe Penhall, Cormac McCarthy]
+    label: [ID__000020766A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

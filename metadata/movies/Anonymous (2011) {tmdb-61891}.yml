@@ -1,0 +1,21 @@
+metadata:
+  Anonymous:
+    title: Anonymous
+    year: 2011
+    edition_filter: Theatrical cut
+    sort_title: Anonymous (2011)
+    content_rating: gb/12
+    country.sync: [Germany, United Kingdom, United States of America]
+    director.sync: [Roland Emmerich]
+    genre.sync: [Drama, Thriller]
+    originally_available: 2011-09-11
+    producer.sync: [Roland Emmerich, Larry Franco, Robert Leger]
+    studio: Columbia Pictures
+    summary: Anonymous speculates on an issue that has intrigued academics and brilliant minds; who was the author of the plays credited to William Shakespeare?
+    tagline: Was Shakespeare a Fraud?
+    writer.sync: [John Orloff]
+    label: [ID__000061891A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

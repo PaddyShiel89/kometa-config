@@ -17,9 +17,11 @@ libraries:
       - repo: metadata/movies/Aliens (1986) {tmdb-679}
       - repo: metadata/movies/American Gangster (2007) {tmdb-4982}
       - repo: metadata/movies/Amsterdam (2022) {tmdb-664469}
+      - repo: metadata/movies/Anonymous (2011) {tmdb-61891}
       - repo: metadata/movies/Ant-Man and the Wasp (2018) {tmdb-363088}
       - repo: metadata/movies/Ant-Man and the Wasp Quantumania (2023) {tmdb-640146}
       - repo: metadata/movies/Atomic Blonde (2017) {tmdb-341013}
+      - repo: metadata/movies/Atonement (2007) {tmdb-4347}
       - repo: metadata/movies/Attack the Block (2011) {tmdb-59678}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
       - repo: metadata/movies/Baby Driver (2017) {tmdb-339403}
@@ -53,6 +55,7 @@ libraries:
       - repo: metadata/movies/Crash (1996) {tmdb-884}
       - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
       - repo: metadata/movies/Desire (2011) {tmdb-86331}
+      - repo: metadata/movies/Despicable Me (2010) {tmdb-20352}
       - repo: metadata/movies/Django Unchained (2012) {tmdb-68718}
       - repo: metadata/movies/Doctor Sleep (2019) {tmdb-501170}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
@@ -63,6 +66,7 @@ libraries:
       - repo: metadata/movies/Eternals (2021) {tmdb-524434}
       - repo: metadata/movies/Forgetting Sarah Marshall (2008) {tmdb-9870}
       - repo: metadata/movies/Freaked (1993) {tmdb-17796}
+      - repo: metadata/movies/Frost-Nixon (2008) {tmdb-11499}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
       - repo: metadata/movies/Get Out (2017) {tmdb-419430}
       - repo: metadata/movies/Ghost in the Shell (2017) {tmdb-315837}
@@ -193,6 +197,7 @@ libraries:
       - repo: metadata/movies/The Pirates! In an Adventure with Scientists! (2012) {tmdb-72197}
       - repo: metadata/movies/The Raid (2011) {tmdb-94329}
       - repo: metadata/movies/The Raid 2 (2014) {tmdb-180299}
+      - repo: metadata/movies/The Road (2009) {tmdb-20766}
       - repo: metadata/movies/The Seven Year Itch (1955) {tmdb-10653}
       - repo: metadata/movies/The Shawshank Redemption (1994) {tmdb-278}
       - repo: metadata/movies/The Shining (1980) {tmdb-694}
@@ -225,12 +230,15 @@ libraries:
       - repo: metadata/movies/Where the Crawdads Sing (2022) {tmdb-682507}
       - repo: metadata/movies/X (2022) {tmdb-760104}
       - repo: metadata/movies/X-Men (2000) {tmdb-36657}
+      - repo: metadata/movies/X-Men First Class (2011) {tmdb-49538}
+      - repo: metadata/movies/X-Men Origins Wolverine (2009) {tmdb-2080}
       - repo: metadata/movies/X-Men The Last Stand (2006) {tmdb-36668}
       - repo: metadata/movies/X2 (2003) {tmdb-36658}
       - repo: metadata/movies/Your Highness (2011) {tmdb-38319}
       - repo: metadata/movies/Zack and Miri Make a Porno (2008) {tmdb-10358}
       - repo: labelling/movies/editions
       - repo: labelling/movies/content_rating/alcohol_and_tobacco
+      - repo: labelling/movies/content_rating/dangerous_behaviour
       - repo: labelling/movies/content_rating/discrimination
       - repo: labelling/movies/content_rating/disturbing_images
       - repo: labelling/movies/content_rating/drugs
@@ -353,5 +361,6 @@ libraries:
 playlist_files:
   - repo: playlists/admin
   - repo: playlists/halloween
+  - repo: playlists/marvel
   - repo: playlists/movie_charts
   - repo: playlists/star_wars

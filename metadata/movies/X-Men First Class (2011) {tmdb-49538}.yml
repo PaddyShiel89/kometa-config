@@ -1,0 +1,31 @@
+metadata:
+  "X-Men: First Class":
+    title: "X-Men: First Class"
+    year: 2011
+    edition_filter: Theatrical cut
+    sort_title: X-Men (2000) 005
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Matthew Vaughn]
+    genre.sync: [Action, Science Fiction]
+    original_title: "X: First Class"
+    originally_available: 2011-05-25
+    producer.sync:
+      [Gregory Goodman, Simon Kinberg, Lauren Shuler Donner, Bryan Singer]
+    studio: Twentieth Century Fox
+    summary: Before Professor X and Magneto were archenemies, they were the closest of friends, working together with other mutants to stop the greatest threat the world has ever known.
+    tagline: Witness the beginning.
+    writer.sync:
+      [
+        Ashley Miller,
+        Zack Stentz,
+        Jane Goldman,
+        Matthew Vaughn,
+        Sheldon Turner,
+        Bryan Singer,
+      ]
+    label: [ID__000049538A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
