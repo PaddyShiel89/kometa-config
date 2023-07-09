@@ -729,6 +729,11 @@ collections:
       - 381288 # Split (2016)
       - 756999 # The Black Phone (2021)
 
+  Theme__legal_and_courtroom:
+    template: { name: TMDB theme label, theme_name: legal_and_courtroom }
+    tmdb_movie:
+      - 37799 # The Social Network (2010)
+
   Theme__lgbtq:
     template: { name: TMDB theme label, theme_name: lgbtq }
     tmdb_movie:
@@ -920,6 +925,7 @@ collections:
       - 598 # City of God (2002)
       - 210577 # Gone Girl (2014)
       - 20766 # The Road (2009)
+      - 37799 # The Social Network (2010)
       - 597 # Titanic (1997)
 
   Theme__orphans:
