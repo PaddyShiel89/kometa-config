@@ -265,6 +265,8 @@ collections:
       - 4247 # Scary Movie (2000)
       - 4248 # Scary Movie 2 (2001)
       - 4256 # Scary Movie 3 (2003)
+      - 4257 # Scary Movie 4 (2006)
+      - 4258 # Scary Movie 5 (2013)
 
   Series__Silent_Hill_2006:
     template:
