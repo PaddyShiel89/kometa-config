@@ -37,6 +37,7 @@ collections:
       - 1892 # Return of the Jedi (1983)
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 4256 # Scary Movie 3 (2003)
+      - 4257 # Scary Movie 4 (2006)
       - 348350 # Solo: A Star Wars Story (2018)
       - 10216 # Species II (1998)
       - 54138 # Star Trek Into Darkness (2013)
@@ -64,6 +65,7 @@ collections:
       - 59678 # Attack the Block (2011)
       - 299534 # Avengers: Endgame (2019)
       - 4256 # Scary Movie 3 (2003)
+      - 4257 # Scary Movie 4 (2006)
       - 1091 # The Thing (1982)
 
   Theme__alternate_timeline:
@@ -934,6 +936,7 @@ collections:
       - 4247 # Scary Movie (2000)
       - 4248 # Scary Movie 2 (2001)
       - 4256 # Scary Movie 3 (2003)
+      - 4257 # Scary Movie 4 (2006)
       - 4258 # Scary Movie 5 (2013)
       - 808 # Shrek (2001)
       - 3989 # Team America: World Police (2004)
@@ -1265,6 +1268,7 @@ collections:
       - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
       - 4248 # Scary Movie 2 (2001)
       - 4256 # Scary Movie 3 (2003)
+      - 4257 # Scary Movie 4 (2006)
       - 4258 # Scary Movie 5 (2013)
       - 588 # Silent Hill (2006)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
