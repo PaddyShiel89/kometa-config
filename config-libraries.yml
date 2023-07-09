@@ -41,6 +41,7 @@ libraries:
       - repo: metadata/movies/Brightburn (2019) {tmdb-531309}
       - repo: metadata/movies/Bruno (2009) {tmdb-18480}
       - repo: metadata/movies/Bullet Train (2022) {tmdb-718930}
+      - repo: metadata/movies/Burke & Hare (2010) {tmdb-50204}
       - repo: metadata/movies/Calendar Girls (2003) {tmdb-8696}
       - repo: metadata/movies/Calvary (2014) {tmdb-157832}
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}

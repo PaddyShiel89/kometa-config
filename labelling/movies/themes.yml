@@ -233,6 +233,7 @@ collections:
       - 454527 # Benedetta (2021)
       - 487558 # BlacKkKlansman (2018)
       - 301502 # Blonde (2022)
+      - 50204 # Burke & Hare (2010)
       - 8696 # Calendar Girls (2003)
       - 524 # Casino (1995)
       - 3580 # Changeling (2008)
@@ -273,6 +274,7 @@ collections:
     tmdb_movie:
       - 615777 # Babylon (2022)
       - 487558 # BlacKkKlansman (2018)
+      - 50204 # Burke & Hare (2010)
       - 13973 # Choke (2008)
       - 68718 # Django Unchained (2012)
       - 17796 # Freaked (1993)
@@ -845,6 +847,7 @@ collections:
   Theme__murder:
     template: { name: TMDB theme label, theme_name: murder }
     tmdb_movie:
+      - 50204 # Burke & Hare (2010)
       - 524 # Casino (1995)
       - 210577 # Gone Girl (2014)
       - 51540 # Horrible Bosses (2011)
@@ -1092,6 +1095,7 @@ collections:
   Theme__serial_killer:
     template: { name: TMDB theme label, theme_name: serial_killer }
     tmdb_movie:
+      - 50204 # Burke & Hare (2010)
       - 610253 # Halloween Kills (2021)
       - 4247 # Scary Movie (2000)
       - 756999 # The Black Phone (2021)
