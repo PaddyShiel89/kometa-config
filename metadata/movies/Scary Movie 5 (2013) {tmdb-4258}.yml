@@ -1,0 +1,22 @@
+metadata:
+  Scary Movie 5:
+    title: Scary Movie 5
+    year: 2013
+    edition_filter: Theatrical cut
+    sort_title: Scary Movie (2000) 005
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Malcolm D. Lee, David Zucker]
+    genre.sync: [Comedy, Horror]
+    original_title: Scary Movie V
+    originally_available: 2013-04-11
+    producer.sync: [Phil Dornfeld, David Zucker]
+    studio: Dimension Films
+    summary: A couple experiences unusual activity after bringing their lost nieces and nephew home. With the help of home CCTV cameras, they learn they're being stalked by a nefarious demon.
+    tagline: Evil is coming. Bring protection.
+    writer.sync: [David Zucker, Pat Proft]
+    label: [ID__000004258A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
