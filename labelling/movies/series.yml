@@ -173,6 +173,12 @@ collections:
     tmdb_movie:
       - 51540 # Horrible Bosses (2011)
 
+  Series__Hostel_2005:
+    template:
+      { name: TMDB series label, series_name: Hostel, series_year: 2005 }
+    tmdb_movie:
+      - 1690 # Hostel (2005)
+
   Series__I_Am_Curious_1967:
     template:
       { name: TMDB series label, series_name: I_Am_Curious, series_year: 1967 }

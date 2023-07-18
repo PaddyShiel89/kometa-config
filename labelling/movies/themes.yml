@@ -1074,6 +1074,7 @@ collections:
       - 98 # Gladiator (2000)
       - 610253 # Halloween Kills (2021)
       - 51540 # Horrible Bosses (2011)
+      - 1690 # Hostel (2005)
       - 68721 # Iron Man 3 (2013)
       - 474350 # It Chapter Two (2019)
       - 245891 # John Wick (2015)
@@ -1192,6 +1193,7 @@ collections:
     tmdb_movie:
       - 294963 # Bone Tomahawk (2015)
       - 25239 # Day of the Woman (1978)
+      - 1690 # Hostel (2005)
       - 588 # Silent Hill (2006)
       - 10216 # Species II (1998)
 

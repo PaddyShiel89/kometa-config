@@ -81,6 +81,7 @@ libraries:
       - repo: metadata/movies/Halloween Kills (2021) {tmdb-610253}
       - repo: metadata/movies/Hanna (2011) {tmdb-50456}
       - repo: metadata/movies/Horrible Bosses (2011) {tmdb-51540}
+      - repo: metadata/movies/Hostel (2005) {tmdb-1690}
       - repo: metadata/movies/How to Lose Friends & Alienate People (2008) {tmdb-13092}
       - repo: metadata/movies/Hunt for the Wilderpeople (2016) {tmdb-371645}
       - repo: metadata/movies/I Am Curious (Blue) (1968) {tmdb-45690}
