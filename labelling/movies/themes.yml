@@ -1124,6 +1124,7 @@ collections:
     tmdb_movie:
       - 50204 # Burke & Hare (2010)
       - 610253 # Halloween Kills (2021)
+      - 71670 # Hostel: Part III (2011)
       - 4247 # Scary Movie (2000)
       - 756999 # The Black Phone (2021)
       - 15472 # The Girl with the Dragon Tattoo (2009)
@@ -1209,6 +1210,7 @@ collections:
       - 294963 # Bone Tomahawk (2015)
       - 25239 # Day of the Woman (1978)
       - 1690 # Hostel (2005)
+      - 71670 # Hostel: Part III (2011)
       - 588 # Silent Hill (2006)
       - 10216 # Species II (1998)
 
