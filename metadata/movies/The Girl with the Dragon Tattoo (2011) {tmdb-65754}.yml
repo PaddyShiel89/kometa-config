@@ -1,0 +1,21 @@
+metadata:
+  "The Girl with the Dragon Tattoo (2011)":
+    title: The Girl with the Dragon Tattoo
+    year: 2011
+    edition_filter: Theatrical cut
+    sort_title: Girl with the Dragon Tattoo (2011) 001
+    content_rating: gb/18
+    country.sync: [Norway, Sweden, United States of America]
+    director.sync: [David Fincher]
+    genre.sync: [Crime, Drama, Mystery, Thriller]
+    originally_available: 2011-12-12
+    producer.sync: [Ceán Chaffin, Scott Rudin, Søren Stærmose, Ole Søndberg]
+    studio: Columbia Pictures
+    summary: Young computer hacker Lisbeth Salander aids journalist Mikael Blomkvist in his search for a woman who has been missing for 40 years.
+    tagline: Evil shall with evil be expelled
+    writer.sync: [Steven Zaillian, Stieg Larsson]
+    label: [ID__000065754A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

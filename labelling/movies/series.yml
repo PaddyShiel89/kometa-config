@@ -125,6 +125,16 @@ collections:
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
 
+  Series__Girl_With_the_Dragon_Tattoo_2011:
+    template:
+      {
+        name: TMDB series label,
+        series_name: Girl_With_the_Dragon_Tattoo,
+        series_year: 2011,
+      }
+    tmdb_movie:
+      - 65754 # The Girl with the Dragon Tattoo (2011)
+
   Series__Guardians_of_the_Galaxy_2014:
     template:
       {

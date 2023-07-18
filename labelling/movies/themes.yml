@@ -153,6 +153,7 @@ collections:
       - 756999 # The Black Phone (2021)
       - 4922 # The Curious Case of Benjamin Button (2008)
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 65754 # The Girl with the Dragon Tattoo (2011)
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1974)
       - 497 # The Green Mile (1999)
@@ -484,6 +485,7 @@ collections:
       - 619730 # Don't Worry Darling (2022)
       - 20546 # Goodnight, Mister Tom (1998)
       - 50837 # Martha Marcy May Marlene (2011)
+      - 65754 # The Girl with the Dragon Tattoo (2011)
       - 694 # The Shining (1980)
 
   Theme__dreams:
@@ -718,6 +720,7 @@ collections:
       - 61891 # Anonymous (2011)
       - 48266 # Ma mère (2004)
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 65754 # The Girl with the Dragon Tattoo (2011)
       - 112355 # What the Peeper Saw (1972)
 
   Theme__journalists:
@@ -725,6 +728,7 @@ collections:
     tmdb_movie:
       - 13092 # How to Lose Friends & Alienate People (2008)
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 65754 # The Girl with the Dragon Tattoo (2011)
 
   Theme__kidnapping:
     template: { name: TMDB theme label, theme_name: kidnapping }
@@ -754,6 +758,7 @@ collections:
       - 35712 # Secret Things (2002)
       - 9676 # The Black Dahlia (2006)
       - 19976 # The Exterminating Angels (2006)
+      - 65754 # The Girl with the Dragon Tattoo (2011)
 
   Theme__mafia:
     template: { name: TMDB theme label, theme_name: mafia }
@@ -1116,6 +1121,7 @@ collections:
       - 4247 # Scary Movie (2000)
       - 756999 # The Black Phone (2021)
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 65754 # The Girl with the Dragon Tattoo (2011)
       - 23202 # Trick 'r Treat (2007)
 
   Theme__sex_comedy:
