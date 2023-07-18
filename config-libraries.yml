@@ -139,6 +139,7 @@ libraries:
       - repo: metadata/movies/Scary Movie 4 (2006) {tmdb-4257}
       - repo: metadata/movies/Scary Movie 5 (2013) {tmdb-4258}
       - repo: metadata/movies/Schindler's List (1993) {tmdb-424}
+      - repo: metadata/movies/Scream VI (2023) {tmdb-934433}
       - repo: metadata/movies/Secret Things (2002) {tmdb-35712}
       - repo: metadata/movies/Secretary (2002) {tmdb-11013}
       - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}

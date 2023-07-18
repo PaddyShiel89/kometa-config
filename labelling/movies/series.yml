@@ -285,6 +285,12 @@ collections:
       - 4257 # Scary Movie 4 (2006)
       - 4258 # Scary Movie 5 (2013)
 
+  Series__Scream_1996:
+    template:
+      { name: TMDB series label, series_name: Scream, series_year: 1996 }
+    tmdb_movie:
+      - 934433 # Scream VI (2023)
+
   Series__Silent_Hill_2006:
     template:
       { name: TMDB series label, series_name: Silent_Hill, series_year: 2006 }

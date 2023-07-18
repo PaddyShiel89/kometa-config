@@ -24,6 +24,7 @@ collections:
         label:
           - ID__000000022A # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
           - ID__000000424A # Schindler's List (1993)
+          - ID__000934433A # Scream VI (2023)
 
   BBFC sexual violence and sexual threat lvl 4:
     template:
