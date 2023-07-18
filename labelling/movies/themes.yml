@@ -96,6 +96,7 @@ collections:
     tmdb_movie:
       - 425 # Ice Age (2002)
       - 254 # King Kong (2005)
+      - 75174 # The Grey (2011)
       - 57212 # War Horse (2011)
 
   Theme__anthology:
@@ -157,6 +158,7 @@ collections:
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1974)
       - 497 # The Green Mile (1999)
+      - 75174 # The Grey (2011)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 70160 # The Hunger Games (2012)
       - 101299 # The Hunger Games: Catching Fire (2013)
@@ -472,6 +474,7 @@ collections:
     template: { name: TMDB theme label, theme_name: disaster }
     tmdb_movie:
       - 14161 # 2012 (2009)
+      - 75174 # The Grey (2011)
       - 5876 # The Mist (2007)
       - 20766 # The Road (2009)
       - 597 # Titanic (1997)
@@ -1065,6 +1068,7 @@ collections:
       - 157832 # Calvary (2014)
       - 424 # Schindler's List (1993)
       - 20504 # The Book of Eli (2010)
+      - 75174 # The Grey (2011)
 
   Theme__regicide:
     template: { name: TMDB theme label, theme_name: regicide }
@@ -1312,6 +1316,7 @@ collections:
       - 8077 # Alien³ (1992)
       - 679 # Aliens (1986)
       - 50456 # Hanna (2011)
+      - 75174 # The Grey (2011)
       - 70160 # The Hunger Games (2012)
       - 101299 # The Hunger Games: Catching Fire (2013)
       - 20766 # The Road (2009)
