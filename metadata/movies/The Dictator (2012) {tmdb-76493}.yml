@@ -1,0 +1,29 @@
+metadata:
+  The Dictator:
+    title: The Dictator
+    year: 2012
+    edition_filter: Theatrical cut
+    sort_title: Dictator (2012)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Larry Charles]
+    genre.sync: [Comedy]
+    originally_available: 2012-05-16
+    producer.sync:
+      [
+        Sacha Baron Cohen,
+        Alec Berg,
+        Anthony Hines,
+        David Mandel,
+        Scott Rudin,
+        Jeff Schaffer,
+        Todd Schulman,
+      ]
+    studio: Paramount Pictures
+    summary: The heroic story of a dictator who risked his life to ensure that democracy would never come to the country he so lovingly oppressed.
+    writer.sync: [Sacha Baron Cohen, Alec Berg, David Mandel, Jeff Schaffer]
+    label: [ID__000076493A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

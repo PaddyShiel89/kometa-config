@@ -1,0 +1,21 @@
+metadata:
+  Hostel:
+    title: Hostel
+    year: 2005
+    edition_filter: Unrated cut
+    sort_title: Hostel (2005) 001
+    content_rating: gb/18
+    country.sync: [Czech Republic, United States of America]
+    director.sync: [Eli Roth]
+    genre.sync: [Horror]
+    originally_available: 2005-09-17
+    producer.sync: [Chris Briggs, Mike Fleiss, Eli Roth]
+    studio: Next Entertainment
+    summary: Three backpackers head to a Slovak city that promises to meet their hedonistic expectations, with no idea of the hell that awaits them.
+    tagline: Welcome to your worst nightmare.
+    writer.sync: [Eli Roth]
+    label: [ID__000001690A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

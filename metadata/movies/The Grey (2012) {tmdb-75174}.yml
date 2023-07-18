@@ -1,0 +1,21 @@
+metadata:
+  The Grey:
+    title: The Grey
+    year: 2011
+    edition_filter: Theatrical cut
+    sort_title: Grey (2011)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Joe Carnahan]
+    genre.sync: [Action, Adventure, Drama, Thriller]
+    originally_available: 2011-12-11
+    producer.sync: [Joe Carnahan, Jules Daly, Mickey Liddell, Ridley Scott]
+    studio: Open Road Films (II)
+    summary: After their plane crashes in Alaska, a skilled huntsman leads six oil workers to survival, but a pack of merciless wolves haunts their every step.
+    tagline: Live or Die on This Day
+    writer.sync: [Joe Carnahan, Ian Mackenzie Jeffers]
+    label: [ID__000075174A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

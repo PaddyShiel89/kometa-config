@@ -96,6 +96,7 @@ collections:
     tmdb_movie:
       - 425 # Ice Age (2002)
       - 254 # King Kong (2005)
+      - 75174 # The Grey (2011)
       - 57212 # War Horse (2011)
 
   Theme__anthology:
@@ -153,9 +154,11 @@ collections:
       - 756999 # The Black Phone (2021)
       - 4922 # The Curious Case of Benjamin Button (2008)
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 65754 # The Girl with the Dragon Tattoo (2011)
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1974)
       - 497 # The Green Mile (1999)
+      - 75174 # The Grey (2011)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 70160 # The Hunger Games (2012)
       - 101299 # The Hunger Games: Catching Fire (2013)
@@ -286,6 +289,7 @@ collections:
       - 117974 # Sightseers (2012)
       - 3989 # Team America: World Police (2004)
       - 674324 # The Banshees of Inisherin (2022)
+      - 76493 # The Dictator (2012)
       - 67913 # The Guard (2011)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
       - 1541 # Thelma & Louise (1991)
@@ -470,6 +474,7 @@ collections:
     template: { name: TMDB theme label, theme_name: disaster }
     tmdb_movie:
       - 14161 # 2012 (2009)
+      - 75174 # The Grey (2011)
       - 5876 # The Mist (2007)
       - 20766 # The Road (2009)
       - 597 # Titanic (1997)
@@ -483,6 +488,7 @@ collections:
       - 619730 # Don't Worry Darling (2022)
       - 20546 # Goodnight, Mister Tom (1998)
       - 50837 # Martha Marcy May Marlene (2011)
+      - 65754 # The Girl with the Dragon Tattoo (2011)
       - 694 # The Shining (1980)
 
   Theme__dreams:
@@ -608,6 +614,7 @@ collections:
       - 46534 # Sweet Karma (2009)
       - 571 # The Birds (1963)
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 65754 # The Girl with the Dragon Tattoo (2011)
       - 70160 # The Hunger Games (2012)
       - 101299 # The Hunger Games: Catching Fire (2013)
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
@@ -717,6 +724,7 @@ collections:
       - 61891 # Anonymous (2011)
       - 48266 # Ma mère (2004)
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 65754 # The Girl with the Dragon Tattoo (2011)
       - 112355 # What the Peeper Saw (1972)
 
   Theme__journalists:
@@ -724,6 +732,7 @@ collections:
     tmdb_movie:
       - 13092 # How to Lose Friends & Alienate People (2008)
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 65754 # The Girl with the Dragon Tattoo (2011)
 
   Theme__kidnapping:
     template: { name: TMDB theme label, theme_name: kidnapping }
@@ -753,6 +762,7 @@ collections:
       - 35712 # Secret Things (2002)
       - 9676 # The Black Dahlia (2006)
       - 19976 # The Exterminating Angels (2006)
+      - 65754 # The Girl with the Dragon Tattoo (2011)
 
   Theme__mafia:
     template: { name: TMDB theme label, theme_name: mafia }
@@ -1049,6 +1059,7 @@ collections:
       - 947 # Lawrence of Arabia (1962)
       - 424 # Schindler's List (1993)
       - 3989 # Team America: World Police (2004)
+      - 76493 # The Dictator (2012)
 
   Theme__religion:
     template: { name: TMDB theme label, theme_name: religion }
@@ -1057,6 +1068,7 @@ collections:
       - 157832 # Calvary (2014)
       - 424 # Schindler's List (1993)
       - 20504 # The Book of Eli (2010)
+      - 75174 # The Grey (2011)
 
   Theme__regicide:
     template: { name: TMDB theme label, theme_name: regicide }
@@ -1074,6 +1086,7 @@ collections:
       - 98 # Gladiator (2000)
       - 610253 # Halloween Kills (2021)
       - 51540 # Horrible Bosses (2011)
+      - 1690 # Hostel (2005)
       - 68721 # Iron Man 3 (2013)
       - 474350 # It Chapter Two (2019)
       - 245891 # John Wick (2015)
@@ -1081,10 +1094,12 @@ collections:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 27576 # Salt (2010)
+      - 934433 # Scream VI (2023)
       - 634649 # Spider-Man: No Way Home (2021)
       - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
       - 46534 # Sweet Karma (2009)
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 65754 # The Girl with the Dragon Tattoo (2011)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
       - 180299 # The Raid 2 (2014)
       - 49538 # X-Men: First Class (2011)
@@ -1110,9 +1125,12 @@ collections:
     tmdb_movie:
       - 50204 # Burke & Hare (2010)
       - 610253 # Halloween Kills (2021)
+      - 71670 # Hostel: Part III (2011)
       - 4247 # Scary Movie (2000)
+      - 934433 # Scream VI (2023)
       - 756999 # The Black Phone (2021)
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 65754 # The Girl with the Dragon Tattoo (2011)
       - 23202 # Trick 'r Treat (2007)
 
   Theme__sex_comedy:
@@ -1148,6 +1166,7 @@ collections:
       - 947 # Lawrence of Arabia (1962)
       - 50837 # Martha Marcy May Marlene (2011)
       - 15472 # The Girl with the Dragon Tattoo (2009)
+      - 65754 # The Girl with the Dragon Tattoo (2011)
       - 497 # The Green Mile (1999)
       - 1541 # Thelma & Louise (1991)
 
@@ -1167,6 +1186,7 @@ collections:
       - 610253 # Halloween Kills (2021)
       - 949423 # Pearl (2022)
       - 4247 # Scary Movie (2000)
+      - 934433 # Scream VI (2023)
       - 760104 # X (2022)
 
   Theme__slavery:
@@ -1192,6 +1212,8 @@ collections:
     tmdb_movie:
       - 294963 # Bone Tomahawk (2015)
       - 25239 # Day of the Woman (1978)
+      - 1690 # Hostel (2005)
+      - 71670 # Hostel: Part III (2011)
       - 588 # Silent Hill (2006)
       - 10216 # Species II (1998)
 
@@ -1299,6 +1321,7 @@ collections:
       - 8077 # Alien³ (1992)
       - 679 # Aliens (1986)
       - 50456 # Hanna (2011)
+      - 75174 # The Grey (2011)
       - 70160 # The Hunger Games (2012)
       - 101299 # The Hunger Games: Catching Fire (2013)
       - 20766 # The Road (2009)
