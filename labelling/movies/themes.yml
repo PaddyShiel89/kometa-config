@@ -286,6 +286,7 @@ collections:
       - 117974 # Sightseers (2012)
       - 3989 # Team America: World Police (2004)
       - 674324 # The Banshees of Inisherin (2022)
+      - 76493 # The Dictator (2012)
       - 67913 # The Guard (2011)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
       - 1541 # Thelma & Louise (1991)
@@ -1049,6 +1050,7 @@ collections:
       - 947 # Lawrence of Arabia (1962)
       - 424 # Schindler's List (1993)
       - 3989 # Team America: World Police (2004)
+      - 76493 # The Dictator (2012)
 
   Theme__religion:
     template: { name: TMDB theme label, theme_name: religion }
