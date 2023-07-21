@@ -188,6 +188,7 @@ collections:
       { name: TMDB series label, series_name: Hostel, series_year: 2005 }
     tmdb_movie:
       - 1690 # Hostel (2005)
+      - 1691 # Hostel: Part II (2007)
       - 71670 # Hostel: Part III (2011)
 
   Series__I_Am_Curious_1967:
