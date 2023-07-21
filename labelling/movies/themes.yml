@@ -848,6 +848,7 @@ collections:
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
       - 17796 # Freaked (1993)
+      - 37958 # Immortals (2011)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 254 # King Kong (2005)
@@ -892,6 +893,7 @@ collections:
     template: { name: TMDB theme label, theme_name: mythology }
     tmdb_movie:
       - 524434 # Eternals (2021)
+      - 37958 # Immortals (2011)
       - 8285 # The Spirit (2008)
       - 16307 # The Wicker Man (1973)
       - 10195 # Thor (2011)
