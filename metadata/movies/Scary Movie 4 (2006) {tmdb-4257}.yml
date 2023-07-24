@@ -1,0 +1,21 @@
+metadata:
+  Scary Movie 4:
+    title: Scary Movie 4
+    year: 2006
+    edition_filter: Theatrical cut
+    sort_title: Scary Movie (2000) 004
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [David Zucker]
+    genre.sync: [Comedy, Horror, Science Fiction]
+    originally_available: 2006-04-12
+    producer.sync: [Craig Mazin, Robert K. Weiss]
+    studio: Dimension Films
+    summary: Cindy's house is haunted by a little boy, so she embarks on a quest to find out who killed him. Meanwhile, aliens are invading the world.
+    tagline: They're coming. We need your support.
+    writer.sync: [Craig Mazin, Jim Abrahams, Pat Proft]
+    label: [ID__000004257A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

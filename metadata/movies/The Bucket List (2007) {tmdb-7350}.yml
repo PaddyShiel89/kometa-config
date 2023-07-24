@@ -1,0 +1,21 @@
+metadata:
+  The Bucket List:
+    title: The Bucket List
+    year: 2007
+    edition_filter: Theatrical cut
+    sort_title: Bucket List (2007)
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Rob Reiner]
+    genre.sync: [Adventure, Comedy, Drama]
+    originally_available: 2007-12-16
+    producer.sync: [Alan Greisman, Neil Meron, Rob Reiner, Craig Zadan]
+    studio: Warner Bros.
+    summary: Two terminally ill men escape from a cancer ward and head off on a road trip with a wish list of to-dos before they die.
+    tagline: When he closed his eyes, his heart was opened
+    writer.sync: [Justin Zackham]
+    label: [ID__000007350A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

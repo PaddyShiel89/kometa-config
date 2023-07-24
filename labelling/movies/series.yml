@@ -125,6 +125,16 @@ collections:
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
 
+  Series__Girl_With_the_Dragon_Tattoo_2011:
+    template:
+      {
+        name: TMDB series label,
+        series_name: Girl_With_the_Dragon_Tattoo,
+        series_year: 2011,
+      }
+    tmdb_movie:
+      - 65754 # The Girl with the Dragon Tattoo (2011)
+
   Series__Guardians_of_the_Galaxy_2014:
     template:
       {
@@ -172,6 +182,14 @@ collections:
       }
     tmdb_movie:
       - 51540 # Horrible Bosses (2011)
+
+  Series__Hostel_2005:
+    template:
+      { name: TMDB series label, series_name: Hostel, series_year: 2005 }
+    tmdb_movie:
+      - 1690 # Hostel (2005)
+      - 1691 # Hostel: Part II (2007)
+      - 71670 # Hostel: Part III (2011)
 
   Series__I_Am_Curious_1967:
     template:
@@ -265,6 +283,14 @@ collections:
       - 4247 # Scary Movie (2000)
       - 4248 # Scary Movie 2 (2001)
       - 4256 # Scary Movie 3 (2003)
+      - 4257 # Scary Movie 4 (2006)
+      - 4258 # Scary Movie 5 (2013)
+
+  Series__Scream_1996:
+    template:
+      { name: TMDB series label, series_name: Scream, series_year: 1996 }
+    tmdb_movie:
+      - 934433 # Scream VI (2023)
 
   Series__Silent_Hill_2006:
     template:

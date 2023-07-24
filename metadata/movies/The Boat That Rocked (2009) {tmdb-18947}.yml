@@ -1,0 +1,21 @@
+metadata:
+  The Boat That Rocked:
+    title: The Boat That Rocked
+    year: 2009
+    edition_filter: Theatrical cut
+    sort_title: Boat That Rocked (2009)
+    content_rating: gb/15
+    country.sync: [France, Germany, United Kingdom, United States of America]
+    director.sync: [Richard Curtis]
+    genre.sync: [Comedy, Drama]
+    originally_available: 2009-04-01
+    producer.sync: [Hilary Bevan Jones, Tim Bevan]
+    studio: StudioCanal
+    summary: A band of rogue DJs captivates 60s Britain, playing the music that defined a generation and stood up to a government that wanted classical music, and nothing else, on the airwaves.
+    tagline: 1 Boat. 8 DJs. No Morals.
+    writer.sync: [Richard Curtis]
+    label: [ID__000018947A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -1,0 +1,21 @@
+metadata:
+  "Hostel: Part III":
+    title: "Hostel: Part III"
+    year: 2011
+    edition_filter: Unrated cut
+    sort_title: Hostel (2005) 003
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Scott Spiegel]
+    genre.sync: [Horror]
+    originally_available: 2011-12-22
+    producer.sync: [Chris Briggs, Mike Fleiss]
+    studio: Next Entertainment
+    summary: Four men attending a bachelor party in Las Vegas fall prey to the Elite Hunting Club, who are hosting a gruesome game show of torture.
+    tagline: Do You Feel Lucky?
+    writer.sync: [Michael D. Weiss]
+    label: [ID__000071670A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

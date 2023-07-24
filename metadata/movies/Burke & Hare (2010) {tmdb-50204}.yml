@@ -1,0 +1,21 @@
+metadata:
+  Burke & Hare:
+    title: Burke & Hare
+    year: 2010
+    edition_filter: Theatrical cut
+    sort_title: Burke & Hare (2010)
+    content_rating: gb/15
+    country.sync: [United Kingdom]
+    director.sync: [John Landis]
+    genre.sync: [Comedy, Crime, History, Thriller]
+    originally_available: 2010-10-29
+    producer.sync: [Barnaby Thompson]
+    studio: Ealing Studios
+    summary: Two 19th-century grave robbers find a lucrative business providing cadavers for an Edinburgh medical school.
+    tagline: They're making a killing.
+    writer.sync: [Piers Ashworth, Nick Moorcroft]
+    label: [ID__000050204A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

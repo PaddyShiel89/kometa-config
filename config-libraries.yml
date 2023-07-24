@@ -41,6 +41,7 @@ libraries:
       - repo: metadata/movies/Brightburn (2019) {tmdb-531309}
       - repo: metadata/movies/Bruno (2009) {tmdb-18480}
       - repo: metadata/movies/Bullet Train (2022) {tmdb-718930}
+      - repo: metadata/movies/Burke & Hare (2010) {tmdb-50204}
       - repo: metadata/movies/Calendar Girls (2003) {tmdb-8696}
       - repo: metadata/movies/Calvary (2014) {tmdb-157832}
       - repo: metadata/movies/Captain America The First Avenger (2011) {tmdb-1771}
@@ -80,11 +81,15 @@ libraries:
       - repo: metadata/movies/Halloween Kills (2021) {tmdb-610253}
       - repo: metadata/movies/Hanna (2011) {tmdb-50456}
       - repo: metadata/movies/Horrible Bosses (2011) {tmdb-51540}
+      - repo: metadata/movies/Hostel (2005) {tmdb-1690}
+      - repo: metadata/movies/Hostel Part II (2007) {tmdb-1691}
+      - repo: metadata/movies/Hostel Part III (2011) {tmdb-71670}
       - repo: metadata/movies/How to Lose Friends & Alienate People (2008) {tmdb-13092}
       - repo: metadata/movies/Hunt for the Wilderpeople (2016) {tmdb-371645}
       - repo: metadata/movies/I Am Curious (Blue) (1968) {tmdb-45690}
       - repo: metadata/movies/I Am Curious (Yellow) (1967) {tmdb-42695}
       - repo: metadata/movies/Ice Age (2002) {tmdb-425}
+      - repo: metadata/movies/Immortals (2011) {tmdb-37958}
       - repo: metadata/movies/Import Export (2007) {tmdb-4998}
       - repo: metadata/movies/Inception (2010) {tmdb-27205}
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
@@ -133,7 +138,10 @@ libraries:
       - repo: metadata/movies/Scary Movie (2000) {tmdb-4247}
       - repo: metadata/movies/Scary Movie 2 (2001) {tmdb-4248}
       - repo: metadata/movies/Scary Movie 3 (2003) {tmdb-4256}
+      - repo: metadata/movies/Scary Movie 4 (2006) {tmdb-4257}
+      - repo: metadata/movies/Scary Movie 5 (2013) {tmdb-4258}
       - repo: metadata/movies/Schindler's List (1993) {tmdb-424}
+      - repo: metadata/movies/Scream VI (2023) {tmdb-934433}
       - repo: metadata/movies/Secret Things (2002) {tmdb-35712}
       - repo: metadata/movies/Secretary (2002) {tmdb-11013}
       - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}
@@ -166,18 +174,23 @@ libraries:
       - repo: metadata/movies/The Birds (1963) {tmdb-571}
       - repo: metadata/movies/The Black Dahlia (2006) {tmdb-9676}
       - repo: metadata/movies/The Black Phone (2022) {tmdb-756999}
+      - repo: metadata/movies/The Boat That Rocked (2009) {tmdb-18947}
       - repo: metadata/movies/The Book of Eli (2010) {tmdb-20504}
+      - repo: metadata/movies/The Bucket List (2007) {tmdb-7350}
       - repo: metadata/movies/The Curious Case of Benjamin Button (2008) {tmdb-4922}
+      - repo: metadata/movies/The Dictator (2012) {tmdb-76493}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
       - repo: metadata/movies/The Exterminating Angels (2006) {tmdb-19976}
       - repo: metadata/movies/The Girl Next Door (2004) {tmdb-10591}
       - repo: metadata/movies/The Girl with the Dragon Tattoo (2009) {tmdb-15472}
+      - repo: metadata/movies/The Girl with the Dragon Tattoo (2011) {tmdb-65754}
       - repo: metadata/movies/The Girlfriend Experience (2009) {tmdb-17680}
       - repo: metadata/movies/The Godfather (1972) {tmdb-238}
       - repo: metadata/movies/The Godfather Part II (1974) {tmdb-240}
       - repo: metadata/movies/The Godfather Part III (1990) {tmdb-242}
       - repo: metadata/movies/The Goonies (1985) {tmdb-9340}
       - repo: metadata/movies/The Green Mile (1999) {tmdb-497}
+      - repo: metadata/movies/The Grey (2012) {tmdb-75174}
       - repo: metadata/movies/The Guard (2011) {tmdb-67913}
       - repo: metadata/movies/The Hangover (2009) {tmdb-18785}
       - repo: metadata/movies/The Hitchhiker's Guide to the Galaxy (2005) {tmdb-7453}
@@ -201,6 +214,7 @@ libraries:
       - repo: metadata/movies/The Seven Year Itch (1955) {tmdb-10653}
       - repo: metadata/movies/The Shawshank Redemption (1994) {tmdb-278}
       - repo: metadata/movies/The Shining (1980) {tmdb-694}
+      - repo: metadata/movies/The Social Network (2010) {tmdb-37799}
       - repo: metadata/movies/The Sound of Music (1965) {tmdb-15121}
       - repo: metadata/movies/The Spirit (2008) {tmdb-8285}
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
