@@ -146,6 +146,7 @@ collections:
       - 180 # Minority Report (2002)
       - 17917 # Oliver! (1968)
       - 157433 # Pet Sematary (2019)
+      - 4348 # Pride & Prejudice (2005)
       - 641 # Requiem for a Dream (2000)
       - 424 # Schindler's List (1993)
       - 11013 # Secretary (2002)
@@ -215,6 +216,12 @@ collections:
       { name: TMDB theme label, theme_name: based_on_works_by_charles_dickens }
     tmdb_movie:
       - 17917 # Oliver! (1968)
+
+  Theme__based_on_works_by_jane_austen:
+    template:
+      { name: TMDB theme label, theme_name: based_on_works_by_jane_austen }
+    tmdb_movie:
+      - 4348 # Pride & Prejudice (2005)
 
   Theme__based_on_works_by_philip_k_dick:
     template:
@@ -600,6 +607,7 @@ collections:
       - 42695 # I Am Curious (Yellow) (1967)
       - 1995 # Lara Croft: Tomb Raider (2001)
       - 949423 # Pearl (2022)
+      - 4348 # Pride & Prejudice (2005)
       - 1576 # Resident Evil (2002)
       - 35791 # Resident Evil: Afterlife (2010)
       - 1577 # Resident Evil: Apocalype (2004)
