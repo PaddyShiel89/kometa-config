@@ -144,6 +144,7 @@ collections:
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 180 # Minority Report (2002)
+      - 17917 # Oliver! (1968)
       - 157433 # Pet Sematary (2019)
       - 641 # Requiem for a Dream (2000)
       - 424 # Schindler's List (1993)
@@ -204,9 +205,16 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_a_play }
     tmdb_movie:
       - 11499 # Frost/Nixon (2008)
+      - 17917 # Oliver! (1968)
       - 10653 # The Seven Year Itch (1955)
       - 15121 # The Sound of Music (1965)
       - 57212 # War Horse (2011)
+
+  Theme__based_on_works_by_charles_dickens:
+    template:
+      { name: TMDB theme label, theme_name: based_on_works_by_charles_dickens }
+    tmdb_movie:
+      - 17917 # Oliver! (1968)
 
   Theme__based_on_works_by_philip_k_dick:
     template:
@@ -949,6 +957,7 @@ collections:
     tmdb_movie:
       - 20352 # Despicable Me (2010)
       - 101 # Léon: The Professional (1995)
+      - 17917 # Oliver! (1968)
       - 348350 # Solo: A Star Wars Story (2018)
 
   Theme__parody:
@@ -1007,6 +1016,7 @@ collections:
     template: { name: TMDB theme label, theme_name: poverty }
     tmdb_movie:
       - 598 # City of God (2002)
+      - 17917 # Oliver! (1968)
 
   Theme__prison:
     template: { name: TMDB theme label, theme_name: prison }

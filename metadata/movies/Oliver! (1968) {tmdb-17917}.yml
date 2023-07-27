@@ -1,0 +1,21 @@
+metadata:
+  Oliver!:
+    title: Oliver!
+    year: 1968
+    edition_filter: Theatrical cut
+    sort_title: Oliver! (1968)
+    content_rating: gb/U
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Carol Reed]
+    genre.sync: [Drama, Family, Musical]
+    originally_available: 1968-09-26
+    producer.sync: [John Woolf]
+    studio: Warwick Film Productions
+    summary: After being sold to a mortician, young orphan Oliver Twist runs away and meets a group of boys trained to be pickpockets by an elderly mentor.
+    tagline: Much Much More Than a Musical!
+    writer.sync: [Lionel Bart, Vernon Harris, Charles Dickens]
+    label: [ID__000017917A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
