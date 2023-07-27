@@ -96,6 +96,7 @@ collections:
     tmdb_movie:
       - 425 # Ice Age (2002)
       - 254 # King Kong (2005)
+      - 869 # Planet of the Apes (2001)
       - 75174 # The Grey (2011)
       - 57212 # War Horse (2011)
 
@@ -146,6 +147,7 @@ collections:
       - 180 # Minority Report (2002)
       - 17917 # Oliver! (1968)
       - 157433 # Pet Sematary (2019)
+      - 869 # Planet of the Apes (2001)
       - 4348 # Pride & Prejudice (2005)
       - 641 # Requiem for a Dream (2000)
       - 424 # Schindler's List (1993)
@@ -1008,6 +1010,7 @@ collections:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 869 # Planet of the Apes (2001)
       - 35791 # Resident Evil: Afterlife (2010)
       - 7737 # Resident Evil: Extinction (2007)
       - 71679 # Resident Evil: Retribution (2012)
@@ -1215,6 +1218,7 @@ collections:
     template: { name: TMDB theme label, theme_name: slavery }
     tmdb_movie:
       - 68718 # Django Unchained (2012)
+      - 869 # Planet of the Apes (2001)
 
   Theme__slice_of_life:
     template: { name: TMDB theme label, theme_name: slice_of_life }
@@ -1364,6 +1368,7 @@ collections:
     template: { name: TMDB theme label, theme_name: time_travel }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 869 # Planet of the Apes (2001)
 
   Theme__tragicomedies:
     template: { name: TMDB theme label, theme_name: tragicomedies }
