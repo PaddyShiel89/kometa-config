@@ -1,0 +1,30 @@
+metadata:
+  The Tourist:
+    title: The Tourist
+    year: 2010
+    edition_filter: Theatrical cut
+    sort_title: Tourist (2010)
+    content_rating: gb/12
+    country.sync: [France, Italy, United Kingdom, United States of America]
+    director.sync: [Florian Henckel von Donnersmarck]
+    genre.sync: [Action, Romance, Thriller]
+    originally_available: 2010-12-06
+    producer.sync:
+      [
+        Gary Barber,
+        Roger Birnbaum,
+        Jonathan Glickman,
+        Tim Headington,
+        Graham King,
+        Adam Rosenberg,
+      ]
+    studio: Spyglass Entertainment
+    summary: Frank is an American tourist visiting Italy to mend a broken heart. Elise is an extraordinary woman who deliberately crosses his path.
+    tagline: It all started when he met a woman.
+    writer.sync:
+      [Florian Henckel von Donnersmarck, Christopher McQuarrie, Julian Fellowes]
+    label: [ID__000037710A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

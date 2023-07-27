@@ -1,0 +1,21 @@
+metadata:
+  Pride & Prejudice:
+    title: Pride & Prejudice
+    year: 2005
+    edition_filter: Theatrical cut
+    sort_title: Pride & Prejudice (2005)
+    content_rating: gb/U
+    country.sync: [France, United Kingdom, United States of America]
+    director.sync: [Joe Wright]
+    genre.sync: [Drama, Romance]
+    originally_available: 2005-07-25
+    producer.sync: [Tim Bevan, Eric Fellner, Paul Webster]
+    studio: Working Title Films
+    summary: Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr Darcy. But Mr Darcy reluctantly finds himself falling in love with a woman beneath his class.
+    tagline: A romance ahead of its time.
+    writer.sync: [Deborah Moggach, Jane Austen]
+    label: [ID__000004348A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

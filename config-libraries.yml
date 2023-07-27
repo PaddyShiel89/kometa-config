@@ -88,6 +88,7 @@ libraries:
       - repo: metadata/movies/Hunt for the Wilderpeople (2016) {tmdb-371645}
       - repo: metadata/movies/I Am Curious (Blue) (1968) {tmdb-45690}
       - repo: metadata/movies/I Am Curious (Yellow) (1967) {tmdb-42695}
+      - repo: metadata/movies/I Spit on Your Grave (2010) {tmdb-43947}
       - repo: metadata/movies/Ice Age (2002) {tmdb-425}
       - repo: metadata/movies/Immortals (2011) {tmdb-37958}
       - repo: metadata/movies/Import Export (2007) {tmdb-4998}
@@ -115,6 +116,7 @@ libraries:
       - repo: metadata/movies/National Treasure Book of Secrets (2007) {tmdb-6637}
       - repo: metadata/movies/Nope (2022) {tmdb-762504}
       - repo: metadata/movies/Novo (2002) {tmdb-60015}
+      - repo: metadata/movies/Oliver! (1968) {tmdb-17917}
       - repo: metadata/movies/Pearl (2022) {tmdb-949423}
       - repo: metadata/movies/Pet Sematary (2019) {tmdb-157433}
       - repo: metadata/movies/Pirates of the Caribbean At World's End (2007) {tmdb-285}
@@ -122,7 +124,9 @@ libraries:
       - repo: metadata/movies/Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426}
       - repo: metadata/movies/Pirates of the Caribbean On Stranger Tides (2011) {tmdb-1865}
       - repo: metadata/movies/Pirates of the Caribbean The Curse of the Black Pearl (2003) {tmdb-22}
+      - repo: metadata/movies/Planet of the Apes (2001) {tmdb-869}
       - repo: metadata/movies/Police Story 2 (1988) {tmdb-10753}
+      - repo: metadata/movies/Pride & Prejudice (2005) {tmdb-4348}
       - repo: metadata/movies/Requiem for a Dream (2000) {tmdb-641}
       - repo: metadata/movies/Resident Evil (2002) {tmdb-1576}
       - repo: metadata/movies/Resident Evil Afterlife (2010) {tmdb-35791}
@@ -219,6 +223,7 @@ libraries:
       - repo: metadata/movies/The Spirit (2008) {tmdb-8285}
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
       - repo: metadata/movies/The Thing (1982) {tmdb-1091}
+      - repo: metadata/movies/The Tourist (2010) {tmdb-37710}
       - repo: metadata/movies/The Unbearable Weight of Massive Talent (2022) {tmdb-648579}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
       - repo: metadata/movies/The Voyeurs (2021) {tmdb-645710}

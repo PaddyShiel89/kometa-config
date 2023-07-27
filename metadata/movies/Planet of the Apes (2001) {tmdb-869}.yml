@@ -1,0 +1,22 @@
+metadata:
+  Planet of the Apes:
+    title: Planet of the Apes
+    year: 2001
+    edition_filter: Theatrical cut
+    sort_title: Planet of the Apes (2001)
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Tim Burton]
+    genre.sync: [Action, Adventure, Science Fiction, Thriller]
+    originally_available: 2001-07-26
+    producer.sync: [Richard D. Zanuck]
+    studio: Twentieth Century Fox
+    summary: In 2029, an Air Force astronaut crash-lands on a mysterious planet where evolved, talking apes dominate a race of primitive humans.
+    tagline: You'll be sorry you were ever born human
+    writer.sync:
+      [Pierre Boulle, William Broyles Jr., Lawrence Konner, Mark Rosenthal]
+    label: [ID__000000869A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -96,6 +96,7 @@ collections:
     tmdb_movie:
       - 425 # Ice Age (2002)
       - 254 # King Kong (2005)
+      - 869 # Planet of the Apes (2001)
       - 75174 # The Grey (2011)
       - 57212 # War Horse (2011)
 
@@ -144,7 +145,10 @@ collections:
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 180 # Minority Report (2002)
+      - 17917 # Oliver! (1968)
       - 157433 # Pet Sematary (2019)
+      - 869 # Planet of the Apes (2001)
+      - 4348 # Pride & Prejudice (2005)
       - 641 # Requiem for a Dream (2000)
       - 424 # Schindler's List (1993)
       - 11013 # Secretary (2002)
@@ -204,9 +208,22 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_a_play }
     tmdb_movie:
       - 11499 # Frost/Nixon (2008)
+      - 17917 # Oliver! (1968)
       - 10653 # The Seven Year Itch (1955)
       - 15121 # The Sound of Music (1965)
       - 57212 # War Horse (2011)
+
+  Theme__based_on_works_by_charles_dickens:
+    template:
+      { name: TMDB theme label, theme_name: based_on_works_by_charles_dickens }
+    tmdb_movie:
+      - 17917 # Oliver! (1968)
+
+  Theme__based_on_works_by_jane_austen:
+    template:
+      { name: TMDB theme label, theme_name: based_on_works_by_jane_austen }
+    tmdb_movie:
+      - 4348 # Pride & Prejudice (2005)
 
   Theme__based_on_works_by_philip_k_dick:
     template:
@@ -590,8 +607,10 @@ collections:
       - 1691 # Hostel: Part II (2007)
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
+      - 43947 # I Spit on Your Grave (2010)
       - 1995 # Lara Croft: Tomb Raider (2001)
       - 949423 # Pearl (2022)
+      - 4348 # Pride & Prejudice (2005)
       - 1576 # Resident Evil (2002)
       - 35791 # Resident Evil: Afterlife (2010)
       - 1577 # Resident Evil: Apocalype (2004)
@@ -949,6 +968,7 @@ collections:
     tmdb_movie:
       - 20352 # Despicable Me (2010)
       - 101 # Léon: The Professional (1995)
+      - 17917 # Oliver! (1968)
       - 348350 # Solo: A Star Wars Story (2018)
 
   Theme__parody:
@@ -991,6 +1011,7 @@ collections:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 869 # Planet of the Apes (2001)
       - 35791 # Resident Evil: Afterlife (2010)
       - 7737 # Resident Evil: Extinction (2007)
       - 71679 # Resident Evil: Retribution (2012)
@@ -1007,6 +1028,7 @@ collections:
     template: { name: TMDB theme label, theme_name: poverty }
     tmdb_movie:
       - 598 # City of God (2002)
+      - 17917 # Oliver! (1968)
 
   Theme__prison:
     template: { name: TMDB theme label, theme_name: prison }
@@ -1091,6 +1113,7 @@ collections:
       - 51540 # Horrible Bosses (2011)
       - 1690 # Hostel (2005)
       - 1691 # Hostel: Part II (2007)
+      - 43947 # I Spit on Your Grave (2010)
       - 68721 # Iron Man 3 (2013)
       - 474350 # It Chapter Two (2019)
       - 245891 # John Wick (2015)
@@ -1130,6 +1153,7 @@ collections:
       - 50204 # Burke & Hare (2010)
       - 610253 # Halloween Kills (2021)
       - 71670 # Hostel: Part III (2011)
+      - 43947 # I Spit on Your Grave (2010)
       - 4247 # Scary Movie (2000)
       - 934433 # Scream VI (2023)
       - 756999 # The Black Phone (2021)
@@ -1167,6 +1191,7 @@ collections:
     tmdb_movie:
       - 3580 # Changeling (2008)
       - 25239 # Day of the Woman (1978)
+      - 43947 # I Spit on Your Grave (2010)
       - 947 # Lawrence of Arabia (1962)
       - 50837 # Martha Marcy May Marlene (2011)
       - 15472 # The Girl with the Dragon Tattoo (2009)
@@ -1197,6 +1222,7 @@ collections:
     template: { name: TMDB theme label, theme_name: slavery }
     tmdb_movie:
       - 68718 # Django Unchained (2012)
+      - 869 # Planet of the Apes (2001)
 
   Theme__slice_of_life:
     template: { name: TMDB theme label, theme_name: slice_of_life }
@@ -1216,6 +1242,7 @@ collections:
     tmdb_movie:
       - 294963 # Bone Tomahawk (2015)
       - 25239 # Day of the Woman (1978)
+      - 43947 # I Spit on Your Grave (2010)
       - 1690 # Hostel (2005)
       - 1691 # Hostel: Part II (2007)
       - 71670 # Hostel: Part III (2011)
@@ -1346,6 +1373,7 @@ collections:
     template: { name: TMDB theme label, theme_name: time_travel }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 869 # Planet of the Apes (2001)
 
   Theme__tragicomedies:
     template: { name: TMDB theme label, theme_name: tragicomedies }
