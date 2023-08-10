@@ -85,6 +85,7 @@ collections:
     tmdb_movie:
       - 315837 # Ghost in the Shell (2017)
       - 60015 # Novo (2002)
+      - 48138 # Unknown (2011)
 
   Theme__androids:
     template: { name: TMDB theme label, theme_name: androids }
@@ -184,6 +185,7 @@ collections:
       - 16307 # The Wicker Man (1973)
       - 65086 # The Woman in Black (2012)
       - 556694 # Three Thousand Years of Longing (2022)
+      - 48138 # Unknown (2011)
       - 57212 # War Horse (2011)
       - 71859 # We Need to Talk About Kevin (2011)
       - 682507 # Where the Crawdads Sing (2022)
@@ -383,6 +385,7 @@ collections:
       - 180 # Minority Report (2002)
       - 10216 # Species II (1998)
       - 1541 # Thelma & Louise (1991)
+      - 48138 # Unknown (2011)
 
   Theme__christmas:
     template: { name: TMDB theme label, theme_name: christmas }
@@ -900,6 +903,7 @@ collections:
       - 67913 # The Guard (2011)
       - 629 # The Usual Suspects (1995)
       - 16307 # The Wicker Man (1973)
+      - 48138 # Unknown (2011)
       - 71859 # We Need to Talk About Kevin (2011)
       - 682507 # Where the Crawdads Sing (2022)
       - 760104 # X (2022)
@@ -1070,6 +1074,7 @@ collections:
       - 694 # The Shining (1980)
       - 65086 # The Woman in Black (2012)
       - 9741 # Unbreakable (2000)
+      - 48138 # Unknown (2011)
       - 71859 # We Need to Talk About Kevin (2011)
       - 112355 # What the Peeper Saw (1972)
 
