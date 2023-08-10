@@ -1246,6 +1246,7 @@ collections:
       - 487558 # BlacKkKlansman (2018)
       - 497698 # Black Widow (2021)
       - 27576 # Salt (2010)
+      - 9488 # Spy Kids 2: Island of Lost Dreams (2002)
 
   Theme__splatter:
     template: { name: TMDB theme label, theme_name: splatter }

@@ -336,6 +336,12 @@ collections:
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
 
+  Series__Spy_Kids_2001:
+    template:
+      { name: TMDB series label, series_name: Spy_Kids, series_year: 2001 }
+    tmdb_movie:
+      - 9488 # Spy Kids 2: Island of Lost Dreams (2002)
+
   Series__Star_Trek_2009:
     template:
       { name: TMDB series label, series_name: Star_Trek, series_year: 2009 }
