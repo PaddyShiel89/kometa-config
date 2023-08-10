@@ -286,6 +286,12 @@ collections:
       - 4257 # Scary Movie 4 (2006)
       - 4258 # Scary Movie 5 (2013)
 
+  Series__Scooby_Doo_2002:
+    template:
+      { name: TMDB series label, series_name: Scooby_Doo, series_year: 2002 }
+    tmdb_movie:
+      - 9637 # Scooby-Doo (2002)
+
   Series__Scream_1996:
     template:
       { name: TMDB series label, series_name: Scream, series_year: 1996 }
