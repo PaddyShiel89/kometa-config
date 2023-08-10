@@ -183,6 +183,7 @@ collections:
       - 15121 # The Sound of Music (1965)
       - 1091 # The Thing (1982)
       - 16307 # The Wicker Man (1973)
+      - 630 # The Wizard of Oz (1939)
       - 65086 # The Woman in Black (2012)
       - 556694 # Three Thousand Years of Longing (2022)
       - 48138 # Unknown (2011)
@@ -518,6 +519,7 @@ collections:
     tmdb_movie:
       - 27205 # Inception (2010)
       - 756999 # The Black Phone (2021)
+      - 630 # The Wizard of Oz (1939)
 
   Theme__drugs:
     template: { name: TMDB theme label, theme_name: drugs }
@@ -815,6 +817,7 @@ collections:
       - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
       - 122 # The Lord of the Rings: The Return of the King (2003)
       - 121 # The Lord of the Rings: The Two Towers (2002)
+      - 630 # The Wizard of Oz (1939)
       - 556694 # Three Thousand Years of Longing (2022)
       - 38319 # Your Highness (2011)
 

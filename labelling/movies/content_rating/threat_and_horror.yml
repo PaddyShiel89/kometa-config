@@ -20,6 +20,7 @@ collections:
           - ID__000001892F # Return of the Jedi (1983) [Project 4K83]
           - ID__000000808A # Shrek (2001)
           - ID__000015121A # The Sound of Music (1965)
+          - ID__000000630A # The Wizard of Oz (1939)
 
   BBFC threat and horror lvl 2:
     template:
