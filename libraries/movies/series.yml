@@ -67,6 +67,16 @@ collections:
     content_rating: gb/18
     summary: "An American slasher-horror film series, featuring young aspiring actress Maxine Mink and aging housewife Pearl."
 
+  The Wizarding World:
+    template:
+      - name: Smart series
+        label_list:
+          - Series__Fantasic_Beasts_2016
+          - "Series: Harry Potter (2001)"
+    sort_title: Wizarding World
+    content_rating: gb/12
+    summary: "A fantasy franchise and shared fictional universe centred on the Harry Potter series."
+
   DC Extended Universe:
     template:
       - name: Series
