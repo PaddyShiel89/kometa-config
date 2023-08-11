@@ -84,6 +84,7 @@ collections:
     template: { name: TMDB theme label, theme_name: amnesia }
     tmdb_movie:
       - 315837 # Ghost in the Shell (2017)
+      - 259316 # Fantastic Beasts and Where to Find Them (2016)
       - 60015 # Novo (2002)
       - 48138 # Unknown (2011)
 
@@ -816,6 +817,7 @@ collections:
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
+      - 259316 # Fantastic Beasts and Where to Find Them (2016)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 634649 # Spider-Man: No Way Home (2021)
@@ -879,9 +881,10 @@ collections:
       - 8077 # Alien³ (1992)
       - 679 # Aliens (1986)
       - 59678 # Attack the Block (2011)
+      - 259316 # Fantastic Beasts and Where to Find Them (2016)
+      - 17796 # Freaked (1993)
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
-      - 17796 # Freaked (1993)
       - 37958 # Immortals (2011)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)

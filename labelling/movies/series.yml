@@ -118,6 +118,16 @@ collections:
     tmdb_movie:
       - 524434 # Eternals (2021)
 
+  Series__Fantasic_Beasts_2016:
+    template:
+      {
+        name: TMDB series label,
+        series_name: Fantasic_Beasts,
+        series_year: 2016,
+      }
+    tmdb_movie:
+      - 259316 # Fantastic Beasts and Where to Find Them (2016)
+
   Series__Ghostbusters_1984:
     template:
       { name: TMDB series label, series_name: Ghostbusters, series_year: 1984 }

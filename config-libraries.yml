@@ -65,6 +65,7 @@ libraries:
       - repo: metadata/movies/Dressage (1986) {tmdb-101875}
       - repo: metadata/movies/Emmanuelle (1974) {tmdb-24402}
       - repo: metadata/movies/Eternals (2021) {tmdb-524434}
+      - repo: metadata/movies/Fantastic Beasts and Where to Find Them (2016) {tmdb-259316}
       - repo: metadata/movies/Forgetting Sarah Marshall (2008) {tmdb-9870}
       - repo: metadata/movies/Freaked (1993) {tmdb-17796}
       - repo: metadata/movies/Frost-Nixon (2008) {tmdb-11499}
