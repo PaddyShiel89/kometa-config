@@ -211,6 +211,7 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_a_play }
     tmdb_movie:
       - 11499 # Frost/Nixon (2008)
+      - 11631 # Mamma Mia! (2008)
       - 17917 # Oliver! (1968)
       - 10653 # The Seven Year Itch (1955)
       - 15121 # The Sound of Music (1965)
@@ -342,6 +343,7 @@ collections:
       - 51540 # Horrible Bosses (2011)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
+      - 11631 # Mamma Mia! (2008)
       - 9637 # Scooby-Doo (2002)
       - 808 # Shrek (2001)
       - 7350 # The Bucket List (2007)
@@ -616,6 +618,7 @@ collections:
       - 42695 # I Am Curious (Yellow) (1967)
       - 43947 # I Spit on Your Grave (2010)
       - 1995 # Lara Croft: Tomb Raider (2001)
+      - 11631 # Mamma Mia! (2008)
       - 949423 # Pearl (2022)
       - 4348 # Pride & Prejudice (2005)
       - 1576 # Resident Evil (2002)
