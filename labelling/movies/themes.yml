@@ -377,6 +377,7 @@ collections:
     tmdb_movie:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
+      - 62463 # Raining Stones (1993)
       - 242 # The Godfather Part III (1990)
       - 15121 # The Sound of Music (1965)
 
@@ -1111,6 +1112,7 @@ collections:
     tmdb_movie:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
+      - 62463 # Raining Stones (1993)
       - 424 # Schindler's List (1993)
       - 20504 # The Book of Eli (2010)
       - 75174 # The Grey (2011)
