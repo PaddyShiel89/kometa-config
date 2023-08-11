@@ -186,6 +186,8 @@ collections:
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000024402A # Emmanuelle (1974)
           - ID__000524434A # Eternals (2021)
+          - ID__000259316A # Fantastic Beasts and Where to Find Them (2016)
+          - ID__000338952A # Fantastic Beasts: The Crimes of Grindelwald (2018)
           - ID__000009870A # Forgetting Sarah Marshall (2008)
           - ID__000017796A # Freaked (1993)
           - ID__000011499A # Frost/Nixon (2008)
@@ -226,6 +228,7 @@ collections:
           - ID__000000101A # Léon: The Professional (1995) [Theatrical cut]
           - ID__000000101B # Léon: The Professional (1995) [Director's cut]
           - ID__000010867B # Malèna (2000) [International cut]
+          - ID__000011631A # Mamma Mia! (2008)
           - ID__000000180A # Minority Report (2002)
           - ID__000075900A # My Week with Marilyn (2011)
           - ID__000002059A # National Treasure (2004)
@@ -243,6 +246,7 @@ collections:
           - ID__000010753A # Police Story 2 (1988) [Original Hong Kong cut]
           - ID__000010753B # Police Story 2 (1988) [Uncut restoration]
           - ID__000004348A # Pride & Prejudice (2005)
+          - ID__000062463A # Raining Stones (1993)
           - ID__000000641A # Requiem for a Dream (2000)
           - ID__000001576A # Resident Evil (2002)
           - ID__000035791A # Resident Evil: Afterlife (2010)
@@ -260,6 +264,7 @@ collections:
           - ID__000004257A # Scary Movie 4 (2006)
           - ID__000004258A # Scary Movie 5 (2013)
           - ID__000000424A # Schindler's List (1993)
+          - ID__000009637A # Scooby-Doo (2002)
           - ID__000934433A # Scream VI (2023)
           - ID__000566525A # Shang-Chi and the Legend of the Ten Rings (2021)
           - ID__000000808A # Shrek (2001)
@@ -272,6 +277,7 @@ collections:
           - ID__000634649A # Spider-Man: Far from Home (2019)
           - ID__000634649A # Spider-Man: No Way Home (2021)
           - ID__000381288A # Split (2016)
+          - ID__000009488A # Spy Kids 2: Island of Lost Dreams (2002)
           - ID__000054138A # Star Trek Into Darkness (2013)
           - ID__000012180A # Star Wars: The Clone Wars (2008)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
@@ -332,6 +338,7 @@ collections:
           - ID__000016307A # The Wicker Man (1973) [UK theatrical cut]
           - ID__000016307B # The Wicker Man (1973) [Director's cut]
           - ID__000016307C # The Wicker Man (1973) [The Final Cut]
+          - ID__000000630A # The Wizard of Oz (1939)
           - ID__000065086A # The Woman in Black (2012)
           - ID__000001541A # Thelma & Louise (1991)
           - ID__000556694A # Three Thousand Years of Longing (2022)
@@ -339,10 +346,12 @@ collections:
           - ID__000616037A # Thor: Love and Thunder (2022)
           - ID__000359940A # Three Billboards Outside Ebbing, Missouri (2017)
           - ID__000000597A # Titanic (1997)
+          - ID__000059108A # Tower Heist (2011)
           - ID__000023202A # Trick 'r Treat (2007)
           - ID__000007446A # Tropic Thunder (2008)
           - ID__000009741A # Unbreakable (2000)
           - ID__000335787A # Uncharted (2022)
+          - ID__000048138A # Unknown (2011)
           - ID__000005038A # Vicky Cristina Barcelona (2008)
           - ID__000057212A # War Horse (2011)
           - ID__000059440A # Warrior (2011)

@@ -1,0 +1,20 @@
+metadata:
+  Raining Stones:
+    title: Raining Stones
+    year: 1993
+    edition_filter: Theatrical cut
+    sort_title: Raining Stones (1993)
+    content_rating: gb/15
+    country.sync: [United Kingdom]
+    director.sync: [Ken Loach]
+    genre.sync: [Comedy, Drama]
+    originally_available: 1993-05-23
+    producer.sync: [Sally Hibbin]
+    studio: Channel Four Films
+    summary: Proud, though poor, Bob wants his little girl to have a beautiful new dress for her First Communion. But his stubbornness and determination get him into trouble.
+    writer.sync: [Jim Allen]
+    label: [ID__000062463A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

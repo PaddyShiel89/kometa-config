@@ -118,6 +118,17 @@ collections:
     tmdb_movie:
       - 524434 # Eternals (2021)
 
+  Series__Fantasic_Beasts_2016:
+    template:
+      {
+        name: TMDB series label,
+        series_name: Fantasic_Beasts,
+        series_year: 2016,
+      }
+    tmdb_movie:
+      - 259316 # Fantastic Beasts and Where to Find Them (2016)
+      - 338952 # Fantastic Beasts: The Crimes of Grindelwald (2018)
+
   Series__Ghostbusters_1984:
     template:
       { name: TMDB series label, series_name: Ghostbusters, series_year: 1984 }
@@ -286,6 +297,12 @@ collections:
       - 4257 # Scary Movie 4 (2006)
       - 4258 # Scary Movie 5 (2013)
 
+  Series__Scooby_Doo_2002:
+    template:
+      { name: TMDB series label, series_name: Scooby_Doo, series_year: 2002 }
+    tmdb_movie:
+      - 9637 # Scooby-Doo (2002)
+
   Series__Scream_1996:
     template:
       { name: TMDB series label, series_name: Scream, series_year: 1996 }
@@ -329,6 +346,12 @@ collections:
       - 315635 # Spider-Man: Homecoming (2017)
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
+
+  Series__Spy_Kids_2001:
+    template:
+      { name: TMDB series label, series_name: Spy_Kids, series_year: 2001 }
+    tmdb_movie:
+      - 9488 # Spy Kids 2: Island of Lost Dreams (2002)
 
   Series__Star_Trek_2009:
     template:

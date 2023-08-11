@@ -1,0 +1,21 @@
+metadata:
+  Scooby-Doo:
+    title: Scooby-Doo
+    year: 2002
+    edition_filter: Theatrical cut
+    sort_title: Scooby-Doo (2002) 001
+    content_rating: gb/PG
+    country.sync: [Australia, United States of America]
+    director.sync: [Raja Gosnell]
+    genre.sync: [Adventure, Comedy, Family, Fantasy, Mystery]
+    originally_available: 2002-06-08
+    producer.sync: [Charles Roven, Richard Suckle]
+    studio: Atlas Entertainment
+    summary: After an acrimonious break-up, the Mystery Inc. gang is brought to an island resort to investigate some strange occurrences.
+    tagline: Zoinks!
+    writer.sync: [James Gunn, Craig Titley]
+    label: [ID__000009637A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

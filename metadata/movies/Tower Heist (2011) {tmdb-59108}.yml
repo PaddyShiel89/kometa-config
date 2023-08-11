@@ -1,0 +1,29 @@
+metadata:
+  Tower Heist:
+    title: Tower Heist
+    year: 2011
+    edition_filter: Theatrical cut
+    sort_title: Tower Heist (2011)
+    content_rating: gb/12
+    country.sync: [Japan, United States of America]
+    director.sync: [Brett Ratner]
+    genre.sync: [Action, Comedy, Crime]
+    originally_available: 2011-10-24
+    producer.sync: [Brian Grazer, Eddie Murphy, Kim Roth]
+    studio: Relativity Media
+    summary: When a group of hard-working guys discover they've fallen victim to their wealthy employer's Ponzi scheme, they conspire to rob his high-rise residence.
+    tagline: It's not just a robbery. It's payback.
+    writer.sync:
+      [
+        Adam Cooper,
+        Bill Collage,
+        Ted Griffin,
+        Jeff Nathanson,
+        Solomon J. LeFlore,
+        Eric Ehrenhaus,
+      ]
+    label: [ID__000059108A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
