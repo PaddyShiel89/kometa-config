@@ -78,6 +78,7 @@ collections:
       - 180 # Minority Report (2002)
       - 588 # Silent Hill (2006)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 577922 # Tenet (2020)
       - 5876 # The Mist (2007)
 
   Theme__amnesia:
@@ -1264,6 +1265,7 @@ collections:
       - 497698 # Black Widow (2021)
       - 27576 # Salt (2010)
       - 9488 # Spy Kids 2: Island of Lost Dreams (2002)
+      - 577922 # Tenet (2020)
 
   Theme__splatter:
     template: { name: TMDB theme label, theme_name: splatter }
@@ -1395,6 +1397,7 @@ collections:
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 54138 # Star Trek Into Darkness (2013)
       - 3989 # Team America: World Police (2004)
+      - 577922 # Tenet (2020)
       - 7446 # Tropic Thunder (2008)
 
   Theme__time_travel:
@@ -1402,6 +1405,7 @@ collections:
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
       - 869 # Planet of the Apes (2001)
+      - 577922 # Tenet (2020)
 
   Theme__tragicomedies:
     template: { name: TMDB theme label, theme_name: tragicomedies }
@@ -1449,6 +1453,11 @@ collections:
       - 424 # Schindler's List (1993)
       - 45269 # The King's Speech (2010)
       - 49538 # X-Men: First Class (2011)
+
+  Theme__world_war_iii:
+    template: { name: TMDB theme label, theme_name: world_war_iii }
+    tmdb_movie:
+      - 577922 # Tenet (2020)
 
   Theme__zombies:
     template: { name: TMDB theme label, theme_name: zombies }
