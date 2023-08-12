@@ -78,6 +78,7 @@ collections:
       - 180 # Minority Report (2002)
       - 588 # Silent Hill (2006)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 577922 # Tenet (2020)
       - 5876 # The Mist (2007)
 
   Theme__amnesia:
@@ -820,6 +821,7 @@ collections:
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 259316 # Fantastic Beasts and Where to Find Them (2016)
       - 338952 # Fantastic Beasts: The Crimes of Grindelwald (2018)
+      - 338953 # Fantastic Beasts: The Secrets of Dumbledore (2022)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 634649 # Spider-Man: No Way Home (2021)
@@ -884,6 +886,7 @@ collections:
       - 679 # Aliens (1986)
       - 59678 # Attack the Block (2011)
       - 259316 # Fantastic Beasts and Where to Find Them (2016)
+      - 338953 # Fantastic Beasts: The Secrets of Dumbledore (2022)
       - 17796 # Freaked (1993)
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
@@ -1262,6 +1265,7 @@ collections:
       - 497698 # Black Widow (2021)
       - 27576 # Salt (2010)
       - 9488 # Spy Kids 2: Island of Lost Dreams (2002)
+      - 577922 # Tenet (2020)
 
   Theme__splatter:
     template: { name: TMDB theme label, theme_name: splatter }
@@ -1393,6 +1397,7 @@ collections:
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 54138 # Star Trek Into Darkness (2013)
       - 3989 # Team America: World Police (2004)
+      - 577922 # Tenet (2020)
       - 7446 # Tropic Thunder (2008)
 
   Theme__time_travel:
@@ -1400,6 +1405,7 @@ collections:
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
       - 869 # Planet of the Apes (2001)
+      - 577922 # Tenet (2020)
 
   Theme__tragicomedies:
     template: { name: TMDB theme label, theme_name: tragicomedies }
@@ -1447,6 +1453,11 @@ collections:
       - 424 # Schindler's List (1993)
       - 45269 # The King's Speech (2010)
       - 49538 # X-Men: First Class (2011)
+
+  Theme__world_war_iii:
+    template: { name: TMDB theme label, theme_name: world_war_iii }
+    tmdb_movie:
+      - 577922 # Tenet (2020)
 
   Theme__zombies:
     template: { name: TMDB theme label, theme_name: zombies }

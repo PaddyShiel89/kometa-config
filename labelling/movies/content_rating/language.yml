@@ -12,6 +12,7 @@ collections:
       any:
         label:
           - ID__000020352A # Despicable Me (2010)
+          - ID__000338952A # Fantastic Beasts: The Crimes of Grindelwald (2018)
           - ID__000000808A # Shrek (2001)
           - ID__000000011A # Star Wars (1977) [Theatrical cut]
           - ID__000000011B # Star Wars (1977) [Special edition]
@@ -43,6 +44,7 @@ collections:
           - ID__000284052A # Doctor Strange (2016)
           - ID__000453395A # Doctor Strange in the Multiverse of Madness (2022)
           - ID__000259316A # Fantastic Beasts and Where to Find Them (2016)
+          - ID__000338953A # Fantastic Beasts: The Secrets of Dumbledore (2022)
           - ID__000000620A # Ghostbusters (1984)
           - ID__000002978A # Ghostbusters II (1989)
           - ID__000027205A # Inception (2010)
@@ -81,6 +83,7 @@ collections:
           - ID__000068721A # Iron Man 3 (2013)
           - ID__000566525A # Shang-Chi and the Legend of the Ten Rings (2021)
           - ID__000634649A # Spider-Man: Far from Home (2019)
+          - ID__000577922A # Tenet (2020)
           - ID__000009340A # The Goonies (1985)
           - ID__000101299A # The Hunger Games: Catching Fire (2013)
           - ID__000045269A # The King's Speech (2010)
