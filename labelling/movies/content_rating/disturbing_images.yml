@@ -13,3 +13,14 @@ collections:
         label:
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000000022A # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+
+  BBFC disturbing images lvl 3:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: disturbing_images
+        level: 3
+    plex_search:
+      any:
+        label:
+          - ID__000338952A # Fantastic Beasts: The Crimes of Grindelwald (2018)
