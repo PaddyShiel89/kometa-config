@@ -1,0 +1,44 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Jurassic World Dominion [Theatrical cut]":
+    title: Jurassic World Dominion
+    year: 2022
+    edition_filter: Theatrical cut
+    sort_title: Jurassic World (2015) 003A
+    content_rating: gb/12
+    country.sync: [China, Malta, United States of America]
+    director.sync: [Colin Trevorrow]
+    genre.sync: [Action, Adventure, Science Fiction, Thriller]
+    originally_available: 2022-05-23
+    producer.sync: [Patrick Crowley, Frank Marshall]
+    studio: Amblin Entertainment
+    summary: Four years after the destruction of Isla Nublar, Biosyn attempts to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.
+    tagline: It all started here.
+    writer.sync: [Emily Carmichael, Colin Trevorrow, Derek Connolly]
+    label: [ID__000507086A]
+
+  "Jurassic World Dominion [Extended edition]":
+    title: Jurassic World Dominion
+    year: 2022
+    edition_filter: Extended edition
+    sort_title: Jurassic World (2015) 003B
+    content_rating: gb/12
+    country.sync: [China, Malta, United States of America]
+    director.sync: [Colin Trevorrow]
+    genre.sync: [Action, Adventure, Science Fiction, Thriller]
+    originally_available: 2022-05-23
+    producer.sync: [Patrick Crowley, Frank Marshall]
+    studio: Amblin Entertainment
+    summary: Four years after the destruction of Isla Nublar, Biosyn attempts to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.
+    tagline: It all started here.
+    writer.sync: [Emily Carmichael, Colin Trevorrow, Derek Connolly]
+    label: [ID__000507086B]
+
+collections:
+  "Jurassic World Dominion":
+    template: { name: Edition }
+    tmdb_movie: 507086
+    sort_title: Jurassic World (2015) 003
+    summary: Four years after the destruction of Isla Nublar, Biosyn attempts to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.

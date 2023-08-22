@@ -53,6 +53,7 @@ libraries:
       - repo: metadata/movies/Che Part Two (2008) {tmdb-8880}
       - repo: metadata/movies/Choke (2008) {tmdb-13973}
       - repo: metadata/movies/City of God (2002) {tmdb-598}
+      - repo: metadata/movies/Constantine (2005) {tmdb-561}
       - repo: metadata/movies/Crash (1996) {tmdb-884}
       - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
       - repo: metadata/movies/Desire (2011) {tmdb-86331}
@@ -104,6 +105,7 @@ libraries:
       - repo: metadata/movies/John Wick Chapter 3 - Parabellum (2019) {tmdb-458156}
       - repo: metadata/movies/John Wick Chapter 4 (2023) {tmdb-603692}
       - repo: metadata/movies/Joker (2019) {tmdb-475557}
+      - repo: metadata/movies/Jurassic World Dominion (2022) {tmdb-507086}
       - repo: metadata/movies/King Kong (2005) {tmdb-254}
       - repo: metadata/movies/L.A. Confidential (1997) {tmdb-2118}
       - repo: metadata/movies/Ladder 49 (2004) {tmdb-11128}
@@ -115,6 +117,7 @@ libraries:
       - repo: metadata/movies/Mamma Mia! (2008) {tmdb-11631}
       - repo: metadata/movies/Martha Marcy May Marlene (2011) {tmdb-50837}
       - repo: metadata/movies/Minority Report (2002) {tmdb-180}
+      - repo: metadata/movies/Mulholland Drive (2001) {tmdb-1018}
       - repo: metadata/movies/My Week with Marilyn (2011) {tmdb-75900}
       - repo: metadata/movies/National Treasure (2004) {tmdb-2059}
       - repo: metadata/movies/National Treasure Book of Secrets (2007) {tmdb-6637}
@@ -210,6 +213,7 @@ libraries:
       - repo: metadata/movies/The Hunger Games Catching Fire (2013) {tmdb-101299}
       - repo: metadata/movies/The Hunger Games Mockingjay - Part 1 (2014) {tmdb-131631}
       - repo: metadata/movies/The Hunger Games Mockingjay - Part 2 (2015) {tmdb-131634}
+      - repo: metadata/movies/The Karate Kid (2010) {tmdb-38575}
       - repo: metadata/movies/The King's Speech (2010) {tmdb-45269}
       - repo: metadata/movies/The Last Picture Show (1971) {tmdb-25188}
       - repo: metadata/movies/The Look of Love (2013) {tmdb-158914}

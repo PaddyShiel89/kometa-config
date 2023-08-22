@@ -86,6 +86,7 @@ collections:
     tmdb_movie:
       - 315837 # Ghost in the Shell (2017)
       - 259316 # Fantastic Beasts and Where to Find Them (2016)
+      - 1018 # Mulholland Drive (2001)
       - 60015 # Novo (2002)
       - 48138 # Unknown (2011)
 
@@ -200,6 +201,7 @@ collections:
       - 53182 # 300: Rise of an Empire (2014)
       - 640146 # Ant-Man and the Wasp: Quantumania (2023)
       - 341013 # Atomic Blonde (2017)
+      - 561 # Constantine (2005)
       - 315837 # Ghost in the Shell (2017)
       - 475557 # Joker (2019)
       - 8285 # The Spirit (2008)
@@ -378,6 +380,7 @@ collections:
     tmdb_movie:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
+      - 561 # Constantine (2005)
       - 62463 # Raining Stones (1993)
       - 242 # The Godfather Part III (1990)
       - 15121 # The Sound of Music (1965)
@@ -389,6 +392,7 @@ collections:
       - 501170 # Doctor Sleep (2019)
       - 50456 # Hanna (2011)
       - 371645 # Hunt for the Wilderpeople (2016)
+      - 507086 # Jurassic World Dominion (2022)
       - 180 # Minority Report (2002)
       - 10216 # Species II (1998)
       - 1541 # Thelma & Louise (1991)
@@ -439,6 +443,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 38575 # The Karate Kid (2010)
       - 25188 # The Last Picture Show (1971)
       - 682507 # Where the Crawdads Sing (2022)
 
@@ -483,6 +488,7 @@ collections:
   Theme__demons:
     template: { name: TMDB theme label, theme_name: demons }
     tmdb_movie:
+      - 561 # Constantine (2005)
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 346364 # It (2017)
@@ -492,6 +498,11 @@ collections:
       - 9637 # Scooby-Doo (2002)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 882598 # Smile (2022)
+
+  Theme__dinosaurs:
+    template: { name: TMDB theme label, theme_name: dinosaurs }
+    tmdb_movie:
+      - 507086 # Jurassic World Dominion (2022)
 
   Theme__disability:
     template: { name: TMDB theme label, theme_name: disability }
@@ -518,12 +529,14 @@ collections:
       - 20546 # Goodnight, Mister Tom (1998)
       - 50837 # Martha Marcy May Marlene (2011)
       - 65754 # The Girl with the Dragon Tattoo (2011)
+      - 38575 # The Karate Kid (2010)
       - 694 # The Shining (1980)
 
   Theme__dreams:
     template: { name: TMDB theme label, theme_name: dreams }
     tmdb_movie:
       - 27205 # Inception (2010)
+      - 1018 # Mulholland Drive (2001)
       - 756999 # The Black Phone (2021)
       - 630 # The Wizard of Oz (1939)
 
@@ -584,6 +597,7 @@ collections:
     tmdb_movie:
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
+      - 1018 # Mulholland Drive (2001)
       - 17680 # The Girlfriend Experience (2009)
 
   Theme__fairytales:
@@ -623,6 +637,7 @@ collections:
       - 43947 # I Spit on Your Grave (2010)
       - 1995 # Lara Croft: Tomb Raider (2001)
       - 11631 # Mamma Mia! (2008)
+      - 1018 # Mulholland Drive (2001)
       - 949423 # Pearl (2022)
       - 4348 # Pride & Prejudice (2005)
       - 1576 # Resident Evil (2002)
@@ -794,6 +809,7 @@ collections:
       - 24402 # Emmanuelle (1974)
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
+      - 1018 # Mulholland Drive (2001)
       - 48650 # Room in Rome (2010)
       - 35712 # Secret Things (2002)
       - 9676 # The Black Dahlia (2006)
@@ -844,6 +860,7 @@ collections:
       - 284052 # Doctor Strange (2016)
       - 10753 # Police Story 2 (1988)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
+      - 38575 # The Karate Kid (2010)
       - 94329 # The Raid (2011)
       - 180299 # The Raid 2 (2014)
       - 59440 # Warrior (2011)
@@ -885,6 +902,7 @@ collections:
       - 8077 # Alien³ (1992)
       - 679 # Aliens (1986)
       - 59678 # Attack the Block (2011)
+      - 561 # Constantine (2005)
       - 259316 # Fantastic Beasts and Where to Find Them (2016)
       - 338953 # Fantastic Beasts: The Secrets of Dumbledore (2022)
       - 17796 # Freaked (1993)
@@ -893,6 +911,7 @@ collections:
       - 37958 # Immortals (2011)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
+      - 507086 # Jurassic World Dominion (2022)
       - 254 # King Kong (2005)
       - 762504 # Nope (2022)
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
@@ -970,6 +989,7 @@ collections:
       - 475557 # Joker (2019)
       - 2118 # L.A. Confidential (1997)
       - 180 # Minority Report (2002)
+      - 1018 # Mulholland Drive (2001)
       - 9676 # The Black Dahlia (2006)
       - 8285 # The Spirit (2008)
       - 629 # The Usual Suspects (1995)
@@ -983,6 +1003,7 @@ collections:
       - 8881 # Che: Part One (2008)
       - 598 # City of God (2002)
       - 210577 # Gone Girl (2014)
+      - 1018 # Mulholland Drive (2001)
       - 20766 # The Road (2009)
       - 37799 # The Social Network (2010)
       - 597 # Titanic (1997)
@@ -991,6 +1012,7 @@ collections:
     template: { name: TMDB theme label, theme_name: orphans }
     tmdb_movie:
       - 20352 # Despicable Me (2010)
+      - 507086 # Jurassic World Dominion (2022)
       - 101 # Léon: The Professional (1995)
       - 17917 # Oliver! (1968)
       - 348350 # Solo: A Star Wars Story (2018)
@@ -1116,6 +1138,7 @@ collections:
     tmdb_movie:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
+      - 561 # Constantine (2005)
       - 62463 # Raining Stones (1993)
       - 424 # Schindler's List (1993)
       - 20504 # The Book of Eli (2010)
@@ -1305,6 +1328,7 @@ collections:
     template: { name: TMDB theme label, theme_name: suicide }
     tmdb_movie:
       - 470 # 21 Grams (2003)
+      - 561 # Constantine (2005)
       - 619730 # Don't Worry Darling (2022)
       - 27205 # Inception (2010)
       - 882598 # Smile (2022)
@@ -1322,6 +1346,7 @@ collections:
       - 531309 # Brightburn (2019)
       - 1771 # Captain America: The First Avenger (2011)
       - 299537 # Captain Marvel (2019)
+      - 561 # Constantine (2005)
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 524434 # Eternals (2021)
@@ -1347,6 +1372,7 @@ collections:
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }
     tmdb_movie:
+      - 561 # Constantine (2005)
       - 501170 # Doctor Sleep (2019)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 620 # Ghostbusters (1984)
@@ -1373,6 +1399,11 @@ collections:
       - 65086 # The Woman in Black (2012)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
+
+  Theme__surreal:
+    template: { name: TMDB theme label, theme_name: surreal }
+    tmdb_movie:
+      - 1018 # Mulholland Drive (2001)
 
   Theme__survival:
     template: { name: TMDB theme label, theme_name: survival }

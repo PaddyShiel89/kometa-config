@@ -1,0 +1,22 @@
+metadata:
+  Mulholland Drive:
+    title: Mulholland Drive
+    year: 2001
+    edition_filter: Theatrical cut
+    sort_title: Mulholland Drive (2001)
+    content_rating: gb/15
+    country.sync: [France, United States of America]
+    director.sync: [David Lynch]
+    genre.sync: [Drama, Mystery, Thriller]
+    originally_available: 2001-05-16
+    producer.sync:
+      [Neal Edelstein, Tony Krantz, Michael Polaire, Alain Sarde, Mary Sweeney]
+    studio: Asymmetrical Productions
+    summary: After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for answers in a twisting venture beyond dreams and reality.
+    tagline: Beware what you dream for...
+    writer.sync: [David Lynch]
+    label: [ID__000001018A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
