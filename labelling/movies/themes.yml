@@ -86,6 +86,7 @@ collections:
     tmdb_movie:
       - 315837 # Ghost in the Shell (2017)
       - 259316 # Fantastic Beasts and Where to Find Them (2016)
+      - 1018 # Mulholland Drive (2001)
       - 60015 # Novo (2002)
       - 48138 # Unknown (2011)
 
@@ -524,6 +525,7 @@ collections:
     template: { name: TMDB theme label, theme_name: dreams }
     tmdb_movie:
       - 27205 # Inception (2010)
+      - 1018 # Mulholland Drive (2001)
       - 756999 # The Black Phone (2021)
       - 630 # The Wizard of Oz (1939)
 
@@ -584,6 +586,7 @@ collections:
     tmdb_movie:
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
+      - 1018 # Mulholland Drive (2001)
       - 17680 # The Girlfriend Experience (2009)
 
   Theme__fairytales:
@@ -623,6 +626,7 @@ collections:
       - 43947 # I Spit on Your Grave (2010)
       - 1995 # Lara Croft: Tomb Raider (2001)
       - 11631 # Mamma Mia! (2008)
+      - 1018 # Mulholland Drive (2001)
       - 949423 # Pearl (2022)
       - 4348 # Pride & Prejudice (2005)
       - 1576 # Resident Evil (2002)
@@ -794,6 +798,7 @@ collections:
       - 24402 # Emmanuelle (1974)
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
+      - 1018 # Mulholland Drive (2001)
       - 48650 # Room in Rome (2010)
       - 35712 # Secret Things (2002)
       - 9676 # The Black Dahlia (2006)
@@ -970,6 +975,7 @@ collections:
       - 475557 # Joker (2019)
       - 2118 # L.A. Confidential (1997)
       - 180 # Minority Report (2002)
+      - 1018 # Mulholland Drive (2001)
       - 9676 # The Black Dahlia (2006)
       - 8285 # The Spirit (2008)
       - 629 # The Usual Suspects (1995)
@@ -983,6 +989,7 @@ collections:
       - 8881 # Che: Part One (2008)
       - 598 # City of God (2002)
       - 210577 # Gone Girl (2014)
+      - 1018 # Mulholland Drive (2001)
       - 20766 # The Road (2009)
       - 37799 # The Social Network (2010)
       - 597 # Titanic (1997)
@@ -1373,6 +1380,11 @@ collections:
       - 65086 # The Woman in Black (2012)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
+
+  Theme__surreal:
+    template: { name: TMDB theme label, theme_name: surreal }
+    tmdb_movie:
+      - 1018 # Mulholland Drive (2001)
 
   Theme__survival:
     template: { name: TMDB theme label, theme_name: survival }

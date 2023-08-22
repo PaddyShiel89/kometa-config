@@ -115,6 +115,7 @@ libraries:
       - repo: metadata/movies/Mamma Mia! (2008) {tmdb-11631}
       - repo: metadata/movies/Martha Marcy May Marlene (2011) {tmdb-50837}
       - repo: metadata/movies/Minority Report (2002) {tmdb-180}
+      - repo: metadata/movies/Mulholland Drive (2001) {tmdb-1018}
       - repo: metadata/movies/My Week with Marilyn (2011) {tmdb-75900}
       - repo: metadata/movies/National Treasure (2004) {tmdb-2059}
       - repo: metadata/movies/National Treasure Book of Secrets (2007) {tmdb-6637}
