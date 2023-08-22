@@ -239,6 +239,18 @@ collections:
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
       - 603692 # John Wick: Chapter 4 (2023)
 
+  Series__Jurassic_World_2015:
+    template:
+      {
+        name: TMDB series label,
+        series_name: Jurassic_World,
+        series_year: 2015,
+      }
+    tmdb_movie:
+      - 135397 # Jurassic World (2015)
+      - 351286 # Jurassic World: Fallen Kingdom (2018)
+      - 507086 # Jurassic World Dominion (2022)
+
   Series__National_Treasure_2004:
     template:
       {
@@ -670,14 +682,6 @@ collections:
           - Jurassic Park (1993) 001
           - Jurassic Park (1993) 002
           - Jurassic Park (1993) 003
-
-  "Series: Jurassic World (2015)":
-    template:
-      - name: Series label
-        series: "Jurassic World (2015)"
-        title_list:
-          - Jurassic World (2015) 001
-          - Jurassic World (2015) 002
 
   "Series: Kick-Ass (2010)":
     template:

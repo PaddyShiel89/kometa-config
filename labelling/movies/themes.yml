@@ -390,6 +390,7 @@ collections:
       - 501170 # Doctor Sleep (2019)
       - 50456 # Hanna (2011)
       - 371645 # Hunt for the Wilderpeople (2016)
+      - 507086 # Jurassic World Dominion (2022)
       - 180 # Minority Report (2002)
       - 10216 # Species II (1998)
       - 1541 # Thelma & Louise (1991)
@@ -493,6 +494,11 @@ collections:
       - 9637 # Scooby-Doo (2002)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 882598 # Smile (2022)
+
+  Theme__dinosaurs:
+    template: { name: TMDB theme label, theme_name: dinosaurs }
+    tmdb_movie:
+      - 507086 # Jurassic World Dominion (2022)
 
   Theme__disability:
     template: { name: TMDB theme label, theme_name: disability }
@@ -898,6 +904,7 @@ collections:
       - 37958 # Immortals (2011)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
+      - 507086 # Jurassic World Dominion (2022)
       - 254 # King Kong (2005)
       - 762504 # Nope (2022)
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
@@ -998,6 +1005,7 @@ collections:
     template: { name: TMDB theme label, theme_name: orphans }
     tmdb_movie:
       - 20352 # Despicable Me (2010)
+      - 507086 # Jurassic World Dominion (2022)
       - 101 # Léon: The Professional (1995)
       - 17917 # Oliver! (1968)
       - 348350 # Solo: A Star Wars Story (2018)
