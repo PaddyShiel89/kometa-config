@@ -201,6 +201,7 @@ collections:
       - 53182 # 300: Rise of an Empire (2014)
       - 640146 # Ant-Man and the Wasp: Quantumania (2023)
       - 341013 # Atomic Blonde (2017)
+      - 561 # Constantine (2005)
       - 315837 # Ghost in the Shell (2017)
       - 475557 # Joker (2019)
       - 8285 # The Spirit (2008)
@@ -379,6 +380,7 @@ collections:
     tmdb_movie:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
+      - 561 # Constantine (2005)
       - 62463 # Raining Stones (1993)
       - 242 # The Godfather Part III (1990)
       - 15121 # The Sound of Music (1965)
@@ -486,6 +488,7 @@ collections:
   Theme__demons:
     template: { name: TMDB theme label, theme_name: demons }
     tmdb_movie:
+      - 561 # Constantine (2005)
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 346364 # It (2017)
@@ -899,6 +902,7 @@ collections:
       - 8077 # Alien³ (1992)
       - 679 # Aliens (1986)
       - 59678 # Attack the Block (2011)
+      - 561 # Constantine (2005)
       - 259316 # Fantastic Beasts and Where to Find Them (2016)
       - 338953 # Fantastic Beasts: The Secrets of Dumbledore (2022)
       - 17796 # Freaked (1993)
@@ -1134,6 +1138,7 @@ collections:
     tmdb_movie:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
+      - 561 # Constantine (2005)
       - 62463 # Raining Stones (1993)
       - 424 # Schindler's List (1993)
       - 20504 # The Book of Eli (2010)
@@ -1323,6 +1328,7 @@ collections:
     template: { name: TMDB theme label, theme_name: suicide }
     tmdb_movie:
       - 470 # 21 Grams (2003)
+      - 561 # Constantine (2005)
       - 619730 # Don't Worry Darling (2022)
       - 27205 # Inception (2010)
       - 882598 # Smile (2022)
@@ -1340,6 +1346,7 @@ collections:
       - 531309 # Brightburn (2019)
       - 1771 # Captain America: The First Avenger (2011)
       - 299537 # Captain Marvel (2019)
+      - 561 # Constantine (2005)
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 524434 # Eternals (2021)
@@ -1365,6 +1372,7 @@ collections:
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }
     tmdb_movie:
+      - 561 # Constantine (2005)
       - 501170 # Doctor Sleep (2019)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 620 # Ghostbusters (1984)

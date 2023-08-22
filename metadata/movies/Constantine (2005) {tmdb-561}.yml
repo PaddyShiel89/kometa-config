@@ -1,0 +1,29 @@
+metadata:
+  Constantine:
+    title: Constantine
+    year: 2005
+    edition_filter: Theatrical cut
+    sort_title: Constantine (2005)
+    content_rating: gb/15
+    country.sync: [Germany, United States of America]
+    director.sync: [Francis Lawrence]
+    genre.sync: [Action, Fantasy, Horror, Mystery]
+    originally_available: 2005-02-07
+    producer.sync:
+      [
+        Lorenzo di Bonaventura,
+        Akiva Goldsman,
+        Benjamin Melniker,
+        Lauren Shuler Donner,
+        Erwin Stoff,
+        Michael E. Uslan,
+      ]
+    studio: Village Roadshow Pictures
+    summary: Supernatural exorcist and demonologist John Constantine helps a policewoman prove her sister's death was not a suicide, but something more.
+    tagline: Hell wants him. Heaven won't take him. Earth needs him.
+    writer.sync: [Jamie Delano, Garth Ennis, Kevin Brodbin, Frank A. Cappello]
+    label: [ID__000000561A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
