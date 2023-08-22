@@ -1,0 +1,22 @@
+metadata:
+  The Karate Kid:
+    title: The Karate Kid
+    year: 2010
+    edition_filter: Theatrical cut
+    sort_title: Karate Kid (2010)
+    content_rating: gb/PG
+    country.sync: [China, United States of America]
+    director.sync: [Harald Zwart]
+    genre.sync: [Action, Drama, Family, Sport]
+    originally_available: 2010-06-07
+    producer.sync:
+      [James Lassiter, Jada Pinkett Smith, Ken Stovitz, Jerry Weintraub]
+    studio: Columbia Pictures
+    summary: Work causes a single mother to move to China with her young son, who struggles to fit in. The boy embraces kung fu, taught to him by a master.
+    tagline: A Challenge He Never Imagined. A Teacher He Never Expected.
+    writer.sync: [Christopher Murphey, Robert Mark Kamen]
+    label: [ID__000038575A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

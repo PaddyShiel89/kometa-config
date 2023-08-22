@@ -430,6 +430,16 @@ collections:
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
 
+  Series__The_Karate_Kid_2010:
+    template:
+      {
+        name: TMDB series label,
+        series_name: The_Karate_Kid,
+        series_year: 2010,
+      }
+    tmdb_movie:
+      - 38575 # The Karate Kid (2010)
+
   Series__The_Last_Picture_Show_1971:
     template:
       {
