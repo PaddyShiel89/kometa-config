@@ -391,6 +391,7 @@ collections:
     template: { name: TMDB theme label, theme_name: chase }
     tmdb_movie:
       - 339403 # Baby Driver (2017)
+      - 9739 # Demolition Man (1993)
       - 501170 # Doctor Sleep (2019)
       - 50456 # Hanna (2011)
       - 371645 # Hunt for the Wilderpeople (2016)
@@ -562,6 +563,7 @@ collections:
   Theme__dystopian:
     template: { name: TMDB theme label, theme_name: dystopian }
     tmdb_movie:
+      - 9739 # Demolition Man (1993)
       - 315837 # Ghost in the Shell (2017)
       - 180 # Minority Report (2002)
       - 70160 # The Hunger Games (2012)
@@ -1058,6 +1060,7 @@ collections:
     tmdb_movie:
       - 487558 # BlacKkKlansman (2018)
       - 11001 # Blue Streak (1999)
+      - 9739 # Demolition Man (1993)
       - 2118 # L.A. Confidential (1997)
       - 10753 # Police Story 2 (1988)
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
@@ -1439,6 +1442,7 @@ collections:
   Theme__terrorism:
     template: { name: TMDB theme label, theme_name: terrorism }
     tmdb_movie:
+      - 9739 # Demolition Man (1993)
       - 68721 # Iron Man 3 (2013)
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 54138 # Star Trek Into Darkness (2013)

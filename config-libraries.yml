@@ -56,6 +56,7 @@ libraries:
       - repo: metadata/movies/Constantine (2005) {tmdb-561}
       - repo: metadata/movies/Crash (1996) {tmdb-884}
       - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
+      - repo: metadata/movies/Demolition Man (1993) {tmdb-9739}
       - repo: metadata/movies/Desire (2011) {tmdb-86331}
       - repo: metadata/movies/Despicable Me (2010) {tmdb-20352}
       - repo: metadata/movies/Django Unchained (2012) {tmdb-68718}
