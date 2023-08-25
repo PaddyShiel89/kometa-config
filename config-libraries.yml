@@ -53,9 +53,11 @@ libraries:
       - repo: metadata/movies/Che Part Two (2008) {tmdb-8880}
       - repo: metadata/movies/Choke (2008) {tmdb-13973}
       - repo: metadata/movies/City of God (2002) {tmdb-598}
+      - repo: metadata/movies/Christine (1983) {tmdb-8769}
       - repo: metadata/movies/Constantine (2005) {tmdb-561}
       - repo: metadata/movies/Crash (1996) {tmdb-884}
       - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
+      - repo: metadata/movies/Demolition Man (1993) {tmdb-9739}
       - repo: metadata/movies/Desire (2011) {tmdb-86331}
       - repo: metadata/movies/Despicable Me (2010) {tmdb-20352}
       - repo: metadata/movies/Django Unchained (2012) {tmdb-68718}
@@ -64,6 +66,7 @@ libraries:
       - repo: metadata/movies/Doctor Strange in the Multiverse of Madness (2022) {tmdb-453395}
       - repo: metadata/movies/Don't Worry Darling (2022) {tmdb-619730}
       - repo: metadata/movies/Dressage (1986) {tmdb-101875}
+      - repo: metadata/movies/Dungeons & Dragons Honor Among Thieves (2023) {tmdb-493529}
       - repo: metadata/movies/Emmanuelle (1974) {tmdb-24402}
       - repo: metadata/movies/Eternals (2021) {tmdb-524434}
       - repo: metadata/movies/Fantastic Beasts and Where to Find Them (2016) {tmdb-259316}
@@ -124,6 +127,7 @@ libraries:
       - repo: metadata/movies/Nope (2022) {tmdb-762504}
       - repo: metadata/movies/Novo (2002) {tmdb-60015}
       - repo: metadata/movies/Oliver! (1968) {tmdb-17917}
+      - repo: metadata/movies/Once Upon a Time… in Hollywood (2019) {tmdb-466272}
       - repo: metadata/movies/Pearl (2022) {tmdb-949423}
       - repo: metadata/movies/Pet Sematary (2019) {tmdb-157433}
       - repo: metadata/movies/Pirates of the Caribbean At World's End (2007) {tmdb-285}
@@ -262,6 +266,7 @@ libraries:
       - repo: metadata/movies/Wedding Crashers (2005) {tmdb-9522}
       - repo: metadata/movies/What the Peeper Saw (1972) {tmdb-112355}
       - repo: metadata/movies/Where the Crawdads Sing (2022) {tmdb-682507}
+      - repo: metadata/movies/Wild Things (1998) {tmdb-617}
       - repo: metadata/movies/X (2022) {tmdb-760104}
       - repo: metadata/movies/X-Men (2000) {tmdb-36657}
       - repo: metadata/movies/X-Men First Class (2011) {tmdb-49538}

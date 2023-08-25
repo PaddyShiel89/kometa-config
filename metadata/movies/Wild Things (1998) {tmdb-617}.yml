@@ -1,0 +1,48 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Wild Things [Theatrical cut]":
+    title: Wild Things
+    year: 1998
+    edition_filter: Theatrical cut
+    sort_title: Wild Things (1998) 001A
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [John McNaughton]
+    genre.sync: [Crime, Drama, Mystery, Thriller]
+    originally_available: 1998-03-20
+    producer.sync: [Steven A. Jones, Rodney Liber]
+    studio: Mandalay Entertainment
+    summary: A police detective uncovers a conspiracy behind a case involving a high-school guidance counsellor when two female students make accusations of rape against him.
+    tagline: They can turn you on or turn on you.
+    writer.sync: [Stephen Peters]
+    label: [ID__000000617A]
+
+  "Wild Things [Unrated cut]":
+    title: Wild Things
+    year: 1998
+    edition_filter: Unrated cut
+    sort_title: Wild Things (1998) 001B
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [John McNaughton]
+    genre.sync: [Crime, Drama, Mystery, Thriller]
+    originally_available: 1998-03-20
+    producer.sync: [Steven A. Jones, Rodney Liber]
+    studio: Mandalay Entertainment
+    summary: A police detective uncovers a conspiracy behind a case involving a high-school guidance counsellor when two female students make accusations of rape against him.
+    tagline: They can turn you on or turn on you.
+    writer.sync: [Stephen Peters]
+    label: [ID__000000617B]
+
+collections:
+  "Wild Things":
+    template: { name: Edition }
+    tmdb_movie: 617
+    sort_title: Wild Things (1998) 001
+    summary: A police detective uncovers a conspiracy behind a case involving a high-school guidance counsellor when two female students make accusations of rape against him.
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

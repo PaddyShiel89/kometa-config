@@ -76,6 +76,7 @@ collections:
       - 299534 # Avengers: Endgame (2019)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 180 # Minority Report (2002)
+      - 466272 # Once Upon a Time in Hollywood (2019)
       - 588 # Silent Hill (2006)
       - 634649 # Spider-Man: No Way Home (2021)
       - 577922 # Tenet (2020)
@@ -134,6 +135,7 @@ collections:
       - 8881 # Che: Part One (2008)
       - 8880 # Che: Part Two (2008)
       - 13973 # Choke (2008)
+      - 8769 # Christine (1983)
       - 598 # City of God (2002)
       - 884 # Crash (1996)
       - 501170 # Doctor Sleep (2019)
@@ -243,6 +245,7 @@ collections:
     template:
       { name: TMDB theme label, theme_name: based_on_works_by_stephen_king }
     tmdb_movie:
+      - 8769 # Christine (1983)
       - 501170 # Doctor Sleep (2019)
       - 343674 # Gerald's Game (2017)
       - 346364 # It (2017)
@@ -311,6 +314,7 @@ collections:
       - 68718 # Django Unchained (2012)
       - 17796 # Freaked (1993)
       - 51540 # Horrible Bosses (2011)
+      - 466272 # Once Upon a Time in Hollywood (2019)
       - 117974 # Sightseers (2012)
       - 3989 # Team America: World Police (2004)
       - 674324 # The Banshees of Inisherin (2022)
@@ -389,6 +393,7 @@ collections:
     template: { name: TMDB theme label, theme_name: chase }
     tmdb_movie:
       - 339403 # Baby Driver (2017)
+      - 9739 # Demolition Man (1993)
       - 501170 # Doctor Sleep (2019)
       - 50456 # Hanna (2011)
       - 371645 # Hunt for the Wilderpeople (2016)
@@ -476,6 +481,7 @@ collections:
   Theme__curses:
     template: { name: TMDB theme label, theme_name: curses }
     tmdb_movie:
+      - 8769 # Christine (1983)
       - 808 # Shrek (2001)
       - 882598 # Smile (2022)
 
@@ -560,6 +566,7 @@ collections:
   Theme__dystopian:
     template: { name: TMDB theme label, theme_name: dystopian }
     tmdb_movie:
+      - 9739 # Demolition Man (1993)
       - 315837 # Ghost in the Shell (2017)
       - 180 # Minority Report (2002)
       - 70160 # The Hunger Games (2012)
@@ -590,6 +597,7 @@ collections:
       - 46534 # Sweet Karma (2009)
       - 19976 # The Exterminating Angels (2006)
       - 645710 # The Voyeurs (2021)
+      - 617 # Wild Things
       - 760104 # X (2022)
 
   Theme__experimental:
@@ -682,6 +690,7 @@ collections:
       - 615777 # Babylon (2022)
       - 4995 # Boogie Nights (1997)
       - 42695 # I Am Curious (Yellow) (1967)
+      - 466272 # Once Upon a Time in Hollywood (2019)
       - 75900 # My Week with Marilyn (2011)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
 
@@ -744,6 +753,7 @@ collections:
       - 339403 # Baby Driver (2017)
       - 26715 # Bitch Slap (2009)
       - 11001 # Blue Streak (1999)
+      - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
       - 27205 # Inception (2010)
       - 2059 # National Treasure (2004)
       - 348350 # Solo: A Star Wars Story (2018)
@@ -754,6 +764,7 @@ collections:
   Theme__high_fantasy:
     template: { name: TMDB theme label, theme_name: high_fantasy }
     tmdb_movie:
+      - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
       - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
       - 122 # The Lord of the Rings: The Return of the King (2003)
       - 121 # The Lord of the Rings: The Two Towers (2002)
@@ -777,6 +788,7 @@ collections:
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 112355 # What the Peeper Saw (1972)
+      - 617 # Wild Things
 
   Theme__journalists:
     template: { name: TMDB theme label, theme_name: journalists }
@@ -815,6 +827,7 @@ collections:
       - 9676 # The Black Dahlia (2006)
       - 19976 # The Exterminating Angels (2006)
       - 65754 # The Girl with the Dragon Tattoo (2011)
+      - 617 # Wild Things
 
   Theme__mafia:
     template: { name: TMDB theme label, theme_name: mafia }
@@ -835,6 +848,7 @@ collections:
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
+      - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
       - 259316 # Fantastic Beasts and Where to Find Them (2016)
       - 338952 # Fantastic Beasts: The Crimes of Grindelwald (2018)
       - 338953 # Fantastic Beasts: The Secrets of Dumbledore (2022)
@@ -903,6 +917,7 @@ collections:
       - 679 # Aliens (1986)
       - 59678 # Attack the Block (2011)
       - 561 # Constantine (2005)
+      - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
       - 259316 # Fantastic Beasts and Where to Find Them (2016)
       - 338953 # Fantastic Beasts: The Secrets of Dumbledore (2022)
       - 17796 # Freaked (1993)
@@ -967,6 +982,7 @@ collections:
   Theme__mythical_creatures:
     template: { name: TMDB theme label, theme_name: mythical_creatures }
     tmdb_movie:
+      - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 556694 # Three Thousand Years of Longing (2022)
@@ -993,6 +1009,7 @@ collections:
       - 9676 # The Black Dahlia (2006)
       - 8285 # The Spirit (2008)
       - 629 # The Usual Suspects (1995)
+      - 617 # Wild Things
 
   Theme__nonlinear:
     template: { name: TMDB theme label, theme_name: nonlinear }
@@ -1007,6 +1024,7 @@ collections:
       - 20766 # The Road (2009)
       - 37799 # The Social Network (2010)
       - 597 # Titanic (1997)
+      - 617 # Wild Things
 
   Theme__orphans:
     template: { name: TMDB theme label, theme_name: orphans }
@@ -1045,6 +1063,7 @@ collections:
     tmdb_movie:
       - 487558 # BlacKkKlansman (2018)
       - 11001 # Blue Streak (1999)
+      - 9739 # Demolition Man (1993)
       - 2118 # L.A. Confidential (1997)
       - 10753 # Police Story 2 (1988)
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
@@ -1180,6 +1199,7 @@ collections:
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
       - 180299 # The Raid 2 (2014)
       - 59108 # Tower Heist (2011)
+      - 617 # Wild Things
       - 49538 # X-Men: First Class (2011)
       - 2080 # X-Men Origins: Wolverine (2009)
 
@@ -1249,6 +1269,7 @@ collections:
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 497 # The Green Mile (1999)
       - 1541 # Thelma & Louise (1991)
+      - 617 # Wild Things
 
   Theme__shapeshifters:
     template: { name: TMDB theme label, theme_name: shapeshifters }
@@ -1372,6 +1393,7 @@ collections:
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }
     tmdb_movie:
+      - 8769 # Christine (1983)
       - 561 # Constantine (2005)
       - 501170 # Doctor Sleep (2019)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
@@ -1424,6 +1446,7 @@ collections:
   Theme__terrorism:
     template: { name: TMDB theme label, theme_name: terrorism }
     tmdb_movie:
+      - 9739 # Demolition Man (1993)
       - 68721 # Iron Man 3 (2013)
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 54138 # Star Trek Into Darkness (2013)

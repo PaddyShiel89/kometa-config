@@ -98,6 +98,16 @@ collections:
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
 
+  Series__Dungeons & Dragons_2023:
+    template:
+      {
+        name: TMDB series label,
+        series_name: Dungeons & Dragons,
+        series_year: 2023,
+      }
+    tmdb_movie:
+      - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
+
   Series__Eastrail_177_2000:
     template:
       { name: TMDB series label, series_name: Eastrail_177, series_year: 2000 }
@@ -499,6 +509,12 @@ collections:
       { name: TMDB series label, series_name: Tomb_Raider, series_year: 2001 }
     tmdb_movie:
       - 1995 # Lara Croft: Tomb Raider (2001)
+
+  Series__Wild_Things_1998:
+    template:
+      { name: TMDB series label, series_name: Wild_Things, series_year: 1998 }
+    tmdb_movie:
+      - 617 # Wild Things
 
   Series__X_2022:
     template: { name: TMDB series label, series_name: X, series_year: 2022 }

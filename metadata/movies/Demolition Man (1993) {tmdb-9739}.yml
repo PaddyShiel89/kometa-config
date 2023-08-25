@@ -1,0 +1,21 @@
+metadata:
+  Demolition Man:
+    title: Demolition Man
+    year: 1993
+    edition_filter: Theatrical cut
+    sort_title: Demolition Man (1993)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Marco Brambilla]
+    genre.sync: [Action, Science Fiction, Thriller]
+    originally_available: 1993-10-07
+    producer.sync: [Howard G. Kazanjian, Michael Levy, Joel Silver]
+    studio: Silver Pictures
+    summary: A police officer is brought out of suspended animation in prison to pursue an old ultra-violent nemesis, who is loose in a non-violent future society.
+    tagline: The future isn't big enough for the both of them.
+    writer.sync: [Peter M. Lenkov, Robert Reneau, Daniel Waters]
+    label: [ID__000009739A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

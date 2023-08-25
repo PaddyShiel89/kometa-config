@@ -26,6 +26,17 @@ collections:
           - ID__000634649A # Spider-Man: Far from Home (2019)
           - ID__000012180A # Star Wars: The Clone Wars (2008)
 
+  BBFC rude humour lvl 2:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: rude_humour
+        level: 2
+    plex_search:
+      any:
+        label:
+          - ID__000493529A # Dungeons & Dragons: Honor Among Thieves (2023)
+
   BBFC rude humour lvl 3:
     template:
       - name: Content rating numeric label
