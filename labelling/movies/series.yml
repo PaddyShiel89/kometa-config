@@ -98,6 +98,16 @@ collections:
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
 
+  Series__Dungeons & Dragons_2023:
+    template:
+      {
+        name: TMDB series label,
+        series_name: Dungeons & Dragons,
+        series_year: 2023,
+      }
+    tmdb_movie:
+      - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
+
   Series__Eastrail_177_2000:
     template:
       { name: TMDB series label, series_name: Eastrail_177, series_year: 2000 }

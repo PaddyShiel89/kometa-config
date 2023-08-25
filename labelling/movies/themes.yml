@@ -748,6 +748,7 @@ collections:
       - 339403 # Baby Driver (2017)
       - 26715 # Bitch Slap (2009)
       - 11001 # Blue Streak (1999)
+      - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
       - 27205 # Inception (2010)
       - 2059 # National Treasure (2004)
       - 348350 # Solo: A Star Wars Story (2018)
@@ -758,6 +759,7 @@ collections:
   Theme__high_fantasy:
     template: { name: TMDB theme label, theme_name: high_fantasy }
     tmdb_movie:
+      - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
       - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
       - 122 # The Lord of the Rings: The Return of the King (2003)
       - 121 # The Lord of the Rings: The Two Towers (2002)
@@ -841,6 +843,7 @@ collections:
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
+      - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
       - 259316 # Fantastic Beasts and Where to Find Them (2016)
       - 338952 # Fantastic Beasts: The Crimes of Grindelwald (2018)
       - 338953 # Fantastic Beasts: The Secrets of Dumbledore (2022)
@@ -909,6 +912,7 @@ collections:
       - 679 # Aliens (1986)
       - 59678 # Attack the Block (2011)
       - 561 # Constantine (2005)
+      - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
       - 259316 # Fantastic Beasts and Where to Find Them (2016)
       - 338953 # Fantastic Beasts: The Secrets of Dumbledore (2022)
       - 17796 # Freaked (1993)
@@ -973,6 +977,7 @@ collections:
   Theme__mythical_creatures:
     template: { name: TMDB theme label, theme_name: mythical_creatures }
     tmdb_movie:
+      - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 556694 # Three Thousand Years of Longing (2022)
