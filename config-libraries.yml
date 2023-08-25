@@ -262,6 +262,7 @@ libraries:
       - repo: metadata/movies/Wedding Crashers (2005) {tmdb-9522}
       - repo: metadata/movies/What the Peeper Saw (1972) {tmdb-112355}
       - repo: metadata/movies/Where the Crawdads Sing (2022) {tmdb-682507}
+      - repo: metadata/movies/Wild Things (1998) {tmdb-617}
       - repo: metadata/movies/X (2022) {tmdb-760104}
       - repo: metadata/movies/X-Men (2000) {tmdb-36657}
       - repo: metadata/movies/X-Men First Class (2011) {tmdb-49538}

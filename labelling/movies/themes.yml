@@ -590,6 +590,7 @@ collections:
       - 46534 # Sweet Karma (2009)
       - 19976 # The Exterminating Angels (2006)
       - 645710 # The Voyeurs (2021)
+      - 617 # Wild Things
       - 760104 # X (2022)
 
   Theme__experimental:
@@ -777,6 +778,7 @@ collections:
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 112355 # What the Peeper Saw (1972)
+      - 617 # Wild Things
 
   Theme__journalists:
     template: { name: TMDB theme label, theme_name: journalists }
@@ -815,6 +817,7 @@ collections:
       - 9676 # The Black Dahlia (2006)
       - 19976 # The Exterminating Angels (2006)
       - 65754 # The Girl with the Dragon Tattoo (2011)
+      - 617 # Wild Things
 
   Theme__mafia:
     template: { name: TMDB theme label, theme_name: mafia }
@@ -993,6 +996,7 @@ collections:
       - 9676 # The Black Dahlia (2006)
       - 8285 # The Spirit (2008)
       - 629 # The Usual Suspects (1995)
+      - 617 # Wild Things
 
   Theme__nonlinear:
     template: { name: TMDB theme label, theme_name: nonlinear }
@@ -1007,6 +1011,7 @@ collections:
       - 20766 # The Road (2009)
       - 37799 # The Social Network (2010)
       - 597 # Titanic (1997)
+      - 617 # Wild Things
 
   Theme__orphans:
     template: { name: TMDB theme label, theme_name: orphans }
@@ -1180,6 +1185,7 @@ collections:
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
       - 180299 # The Raid 2 (2014)
       - 59108 # Tower Heist (2011)
+      - 617 # Wild Things
       - 49538 # X-Men: First Class (2011)
       - 2080 # X-Men Origins: Wolverine (2009)
 
@@ -1249,6 +1255,7 @@ collections:
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 497 # The Green Mile (1999)
       - 1541 # Thelma & Louise (1991)
+      - 617 # Wild Things
 
   Theme__shapeshifters:
     template: { name: TMDB theme label, theme_name: shapeshifters }

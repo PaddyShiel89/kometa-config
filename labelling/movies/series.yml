@@ -500,6 +500,12 @@ collections:
     tmdb_movie:
       - 1995 # Lara Croft: Tomb Raider (2001)
 
+  Series__Wild_Things_1998:
+    template:
+      { name: TMDB series label, series_name: Wild_Things, series_year: 1998 }
+    tmdb_movie:
+      - 617 # Wild Things
+
   Series__X_2022:
     template: { name: TMDB series label, series_name: X, series_year: 2022 }
     tmdb_movie:
