@@ -1,0 +1,32 @@
+metadata:
+  "TV show (YYYY)":
+    title:
+    sort_title:
+    year:
+    content_rating: gb/
+    genre.sync: []
+    original_title:
+    originally_available: YYYY-MM-DD
+    studio:
+    tagline:
+    label: [ID__000000000A]
+    summary:
+    seasons:
+      1: # Season 1
+        title:
+        label: [ID__000000000A__SXX]
+        summary:
+        episodes:
+          1: # S01E01
+            title:
+            sort_title:
+            content_rating: gb/
+            originally_available: YYYY-MM-DD
+            director.sync: []
+            writer.sync: []
+            label: [ID__000000000A__SXXEXX]
+            summary:
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

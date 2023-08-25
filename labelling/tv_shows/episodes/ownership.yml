@@ -1,0 +1,14 @@
+external_templates:
+  - repo: templates/collection_type/Collectionless_Label
+
+collections:
+  Ownership__rented:
+    template:
+      - name: TMDB ownership label
+        ownership_status: rented
+    plex_search:
+      any:
+        label:
+          - ID__000100088A__S01E01 # The Last of Us (2023)
+          - ID__000100088A__S01E02
+          - ID__000100088A__S01E03
