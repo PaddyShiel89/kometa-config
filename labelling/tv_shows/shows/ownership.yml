@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  Ownership__rented:
+  TV Ownership__rented:
     template:
       - name: TMDB ownership label
         ownership_status: rented

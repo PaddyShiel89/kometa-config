@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  Source__bluray:
+  TV Source__bluray:
     template:
       - name: TMDB source label
         source_type: bluray

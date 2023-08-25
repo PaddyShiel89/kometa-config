@@ -2,57 +2,57 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  Theme__based_on_videogames:
+  TV Theme__based_on_videogames:
     template: { name: TMDB theme label, theme_name: based_on_videogames }
     tmdb_show:
       - 100088 # The Last of Us (2023)
 
-  Theme__body_horror:
+  TV Theme__body_horror:
     template: { name: TMDB theme label, theme_name: body_horror }
     tmdb_show:
       - 100088 # The Last of Us (2023)
 
-  Theme__dystopian:
+  TV Theme__dystopian:
     template: { name: TMDB theme label, theme_name: dystopian }
     tmdb_show:
       - 100088 # The Last of Us (2023)
 
-  Theme__journey:
+  TV Theme__journey:
     template: { name: TMDB theme label, theme_name: road_movies }
     tmdb_show:
       - 100088 # The Last of Us (2023)
 
-  Theme__lgbtq:
+  TV Theme__lgbtq:
     template: { name: TMDB theme label, theme_name: lgbtq }
     tmdb_show:
       - 100088 # The Last of Us (2023)
 
-  Theme__natural_horror:
+  TV Theme__natural_horror:
     template: { name: TMDB theme label, theme_name: natural_horror }
     tmdb_show:
       - 100088 # The Last of Us (2023)
 
-  Theme__nonlinear:
+  TV Theme__nonlinear:
     template: { name: TMDB theme label, theme_name: nonlinear }
     tmdb_show:
       - 100088 # The Last of Us (2023)
 
-  Theme__orphans:
+  TV Theme__orphans:
     template: { name: TMDB theme label, theme_name: orphans }
     tmdb_show:
       - 100088 # The Last of Us (2023)
 
-  Theme__post_apocalyptic:
+  TV Theme__post_apocalyptic:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
     tmdb_show:
       - 100088 # The Last of Us (2023)
 
-  Theme__survival:
+  TV Theme__survival:
     template: { name: TMDB theme label, theme_name: survival }
     tmdb_show:
       - 100088 # The Last of Us (2023)
 
-  Theme__zombies:
+  TV Theme__zombies:
     template: { name: TMDB theme label, theme_name: zombies }
     tmdb_show:
       - 100088 # The Last of Us (2023)
