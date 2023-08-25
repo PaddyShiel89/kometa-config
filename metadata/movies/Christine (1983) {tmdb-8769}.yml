@@ -1,0 +1,21 @@
+metadata:
+  Christine:
+    title: Christine
+    year: 1983
+    edition_filter: Theatrical cut
+    sort_title: Christine (1983)
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [John Carpenter]
+    genre.sync: [Horror, Thriller]
+    originally_available: 1983-12-09
+    producer.sync: [Richard Kobritz]
+    studio: Columbia Pictures
+    summary: A nerdish boy buys a strange car with an evil mind of its own, and his nature starts to change to reflect it.
+    tagline: Once she lures you behind her wheel...You're all hers.
+    writer.sync: [Stephen King, Bill Phillips]
+    label: [ID__000008769A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

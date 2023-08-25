@@ -135,6 +135,7 @@ collections:
       - 8881 # Che: Part One (2008)
       - 8880 # Che: Part Two (2008)
       - 13973 # Choke (2008)
+      - 8769 # Christine (1983)
       - 598 # City of God (2002)
       - 884 # Crash (1996)
       - 501170 # Doctor Sleep (2019)
@@ -244,6 +245,7 @@ collections:
     template:
       { name: TMDB theme label, theme_name: based_on_works_by_stephen_king }
     tmdb_movie:
+      - 8769 # Christine (1983)
       - 501170 # Doctor Sleep (2019)
       - 343674 # Gerald's Game (2017)
       - 346364 # It (2017)
@@ -479,6 +481,7 @@ collections:
   Theme__curses:
     template: { name: TMDB theme label, theme_name: curses }
     tmdb_movie:
+      - 8769 # Christine (1983)
       - 808 # Shrek (2001)
       - 882598 # Smile (2022)
 
@@ -1390,6 +1393,7 @@ collections:
   Theme__supernatural:
     template: { name: TMDB theme label, theme_name: supernatural }
     tmdb_movie:
+      - 8769 # Christine (1983)
       - 561 # Constantine (2005)
       - 501170 # Doctor Sleep (2019)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
