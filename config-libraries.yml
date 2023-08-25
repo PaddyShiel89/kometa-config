@@ -124,6 +124,7 @@ libraries:
       - repo: metadata/movies/Nope (2022) {tmdb-762504}
       - repo: metadata/movies/Novo (2002) {tmdb-60015}
       - repo: metadata/movies/Oliver! (1968) {tmdb-17917}
+      - repo: metadata/movies/Once Upon a Time… in Hollywood (2019) {tmdb-466272}
       - repo: metadata/movies/Pearl (2022) {tmdb-949423}
       - repo: metadata/movies/Pet Sematary (2019) {tmdb-157433}
       - repo: metadata/movies/Pirates of the Caribbean At World's End (2007) {tmdb-285}

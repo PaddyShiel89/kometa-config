@@ -1,0 +1,22 @@
+metadata:
+  Once Upon a Time... in Hollywood:
+    title: Once Upon a Time in Hollywood
+    year: 2019
+    edition_filter: Theatrical cut
+    sort_title: Once Upon a Time in Hollywood
+    content_rating: gb/18
+    country.sync: [China, United Kingdom, United States of America]
+    director.sync: [Quentin Tarantino]
+    genre.sync: [Comedy, Drama]
+    original_title: Once Upon a Time in... Hollywood
+    originally_available: 2019-07-22
+    producer.sync: [David Heyman, Shannon McIntosh, Quentin Tarantino]
+    studio: Heyday Films
+    summary: A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles.
+    tagline: The 9th Film from Quentin Tarantino.
+    writer.sync: [Quentin Tarantino]
+    label: [ID__000466272A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
