@@ -486,6 +486,16 @@ collections:
       - 694 # The Shining (1980)
       - 501170 # Doctor Sleep (2019)
 
+  Series__The Terminator_1984:
+    template:
+      {
+        name: TMDB series label,
+        series_name: The Terminator,
+        series_year: 1984,
+      }
+    tmdb_movie:
+      - 218 # The Terminator (1984)
+
   Series__The_Woman_in_Black_2012:
     template:
       {

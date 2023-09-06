@@ -1,0 +1,20 @@
+metadata:
+  The Terminator:
+    title: The Terminator
+    year: 1984
+    edition_filter: Theatrical cut
+    sort_title: Terminator (1984) 001
+    content_rating: gb/15
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [James Cameron]
+    genre.sync: [Action, Science Fiction]
+    originally_available: 1984-10-26
+    producer.sync: [Gale Anne Hurd]
+    studio: Cinema '84
+    summary: A human soldier is sent from 2029 to 1984 to stop a cyborg which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.
+    writer.sync: [James Cameron, Gale Anne Hurd, William Wisher]
+    label: [ID__000000218A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

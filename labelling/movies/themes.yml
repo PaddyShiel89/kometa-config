@@ -81,6 +81,7 @@ collections:
       - 634649 # Spider-Man: No Way Home (2021)
       - 577922 # Tenet (2020)
       - 5876 # The Mist (2007)
+      - 218 # The Terminator (1984)
 
   Theme__amnesia:
     template: { name: TMDB theme label, theme_name: amnesia }
@@ -95,6 +96,7 @@ collections:
     template: { name: TMDB theme label, theme_name: androids }
     tmdb_movie:
       - 315837 # Ghost in the Shell (2017)
+      - 218 # The Terminator (1984)
 
   Theme__animals:
     template: { name: TMDB theme label, theme_name: animals }
@@ -114,6 +116,7 @@ collections:
     template: { name: TMDB theme label, theme_name: artificial_intelligence }
     tmdb_movie:
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
+      - 218 # The Terminator (1984)
 
   Theme__assassins:
     template: { name: TMDB theme label, theme_name: assassins }
@@ -121,6 +124,7 @@ collections:
       - 245891 # John Wick (2015)
       - 324552 # John Wick: Chapter 2 (2017)
       - 101 # Léon: The Professional (1995)
+      - 218 # The Terminator (1984)
 
   Theme__based_on_a_book:
     template: { name: TMDB theme label, theme_name: based_on_a_book }
@@ -400,6 +404,7 @@ collections:
       - 507086 # Jurassic World Dominion (2022)
       - 180 # Minority Report (2002)
       - 10216 # Species II (1998)
+      - 218 # The Terminator (1984)
       - 1541 # Thelma & Louise (1991)
       - 48138 # Unknown (2011)
 
@@ -573,6 +578,7 @@ collections:
       - 101299 # The Hunger Games: Catching Fire (2013)
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
+      - 218 # The Terminator (1984)
 
   Theme__erotic:
     template: { name: TMDB theme label, theme_name: erotic }
@@ -1088,6 +1094,7 @@ collections:
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
       - 20766 # The Road (2009)
+      - 218 # The Terminator (1984)
 
   Theme__poverty:
     template: { name: TMDB theme label, theme_name: poverty }
@@ -1460,6 +1467,7 @@ collections:
       - 299534 # Avengers: Endgame (2019)
       - 869 # Planet of the Apes (2001)
       - 577922 # Tenet (2020)
+      - 218 # The Terminator (1984)
 
   Theme__tragicomedies:
     template: { name: TMDB theme label, theme_name: tragicomedies }

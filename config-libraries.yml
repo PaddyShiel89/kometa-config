@@ -238,6 +238,7 @@ libraries:
       - repo: metadata/movies/The Sound of Music (1965) {tmdb-15121}
       - repo: metadata/movies/The Spirit (2008) {tmdb-8285}
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
+      - repo: metadata/movies/The Terminator (1984) {tmdb-218}
       - repo: metadata/movies/The Thing (1982) {tmdb-1091}
       - repo: metadata/movies/The Tourist (2010) {tmdb-37710}
       - repo: metadata/movies/The Unbearable Weight of Massive Talent (2022) {tmdb-648579}
