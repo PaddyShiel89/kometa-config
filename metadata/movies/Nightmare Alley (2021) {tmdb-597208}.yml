@@ -1,0 +1,20 @@
+metadata:
+  Nightmare Alley:
+    title: Nightmare Alley
+    year: 2021
+    edition_filter: Theatrical cut
+    sort_title: Nightmare Alley (2021)
+    content_rating: gb/15
+    country.sync: [Canada, Mexico, United States of America]
+    director.sync: [Guillermo del Toro]
+    genre.sync: [Crime, Drama, Thriller]
+    originally_available: 2021-12-01
+    producer.sync: [Bradley Cooper, J. Miles Dale, Guillermo del Toro]
+    studio: Searchlight Pictures
+    summary: A grifter working his way from low-ranking carnival worker to lauded psychic medium matches wits with a psychologist bent on exposing him.
+    writer.sync: [Guillermo del Toro, Kim Morgan, William Lindsay Gresham]
+    label: [ID__000597208A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
