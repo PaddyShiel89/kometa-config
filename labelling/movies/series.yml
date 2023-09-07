@@ -495,6 +495,7 @@ collections:
       }
     tmdb_movie:
       - 218 # The Terminator (1984)
+      - 280 # Terminator 2: Judgment Day (1991)
 
   Series__The_Woman_in_Black_2012:
     template:

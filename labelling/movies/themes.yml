@@ -97,6 +97,7 @@ collections:
     tmdb_movie:
       - 315837 # Ghost in the Shell (2017)
       - 218 # The Terminator (1984)
+      - 280 # Terminator 2: Judgment Day (1991)
 
   Theme__animals:
     template: { name: TMDB theme label, theme_name: animals }
@@ -406,6 +407,7 @@ collections:
       - 180 # Minority Report (2002)
       - 10216 # Species II (1998)
       - 218 # The Terminator (1984)
+      - 280 # Terminator 2: Judgment Day (1991)
       - 1541 # Thelma & Louise (1991)
       - 48138 # Unknown (2011)
 
@@ -577,6 +579,7 @@ collections:
       - 9739 # Demolition Man (1993)
       - 315837 # Ghost in the Shell (2017)
       - 180 # Minority Report (2002)
+      - 280 # Terminator 2: Judgment Day (1991)
       - 70160 # The Hunger Games (2012)
       - 101299 # The Hunger Games: Catching Fire (2013)
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
@@ -1094,6 +1097,7 @@ collections:
       - 7737 # Resident Evil: Extinction (2007)
       - 71679 # Resident Evil: Retribution (2012)
       - 173897 # Resident Evil: The Final Chapter (2016)
+      - 280 # Terminator 2: Judgment Day (1991)
       - 20504 # The Book of Eli (2010)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 70160 # The Hunger Games (2012)
@@ -1208,6 +1212,7 @@ collections:
       - 634649 # Spider-Man: No Way Home (2021)
       - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
       - 46534 # Sweet Karma (2009)
+      - 280 # Terminator 2: Judgment Day (1991)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
@@ -1474,6 +1479,7 @@ collections:
       - 299534 # Avengers: Endgame (2019)
       - 869 # Planet of the Apes (2001)
       - 577922 # Tenet (2020)
+      - 280 # Terminator 2: Judgment Day (1991)
       - 218 # The Terminator (1984)
 
   Theme__tragicomedies:
@@ -1527,6 +1533,7 @@ collections:
     template: { name: TMDB theme label, theme_name: world_war_iii }
     tmdb_movie:
       - 577922 # Tenet (2020)
+      - 280 # Terminator 2: Judgment Day (1991)
 
   Theme__zombies:
     template: { name: TMDB theme label, theme_name: zombies }
