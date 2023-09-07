@@ -518,6 +518,7 @@ collections:
   Theme__disability:
     template: { name: TMDB theme label, theme_name: disability }
     tmdb_movie:
+      - 526007 # The Night Clerk (2020)
       - 9741 # Unbreakable (2000)
       - 49538 # X-Men: First Class (2011)
 
@@ -541,6 +542,7 @@ collections:
       - 50837 # Martha Marcy May Marlene (2011)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 38575 # The Karate Kid (2010)
+      - 526007 # The Night Clerk (2020)
       - 694 # The Shining (1980)
 
   Theme__dreams:
@@ -961,6 +963,7 @@ collections:
       - 46534 # Sweet Karma (2009)
       - 9676 # The Black Dahlia (2006)
       - 67913 # The Guard (2011)
+      - 526007 # The Night Clerk (2020)
       - 629 # The Usual Suspects (1995)
       - 16307 # The Wicker Man (1973)
       - 48138 # Unknown (2011)

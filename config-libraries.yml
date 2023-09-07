@@ -227,6 +227,7 @@ libraries:
       - repo: metadata/movies/The Matrix Resurrections (2021) {tmdb-624860}
       - repo: metadata/movies/The Mist (2007) {tmdb-5876}
       - repo: metadata/movies/The Muppets (2011) {tmdb-64328}
+      - repo: metadata/movies/The Night Clerk (2020) {tmdb-526007}
       - repo: metadata/movies/The Pirates! In an Adventure with Scientists! (2012) {tmdb-72197}
       - repo: metadata/movies/The Raid (2011) {tmdb-94329}
       - repo: metadata/movies/The Raid 2 (2014) {tmdb-180299}
