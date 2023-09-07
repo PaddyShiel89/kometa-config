@@ -1,0 +1,33 @@
+metadata:
+  Pig:
+    title: Pig
+    year: 2021
+    edition_filter: Theatrical cut
+    sort_title: Pig (2021)
+    content_rating: gb/15
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Michael Sarnoski]
+    genre.sync: [Drama, Mystery]
+    originally_available: 2021-07-16
+    producer.sync:
+      [
+        Thomas Benski,
+        Vanessa Block,
+        Nicolas Cage,
+        David Carrico,
+        Ben Giladi,
+        Adam Paulsen,
+        Dori A. Rath,
+        Joseph Restaino,
+        Steve Tisch,
+        Dimitra Tsingou,
+      ]
+    studio: Altitude Film
+    summary: A truffle hunter who lives alone in the Oregon wilderness must return to his past in Portland in search of his beloved foraging pig.
+    tagline: We don't get a lot of things to really care about.
+    writer.sync: [Vanessa Block, Michael Sarnoski]
+    label: [ID__000635731A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
