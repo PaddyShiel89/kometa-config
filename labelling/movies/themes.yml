@@ -152,6 +152,7 @@ collections:
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 2118 # L.A. Confidential (1997)
+      - 410117 # Lady Macbeth (2016)
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 180 # Minority Report (2002)
@@ -651,6 +652,7 @@ collections:
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
       - 43947 # I Spit on Your Grave (2010)
+      - 410117 # Lady Macbeth (2016)
       - 1995 # Lara Croft: Tomb Raider (2001)
       - 11631 # Mamma Mia! (2008)
       - 1018 # Mulholland Drive (2001)
@@ -874,6 +876,7 @@ collections:
     template: { name: TMDB theme label, theme_name: marriage }
     tmdb_movie:
       - 619730 # Don't Worry Darling (2022)
+      - 410117 # Lady Macbeth (2016)
       - 9522 # Wedding Crashers (2005)
 
   Theme__martial_arts:
@@ -959,6 +962,7 @@ collections:
       - 51540 # Horrible Bosses (2011)
       - 475557 # Joker (2019)
       - 2118 # L.A. Confidential (1997)
+      - 410117 # Lady Macbeth (2016)
       - 949423 # Pearl (2022)
       - 46534 # Sweet Karma (2009)
       - 9676 # The Black Dahlia (2006)
