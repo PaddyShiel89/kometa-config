@@ -112,6 +112,7 @@ libraries:
       - repo: metadata/movies/King Kong (2005) {tmdb-254}
       - repo: metadata/movies/L.A. Confidential (1997) {tmdb-2118}
       - repo: metadata/movies/Ladder 49 (2004) {tmdb-11128}
+      - repo: metadata/movies/Lady Macbeth (2016) {tmdb-410117}
       - repo: metadata/movies/Lara Croft Tomb Raider (2001) {tmdb-1995}
       - repo: metadata/movies/Lawrence of Arabia (1962) {tmdb-947}
       - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
@@ -124,12 +125,14 @@ libraries:
       - repo: metadata/movies/My Week with Marilyn (2011) {tmdb-75900}
       - repo: metadata/movies/National Treasure (2004) {tmdb-2059}
       - repo: metadata/movies/National Treasure Book of Secrets (2007) {tmdb-6637}
+      - repo: metadata/movies/Nightmare Alley (2021) {tmdb-597208}
       - repo: metadata/movies/Nope (2022) {tmdb-762504}
       - repo: metadata/movies/Novo (2002) {tmdb-60015}
       - repo: metadata/movies/Oliver! (1968) {tmdb-17917}
       - repo: metadata/movies/Once Upon a Time… in Hollywood (2019) {tmdb-466272}
       - repo: metadata/movies/Pearl (2022) {tmdb-949423}
       - repo: metadata/movies/Pet Sematary (2019) {tmdb-157433}
+      - repo: metadata/movies/Pig (2021) {tmdb-635731}
       - repo: metadata/movies/Pirates of the Caribbean At World's End (2007) {tmdb-285}
       - repo: metadata/movies/Pirates of the Caribbean Dead Man's Chest (2006) {tmdb-58}
       - repo: metadata/movies/Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426}
@@ -138,6 +141,7 @@ libraries:
       - repo: metadata/movies/Planet of the Apes (2001) {tmdb-869}
       - repo: metadata/movies/Police Story 2 (1988) {tmdb-10753}
       - repo: metadata/movies/Pride & Prejudice (2005) {tmdb-4348}
+      - repo: metadata/movies/Psycho Goreman (2020) {tmdb-670428}
       - repo: metadata/movies/Raining Stones (1993) {tmdb-62463}
       - repo: metadata/movies/Requiem for a Dream (2000) {tmdb-641}
       - repo: metadata/movies/Resident Evil (2002) {tmdb-1576}
@@ -188,6 +192,7 @@ libraries:
       - repo: metadata/movies/Sweet Karma (2009) {tmdb-46534}
       - repo: metadata/movies/Team America World Police (2004) {tmdb-3989}
       - repo: metadata/movies/Tenet (2020) {tmdb-577922}
+      - repo: metadata/movies/Terminator 2 Judgment Day (1991) {tmdb-280}
       - repo: metadata/movies/The Bank Job (2008) {tmdb-8848}
       - repo: metadata/movies/The Banshees of Inisherin (2022) {tmdb-674324}
       - repo: metadata/movies/The Birds (1963) {tmdb-571}
@@ -227,6 +232,7 @@ libraries:
       - repo: metadata/movies/The Matrix Resurrections (2021) {tmdb-624860}
       - repo: metadata/movies/The Mist (2007) {tmdb-5876}
       - repo: metadata/movies/The Muppets (2011) {tmdb-64328}
+      - repo: metadata/movies/The Night Clerk (2020) {tmdb-526007}
       - repo: metadata/movies/The Pirates! In an Adventure with Scientists! (2012) {tmdb-72197}
       - repo: metadata/movies/The Raid (2011) {tmdb-94329}
       - repo: metadata/movies/The Raid 2 (2014) {tmdb-180299}
@@ -238,6 +244,7 @@ libraries:
       - repo: metadata/movies/The Sound of Music (1965) {tmdb-15121}
       - repo: metadata/movies/The Spirit (2008) {tmdb-8285}
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
+      - repo: metadata/movies/The Terminator (1984) {tmdb-218}
       - repo: metadata/movies/The Thing (1982) {tmdb-1091}
       - repo: metadata/movies/The Tourist (2010) {tmdb-37710}
       - repo: metadata/movies/The Unbearable Weight of Massive Talent (2022) {tmdb-648579}

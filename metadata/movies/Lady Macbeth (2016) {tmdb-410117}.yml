@@ -1,0 +1,20 @@
+metadata:
+  Lady Macbeth:
+    title: Lady Macbeth
+    year: 2016
+    edition_filter: Theatrical cut
+    sort_title: Lady Macbeth (2016)
+    content_rating: gb/15
+    country.sync: [United Kingdom]
+    director.sync: [William Oldroyd]
+    genre.sync: [Drama, Romance]
+    originally_available: 2016-09-10
+    producer.sync: [Fodhla Cronin O'Reilly]
+    studio: BBC Films
+    summary: In 19th-century rural England, a young bride sold into marriage discovers an unstoppable desire within herself as she begins an affair with a worker on her estate.
+    writer.sync: [Nikolai Leskov, Alice Birch]
+    label: [ID__000410117A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

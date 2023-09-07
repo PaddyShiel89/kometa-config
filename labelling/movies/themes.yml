@@ -34,6 +34,7 @@ collections:
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 762504 # Nope (2022)
+      - 670428 # Psycho Goreman (2020)
       - 1892 # Return of the Jedi (1983)
       - 330459 # Rogue One: A Star Wars Story (2016)
       - 4256 # Scary Movie 3 (2003)
@@ -81,6 +82,7 @@ collections:
       - 634649 # Spider-Man: No Way Home (2021)
       - 577922 # Tenet (2020)
       - 5876 # The Mist (2007)
+      - 218 # The Terminator (1984)
 
   Theme__amnesia:
     template: { name: TMDB theme label, theme_name: amnesia }
@@ -95,12 +97,15 @@ collections:
     template: { name: TMDB theme label, theme_name: androids }
     tmdb_movie:
       - 315837 # Ghost in the Shell (2017)
+      - 218 # The Terminator (1984)
+      - 280 # Terminator 2: Judgment Day (1991)
 
   Theme__animals:
     template: { name: TMDB theme label, theme_name: animals }
     tmdb_movie:
       - 425 # Ice Age (2002)
       - 254 # King Kong (2005)
+      - 635731 # Pig (2021)
       - 869 # Planet of the Apes (2001)
       - 75174 # The Grey (2011)
       - 57212 # War Horse (2011)
@@ -114,6 +119,7 @@ collections:
     template: { name: TMDB theme label, theme_name: artificial_intelligence }
     tmdb_movie:
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
+      - 218 # The Terminator (1984)
 
   Theme__assassins:
     template: { name: TMDB theme label, theme_name: assassins }
@@ -121,6 +127,7 @@ collections:
       - 245891 # John Wick (2015)
       - 324552 # John Wick: Chapter 2 (2017)
       - 101 # Léon: The Professional (1995)
+      - 218 # The Terminator (1984)
 
   Theme__based_on_a_book:
     template: { name: TMDB theme label, theme_name: based_on_a_book }
@@ -148,9 +155,11 @@ collections:
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 2118 # L.A. Confidential (1997)
+      - 410117 # Lady Macbeth (2016)
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 180 # Minority Report (2002)
+      - 597208 # Nightmare Alley (2021)
       - 17917 # Oliver! (1968)
       - 157433 # Pet Sematary (2019)
       - 869 # Planet of the Apes (2001)
@@ -400,6 +409,8 @@ collections:
       - 507086 # Jurassic World Dominion (2022)
       - 180 # Minority Report (2002)
       - 10216 # Species II (1998)
+      - 218 # The Terminator (1984)
+      - 280 # Terminator 2: Judgment Day (1991)
       - 1541 # Thelma & Louise (1991)
       - 48138 # Unknown (2011)
 
@@ -513,6 +524,7 @@ collections:
   Theme__disability:
     template: { name: TMDB theme label, theme_name: disability }
     tmdb_movie:
+      - 526007 # The Night Clerk (2020)
       - 9741 # Unbreakable (2000)
       - 49538 # X-Men: First Class (2011)
 
@@ -536,6 +548,7 @@ collections:
       - 50837 # Martha Marcy May Marlene (2011)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 38575 # The Karate Kid (2010)
+      - 526007 # The Night Clerk (2020)
       - 694 # The Shining (1980)
 
   Theme__dreams:
@@ -569,10 +582,12 @@ collections:
       - 9739 # Demolition Man (1993)
       - 315837 # Ghost in the Shell (2017)
       - 180 # Minority Report (2002)
+      - 280 # Terminator 2: Judgment Day (1991)
       - 70160 # The Hunger Games (2012)
       - 101299 # The Hunger Games: Catching Fire (2013)
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
+      - 218 # The Terminator (1984)
 
   Theme__erotic:
     template: { name: TMDB theme label, theme_name: erotic }
@@ -643,6 +658,7 @@ collections:
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
       - 43947 # I Spit on Your Grave (2010)
+      - 410117 # Lady Macbeth (2016)
       - 1995 # Lara Croft: Tomb Raider (2001)
       - 11631 # Mamma Mia! (2008)
       - 1018 # Mulholland Drive (2001)
@@ -822,6 +838,7 @@ collections:
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 1018 # Mulholland Drive (2001)
+      - 670428 # Psycho Goreman (2020)
       - 48650 # Room in Rome (2010)
       - 35712 # Secret Things (2002)
       - 9676 # The Black Dahlia (2006)
@@ -866,6 +883,7 @@ collections:
     template: { name: TMDB theme label, theme_name: marriage }
     tmdb_movie:
       - 619730 # Don't Worry Darling (2022)
+      - 410117 # Lady Macbeth (2016)
       - 9522 # Wedding Crashers (2005)
 
   Theme__martial_arts:
@@ -951,10 +969,12 @@ collections:
       - 51540 # Horrible Bosses (2011)
       - 475557 # Joker (2019)
       - 2118 # L.A. Confidential (1997)
+      - 410117 # Lady Macbeth (2016)
       - 949423 # Pearl (2022)
       - 46534 # Sweet Karma (2009)
       - 9676 # The Black Dahlia (2006)
       - 67913 # The Guard (2011)
+      - 526007 # The Night Clerk (2020)
       - 629 # The Usual Suspects (1995)
       - 16307 # The Wicker Man (1973)
       - 48138 # Unknown (2011)
@@ -1006,6 +1026,7 @@ collections:
       - 2118 # L.A. Confidential (1997)
       - 180 # Minority Report (2002)
       - 1018 # Mulholland Drive (2001)
+      - 597208 # Nightmare Alley (2021)
       - 9676 # The Black Dahlia (2006)
       - 8285 # The Spirit (2008)
       - 629 # The Usual Suspects (1995)
@@ -1081,6 +1102,7 @@ collections:
       - 7737 # Resident Evil: Extinction (2007)
       - 71679 # Resident Evil: Retribution (2012)
       - 173897 # Resident Evil: The Final Chapter (2016)
+      - 280 # Terminator 2: Judgment Day (1991)
       - 20504 # The Book of Eli (2010)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 70160 # The Hunger Games (2012)
@@ -1088,6 +1110,7 @@ collections:
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
       - 20766 # The Road (2009)
+      - 218 # The Terminator (1984)
 
   Theme__poverty:
     template: { name: TMDB theme label, theme_name: poverty }
@@ -1128,6 +1151,7 @@ collections:
       - 474350 # It Chapter Two (2019)
       - 475557 # Joker (2019)
       - 50837 # Martha Marcy May Marlene (2011)
+      - 597208 # Nightmare Alley (2021)
       - 949423 # Pearl (2022)
       - 641 # Requiem for a Dream (2000)
       - 882598 # Smile (2022)
@@ -1194,6 +1218,7 @@ collections:
       - 634649 # Spider-Man: No Way Home (2021)
       - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
       - 46534 # Sweet Karma (2009)
+      - 280 # Terminator 2: Judgment Day (1991)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
@@ -1320,6 +1345,7 @@ collections:
       - 1690 # Hostel (2005)
       - 1691 # Hostel: Part II (2007)
       - 71670 # Hostel: Part III (2011)
+      - 670428 # Psycho Goreman (2020)
       - 588 # Silent Hill (2006)
       - 10216 # Species II (1998)
 
@@ -1460,6 +1486,8 @@ collections:
       - 299534 # Avengers: Endgame (2019)
       - 869 # Planet of the Apes (2001)
       - 577922 # Tenet (2020)
+      - 280 # Terminator 2: Judgment Day (1991)
+      - 218 # The Terminator (1984)
 
   Theme__tragicomedies:
     template: { name: TMDB theme label, theme_name: tragicomedies }
@@ -1512,6 +1540,7 @@ collections:
     template: { name: TMDB theme label, theme_name: world_war_iii }
     tmdb_movie:
       - 577922 # Tenet (2020)
+      - 280 # Terminator 2: Judgment Day (1991)
 
   Theme__zombies:
     template: { name: TMDB theme label, theme_name: zombies }

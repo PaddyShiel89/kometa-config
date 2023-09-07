@@ -1,0 +1,65 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Terminator 2: Judgment Day [Theatrical cut]":
+    title: "Terminator 2: Judgment Day"
+    year: 1991
+    edition_filter: Theatrical cut
+    sort_title: Terminator (1984) 002A
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [James Cameron]
+    genre.sync: [Action, Science Fiction]
+    originally_available: 1991-07-01
+    producer.sync: [James Cameron]
+    studio: Carolco Pictures
+    summary: A cyborg - identical to the one who failed to kill Sarah Connor - must now protect her ten-year-old son from an even more advanced and powerful cyborg.
+    tagline: It's nothing personal.
+    writer.sync: [James Cameron, William Wisher]
+    label: [ID__000000280A]
+
+  "Terminator 2: Judgment Day [Special edition]":
+    title: "Terminator 2: Judgment Day"
+    year: 1991
+    edition_filter: Special edition
+    sort_title: Terminator (1984) 002B
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [James Cameron]
+    genre.sync: [Action, Science Fiction]
+    originally_available: 1991-07-01
+    producer.sync: [James Cameron, Van Ling]
+    studio: Carolco Pictures
+    summary: A cyborg - identical to the one who failed to kill Sarah Connor - must now protect her ten-year-old son from an even more advanced and powerful cyborg.
+    tagline: It's nothing personal.
+    writer.sync: [James Cameron, William Wisher]
+    label: [ID__000000280B]
+
+  "Terminator 2: Judgment Day [Extended special edition]":
+    title: "Terminator 2: Judgment Day"
+    year: 1991
+    edition_filter: Extended special edition
+    sort_title: Terminator (1984) 002C
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [James Cameron]
+    genre.sync: [Action, Science Fiction]
+    originally_available: 1991-07-01
+    producer.sync: [James Cameron]
+    studio: Carolco Pictures
+    summary: A cyborg - identical to the one who failed to kill Sarah Connor - must now protect her ten-year-old son from an even more advanced and powerful cyborg.
+    tagline: It's nothing personal.
+    writer.sync: [James Cameron, William Wisher]
+    label: [ID__000000280C]
+
+collections:
+  "Terminator 2: Judgment Day":
+    template: { name: Edition }
+    tmdb_movie: 280
+    sort_title: Terminator (1984) 002
+    summary: A cyborg - identical to the one who failed to kill Sarah Connor - must now protect her ten-year-old son from an even more advanced and powerful cyborg.
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

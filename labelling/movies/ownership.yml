@@ -33,6 +33,7 @@ collections:
           - ID__000008696A # Calendar Girls (2003)
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
           - ID__000068721A # Iron Man 3 (2013)
+          - ID__000670428A # Psycho Goreman (2020)
           - ID__000009676A # The Black Dahlia (2006)
 
   Ownership__own:
@@ -231,6 +232,7 @@ collections:
           - ID__000000254B # King Kong (2005) [Extended edition]
           - ID__000002118A # L.A. Confidential (1997)
           - ID__000011128A # Ladder 49 (2004)
+          - ID__000410117A # Lady Macbeth (2016)
           - ID__000000947A # Lawrence of Arabia (1962)
           - ID__000000101A # Léon: The Professional (1995) [Theatrical cut]
           - ID__000000101B # Léon: The Professional (1995) [Director's cut]
@@ -241,11 +243,13 @@ collections:
           - ID__000075900A # My Week with Marilyn (2011)
           - ID__000002059A # National Treasure (2004)
           - ID__000006637A # National Treasure: Book of Secrets (2007)
+          - ID__000597208A # Nightmare Alley (2021)
           - ID__000762504A # Nope (2022)
           - ID__000017917A # Oliver! (1968)
           - ID__000466272A # Once Upon a Time in Hollywood (2019)
           - ID__000949423A # Pearl (2022)
           - ID__000157433A # Pet Sematary (2019)
+          - ID__000635731A # Pig (2021)
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
           - ID__000000058A # Pirates of the Caribbean: Dead Man's Chest (2006)
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
@@ -292,6 +296,9 @@ collections:
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
           - ID__000003989A # Team America: World Police (2004)
           - ID__000577922A # Tenet (2020)
+          - ID__000000280A # Terminator 2: Judgment Day (1991) [Theatrical cut]
+          - ID__000000280B # Terminator 2: Judgment Day (1991) [Special edition]
+          - ID__000000280C # Terminator 2: Judgment Day (1991) [Extended special edition]
           - ID__000008848A # The Bank Job (2008)
           - ID__000674324A # The Banshees of Inisherin (2022)
           - ID__000000571A # The Birds (1963)
@@ -332,6 +339,7 @@ collections:
           - ID__000624860A # The Matrix Resurrections (2021)
           - ID__000005876A # The Mist (2007)
           - ID__000064328A # The Muppets (2011)
+          - ID__000526007A # The Night Clerk (2020)
           - ID__000072197A # The Pirates! In an Adventure with Scientists! (2012)
           - ID__000094329A # The Raid (2011)
           - ID__000180299A # The Raid 2 (2014)
@@ -342,6 +350,7 @@ collections:
           - ID__000037799A # The Social Network (2010)
           - ID__000015121A # The Sound of Music (1965)
           - ID__000008285A # The Spirit (2008)
+          - ID__000000218A # The Terminator (1984)
           - ID__000001091A # The Thing (1982)
           - ID__000037710A # The Tourist (2010)
           - ID__000648579A # The Unbearable Weight of Massive Talent (2022)
