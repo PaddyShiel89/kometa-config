@@ -139,6 +139,7 @@ libraries:
       - repo: metadata/movies/Planet of the Apes (2001) {tmdb-869}
       - repo: metadata/movies/Police Story 2 (1988) {tmdb-10753}
       - repo: metadata/movies/Pride & Prejudice (2005) {tmdb-4348}
+      - repo: metadata/movies/Psycho Goreman (2020) {tmdb-670428}
       - repo: metadata/movies/Raining Stones (1993) {tmdb-62463}
       - repo: metadata/movies/Requiem for a Dream (2000) {tmdb-641}
       - repo: metadata/movies/Resident Evil (2002) {tmdb-1576}

@@ -1,0 +1,21 @@
+metadata:
+  Psycho Goreman:
+    title: Psycho Goreman
+    year: 2020
+    edition_filter: Theatrical cut
+    sort_title: Psycho Goreman (2020)
+    content_rating: gb/15
+    country.sync: [Canada]
+    director.sync: [Steven Kostanski]
+    genre.sync: [Comedy, Horror, Science Fiction]
+    originally_available: 2020-09-10
+    producer.sync: [Stuart F. Andrews, Shannon Hanmer, Steven Kostanski]
+    studio: Dystopia Films
+    summary: After unearthing a gem that controls an evil monster looking to destroy the Universe, a young girl and her brother use it to make him do their bidding.
+    tagline: Little girl. Big psycho.
+    writer.sync: [Steven Kostanski]
+    label: [ID__000670428A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
