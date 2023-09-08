@@ -1,0 +1,28 @@
+metadata:
+  Mrs. Harris Goes to Paris:
+    title: Mrs. Harris Goes to Paris
+    year: 2022
+    edition_filter: Theatrical cut
+    sort_title: Mrs. Harris Goes to Paris (2022)
+    content_rating: gb/PG
+    country.sync: [Belgium, Canada, France, Hungary, United Kingdom]
+    director.sync: [Anthony Fabian]
+    genre.sync: [Comedy, Drama]
+    originally_available: 2022-07-07
+    producer.sync: [Guillaume Benski, Anthony Fabian, Xavier Marchand]
+    studio: Superbe Films
+    summary: A widowed cleaning lady in 1950s London falls madly in love with a couture Dior dress and decides she must have one of her own.
+    tagline: Follow your dream
+    writer.sync:
+      [
+        Paul Gallico,
+        Carroll Cartwright,
+        Anthony Fabian,
+        Keith Thompson,
+        Olivia Hetreed,
+      ]
+    label: [ID__000754609A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
