@@ -60,6 +60,7 @@ libraries:
       - repo: metadata/movies/Demolition Man (1993) {tmdb-9739}
       - repo: metadata/movies/Desire (2011) {tmdb-86331}
       - repo: metadata/movies/Despicable Me (2010) {tmdb-20352}
+      - repo: metadata/movies/Disobedience (2018) {tmdb-419743}
       - repo: metadata/movies/Django Unchained (2012) {tmdb-68718}
       - repo: metadata/movies/Doctor Sleep (2019) {tmdb-501170}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
@@ -87,6 +88,7 @@ libraries:
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
       - repo: metadata/movies/Halloween Kills (2021) {tmdb-610253}
       - repo: metadata/movies/Hanna (2011) {tmdb-50456}
+      - repo: metadata/movies/Hereditary (2018) {tmdb-493922}
       - repo: metadata/movies/Horrible Bosses (2011) {tmdb-51540}
       - repo: metadata/movies/Hostel (2005) {tmdb-1690}
       - repo: metadata/movies/Hostel Part II (2007) {tmdb-1691}
@@ -96,6 +98,7 @@ libraries:
       - repo: metadata/movies/I Am Curious (Blue) (1968) {tmdb-45690}
       - repo: metadata/movies/I Am Curious (Yellow) (1967) {tmdb-42695}
       - repo: metadata/movies/I Spit on Your Grave (2010) {tmdb-43947}
+      - repo: metadata/movies/I, Tonya (2017) {tmdb-389015}
       - repo: metadata/movies/Ice Age (2002) {tmdb-425}
       - repo: metadata/movies/Immortals (2011) {tmdb-37958}
       - repo: metadata/movies/Import Export (2007) {tmdb-4998}
@@ -168,6 +171,7 @@ libraries:
       - repo: metadata/movies/Secretary (2002) {tmdb-11013}
       - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}
       - repo: metadata/movies/Shrek (2001) {tmdb-808}
+      - repo: metadata/movies/Sicario (2015) {tmdb-273481}
       - repo: metadata/movies/Sightseers (2012) {tmdb-117974}
       - repo: metadata/movies/Silent Hill (2006) {tmdb-588}
       - repo: metadata/movies/Smile (2022) {tmdb-882598}
@@ -323,6 +327,7 @@ libraries:
       assets_for_all: true
     metadata_path:
       - repo: metadata/tv_shows/The Last of Us (2023) {tmdb-100088}
+      - repo: metadata/tv_shows/True Detective (2014) {tmdb-46648}
       - repo: labelling/tv_shows/shows/ownership
       - repo: labelling/tv_shows/shows/sources
       - repo: labelling/tv_shows/shows/themes

@@ -1,0 +1,22 @@
+metadata:
+  Disobedience:
+    title: Disobedience
+    year: 2017
+    edition_filter: Theatrical cut
+    sort_title: Disobedience (2017)
+    content_rating: gb/15
+    country.sync: [Ireland, United Kingdom, United States of America]
+    director.sync: [Sebastián Lelio]
+    genre.sync: [Drama]
+    originally_available: 2017-09-10
+    producer.sync:
+      [Ed Guiney, Genevieve Lemal, Frida Torresblanco, Rachel Weisz]
+    studio: Film 4
+    summary: A woman returns to her Orthodox Jewish community that shunned her for her attraction to a female childhood friend.
+    tagline: Love is an act of defiance.
+    writer.sync: [Sebastián Lelio, Rebecca Lenkiewicz, Naomi Alderman]
+    label: [ID__000419743A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

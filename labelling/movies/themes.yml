@@ -145,6 +145,7 @@ collections:
       - 8769 # Christine (1983)
       - 598 # City of God (2002)
       - 884 # Crash (1996)
+      - 419743 # Disobedience (2017)
       - 501170 # Doctor Sleep (2019)
       - 24402 # Emmanuelle (1974)
       - 343674 # Gerald's Game (2017)
@@ -284,6 +285,7 @@ collections:
       - 8880 # Che: Part Two (2008)
       - 11499 # Frost/Nixon (2008)
       - 13092 # How to Lose Friends & Alienate People (2008)
+      - 389015 # I, Tonya (2017)
       - 947 # Lawrence of Arabia (1962)
       - 424 # Schindler's List (1993)
       - 8848 # The Bank Job (2008)
@@ -323,6 +325,7 @@ collections:
       - 68718 # Django Unchained (2012)
       - 17796 # Freaked (1993)
       - 51540 # Horrible Bosses (2011)
+      - 389015 # I, Tonya (2017)
       - 466272 # Once Upon a Time in Hollywood (2019)
       - 117974 # Sightseers (2012)
       - 3989 # Team America: World Police (2004)
@@ -486,6 +489,7 @@ collections:
     tmdb_movie:
       - 487558 # BlacKkKlansman (2018)
       - 501170 # Doctor Sleep (2019)
+      - 493922 # Hereditary (2018)
       - 50837 # Martha Marcy May Marlene (2011)
       - 16307 # The Wicker Man (1973)
 
@@ -508,6 +512,7 @@ collections:
       - 561 # Constantine (2005)
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
+      - 493922 # Hereditary (2018)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 285 # Pirates of the Caribbean: At World's End (2007)
@@ -545,6 +550,7 @@ collections:
       - 475557 # Joker (2019)
       - 619730 # Don't Worry Darling (2022)
       - 20546 # Goodnight, Mister Tom (1998)
+      - 389015 # I, Tonya (2017)
       - 50837 # Martha Marcy May Marlene (2011)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 38575 # The Karate Kid (2010)
@@ -570,6 +576,7 @@ collections:
       - 524 # Casino (1995)
       - 598 # City of God (2002)
       - 641 # Requiem for a Dream (2000)
+      - 273481 # Sicario (2015)
       - 67913 # The Guard (2011)
       - 18785 # The Hangover (2009)
       - 94329 # The Raid (2011)
@@ -658,6 +665,7 @@ collections:
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
       - 43947 # I Spit on Your Grave (2010)
+      - 389015 # I, Tonya (2017)
       - 410117 # Lady Macbeth (2016)
       - 1995 # Lara Croft: Tomb Raider (2001)
       - 11631 # Mamma Mia! (2008)
@@ -711,6 +719,11 @@ collections:
       - 75900 # My Week with Marilyn (2011)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
 
+  Theme__folk:
+    template: { name: TMDB theme label, theme_name: folk }
+    tmdb_movie:
+      - 493922 # Hereditary (2018)
+
   Theme__foreign_language:
     template: { name: TMDB theme label, theme_name: foreign_language }
     plex_all: true
@@ -729,6 +742,7 @@ collections:
       - 59678 # Attack the Block (2011)
       - 26715 # Bitch Slap (2009)
       - 598 # City of God (2002)
+      - 273481 # Sicario (2015)
       - 94329 # The Raid (2011)
       - 180299 # The Raid 2 (2014)
 
@@ -751,6 +765,7 @@ collections:
     tmdb_movie:
       - 470 # 21 Grams (2003)
       - 505642 # Black Panther: Wakanda Forever (2022)
+      - 493922 # Hereditary (2018)
       - 157433 # Pet Sematary (2019)
       - 359940 # Three Billboards Outside Ebbing, Missouri (2017)
 
@@ -835,6 +850,7 @@ collections:
       - 18480 # Brüno (2009)
       - 884 # Crash (1996)
       - 86331 # Desire (2011)
+      - 419743 # Disobedience (2017)
       - 24402 # Emmanuelle (1974)
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
@@ -906,6 +922,7 @@ collections:
       - 3580 # Changeling (2008)
       - 884 # Crash (1996)
       - 450465 # Glass (2019)
+      - 493922 # Hereditary (2018)
       - 68721 # Iron Man 3 (2013)
       - 475557 # Joker (2019)
       - 947 # Lawrence of Arabia (1962)
@@ -926,6 +943,7 @@ collections:
     tmdb_movie:
       - 496 # Borat (2006)
       - 18480 # Brüno (2009)
+      - 389015 # I, Tonya (2017)
 
   Theme__monsters:
     template: { name: TMDB theme label, theme_name: monsters }
@@ -1148,6 +1166,7 @@ collections:
       - 315837 # Ghost in the Shell (2017)
       - 450465 # Glass (2019)
       - 210577 # Gone Girl (2014)
+      - 493922 # Hereditary (2018)
       - 27205 # Inception (2010)
       - 474350 # It Chapter Two (2019)
       - 475557 # Joker (2019)
@@ -1183,6 +1202,7 @@ collections:
       - 454527 # Benedetta (2021)
       - 157832 # Calvary (2014)
       - 561 # Constantine (2005)
+      - 419743 # Disobedience (2017)
       - 62463 # Raining Stones (1993)
       - 424 # Schindler's List (1993)
       - 20504 # The Book of Eli (2010)
@@ -1426,6 +1446,7 @@ collections:
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
+      - 493922 # Hereditary (2018)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 1995 # Lara Croft: Tomb Raider (2001)

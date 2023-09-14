@@ -1,0 +1,21 @@
+metadata:
+  I, Tonya:
+    title: I, Tonya
+    year: 2017
+    edition_filter: Theatrical cut
+    sort_title: I, Tonya (2017)
+    content_rating: gb/15
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Craig Gillespie]
+    genre.sync: [Biopic, Comedy, Drama, Sport]
+    originally_available: 2017-09-08
+    producer.sync: [Tom Ackerley, Margot Robbie, Steven Rogers, Bryan Unkeless]
+    studio: AI-Film
+    summary: Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future is thrown into doubt when her ex-husband intervenes.
+    tagline: There's no need to have class when you have talent.
+    writer.sync: [Steven Rogers]
+    label: [ID__000389015A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

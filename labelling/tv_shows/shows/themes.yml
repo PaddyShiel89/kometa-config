@@ -2,6 +2,11 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  TV Theme__anthology:
+    template: { name: TMDB theme label, theme_name: anthology }
+    tmdb_show:
+      - 46648 # True Detective (2014)
+
   TV Theme__based_on_videogames:
     template: { name: TMDB theme label, theme_name: based_on_videogames }
     tmdb_show:
@@ -32,15 +37,26 @@ collections:
     tmdb_show:
       - 100088 # The Last of Us (2023)
 
+  TV Theme__neo-noir:
+    template: { name: TMDB theme label, theme_name: neo-noir }
+    tmdb_show:
+      - 46648 # True Detective (2014)
+
   TV Theme__nonlinear:
     template: { name: TMDB theme label, theme_name: nonlinear }
     tmdb_show:
       - 100088 # The Last of Us (2023)
+      - 46648 # True Detective (2014)
 
   TV Theme__orphans:
     template: { name: TMDB theme label, theme_name: orphans }
     tmdb_show:
       - 100088 # The Last of Us (2023)
+
+  TV Theme__police drama:
+    template: { name: TMDB theme label, theme_name: police drama }
+    tmdb_show:
+      - 46648 # True Detective (2014)
 
   TV Theme__post_apocalyptic:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }

@@ -1,0 +1,75 @@
+metadata:
+  True Detective (2014):
+    title: True Detective
+    sort_title: True Detective (2014)
+    year: 2014
+    content_rating: gb/18
+    genre.sync: [Crime, Drama, Mystery, Thriller]
+    originally_available: 2014-02-22
+    studio: HBO
+    tagline: Time takes everything but the truth.
+    label: [ID__000046648A]
+    summary: A seasonal anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.
+    seasons:
+      1: # Season 1
+        title: Season 1
+        label: [ID__000046648A__S01]
+        episodes:
+          1: # S01E01
+            title: The Long Bright Dark
+            sort_title: Long Bright Dark
+            content_rating: gb/15
+            originally_available: 2014-02-22
+            director.sync: [Cary Joji Fukunaga]
+            writer.sync: [Nic Pizzolatto]
+            label: [ID__000046648A__S01E01]
+            summary: The lead investigators in a macabre 1995 murder relive the case in the wake of new info.
+          2: # S01E02
+            title: Seeing Things
+            sort_title: Seeing Things
+            content_rating: gb/15
+            originally_available: 2014-03-01
+            director.sync: [Cary Joji Fukunaga]
+            writer.sync: [Nic Pizzolatto]
+            label: [ID__000046648A__S01E02]
+            summary: Under pressure to land a suspect, Cohle and Hart follow a lead to a cathouse and an incinerated church.
+          3: # S01E03
+            title: The Locked Room
+            sort_title: Locked Room
+            content_rating: gb/15
+            originally_available: 2014-03-08
+            director.sync: [Cary Joji Fukunaga]
+            writer.sync: [Nic Pizzolatto]
+            label: [ID__000046648A__S01E03]
+            summary: Cohle and Hart visit a tent revival in search of leads; Hart gets sidetracked at a C&W bar.
+          4: # S01E04
+            title: Who Goes There
+            sort_title: Who Goes There
+            content_rating: gb/15
+            originally_available: 2014-03-15
+            director.sync: [Cary Joji Fukunaga]
+            writer.sync: [Nic Pizzolatto]
+            label: [ID__000046648A__S01E04]
+            summary: Hart and Cohle follow a series of dangerous leads in an effort to locate prime suspect Reggie Ledoux.
+          5: # S01E05
+            title: The Secret Fate of All Life
+            sort_title: Secret Fate of All Life
+            content_rating: gb/18
+            originally_available: 2014-03-22
+            director.sync: [Cary Joji Fukunaga]
+            writer.sync: [Nic Pizzolatto]
+            label: [ID__000046648A__S01E05]
+            summary: Hart and Cohle share the spoils of a solved case; Papania and Gilbough confront the detectives with troubling new intelligence.
+          6: # S01E06
+            title: Haunted Houses
+            sort_title: Haunted Houses
+            content_rating: gb/15
+            originally_available: 2014-03-29
+            director.sync: [Cary Joji Fukunaga]
+            writer.sync: [Nic Pizzolatto]
+            label: [ID__000046648A__S01E06]
+            summary: Maggie sheds light on Cohle's activities in 2002, when his relationship with Hart fractured and Cohle quit the force.
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
