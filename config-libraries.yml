@@ -60,6 +60,7 @@ libraries:
       - repo: metadata/movies/Demolition Man (1993) {tmdb-9739}
       - repo: metadata/movies/Desire (2011) {tmdb-86331}
       - repo: metadata/movies/Despicable Me (2010) {tmdb-20352}
+      - repo: metadata/movies/Disobedience (2018) {tmdb-419743}
       - repo: metadata/movies/Django Unchained (2012) {tmdb-68718}
       - repo: metadata/movies/Doctor Sleep (2019) {tmdb-501170}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
