@@ -332,6 +332,12 @@ collections:
     tmdb_movie:
       - 934433 # Scream VI (2023)
 
+  Series__Sicario_2015:
+    template:
+      { name: TMDB series label, series_name: Sicario, series_year: 2015 }
+    tmdb_movie:
+      - 273481 # Sicario (2015)
+
   Series__Silent_Hill_2006:
     template:
       { name: TMDB series label, series_name: Silent_Hill, series_year: 2006 }

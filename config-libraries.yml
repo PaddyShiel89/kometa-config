@@ -168,6 +168,7 @@ libraries:
       - repo: metadata/movies/Secretary (2002) {tmdb-11013}
       - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}
       - repo: metadata/movies/Shrek (2001) {tmdb-808}
+      - repo: metadata/movies/Sicario (2015) {tmdb-273481}
       - repo: metadata/movies/Sightseers (2012) {tmdb-117974}
       - repo: metadata/movies/Silent Hill (2006) {tmdb-588}
       - repo: metadata/movies/Smile (2022) {tmdb-882598}

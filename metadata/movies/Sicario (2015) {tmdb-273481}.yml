@@ -1,0 +1,28 @@
+metadata:
+  Sicario:
+    title: Sicario
+    year: 2015
+    edition_filter: Theatrical cut
+    sort_title: Sicario (2015) 001
+    content_rating: gb/15
+    country.sync: [Hong Kong, Mexico, United States of America]
+    director.sync: [Denis Villeneuve]
+    genre.sync: [Action, Crime, Drama, Mystery, Thriller]
+    originally_available: 2015-05-19
+    producer.sync:
+      [
+        Basil Iwanyk,
+        Thad Luckinbill,
+        Trent Luckinbill,
+        Edward L. McDonnell,
+        Molly Smith,
+      ]
+    studio: Lionsgate
+    summary: A government task force enlists an idealistic FBI agent to aid in the escalating war against drugs in the border area between the U.S. and Mexico.
+    tagline: The border is just another line to cross.
+    writer.sync: [Taylor Sheridan]
+    label: [ID__000273481A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
