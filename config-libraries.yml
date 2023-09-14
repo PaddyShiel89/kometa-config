@@ -327,6 +327,7 @@ libraries:
       assets_for_all: true
     metadata_path:
       - repo: metadata/tv_shows/The Last of Us (2023) {tmdb-100088}
+      - repo: metadata/tv_shows/True Detective (2014) {tmdb-46648}
       - repo: labelling/tv_shows/shows/ownership
       - repo: labelling/tv_shows/shows/sources
       - repo: labelling/tv_shows/shows/themes
