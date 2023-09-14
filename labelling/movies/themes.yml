@@ -488,6 +488,7 @@ collections:
     tmdb_movie:
       - 487558 # BlacKkKlansman (2018)
       - 501170 # Doctor Sleep (2019)
+      - 493922 # Hereditary (2018)
       - 50837 # Martha Marcy May Marlene (2011)
       - 16307 # The Wicker Man (1973)
 
@@ -510,6 +511,7 @@ collections:
       - 561 # Constantine (2005)
       - 284052 # Doctor Strange (2016)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
+      - 493922 # Hereditary (2018)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 285 # Pirates of the Caribbean: At World's End (2007)
@@ -716,6 +718,11 @@ collections:
       - 75900 # My Week with Marilyn (2011)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
 
+  Theme__folk:
+    template: { name: TMDB theme label, theme_name: folk }
+    tmdb_movie:
+      - 493922 # Hereditary (2018)
+
   Theme__foreign_language:
     template: { name: TMDB theme label, theme_name: foreign_language }
     plex_all: true
@@ -757,6 +764,7 @@ collections:
     tmdb_movie:
       - 470 # 21 Grams (2003)
       - 505642 # Black Panther: Wakanda Forever (2022)
+      - 493922 # Hereditary (2018)
       - 157433 # Pet Sematary (2019)
       - 359940 # Three Billboards Outside Ebbing, Missouri (2017)
 
@@ -912,6 +920,7 @@ collections:
       - 3580 # Changeling (2008)
       - 884 # Crash (1996)
       - 450465 # Glass (2019)
+      - 493922 # Hereditary (2018)
       - 68721 # Iron Man 3 (2013)
       - 475557 # Joker (2019)
       - 947 # Lawrence of Arabia (1962)
@@ -1155,6 +1164,7 @@ collections:
       - 315837 # Ghost in the Shell (2017)
       - 450465 # Glass (2019)
       - 210577 # Gone Girl (2014)
+      - 493922 # Hereditary (2018)
       - 27205 # Inception (2010)
       - 474350 # It Chapter Two (2019)
       - 475557 # Joker (2019)
@@ -1433,6 +1443,7 @@ collections:
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
+      - 493922 # Hereditary (2018)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 1995 # Lara Croft: Tomb Raider (2001)
