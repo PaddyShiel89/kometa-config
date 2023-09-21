@@ -1,0 +1,21 @@
+metadata:
+  "Mad Max: Fury Road":
+    title: "Mad Max: Fury Road"
+    year: 2015
+    edition_filter: Theatrical cut
+    sort_title: Mad Max (1979) 004A
+    content_rating: gb/15
+    country.sync: [Australia]
+    director.sync: [George Miller]
+    genre.sync: [Action, Adventure, Science Fiction, Thriller]
+    originally_available: 2015-05-07
+    producer.sync: [George Miller, Doug Mitchell, P.J. Voeten]
+    studio: Kennedy Miller Productions
+    summary: In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler with the aid of a group of female prisoners, a psychotic worshiper and a drifter named Max.
+    tagline: WHAT A LOVELY DAY
+    writer.sync: [George Miller, Brendan McCarthy, Nick Lathouris]
+    label: [ID__000076341A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

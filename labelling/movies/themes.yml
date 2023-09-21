@@ -412,6 +412,7 @@ collections:
       - 50456 # Hanna (2011)
       - 371645 # Hunt for the Wilderpeople (2016)
       - 507086 # Jurassic World Dominion (2022)
+      - 76341 # Mad Max: Fury Road (2015)
       - 180 # Minority Report (2002)
       - 10216 # Species II (1998)
       - 218 # The Terminator (1984)
@@ -590,6 +591,7 @@ collections:
     tmdb_movie:
       - 9739 # Demolition Man (1993)
       - 315837 # Ghost in the Shell (2017)
+      - 76341 # Mad Max: Fury Road (2015)
       - 180 # Minority Report (2002)
       - 280 # Terminator 2: Judgment Day (1991)
       - 70160 # The Hunger Games (2012)
@@ -1119,6 +1121,7 @@ collections:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 76341 # Mad Max: Fury Road (2015)
       - 869 # Planet of the Apes (2001)
       - 35791 # Resident Evil: Afterlife (2010)
       - 7737 # Resident Evil: Extinction (2007)
@@ -1257,6 +1260,7 @@ collections:
     tmdb_movie:
       - 496 # Borat (2006)
       - 425 # Ice Age (2002)
+      - 76341 # Mad Max: Fury Road (2015)
       - 18785 # The Hangover (2009)
       - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
       - 1541 # Thelma & Louise (1991)
