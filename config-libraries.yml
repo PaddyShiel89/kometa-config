@@ -150,6 +150,7 @@ libraries:
       - repo: metadata/movies/Pride & Prejudice (2005) {tmdb-4348}
       - repo: metadata/movies/Psycho Goreman (2020) {tmdb-670428}
       - repo: metadata/movies/Raining Stones (1993) {tmdb-62463}
+      - repo: metadata/movies/Renfield (2023) {tmdb-649609}
       - repo: metadata/movies/Requiem for a Dream (2000) {tmdb-641}
       - repo: metadata/movies/Resident Evil (2002) {tmdb-1576}
       - repo: metadata/movies/Resident Evil Afterlife (2010) {tmdb-35791}

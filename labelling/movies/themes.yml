@@ -328,6 +328,7 @@ collections:
       - 51540 # Horrible Bosses (2011)
       - 389015 # I, Tonya (2017)
       - 466272 # Once Upon a Time in Hollywood (2019)
+      - 649609 # Renfield (2023)
       - 117974 # Sightseers (2012)
       - 3989 # Team America: World Police (2004)
       - 674324 # The Banshees of Inisherin (2022)
@@ -932,6 +933,7 @@ collections:
       - 475557 # Joker (2019)
       - 947 # Lawrence of Arabia (1962)
       - 50837 # Martha Marcy May Marlene (2011)
+      - 649609 # Renfield (2023)
       - 381288 # Split (2016)
       - 23629 # Sucker Punch (2011)
 
@@ -971,6 +973,7 @@ collections:
       - 507086 # Jurassic World Dominion (2022)
       - 254 # King Kong (2005)
       - 762504 # Nope (2022)
+      - 649609 # Renfield (2023)
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 9637 # Scooby-Doo (2002)
       - 588 # Silent Hill (2006)
@@ -1111,6 +1114,7 @@ collections:
       - 9739 # Demolition Man (1993)
       - 2118 # L.A. Confidential (1997)
       - 10753 # Police Story 2 (1988)
+      - 649609 # Renfield (2023)
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 9676 # The Black Dahlia (2006)
       - 67913 # The Guard (2011)
@@ -1374,6 +1378,7 @@ collections:
       - 1691 # Hostel: Part II (2007)
       - 71670 # Hostel: Part III (2011)
       - 670428 # Psycho Goreman (2020)
+      - 649609 # Renfield (2023)
       - 588 # Silent Hill (2006)
       - 10216 # Species II (1998)
 
@@ -1540,6 +1545,7 @@ collections:
     template: { name: TMDB theme label, theme_name: vampires }
     tmdb_movie:
       - 501170 # Doctor Sleep (2019)
+      - 649609 # Renfield (2023)
 
   Theme__voodoo:
     template: { name: TMDB theme label, theme_name: voodoo }
