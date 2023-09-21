@@ -313,7 +313,7 @@ libraries:
       - repo: labelling/movies/restrictions
       - repo: labelling/movies/series
       - repo: labelling/movies/sources
-      - repo: labelling/shared/themes
+      # - repo: labelling/shared/themes
       - repo: labelling/movies/themes
       - repo: libraries/shared/actors
       - repo: libraries/movies/directors
@@ -354,7 +354,7 @@ libraries:
       - repo: labelling/tv_shows/ownership
       - repo: labelling/tv_shows/sources
       - repo: labelling/tv_shows/themes
-      - repo: labelling/shared/themes
+      # - repo: labelling/shared/themes
       - repo: libraries/shared/actors
       - repo: libraries/shared/content_ratings
       - repo: libraries/shared/genres
