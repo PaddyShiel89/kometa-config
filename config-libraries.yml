@@ -130,6 +130,7 @@ libraries:
       - repo: metadata/movies/National Treasure (2004) {tmdb-2059}
       - repo: metadata/movies/National Treasure Book of Secrets (2007) {tmdb-6637}
       - repo: metadata/movies/Nightmare Alley (2021) {tmdb-597208}
+      - repo: metadata/movies/Nine (2009) {tmdb-10197}
       - repo: metadata/movies/Nope (2022) {tmdb-762504}
       - repo: metadata/movies/Novo (2002) {tmdb-60015}
       - repo: metadata/movies/Oliver! (1968) {tmdb-17917}
