@@ -1,0 +1,20 @@
+metadata:
+  Crimes of the Future:
+    title: Crimes of the Future
+    year: 2022
+    edition_filter: Theatrical cut
+    sort_title: Crimes of the Future (2022)
+    content_rating: gb/18
+    country.sync: [Canada, Greece, United Kingdom]
+    director.sync: [David Cronenberg]
+    genre.sync: [Drama, Horror, Science Fiction]
+    originally_available: 2022-05-23
+    producer.sync: [Robert Lantos, Panos Papahadzis, Steve Solomos]
+    studio: Serendipity Point Films
+    summary: With his partner Caprice, Saul Tenser, celebrity performance artist, publicly showcases the metamorphosis of his organs in avant-garde performances.
+    writer.sync: [David Cronenberg]
+    label: [ID__000819876A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

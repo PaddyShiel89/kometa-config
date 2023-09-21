@@ -347,6 +347,7 @@ collections:
   Theme__body_horror:
     template: { name: TMDB theme label, theme_name: body_horror }
     tmdb_movie:
+      - 819876 # Crimes of the Future (2022)
       - 17796 # Freaked (1993)
       - 419430 # Get Out (2017)
       - 588 # Silent Hill (2006)
@@ -626,6 +627,7 @@ collections:
   Theme__experimental:
     template: { name: TMDB theme label, theme_name: experimental }
     tmdb_movie:
+      - 819876 # Crimes of the Future (2022)
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
       - 1018 # Mulholland Drive (2001)

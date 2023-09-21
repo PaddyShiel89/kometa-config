@@ -56,6 +56,7 @@ libraries:
       - repo: metadata/movies/Christine (1983) {tmdb-8769}
       - repo: metadata/movies/Constantine (2005) {tmdb-561}
       - repo: metadata/movies/Crash (1996) {tmdb-884}
+      - repo: metadata/movies/Crimes of the Future (2022) {tmdb-819876}
       - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
       - repo: metadata/movies/Demolition Man (1993) {tmdb-9739}
       - repo: metadata/movies/Desire (2011) {tmdb-86331}
