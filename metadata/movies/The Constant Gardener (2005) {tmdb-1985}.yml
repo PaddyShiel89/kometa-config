@@ -1,0 +1,29 @@
+metadata:
+  The Constant Gardener:
+    title: The Constant Gardener
+    year: 2005
+    edition_filter: Theatrical cut
+    sort_title: Constant Gardener (2005)
+    content_rating: gb/15
+    country.sync:
+      [
+        France,
+        Germany,
+        Kenya,
+        Switzerland,
+        United Kingdom,
+        United States of America,
+      ]
+    director.sync: [Fernando Meirelles]
+    genre.sync: [Drama, Mystery, Romance, Thriller]
+    originally_available: 2005-07-31
+    producer.sync: [Simon Channing Williams]
+    studio: Focus Features
+    summary: A widower is determined to get to the bottom of a potentially explosive secret involving his wife's murder, big business, and corporate corruption.
+    tagline: Love. At any cost.
+    writer.sync: [Jeffrey Caine, John le Carré]
+    label: [ID__000001985A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

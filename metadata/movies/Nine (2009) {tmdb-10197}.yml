@@ -1,0 +1,28 @@
+metadata:
+  Nine:
+    title: Nine
+    year: 2009
+    edition_filter: Theatrical cut
+    sort_title: Nine (2009)
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Rob Marshall]
+    genre.sync: [Drama, Musical, Romance]
+    originally_available: 2009-12-03
+    producer.sync: [John DeLuca, Rob Marshall, Marc Platt, Harvey Weinstein]
+    studio: Relativity Media
+    summary: Film director Guido Contini struggles to balance his professional and personal lives as he engages in dramatic relationships with his wife, mistress, muse, agent, and mother.
+    tagline: This Holiday Season, Be Italian
+    writer.sync:
+      [
+        Michael Tolkin,
+        Anthony Minghella,
+        Arthur Kopit,
+        Maury Yeston,
+        Mario Fratti,
+      ]
+    label: [ID__000010197A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

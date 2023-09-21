@@ -56,6 +56,7 @@ libraries:
       - repo: metadata/movies/Christine (1983) {tmdb-8769}
       - repo: metadata/movies/Constantine (2005) {tmdb-561}
       - repo: metadata/movies/Crash (1996) {tmdb-884}
+      - repo: metadata/movies/Crimes of the Future (2022) {tmdb-819876}
       - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
       - repo: metadata/movies/Demolition Man (1993) {tmdb-9739}
       - repo: metadata/movies/Desire (2011) {tmdb-86331}
@@ -120,6 +121,7 @@ libraries:
       - repo: metadata/movies/Lawrence of Arabia (1962) {tmdb-947}
       - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
       - repo: metadata/movies/Ma mere (2004) {tmdb-48266}
+      - repo: metadata/movies/Mad Max Fury Road (2015) {tmdb-76341}
       - repo: metadata/movies/Malena (2000) {tmdb-10867}
       - repo: metadata/movies/Mamma Mia! (2008) {tmdb-11631}
       - repo: metadata/movies/Martha Marcy May Marlene (2011) {tmdb-50837}
@@ -130,6 +132,7 @@ libraries:
       - repo: metadata/movies/National Treasure (2004) {tmdb-2059}
       - repo: metadata/movies/National Treasure Book of Secrets (2007) {tmdb-6637}
       - repo: metadata/movies/Nightmare Alley (2021) {tmdb-597208}
+      - repo: metadata/movies/Nine (2009) {tmdb-10197}
       - repo: metadata/movies/Nope (2022) {tmdb-762504}
       - repo: metadata/movies/Novo (2002) {tmdb-60015}
       - repo: metadata/movies/Oliver! (1968) {tmdb-17917}
@@ -147,6 +150,7 @@ libraries:
       - repo: metadata/movies/Pride & Prejudice (2005) {tmdb-4348}
       - repo: metadata/movies/Psycho Goreman (2020) {tmdb-670428}
       - repo: metadata/movies/Raining Stones (1993) {tmdb-62463}
+      - repo: metadata/movies/Renfield (2023) {tmdb-649609}
       - repo: metadata/movies/Requiem for a Dream (2000) {tmdb-641}
       - repo: metadata/movies/Resident Evil (2002) {tmdb-1576}
       - repo: metadata/movies/Resident Evil Afterlife (2010) {tmdb-35791}
@@ -206,6 +210,7 @@ libraries:
       - repo: metadata/movies/The Boat That Rocked (2009) {tmdb-18947}
       - repo: metadata/movies/The Book of Eli (2010) {tmdb-20504}
       - repo: metadata/movies/The Bucket List (2007) {tmdb-7350}
+      - repo: metadata/movies/The Constant Gardener (2005) {tmdb-1985}
       - repo: metadata/movies/The Curious Case of Benjamin Button (2008) {tmdb-4922}
       - repo: metadata/movies/The Dictator (2012) {tmdb-76493}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
@@ -308,7 +313,7 @@ libraries:
       - repo: labelling/movies/restrictions
       - repo: labelling/movies/series
       - repo: labelling/movies/sources
-      - repo: labelling/shared/themes
+      # - repo: labelling/shared/themes
       - repo: labelling/movies/themes
       - repo: libraries/shared/actors
       - repo: libraries/movies/directors
@@ -349,7 +354,7 @@ libraries:
       - repo: labelling/tv_shows/ownership
       - repo: labelling/tv_shows/sources
       - repo: labelling/tv_shows/themes
-      - repo: labelling/shared/themes
+      # - repo: labelling/shared/themes
       - repo: libraries/shared/actors
       - repo: libraries/shared/content_ratings
       - repo: libraries/shared/genres

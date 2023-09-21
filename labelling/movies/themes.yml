@@ -172,6 +172,7 @@ collections:
       - 571 # The Birds (1963)
       - 9676 # The Black Dahlia (2006)
       - 756999 # The Black Phone (2021)
+      - 1985 # The Constant Gardener (2005)
       - 4922 # The Curious Case of Benjamin Button (2008)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 65754 # The Girl with the Dragon Tattoo (2011)
@@ -228,6 +229,7 @@ collections:
     tmdb_movie:
       - 11499 # Frost/Nixon (2008)
       - 11631 # Mamma Mia! (2008)
+      - 10197 # Nine (2009)
       - 17917 # Oliver! (1968)
       - 10653 # The Seven Year Itch (1955)
       - 15121 # The Sound of Music (1965)
@@ -327,6 +329,7 @@ collections:
       - 51540 # Horrible Bosses (2011)
       - 389015 # I, Tonya (2017)
       - 466272 # Once Upon a Time in Hollywood (2019)
+      - 649609 # Renfield (2023)
       - 117974 # Sightseers (2012)
       - 3989 # Team America: World Police (2004)
       - 674324 # The Banshees of Inisherin (2022)
@@ -346,6 +349,7 @@ collections:
   Theme__body_horror:
     template: { name: TMDB theme label, theme_name: body_horror }
     tmdb_movie:
+      - 819876 # Crimes of the Future (2022)
       - 17796 # Freaked (1993)
       - 419430 # Get Out (2017)
       - 588 # Silent Hill (2006)
@@ -410,6 +414,7 @@ collections:
       - 50456 # Hanna (2011)
       - 371645 # Hunt for the Wilderpeople (2016)
       - 507086 # Jurassic World Dominion (2022)
+      - 76341 # Mad Max: Fury Road (2015)
       - 180 # Minority Report (2002)
       - 10216 # Species II (1998)
       - 218 # The Terminator (1984)
@@ -588,6 +593,7 @@ collections:
     tmdb_movie:
       - 9739 # Demolition Man (1993)
       - 315837 # Ghost in the Shell (2017)
+      - 76341 # Mad Max: Fury Road (2015)
       - 180 # Minority Report (2002)
       - 280 # Terminator 2: Judgment Day (1991)
       - 70160 # The Hunger Games (2012)
@@ -625,6 +631,7 @@ collections:
   Theme__experimental:
     template: { name: TMDB theme label, theme_name: experimental }
     tmdb_movie:
+      - 819876 # Crimes of the Future (2022)
       - 45690 # I Am Curious (Blue) (1968)
       - 42695 # I Am Curious (Yellow) (1967)
       - 1018 # Mulholland Drive (2001)
@@ -927,6 +934,7 @@ collections:
       - 475557 # Joker (2019)
       - 947 # Lawrence of Arabia (1962)
       - 50837 # Martha Marcy May Marlene (2011)
+      - 649609 # Renfield (2023)
       - 381288 # Split (2016)
       - 23629 # Sucker Punch (2011)
 
@@ -966,6 +974,7 @@ collections:
       - 507086 # Jurassic World Dominion (2022)
       - 254 # King Kong (2005)
       - 762504 # Nope (2022)
+      - 649609 # Renfield (2023)
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 9637 # Scooby-Doo (2002)
       - 588 # Silent Hill (2006)
@@ -992,6 +1001,7 @@ collections:
       - 949423 # Pearl (2022)
       - 46534 # Sweet Karma (2009)
       - 9676 # The Black Dahlia (2006)
+      - 1985 # The Constant Gardener (2005)
       - 67913 # The Guard (2011)
       - 526007 # The Night Clerk (2020)
       - 629 # The Usual Suspects (1995)
@@ -1061,6 +1071,7 @@ collections:
       - 598 # City of God (2002)
       - 210577 # Gone Girl (2014)
       - 1018 # Mulholland Drive (2001)
+      - 1985 # The Constant Gardener (2005)
       - 20766 # The Road (2009)
       - 37799 # The Social Network (2010)
       - 597 # Titanic (1997)
@@ -1106,6 +1117,7 @@ collections:
       - 9739 # Demolition Man (1993)
       - 2118 # L.A. Confidential (1997)
       - 10753 # Police Story 2 (1988)
+      - 649609 # Renfield (2023)
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 9676 # The Black Dahlia (2006)
       - 67913 # The Guard (2011)
@@ -1116,6 +1128,7 @@ collections:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 76341 # Mad Max: Fury Road (2015)
       - 869 # Planet of the Apes (2001)
       - 35791 # Resident Evil: Afterlife (2010)
       - 7737 # Resident Evil: Extinction (2007)
@@ -1254,6 +1267,7 @@ collections:
     tmdb_movie:
       - 496 # Borat (2006)
       - 425 # Ice Age (2002)
+      - 76341 # Mad Max: Fury Road (2015)
       - 18785 # The Hangover (2009)
       - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
       - 1541 # Thelma & Louise (1991)
@@ -1367,6 +1381,7 @@ collections:
       - 1691 # Hostel: Part II (2007)
       - 71670 # Hostel: Part III (2011)
       - 670428 # Psycho Goreman (2020)
+      - 649609 # Renfield (2023)
       - 588 # Silent Hill (2006)
       - 10216 # Species II (1998)
 
@@ -1533,6 +1548,7 @@ collections:
     template: { name: TMDB theme label, theme_name: vampires }
     tmdb_movie:
       - 501170 # Doctor Sleep (2019)
+      - 649609 # Renfield (2023)
 
   Theme__voodoo:
     template: { name: TMDB theme label, theme_name: voodoo }
