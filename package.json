@@ -1,0 +1,11 @@
+{
+  "name": "pmm-config",
+  "version": "1.0.0",
+  "description": "Personal Plex Meta Manager config files.",
+  "main": "index.js",
+  "scripts": {
+    "build-local": "docker run --rm -it -v \"J:\\Development\\personal\\pmm-config:/config:rw\" meisnate12/plex-meta-manager:latest --run"
+  },
+  "author": "Patrick Shiel",
+  "license": "ISC"
+}
