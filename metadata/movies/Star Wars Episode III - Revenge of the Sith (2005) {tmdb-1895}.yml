@@ -3,9 +3,10 @@ external_templates:
 
 metadata:
   "Star Wars: Episode III - Revenge of the Sith [DVD cut]":
-    title: "Star Wars: Episode III - Revenge of the Sith"
-    year: 2005
-    edition_filter: DVD cut
+    match:
+      title: "Star Wars: Episode III - Revenge of the Sith"
+      year: 2005
+      edition_filter: DVD cut
     sort_title: Star Wars 003B
     content_rating: gb/12
     country.sync: [Italy, Switzerland, Thailand, United States of America]
@@ -20,9 +21,10 @@ metadata:
     label: [ID__000001895B]
 
   "Star Wars: Episode III - Revenge of the Sith [Blu-ray cut]":
-    title: "Star Wars: Episode III - Revenge of the Sith"
-    year: 2005
-    edition_filter: Blu-ray cut
+    match:
+      title: "Star Wars: Episode III - Revenge of the Sith"
+      year: 2005
+      edition_filter: Blu-ray cut
     sort_title: Star Wars 003C
     content_rating: gb/12
     country.sync: [Italy, Switzerland, Thailand, United States of America]
