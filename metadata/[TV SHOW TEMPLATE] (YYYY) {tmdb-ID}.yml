@@ -1,8 +1,9 @@
 metadata:
-  "TV show (YYYY)":
-    title:
+  "this-file-name":
+    match:
+      title:
+      year:
     sort_title:
-    year:
     content_rating: gb/
     genre.sync: []
     original_title:

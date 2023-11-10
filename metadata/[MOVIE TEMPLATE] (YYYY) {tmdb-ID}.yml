@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Movie [Edition]":
-    title:
-    year:
-    edition_filter:
+  "this-file-name [Edition]":
+    match:
+      title:
+      year:
+      edition_filter:
     sort_title:
     content_rating: gb/
     country.sync: []
