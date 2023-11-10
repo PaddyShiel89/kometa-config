@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Malèna [Original Italian cut]":
-    title: Malèna
-    year: 2000
-    edition_filter: Original Italian cut
+  "Malena (2000) {tmdb-10867} [Original Italian cut]":
+    match:
+      title: Malèna
+      year: 2000
+      edition_filter: Original Italian cut
     sort_title: Malena (2000) 001A
     content_rating: gb/Unrated
     country.sync: [Italy, United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [Giuseppe Tornatore, Luciano Vincenzoni]
     label: [ID__000010867A]
 
-  "Malèna [International cut]":
-    title: Malèna
-    year: 2000
-    edition_filter: International cut
+  "Malena (2000) {tmdb-10867} [International cut]":
+    match:
+      title: Malèna
+      year: 2000
+      edition_filter: International cut
     sort_title: Malena (2000) 001B
     content_rating: gb/15
     country.sync: [Italy, United States of America]

@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Aliens [Theatrical cut]":
-    title: "Aliens"
-    year: 1986
-    edition_filter: Theatrical cut
+  "Aliens (1986) {tmdb-679} [Theatrical cut]":
+    match:
+      title: Aliens
+      year: 1986
+      edition_filter: Theatrical cut
     sort_title: Alien (1979) 002A
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [James Cameron, David Giler, Walter Hill]
     label: [ID__000000679A]
 
-  "Aliens [Special edition]":
-    title: "Aliens"
-    year: 1986
-    edition_filter: Special edition
+  "Aliens (1986) {tmdb-679} [Special edition]":
+    match:
+      title: Aliens
+      year: 1986
+      edition_filter: Special edition
     sort_title: Alien (1979) 002B
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]
@@ -37,7 +39,7 @@ metadata:
     label: [ID__000000679B]
 
 collections:
-  "Aliens":
+  Aliens:
     template: { name: Edition }
     tmdb_movie: 679
     sort_title: Alien (1979) 002

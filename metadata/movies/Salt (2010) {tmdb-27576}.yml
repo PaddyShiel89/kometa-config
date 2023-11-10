@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Salt [Theatrical cut]":
-    title: Salt
-    year: 2010
-    edition_filter: Theatrical cut
+  "Salt (2010) {tmdb-27576} [Theatrical cut]":
+    match:
+      title: Salt
+      year: 2010
+      edition_filter: Theatrical cut
     sort_title: Salt (2010) 001A
     content_rating: gb/12
     country.sync: [United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [Kurt Wimmer]
     label: [ID__000027576A]
 
-  "Salt [Extended cut]":
-    title: Salt
-    year: 2010
-    edition_filter: Extended cut
+  "Salt (2010) {tmdb-27576} [Extended cut]":
+    match:
+      title: Salt
+      year: 2010
+      edition_filter: Extended cut
     sort_title: Salt (2010) 001B
     content_rating: gb/15
     country.sync: [United States of America]
@@ -36,10 +38,11 @@ metadata:
     writer.sync: [Kurt Wimmer]
     label: [ID__000027576B]
 
-  "Salt [Director's cut]":
-    title: Salt
-    year: 2010
-    edition_filter: Director's cut
+  "Salt (2010) {tmdb-27576} [Director's cut]":
+    match:
+      title: Salt
+      year: 2010
+      edition_filter: Director's cut
     sort_title: Salt (2010) 001C
     content_rating: gb/15
     country.sync: [United States of America]
@@ -54,7 +57,7 @@ metadata:
     label: [ID__000027576C]
 
 collections:
-  "Salt":
+  Salt:
     template: { name: Edition }
     tmdb_movie: 27576
     sort_title: Salt (2010) 001

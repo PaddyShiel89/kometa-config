@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "The Wicker Man [UK theatrical cut]":
-    title: The Wicker Man
-    year: 1973
-    edition_filter: UK theatrical cut
+  "The Wicker Man (1973) {tmdb-16307} [UK theatrical cut]":
+    match:
+      title: The Wicker Man
+      year: 1973
+      edition_filter: UK theatrical cut
     sort_title: Wicker Man (1973) 001A
     content_rating: gb/15
     country.sync: [United Kingdom]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [Anthony Shaffer, David Pinner]
     label: [ID__000016307A]
 
-  "The Wicker Man [Director's cut]":
-    title: The Wicker Man
-    year: 1973
-    edition_filter: Director's cut
+  "The Wicker Man (1973) {tmdb-16307} [Director's cut]":
+    match:
+      title: The Wicker Man
+      year: 1973
+      edition_filter: Director's cut
     sort_title: Wicker Man (1973) 001B
     content_rating: gb/15
     country.sync: [United Kingdom]
@@ -36,10 +38,11 @@ metadata:
     writer.sync: [Anthony Shaffer, David Pinner]
     label: [ID__000016307B]
 
-  "The Wicker Man [The Final Cut]":
-    title: The Wicker Man
-    year: 1973
-    edition_filter: The Final Cut
+  "The Wicker Man (1973) {tmdb-16307} [The Final Cut]":
+    match:
+      title: The Wicker Man
+      year: 1973
+      edition_filter: The Final Cut
     sort_title: Wicker Man (1973) 001C
     content_rating: gb/15
     country.sync: [United Kingdom]
@@ -54,7 +57,7 @@ metadata:
     label: [ID__000016307C]
 
 collections:
-  "The Wicker Man":
+  The Wicker Man:
     template: { name: Edition }
     tmdb_movie: 16307
     sort_title: Wicker Man (1973) 001

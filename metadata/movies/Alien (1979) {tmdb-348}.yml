@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Alien [Theatrical cut]":
-    title: "Alien"
-    year: 1979
-    edition_filter: Theatrical cut
+  "Alien (1979) {tmdb-348} [Theatrical cut]":
+    match:
+      title: Alien
+      year: 1979
+      edition_filter: Theatrical cut
     sort_title: Alien (1979) 001A
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [Dan O'Bannon, Dan O'Bannon, Ronald Shusett]
     label: [ID__000000348A]
 
-  "Alien [Director's cut]":
-    title: "Alien"
-    year: 1979
-    edition_filter: Director's cut
+  "Alien (1979) {tmdb-348} [Director's cut]":
+    match:
+      title: Alien
+      year: 1979
+      edition_filter: Director's cut
     sort_title: Alien (1979) 001B
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]
@@ -37,7 +39,7 @@ metadata:
     label: [ID__000000348B]
 
 collections:
-  "Alien":
+  Alien:
     template: { name: Edition }
     tmdb_movie: 348
     sort_title: Alien (1979) 001

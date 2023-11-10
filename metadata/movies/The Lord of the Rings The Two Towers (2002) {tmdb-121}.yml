@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "The Lord of the Rings: The Two Towers (2002) [Theatrical cut]":
-    title: "The Lord of the Rings: The Two Towers"
-    year: 2002
-    edition_filter: Theatrical cut
+  "The Lord of the Rings The Two Towers (2002) {tmdb-121} [Theatrical cut]":
+    match:
+      title: "The Lord of the Rings: The Two Towers"
+      year: 2002
+      edition_filter: Theatrical cut
     sort_title: Lord of the Rings (2001) 002A
     content_rating: gb/12
     country.sync: [New Zealand, United States of America]
@@ -26,10 +27,11 @@ metadata:
       ]
     label: [ID__000000121A]
 
-  "The Lord of the Rings: The Two Towers (2002) [Extended edition]":
-    title: "The Lord of the Rings: The Two Towers"
-    year: 2002
-    edition_filter: Extended edition
+  "The Lord of the Rings The Two Towers (2002) {tmdb-121} [Extended edition]":
+    match:
+      title: "The Lord of the Rings: The Two Towers"
+      year: 2002
+      edition_filter: Extended edition
     sort_title: Lord of the Rings (2001) 002B
     content_rating: gb/12
     country.sync: [New Zealand, United States of America]

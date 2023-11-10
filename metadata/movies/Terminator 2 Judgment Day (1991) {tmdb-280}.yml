@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Terminator 2: Judgment Day [Theatrical cut]":
-    title: "Terminator 2: Judgment Day"
-    year: 1991
-    edition_filter: Theatrical cut
+  "Terminator 2 Judgment Day (1991) {tmdb-280} [Theatrical cut]":
+    match:
+      title: "Terminator 2: Judgment Day"
+      year: 1991
+      edition_filter: Theatrical cut
     sort_title: Terminator (1984) 002A
     content_rating: gb/15
     country.sync: [United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [James Cameron, William Wisher]
     label: [ID__000000280A]
 
-  "Terminator 2: Judgment Day [Special edition]":
-    title: "Terminator 2: Judgment Day"
-    year: 1991
-    edition_filter: Special edition
+  "Terminator 2 Judgment Day (1991) {tmdb-280} [Special edition]":
+    match:
+      title: "Terminator 2: Judgment Day"
+      year: 1991
+      edition_filter: Special edition
     sort_title: Terminator (1984) 002B
     content_rating: gb/15
     country.sync: [United States of America]
@@ -36,10 +38,11 @@ metadata:
     writer.sync: [James Cameron, William Wisher]
     label: [ID__000000280B]
 
-  "Terminator 2: Judgment Day [Extended special edition]":
-    title: "Terminator 2: Judgment Day"
-    year: 1991
-    edition_filter: Extended special edition
+  "Terminator 2 Judgment Day (1991) {tmdb-280} [Extended special edition]":
+    match:
+      title: "Terminator 2: Judgment Day"
+      year: 1991
+      edition_filter: Extended special edition
     sort_title: Terminator (1984) 002C
     content_rating: gb/15
     country.sync: [United States of America]

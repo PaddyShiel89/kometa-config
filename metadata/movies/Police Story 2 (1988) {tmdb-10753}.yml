@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Police Story 2 [Original Hong Kong cut]":
-    title: "Police Story 2"
-    year: 1988
-    edition_filter: Original Hong Kong cut
+  "Police Story 2 (1988) {tmdb-10753} [Original Hong Kong cut]":
+    match:
+      title: Police Story 2
+      year: 1988
+      edition_filter: Original Hong Kong cut
     sort_title: Police Story (1985) 002A
     content_rating: gb/15
     country.sync: [Hong Kong]
@@ -20,10 +21,11 @@ metadata:
     writer.sync: [Jackie Chan, Paul B. Clay, Edward Tang]
     label: [ID__000010753A]
 
-  "Police Story 2 [Uncut restoration]":
-    title: "Police Story 2"
-    year: 1988
-    edition_filter: Uncut restoration
+  "Police Story 2 (1988) {tmdb-10753} [Uncut restoration]":
+    match:
+      title: Police Story 2
+      year: 1988
+      edition_filter: Uncut restoration
     sort_title: Police Story (1985) 002B
     content_rating: gb/15
     country.sync: [Hong Kong]
@@ -39,7 +41,7 @@ metadata:
     label: [ID__000010753B]
 
 collections:
-  "Police Story 2":
+  Police Story 2:
     template: { name: Edition }
     tmdb_movie: 10753
     sort_title: Police Story (1985) 002
