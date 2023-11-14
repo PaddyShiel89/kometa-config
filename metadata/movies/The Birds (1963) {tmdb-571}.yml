@@ -2,7 +2,7 @@ metadata:
   The Birds:
     title: The Birds
     year: 1963
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Birds (1963)
     content_rating: gb/15
     country.sync: [United States of America]

@@ -2,7 +2,7 @@ metadata:
   City of God:
     title: City of God
     year: 2002
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: City of God (2002)
     content_rating: gb/18
     country.sync: [Brazil, France, Germany]

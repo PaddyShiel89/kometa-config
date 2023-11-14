@@ -2,7 +2,7 @@ metadata:
   Nope:
     title: Nope
     year: 2022
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: "Nope (2022)"
     content_rating: gb/15
     country.sync: [Canada, Japan, United States of America]

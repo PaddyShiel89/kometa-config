@@ -2,7 +2,7 @@ metadata:
   Novo:
     title: Novo
     year: 2002
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Novo (2002)
     content_rating: gb/18
     country.sync: [France, Spain, Switzerland]

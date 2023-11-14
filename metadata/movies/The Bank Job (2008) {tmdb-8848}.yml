@@ -2,7 +2,7 @@ metadata:
   The Bank Job:
     title: The Bank Job
     year: 2008
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: "Bank Job (2008)"
     content_rating: gb/15
     country.sync: [Australia, United Kingdom, United States of America]

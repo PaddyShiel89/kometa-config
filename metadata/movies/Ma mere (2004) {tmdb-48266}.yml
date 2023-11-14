@@ -2,7 +2,7 @@ metadata:
   "Ma mère":
     title: "Ma mère"
     year: 2004
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: "Ma mere (2004)"
     content_rating: gb/18
     country.sync: [Austria, France, Portugal, Spain]

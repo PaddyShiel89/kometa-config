@@ -6,7 +6,7 @@ metadata:
     match:
       title: "Star Wars: Episode I - The Phantom Menace"
       year: 1999
-      edition_filter: DVD cut
+      edition: DVD cut
     sort_title: "Star Wars 001B"
     content_rating: gb/U
     country.sync: [United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: "Star Wars: Episode I - The Phantom Menace"
       year: 1999
-      edition_filter: "Blu-ray cut"
+      edition: "Blu-ray cut"
     sort_title: "Star Wars 001C"
     content_rating: gb/U
     country.sync: [United States of America]

@@ -6,7 +6,7 @@ metadata:
     match:
       title: Police Story 2
       year: 1988
-      edition_filter: Original Hong Kong cut
+      edition: Original Hong Kong cut
     sort_title: Police Story (1985) 002A
     content_rating: gb/15
     country.sync: [Hong Kong]
@@ -25,7 +25,7 @@ metadata:
     match:
       title: Police Story 2
       year: 1988
-      edition_filter: Uncut restoration
+      edition: Uncut restoration
     sort_title: Police Story (1985) 002B
     content_rating: gb/15
     country.sync: [Hong Kong]

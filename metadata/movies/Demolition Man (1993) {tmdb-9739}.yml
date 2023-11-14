@@ -2,7 +2,7 @@ metadata:
   Demolition Man:
     title: Demolition Man
     year: 1993
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Demolition Man (1993)
     content_rating: gb/15
     country.sync: [United States of America]

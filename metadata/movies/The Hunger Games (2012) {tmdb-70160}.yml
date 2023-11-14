@@ -2,7 +2,7 @@ metadata:
   The Hunger Games:
     title: The Hunger Games
     year: 2012
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Hunger Games (2012) 001
     content_rating: gb/12
     country.sync: [United States of America]

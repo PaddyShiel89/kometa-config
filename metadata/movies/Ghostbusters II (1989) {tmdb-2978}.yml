@@ -2,7 +2,7 @@ metadata:
   Ghostbusters II:
     title: Ghostbusters II
     year: 1989
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Ghostbusters (1984) 002
     content_rating: gb/PG
     country.sync: [United States of America]

@@ -2,7 +2,7 @@ metadata:
   "Trick 'r Treat":
     title: "Trick 'r Treat"
     year: 2007
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: "Trick 'r Treat (2007)"
     content_rating: gb/15
     country.sync: [Canada, United States of America]

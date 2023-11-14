@@ -6,7 +6,7 @@ metadata:
     match:
       title: Halloween Kills
       year: 2021
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Halloween (2018) 002A
     content_rating: gb/18
     country.sync: [United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: Halloween Kills
       year: 2021
-      edition_filter: Extended cut
+      edition: Extended cut
     sort_title: Halloween (2018) 002B
     content_rating: gb/18
     country.sync: [United States of America]

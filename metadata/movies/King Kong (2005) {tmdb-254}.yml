@@ -6,7 +6,7 @@ metadata:
     match:
       title: King Kong
       year: 2005
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: King Kong (2005) 001A
     content_rating: gb/12
     country.sync: [Germany, New Zealand, United States of America]
@@ -32,7 +32,7 @@ metadata:
     match:
       title: King Kong
       year: 2005
-      edition_filter: Extended edition
+      edition: Extended edition
     sort_title: King Kong (2005) 001B
     content_rating: gb/12
     country.sync: [Germany, New Zealand, United States of America]

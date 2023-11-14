@@ -2,7 +2,7 @@ metadata:
   Scary Movie 3:
     title: Scary Movie 3
     year: 2003
-    edition_filter: Extended edition
+    edition: Extended edition
     sort_title: Scary Movie (2000) 003
     content_rating: gb/15
     country.sync: [United States of America]

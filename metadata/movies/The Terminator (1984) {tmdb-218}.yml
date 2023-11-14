@@ -2,7 +2,7 @@ metadata:
   The Terminator:
     title: The Terminator
     year: 1984
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Terminator (1984) 001
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]

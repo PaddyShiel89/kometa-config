@@ -2,7 +2,7 @@ metadata:
   "Star Wars: Episode VIII - The Last Jedi":
     title: "Star Wars: Episode VIII - The Last Jedi"
     year: 2017
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Star Wars 008
     content_rating: gb/12
     country.sync: [United States of America]

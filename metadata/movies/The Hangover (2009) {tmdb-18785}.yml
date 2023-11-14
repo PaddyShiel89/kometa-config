@@ -6,7 +6,7 @@ metadata:
     match:
       title: The Hangover
       year: 2009
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Hangover (2009) 001A
     content_rating: gb/15
     country.sync: [Germany, United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: The Hangover
       year: 2009
-      edition_filter: Uncut version
+      edition: Uncut version
     sort_title: Hangover (2009) 001B
     content_rating: gb/18
     country.sync: [Germany, United States of America]

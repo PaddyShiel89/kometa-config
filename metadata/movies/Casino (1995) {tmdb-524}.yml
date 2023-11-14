@@ -2,7 +2,7 @@ metadata:
   Casino:
     title: Casino
     year: 1995
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Casino (1995)
     content_rating: gb/18
     country.sync: [France, United States of America]

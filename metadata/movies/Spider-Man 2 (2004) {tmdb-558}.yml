@@ -6,7 +6,7 @@ metadata:
     match:
       title: Spider-Man 2
       year: 2004
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Spider-Man (2002) 002A
     content_rating: gb/PG
     country.sync: [United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: Spider-Man 2.1
       year: 2004
-      edition_filter: Extended edition
+      edition: Extended edition
     sort_title: Spider-Man (2002) 002B
     content_rating: gb/PG
     country.sync: [United States of America]

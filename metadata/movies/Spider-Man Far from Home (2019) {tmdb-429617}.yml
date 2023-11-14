@@ -2,7 +2,7 @@ metadata:
   "Spider-Man: Far from Home":
     title: "Spider-Man: Far from Home"
     year: 2019
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Spider-Man (2017) 002
     content_rating: gb/12
     country.sync: [United States of America]

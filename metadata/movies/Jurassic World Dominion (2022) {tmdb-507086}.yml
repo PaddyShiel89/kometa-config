@@ -6,7 +6,7 @@ metadata:
     match:
       title: Jurassic World Dominion
       year: 2022
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Jurassic World (2015) 003A
     content_rating: gb/12
     country.sync: [China, Malta, United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: Jurassic World Dominion
       year: 2022
-      edition_filter: Extended edition
+      edition: Extended edition
     sort_title: Jurassic World (2015) 003B
     content_rating: gb/12
     country.sync: [China, Malta, United States of America]

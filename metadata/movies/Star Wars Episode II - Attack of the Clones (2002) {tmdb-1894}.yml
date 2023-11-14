@@ -6,7 +6,7 @@ metadata:
     match:
       title: "Star Wars: Episode II - Attack of the Clones"
       year: 2002
-      edition_filter: DVD cut
+      edition: DVD cut
     sort_title: Star Wars 002B
     content_rating: gb/PG
     country.sync: [United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: "Star Wars: Episode II - Attack of the Clones"
       year: 2002
-      edition_filter: Blu-ray cut
+      edition: Blu-ray cut
     sort_title: Star Wars 002C
     content_rating: gb/PG
     country.sync: [United States of America]

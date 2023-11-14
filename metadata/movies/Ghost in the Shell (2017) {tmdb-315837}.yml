@@ -2,7 +2,7 @@ metadata:
   Ghost in the Shell:
     title: Ghost in the Shell
     year: 2017
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Ghost in the Shell (2017)
     content_rating: gb/12
     country.sync: [Canada, China, Hong Kong, India, United States of America]

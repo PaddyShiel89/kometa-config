@@ -6,7 +6,7 @@ metadata:
     match:
       title: Alien Resurrection
       year: 1997
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Alien (1979) 004A
     content_rating: gb/18
     country.sync: [United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: Alien Resurrection
       year: 1997
-      edition_filter: Special edition
+      edition: Special edition
     sort_title: Alien (1979) 004B
     content_rating: gb/18
     country.sync: [United States of America]

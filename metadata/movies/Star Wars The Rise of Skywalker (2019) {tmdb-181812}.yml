@@ -2,7 +2,7 @@ metadata:
   "Star Wars: Episode IX - The Rise of Skywalker":
     title: "Star Wars: Episode IX - The Rise of Skywalker"
     year: 2019
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Star Wars 009
     content_rating: gb/12
     country.sync: [United States of America]

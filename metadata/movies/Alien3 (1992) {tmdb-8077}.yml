@@ -6,7 +6,7 @@ metadata:
     match:
       title: "Alien³"
       year: 1992
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Alien (1979) 003A
     content_rating: gb/15
     country.sync: [United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: "Alien³"
       year: 1992
-      edition_filter: Assembly cut
+      edition: Assembly cut
     sort_title: Alien (1979) 003B
     content_rating: gb/15
     country.sync: [United States of America]

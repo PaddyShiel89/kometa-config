@@ -6,7 +6,7 @@ metadata:
     match:
       title: "Star Wars: Episode IV - A New Hope"
       year: 1977
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Star Wars 004A
     content_rating: gb/U
     country.sync: United States of America
@@ -25,7 +25,7 @@ metadata:
     match:
       title: "Star Wars: Episode IV - A New Hope"
       year: 1977
-      edition_filter: Special edition
+      edition: Special edition
     sort_title: Star Wars 004B
     content_rating: gb/U
     country.sync: United States of America
@@ -44,7 +44,7 @@ metadata:
     match:
       title: "Star Wars: Episode IV - A New Hope"
       year: 1977
-      edition_filter: DVD cut
+      edition: DVD cut
     sort_title: Star Wars 004C
     content_rating: gb/U
     country.sync: United States of America
@@ -63,7 +63,7 @@ metadata:
     match:
       title: "Star Wars: Episode IV - A New Hope"
       year: 1977
-      edition_filter: Blu-ray cut
+      edition: Blu-ray cut
     sort_title: Star Wars 004D
     content_rating: gb/U
     country.sync: United States of America
@@ -82,7 +82,7 @@ metadata:
     match:
       title: "Star Wars: Episode IV - A New Hope"
       year: 1977
-      edition_filter: Despecialized edition
+      edition: Despecialized edition
     sort_title: Star Wars 004E
     content_rating: gb/U
     country.sync: United States of America
@@ -101,7 +101,7 @@ metadata:
     match:
       title: "Star Wars: Episode IV - A New Hope"
       year: 1977
-      edition_filter: Project 4K77
+      edition: Project 4K77
     sort_title: Star Wars 004F
     content_rating: gb/U
     country.sync: United States of America

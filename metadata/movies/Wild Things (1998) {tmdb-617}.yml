@@ -6,7 +6,7 @@ metadata:
     match:
       title: Wild Things
       year: 1998
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Wild Things (1998) 001A
     content_rating: gb/18
     country.sync: [United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: Wild Things
       year: 1998
-      edition_filter: Unrated cut
+      edition: Unrated cut
     sort_title: Wild Things (1998) 001B
     content_rating: gb/18
     country.sync: [United States of America]

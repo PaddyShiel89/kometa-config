@@ -6,7 +6,7 @@ metadata:
     match:
       title: Salt
       year: 2010
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Salt (2010) 001A
     content_rating: gb/12
     country.sync: [United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: Salt
       year: 2010
-      edition_filter: Extended cut
+      edition: Extended cut
     sort_title: Salt (2010) 001B
     content_rating: gb/15
     country.sync: [United States of America]
@@ -42,7 +42,7 @@ metadata:
     match:
       title: Salt
       year: 2010
-      edition_filter: Director's cut
+      edition: Director's cut
     sort_title: Salt (2010) 001C
     content_rating: gb/15
     country.sync: [United States of America]

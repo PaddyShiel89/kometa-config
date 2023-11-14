@@ -2,7 +2,7 @@ metadata:
   Glass:
     title: Glass
     year: 2019
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Glass (2019)
     content_rating: gb/15
     country.sync: [China, United States of America]

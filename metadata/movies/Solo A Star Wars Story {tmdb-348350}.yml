@@ -2,7 +2,7 @@ metadata:
   "Solo: A Star Wars Story":
     title: "Solo: A Star Wars Story"
     year: 2018
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: "Solo: A Star Wars Story (2018)"
     content_rating: gb/12
     country.sync: [United States of America]

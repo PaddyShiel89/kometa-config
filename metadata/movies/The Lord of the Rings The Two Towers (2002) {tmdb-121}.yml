@@ -6,7 +6,7 @@ metadata:
     match:
       title: "The Lord of the Rings: The Two Towers"
       year: 2002
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Lord of the Rings (2001) 002A
     content_rating: gb/12
     country.sync: [New Zealand, United States of America]
@@ -31,7 +31,7 @@ metadata:
     match:
       title: "The Lord of the Rings: The Two Towers"
       year: 2002
-      edition_filter: Extended edition
+      edition: Extended edition
     sort_title: Lord of the Rings (2001) 002B
     content_rating: gb/12
     country.sync: [New Zealand, United States of America]

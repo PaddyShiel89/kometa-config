@@ -6,7 +6,7 @@ metadata:
     match:
       title: "The Lord of the Rings: The Fellowship of the Ring"
       year: 2001
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Lord of the Rings (2001) 001A
     content_rating: gb/PG
     country.sync: [New Zealand, United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: "The Lord of the Rings: The Fellowship of the Ring"
       year: 2001
-      edition_filter: Extended edition
+      edition: Extended edition
     sort_title: Lord of the Rings (2001) 001B
     content_rating: gb/12
     country.sync: [New Zealand, United States of America]

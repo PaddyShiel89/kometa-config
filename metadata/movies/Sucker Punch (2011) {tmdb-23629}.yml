@@ -6,7 +6,7 @@ metadata:
     match:
       title: Sucker Punch
       year: 2011
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Sucker Punch (2011) 001A
     content_rating: gb/12
     country.sync: [Canada, United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: Sucker Punch
       year: 2011
-      edition_filter: Extended cut
+      edition: Extended cut
     sort_title: Sucker Punch (2011) 001B
     content_rating: gb/12
     country.sync: [Canada, United States of America]

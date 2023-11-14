@@ -2,7 +2,7 @@ metadata:
   Crash:
     title: Crash
     year: 1996
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Crash (1996)
     content_rating: gb/18
     country.sync: [Canada, United Kingdom]

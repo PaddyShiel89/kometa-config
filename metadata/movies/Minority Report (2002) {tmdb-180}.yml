@@ -2,7 +2,7 @@ metadata:
   "Minority Report":
     title: "Minority Report"
     year: 2002
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Minority Report (2002)
     content_rating: gb/12
     country.sync: [United States of America]

@@ -6,7 +6,7 @@ metadata:
     match:
       title:
       year:
-      edition_filter:
+      edition:
     sort_title:
     content_rating: gb/
     country.sync: []

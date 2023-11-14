@@ -2,7 +2,7 @@ metadata:
   "À l'aventure":
     title: "À l'aventure"
     year: 2008 # Not a mistake
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Aventure (2008)
     content_rating: gb/18
     country.sync: [France]

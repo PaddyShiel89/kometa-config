@@ -2,7 +2,7 @@ metadata:
   Hostel:
     title: Hostel
     year: 2005
-    edition_filter: Unrated cut
+    edition: Unrated cut
     sort_title: Hostel (2005) 001
     content_rating: gb/18
     country.sync: [Czech Republic, United States of America]

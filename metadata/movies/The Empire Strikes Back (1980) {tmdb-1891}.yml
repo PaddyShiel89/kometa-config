@@ -6,7 +6,7 @@ metadata:
     match:
       title: "Star Wars: Episode V - The Empire Strikes Back"
       year: 1980
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Star Wars 005A
     content_rating: gb/PG
     country.sync: [United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: "Star Wars: Episode V - The Empire Strikes Back"
       year: 1980
-      edition_filter: Special edition
+      edition: Special edition
     sort_title: Star Wars 005B
     content_rating: gb/PG
     country.sync: [United States of America]
@@ -42,7 +42,7 @@ metadata:
     match:
       title: "Star Wars: Episode V - The Empire Strikes Back"
       year: 1980
-      edition_filter: DVD cut
+      edition: DVD cut
     sort_title: Star Wars 005C
     content_rating: gb/PG
     country.sync: [United States of America]
@@ -60,7 +60,7 @@ metadata:
     match:
       title: "Star Wars: Episode V - The Empire Strikes Back"
       year: 1980
-      edition_filter: Blu-ray cut
+      edition: Blu-ray cut
     sort_title: Star Wars 005D
     content_rating: gb/PG
     country.sync: [United States of America]
@@ -78,7 +78,7 @@ metadata:
     match:
       title: "Star Wars: Episode V - The Empire Strikes Back"
       year: 1980
-      edition_filter: Despecialized edition
+      edition: Despecialized edition
     sort_title: Star Wars 005E
     content_rating: gb/PG
     country.sync: [United States of America]

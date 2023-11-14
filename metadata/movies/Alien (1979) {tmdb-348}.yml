@@ -6,7 +6,7 @@ metadata:
     match:
       title: Alien
       year: 1979
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Alien (1979) 001A
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: Alien
       year: 1979
-      edition_filter: Director's cut
+      edition: Director's cut
     sort_title: Alien (1979) 001B
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]

@@ -2,7 +2,7 @@ metadata:
   "Resident Evil: The Final Chapter":
     title: "Resident Evil: The Final Chapter"
     year: 2016
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: "Resident Evil (2002) 006"
     content_rating: gb/15
     country.sync: [Canada, Germany]

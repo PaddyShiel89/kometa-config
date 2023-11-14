@@ -6,7 +6,7 @@ metadata:
     match:
       title: Malèna
       year: 2000
-      edition_filter: Original Italian cut
+      edition: Original Italian cut
     sort_title: Malena (2000) 001A
     content_rating: gb/Unrated
     country.sync: [Italy, United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: Malèna
       year: 2000
-      edition_filter: International cut
+      edition: International cut
     sort_title: Malena (2000) 001B
     content_rating: gb/15
     country.sync: [Italy, United States of America]

@@ -6,7 +6,7 @@ metadata:
     match:
       title: American Gangster
       year: 2007
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: American Gangster (2007) 001A
     content_rating: gb/18
     country.sync: [United Kingdom, United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: American Gangster
       year: 2007
-      edition_filter: Extended edition
+      edition: Extended edition
     sort_title: American Gangster (2007) 001B
     content_rating: gb/18
     country.sync: [United Kingdom, United States of America]

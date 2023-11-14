@@ -6,7 +6,7 @@ metadata:
     match:
       title: "The Lord of the Rings: The Return of the King"
       year: 2003
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Lord of the Rings (2001) 003A
     content_rating: gb/12
     country.sync: [New Zealand, United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: "The Lord of the Rings: The Return of the King"
       year: 2003
-      edition_filter: Extended edition
+      edition: Extended edition
     sort_title: Lord of the Rings (2001) 003B
     content_rating: gb/12
     country.sync: [New Zealand, United States of America]

@@ -2,7 +2,7 @@ metadata:
   Tenet:
     title: Tenet
     year: 2020
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Tenet (2020)
     content_rating: gb/12
     country.sync: [United Kingdom, United States of America]

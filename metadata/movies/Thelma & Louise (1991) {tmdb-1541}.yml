@@ -2,7 +2,7 @@ metadata:
   "Thelma & Louise":
     title: "Thelma & Louise"
     year: 1991
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: "Thelma & Louise (1991)"
     content_rating: gb/15
     country.sync: [France, United Kingdom, United States of America]

@@ -2,7 +2,7 @@ metadata:
   Benedetta:
     title: Benedetta
     year: 2021
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: "Benedetta (2021)"
     content_rating: gb/18
     country.sync: [France, Belgium, Netherlands]

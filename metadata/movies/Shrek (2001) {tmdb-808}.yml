@@ -2,7 +2,7 @@ metadata:
   Shrek:
     title: Shrek
     year: 2001
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Shrek (2001) 001
     content_rating: gb/U
     country.sync: [United States of America]

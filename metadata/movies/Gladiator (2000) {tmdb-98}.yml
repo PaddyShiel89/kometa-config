@@ -6,7 +6,7 @@ metadata:
     match:
       title: Gladiator
       year: 2000
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: Gladiator (2000) 001A
     content_rating: gb/15
     country.sync: [Malta, Morocco, United Kingdom, United States of America]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: Gladiator
       year: 2000
-      edition_filter: Extended edition
+      edition: Extended edition
     sort_title: Gladiator (2000) 001B
     content_rating: gb/15
     country.sync: [Malta, Morocco, United Kingdom, United States of America]

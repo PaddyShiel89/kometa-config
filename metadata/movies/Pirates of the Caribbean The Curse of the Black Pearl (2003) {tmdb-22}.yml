@@ -2,7 +2,7 @@ metadata:
   "Pirates of the Caribbean: The Curse of the Black Pearl":
     title: "Pirates of the Caribbean: The Curse of the Black Pearl"
     year: 2003
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Pirates of the Caribbean (2003) 001
     content_rating: gb/12
     country.sync: [United States of America]

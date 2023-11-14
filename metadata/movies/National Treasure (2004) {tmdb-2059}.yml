@@ -2,7 +2,7 @@ metadata:
   National Treasure:
     title: National Treasure
     year: 2004
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: National Treasure (2004) 001
     content_rating: gb/PG
     country.sync: [United States of America]

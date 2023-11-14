@@ -6,7 +6,7 @@ metadata:
     match:
       title: "Léon: The Professional"
       year: 1994
-      edition_filter: Theatrical cut
+      edition: Theatrical cut
     sort_title: "Leon: The Professional (1994) 001A"
     content_rating: gb/15
     country.sync: [France, United States of America]
@@ -25,7 +25,7 @@ metadata:
     match:
       title: "Léon: The Professional"
       year: 1994
-      edition_filter: Director's cut
+      edition: Director's cut
     sort_title: "Leon: The Professional (1994) 001B"
     content_rating: gb/15
     country.sync: [France, United States of America]

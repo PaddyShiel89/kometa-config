@@ -2,7 +2,7 @@ metadata:
   "X-Men: First Class":
     title: "X-Men: First Class"
     year: 2011
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: X-Men (2000) 005
     content_rating: gb/12
     country.sync: [United Kingdom, United States of America]

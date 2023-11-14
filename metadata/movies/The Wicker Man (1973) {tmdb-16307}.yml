@@ -6,7 +6,7 @@ metadata:
     match:
       title: The Wicker Man
       year: 1973
-      edition_filter: UK theatrical cut
+      edition: UK theatrical cut
     sort_title: Wicker Man (1973) 001A
     content_rating: gb/15
     country.sync: [United Kingdom]
@@ -24,7 +24,7 @@ metadata:
     match:
       title: The Wicker Man
       year: 1973
-      edition_filter: Director's cut
+      edition: Director's cut
     sort_title: Wicker Man (1973) 001B
     content_rating: gb/15
     country.sync: [United Kingdom]
@@ -42,7 +42,7 @@ metadata:
     match:
       title: The Wicker Man
       year: 1973
-      edition_filter: The Final Cut
+      edition: The Final Cut
     sort_title: Wicker Man (1973) 001C
     content_rating: gb/15
     country.sync: [United Kingdom]
