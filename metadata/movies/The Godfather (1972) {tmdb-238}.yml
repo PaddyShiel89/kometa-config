@@ -2,7 +2,7 @@ metadata:
   "The Godfather":
     title: The Godfather
     year: 1972
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Godfather (1972) 001
     content_rating: gb/15
     country.sync: [United States of America]

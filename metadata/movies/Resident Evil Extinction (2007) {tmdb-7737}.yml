@@ -2,7 +2,7 @@ metadata:
   "Resident Evil: Extinction":
     title: "Resident Evil: Extinction"
     year: 2007
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: "Resident Evil (2002) 003"
     content_rating: gb/15
     country.sync: [Canada, Germany, Mexico, United States of America]

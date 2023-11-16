@@ -40,9 +40,9 @@ playlists:
 
   Oscars Best Picture Winners:
     template:
-      - name: imdb_group_list
-        group: oscar_best_picture_winners
-        search_string: "&sort=release_date,desc"
+      - name: imdb_user_list
+        list_id: ls062667125
+    # imdb_list: "https://www.imdb.com/search/title/?sort=release_date,desc&groups=oscar_winner,best_picture_winner"
     libraries: Movies
     sync_mode: sync
     filters:

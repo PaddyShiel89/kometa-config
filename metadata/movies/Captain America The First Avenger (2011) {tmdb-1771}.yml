@@ -2,7 +2,7 @@ metadata:
   "Captain America: The First Avenger":
     title: "Captain America: The First Avenger"
     year: 2011
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Captain America (2011) 001
     content_rating: gb/12
     country.sync: [United States of America]

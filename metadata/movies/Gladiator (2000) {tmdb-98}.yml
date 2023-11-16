@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Gladiator [Theatrical cut]":
-    title: Gladiator
-    year: 2000
-    edition_filter: Theatrical cut
+  "Gladiator (2000) {tmdb-98} [Theatrical cut]":
+    match:
+      title: Gladiator
+      year: 2000
+      edition: Theatrical cut
     sort_title: Gladiator (2000) 001A
     content_rating: gb/15
     country.sync: [Malta, Morocco, United Kingdom, United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [David Franzoni, John Logan, William Nicholson]
     label: [ID__000000098A]
 
-  "Gladiator [Extended edition]":
-    title: Gladiator
-    year: 2000
-    edition_filter: Extended edition
+  "Gladiator (2000) {tmdb-98} [Extended edition]":
+    match:
+      title: Gladiator
+      year: 2000
+      edition: Extended edition
     sort_title: Gladiator (2000) 001B
     content_rating: gb/15
     country.sync: [Malta, Morocco, United Kingdom, United States of America]
@@ -37,7 +39,7 @@ metadata:
     label: [ID__000000098B]
 
 collections:
-  "Gladiator":
+  Gladiator:
     template: { name: Edition }
     tmdb_movie: 98
     sort_title: Gladiator (2000) 001

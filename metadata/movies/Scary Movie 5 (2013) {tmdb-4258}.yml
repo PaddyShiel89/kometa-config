@@ -2,7 +2,7 @@ metadata:
   Scary Movie 5:
     title: Scary Movie 5
     year: 2013
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Scary Movie (2000) 005
     content_rating: gb/15
     country.sync: [United States of America]

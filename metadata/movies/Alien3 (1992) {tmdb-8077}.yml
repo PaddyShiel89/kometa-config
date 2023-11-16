@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Alien³ [Theatrical cut]":
-    title: "Alien³"
-    year: 1992
-    edition_filter: Theatrical cut
+  "Alien3 (1992) {tmdb-8077} [Theatrical cut]":
+    match:
+      title: "Alien³"
+      year: 1992
+      edition: Theatrical cut
     sort_title: Alien (1979) 003A
     content_rating: gb/15
     country.sync: [United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [Vincent Ward, David Giler, Walter Hill, Larry Ferguson]
     label: [ID__000008077A]
 
-  "Alien³ [Assembley cut]":
-    title: "Alien³"
-    year: 1992
-    edition_filter: Assembly cut
+  "Alien3 (1992) {tmdb-8077} [Assembley cut]":
+    match:
+      title: "Alien³"
+      year: 1992
+      edition: Assembly cut
     sort_title: Alien (1979) 003B
     content_rating: gb/15
     country.sync: [United States of America]

@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "King Kong (2005) [Theatrical cut]":
-    title: King Kong
-    year: 2005
-    edition_filter: Theatrical cut
+  "King Kong (2005) {tmdb-254} [Theatrical cut]":
+    match:
+      title: King Kong
+      year: 2005
+      edition: Theatrical cut
     sort_title: King Kong (2005) 001A
     content_rating: gb/12
     country.sync: [Germany, New Zealand, United States of America]
@@ -27,10 +28,11 @@ metadata:
       ]
     label: [ID__000000254A]
 
-  "King Kong (2005) [Extended edition]":
-    title: King Kong
-    year: 2005
-    edition_filter: Extended edition
+  "King Kong (2005) {tmdb-254} [Extended edition]":
+    match:
+      title: King Kong
+      year: 2005
+      edition: Extended edition
     sort_title: King Kong (2005) 001B
     content_rating: gb/12
     country.sync: [Germany, New Zealand, United States of America]
@@ -53,7 +55,7 @@ metadata:
     label: [ID__000000254B]
 
 collections:
-  "King Kong":
+  King Kong:
     template: { name: Edition }
     tmdb_movie: 254
     sort_title: King Kong (2005) 001

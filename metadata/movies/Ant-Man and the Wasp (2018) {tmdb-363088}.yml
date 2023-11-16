@@ -2,7 +2,7 @@ metadata:
   "Ant-Man and the Wasp":
     title: "Ant-Man and the Wasp"
     year: 2018
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Ant-Man (2015) 002
     content_rating: gb/12
     country.sync: [Canada, United States of America]

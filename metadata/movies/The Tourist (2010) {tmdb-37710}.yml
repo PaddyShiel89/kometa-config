@@ -2,7 +2,7 @@ metadata:
   The Tourist:
     title: The Tourist
     year: 2010
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Tourist (2010)
     content_rating: gb/12
     country.sync: [France, Italy, United Kingdom, United States of America]

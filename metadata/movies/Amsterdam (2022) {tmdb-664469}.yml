@@ -2,7 +2,7 @@ metadata:
   Amsterdam:
     title: Amsterdam
     year: 2022
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Amsterdam (2022)
     content_rating: gb/15
     country.sync: [Japan, United States of America]

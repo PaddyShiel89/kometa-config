@@ -2,7 +2,7 @@ metadata:
   The Thing:
     title: The Thing
     year: 1982
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Thing (1982)
     content_rating: gb/18
     country.sync: [Canada, United States of America]

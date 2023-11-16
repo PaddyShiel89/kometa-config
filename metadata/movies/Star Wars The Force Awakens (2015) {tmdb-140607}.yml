@@ -2,7 +2,7 @@ metadata:
   "Star Wars: Episode VII - The Force Awakens":
     title: "Star Wars: Episode VII - The Force Awakens"
     year: 2015
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Star Wars 007
     content_rating: gb/12
     country.sync: [United States of America]

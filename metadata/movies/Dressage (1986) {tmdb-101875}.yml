@@ -2,7 +2,7 @@ metadata:
   Dressage:
     title: Dressage
     year: 1986
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Dressage (1986)
     content_rating: gb/18
     country.sync: [France]

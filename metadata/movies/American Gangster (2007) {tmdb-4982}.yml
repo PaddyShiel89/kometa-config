@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "American Gangster [Theatrical cut]":
-    title: "American Gangster"
-    year: 2007
-    edition_filter: Theatrical cut
+  "American Gangster (2007) {tmdb-4982} [Theatrical cut]":
+    match:
+      title: American Gangster
+      year: 2007
+      edition: Theatrical cut
     sort_title: American Gangster (2007) 001A
     content_rating: gb/18
     country.sync: [United Kingdom, United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [Steven Zaillian, Mark Jacobson]
     label: [ID__000004982A]
 
-  "American Gangster [Extended edition]":
-    title: "American Gangster"
-    year: 2007
-    edition_filter: Extended edition
+  "American Gangster (2007) {tmdb-4982} [Extended edition]":
+    match:
+      title: American Gangster
+      year: 2007
+      edition: Extended edition
     sort_title: American Gangster (2007) 001B
     content_rating: gb/18
     country.sync: [United Kingdom, United States of America]
@@ -37,7 +39,7 @@ metadata:
     label: [ID__000004982B]
 
 collections:
-  "American Gangster":
+  American Gangster:
     template: { name: Edition }
     tmdb_movie: 4982
     sort_title: American Gangster (2007) 001

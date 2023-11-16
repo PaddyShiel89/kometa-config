@@ -2,7 +2,7 @@ metadata:
   "Captain Marvel":
     title: "Captain Marvel"
     year: 2019
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Captain Marvel (2019) 001
     content_rating: gb/12
     country.sync: [Australia, United States of America]

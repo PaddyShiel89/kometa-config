@@ -2,7 +2,7 @@ metadata:
   Ghostbusters:
     title: Ghostbusters
     year: 1984
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Ghostbusters (1984) 001
     content_rating: gb/12
     country.sync: [United States of America]

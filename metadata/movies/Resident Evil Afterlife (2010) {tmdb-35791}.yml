@@ -2,7 +2,7 @@ metadata:
   "Resident Evil: Afterlife":
     title: "Resident Evil: Afterlife"
     year: 2010
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: "Resident Evil (2002) 004"
     content_rating: gb/15
     country.sync: [Canada, Germany, United States of America]

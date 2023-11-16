@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "The Hangover (2009) [Theatrical cut]":
-    title: The Hangover
-    year: 2009
-    edition_filter: Theatrical cut
+  "The Hangover (2009) {tmdb-18785} [Theatrical cut]":
+    match:
+      title: The Hangover
+      year: 2009
+      edition: Theatrical cut
     sort_title: Hangover (2009) 001A
     content_rating: gb/15
     country.sync: [Germany, United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [Jon Lucas, Scott Moore]
     label: [ID__000018785A]
 
-  "The Hangover (2009) [Uncut version]":
-    title: The Hangover
-    year: 2009
-    edition_filter: Uncut version
+  "The Hangover (2009) {tmdb-18785} [Uncut version]":
+    match:
+      title: The Hangover
+      year: 2009
+      edition: Uncut version
     sort_title: Hangover (2009) 001B
     content_rating: gb/18
     country.sync: [Germany, United States of America]
@@ -37,7 +39,7 @@ metadata:
     label: [ID__000018785B]
 
 collections:
-  "The Hangover":
+  The Hangover:
     template: { name: Edition }
     tmdb_movie: 18785
     sort_title: Hangover (2009) 001

@@ -2,7 +2,7 @@ metadata:
   "Spider-Man: No Way Home":
     title: "Spider-Man: No Way Home"
     year: 2021
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Spider-Man (2017) 003
     content_rating: gb/12
     country.sync: [United States of America]

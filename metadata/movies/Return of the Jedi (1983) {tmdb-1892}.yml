@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Star Wars: Episode VI - Return of the Jedi [Theatrical cut]":
-    title: "Star Wars: Episode VI - Return of the Jedi"
-    year: 1983
-    edition_filter: Theatrical cut
+  "Return of the Jedi (1983) {tmdb-1892} [Theatrical cut]":
+    match:
+      title: "Star Wars: Episode VI - Return of the Jedi"
+      year: 1983
+      edition: Theatrical cut
     sort_title: Star Wars 006A
     content_rating: gb/U
     country.sync: [United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [Lawrence Kasdan, George Lucas]
     label: [ID__000001892A]
 
-  "Star Wars: Episode VI - Return of the Jedi [Special edition]":
-    title: "Star Wars: Episode VI - Return of the Jedi"
-    year: 1983
-    edition_filter: Special edition
+  "Return of the Jedi (1983) {tmdb-1892} [Special edition]":
+    match:
+      title: "Star Wars: Episode VI - Return of the Jedi"
+      year: 1983
+      edition: Special edition
     sort_title: Star Wars 006B
     content_rating: gb/U
     country.sync: [United States of America]
@@ -36,10 +38,11 @@ metadata:
     writer.sync: [Lawrence Kasdan, George Lucas]
     label: [ID__000001892B]
 
-  "Star Wars: Episode VI - Return of the Jedi [DVD cut]":
-    title: "Star Wars: Episode VI - Return of the Jedi"
-    year: 1983
-    edition_filter: DVD cut
+  "Return of the Jedi (1983) {tmdb-1892} [DVD cut]":
+    match:
+      title: "Star Wars: Episode VI - Return of the Jedi"
+      year: 1983
+      edition: DVD cut
     sort_title: Star Wars 006C
     content_rating: gb/U
     country.sync: [United States of America]
@@ -53,10 +56,11 @@ metadata:
     writer.sync: [Lawrence Kasdan, George Lucas]
     label: [ID__000001892C]
 
-  "Star Wars: Episode VI - Return of the Jedi [Blu-ray cut]":
-    title: "Star Wars: Episode VI - Return of the Jedi"
-    year: 1983
-    edition_filter: Blu-ray cut
+  "Return of the Jedi (1983) {tmdb-1892} [Blu-ray cut]":
+    match:
+      title: "Star Wars: Episode VI - Return of the Jedi"
+      year: 1983
+      edition: Blu-ray cut
     sort_title: Star Wars 006D
     content_rating: gb/U
     country.sync: [United States of America]
@@ -70,10 +74,11 @@ metadata:
     writer.sync: [Lawrence Kasdan, George Lucas]
     label: [ID__000001892D]
 
-  "Star Wars: Episode VI - Return of the Jedi [Despecialized edition]":
-    title: "Star Wars: Episode VI - Return of the Jedi"
-    year: 1983
-    edition_filter: Despecialized edition
+  "Return of the Jedi (1983) {tmdb-1892} [Despecialized edition]":
+    match:
+      title: "Star Wars: Episode VI - Return of the Jedi"
+      year: 1983
+      edition: Despecialized edition
     sort_title: Star Wars 006E
     content_rating: gb/U
     country.sync: [United States of America]
@@ -87,10 +92,11 @@ metadata:
     writer.sync: [Lawrence Kasdan, George Lucas]
     label: [ID__000001892E]
 
-  "Star Wars: Episode VI - Return of the Jedi [Project 4K83]":
-    title: "Star Wars: Episode VI - Return of the Jedi"
-    year: 1983
-    edition_filter: Project 4K83
+  "Return of the Jedi (1983) {tmdb-1892} [Project 4K83]":
+    match:
+      title: "Star Wars: Episode VI - Return of the Jedi"
+      year: 1983
+      edition: Project 4K83
     sort_title: Star Wars 006F
     content_rating: gb/U
     country.sync: [United States of America]

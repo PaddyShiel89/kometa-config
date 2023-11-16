@@ -2,7 +2,7 @@ metadata:
   "300":
     title: "300"
     year: 2006
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: "300 (2006) 001"
     content_rating: gb/15
     country.sync: [Bulgaria, Canada, United States of America]

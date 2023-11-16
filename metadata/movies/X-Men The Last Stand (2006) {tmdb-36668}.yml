@@ -2,7 +2,7 @@ metadata:
   "X-Men: The Last Stand":
     title: "X-Men: The Last Stand"
     year: 2006
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: X-Men (2000) 003
     content_rating: gb/12
     country.sync: [Canada, United Kingdom, United States of America]

@@ -2,7 +2,7 @@ metadata:
   John Wick:
     title: John Wick
     year: 2014
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: John Wick (2014) 001
     content_rating: gb/15
     country.sync: [China, United Kingdom, United States of America]

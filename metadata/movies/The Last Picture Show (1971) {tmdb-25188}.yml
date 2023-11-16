@@ -2,7 +2,7 @@ metadata:
   The Last Picture Show:
     title: The Last Picture Show
     year: 1971
-    edition_filter: Director's cut
+    edition: Director's cut
     sort_title: Last Picture Show (1971)
     content_rating: gb/15
     country.sync: [United States of America]

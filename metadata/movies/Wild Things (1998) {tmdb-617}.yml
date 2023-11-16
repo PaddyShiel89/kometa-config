@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Wild Things [Theatrical cut]":
-    title: Wild Things
-    year: 1998
-    edition_filter: Theatrical cut
+  "Wild Things (1998) {tmdb-617} [Theatrical cut]":
+    match:
+      title: Wild Things
+      year: 1998
+      edition: Theatrical cut
     sort_title: Wild Things (1998) 001A
     content_rating: gb/18
     country.sync: [United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [Stephen Peters]
     label: [ID__000000617A]
 
-  "Wild Things [Unrated cut]":
-    title: Wild Things
-    year: 1998
-    edition_filter: Unrated cut
+  "Wild Things (1998) {tmdb-617} [Unrated cut]":
+    match:
+      title: Wild Things
+      year: 1998
+      edition: Unrated cut
     sort_title: Wild Things (1998) 001B
     content_rating: gb/18
     country.sync: [United States of America]
@@ -37,7 +39,7 @@ metadata:
     label: [ID__000000617B]
 
 collections:
-  "Wild Things":
+  Wild Things:
     template: { name: Edition }
     tmdb_movie: 617
     sort_title: Wild Things (1998) 001

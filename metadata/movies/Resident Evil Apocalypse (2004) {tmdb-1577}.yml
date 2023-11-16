@@ -2,7 +2,7 @@ metadata:
   "Resident Evil: Apocalypse":
     title: "Resident Evil: Apocalypse"
     year: 2004
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: "Resident Evil (2002) 002"
     content_rating: gb/15
     country.sync:

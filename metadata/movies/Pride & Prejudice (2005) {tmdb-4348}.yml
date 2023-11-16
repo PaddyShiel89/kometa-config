@@ -2,7 +2,7 @@ metadata:
   Pride & Prejudice:
     title: Pride & Prejudice
     year: 2005
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Pride & Prejudice (2005)
     content_rating: gb/U
     country.sync: [France, United Kingdom, United States of America]

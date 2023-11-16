@@ -2,7 +2,7 @@ metadata:
   "John Wick: Chapter 2":
     title: "John Wick: Chapter 2"
     year: 2017
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: John Wick (2014) 002
     content_rating: gb/15
     country.sync: [Canada, Hong Kong, Italy, United States of America]

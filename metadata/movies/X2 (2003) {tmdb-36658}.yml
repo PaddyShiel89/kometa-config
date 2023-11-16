@@ -2,7 +2,7 @@ metadata:
   "X2: X-Men United":
     title: "X2: X-Men United"
     year: 2003
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: X-Men (2000) 002
     content_rating: gb/12
     country.sync: [Canada, United States of America]

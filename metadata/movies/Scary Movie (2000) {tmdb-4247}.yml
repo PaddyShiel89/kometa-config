@@ -2,7 +2,7 @@ metadata:
   Scary Movie:
     title: Scary Movie
     year: 2000
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Scary Movie (2000) 001
     content_rating: gb/18
     country.sync: [United States of America]

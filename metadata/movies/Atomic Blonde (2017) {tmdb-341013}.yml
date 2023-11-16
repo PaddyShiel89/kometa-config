@@ -2,7 +2,7 @@ metadata:
   Atomic Blonde:
     title: Atomic Blonde
     year: 2017
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Atomic Blonde (2017)
     content_rating: gb/15
     country.sync: [Germany, Hungary, Sweden, United States of America]

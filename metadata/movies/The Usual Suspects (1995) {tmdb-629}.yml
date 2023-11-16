@@ -2,7 +2,7 @@ metadata:
   "The Usual Suspects":
     title: "The Usual Suspects"
     year: 1995
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Usual Suspects (1995)
     content_rating: gb/18
     country.sync: [Germany, United States of America]

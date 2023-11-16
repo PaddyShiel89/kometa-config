@@ -1,8 +1,9 @@
 metadata:
-  True Detective (2014):
-    title: True Detective
+  "True Detective (2014) {tmdb-46648}":
+    match:
+      title: True Detective
+      year: 2014
     sort_title: True Detective (2014)
-    year: 2014
     content_rating: gb/18
     genre.sync: [Crime, Drama, Mystery, Thriller]
     originally_available: 2014-02-22

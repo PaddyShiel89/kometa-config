@@ -2,7 +2,7 @@ metadata:
   "X-Men Origins: Wolverine":
     title: "X-Men Origins: Wolverine"
     year: 2009
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: "X-Men Origins: Wolverine (2009)"
     content_rating: gb/12
     country.sync: [United Kingdom, United States of America]

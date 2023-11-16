@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Jurassic World Dominion [Theatrical cut]":
-    title: Jurassic World Dominion
-    year: 2022
-    edition_filter: Theatrical cut
+  "Jurassic World Dominion (2022) {tmdb-507086} [Theatrical cut]":
+    match:
+      title: Jurassic World Dominion
+      year: 2022
+      edition: Theatrical cut
     sort_title: Jurassic World (2015) 003A
     content_rating: gb/12
     country.sync: [China, Malta, United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [Emily Carmichael, Colin Trevorrow, Derek Connolly]
     label: [ID__000507086A]
 
-  "Jurassic World Dominion [Extended edition]":
-    title: Jurassic World Dominion
-    year: 2022
-    edition_filter: Extended edition
+  "Jurassic World Dominion (2022) {tmdb-507086} [Extended edition]":
+    match:
+      title: Jurassic World Dominion
+      year: 2022
+      edition: Extended edition
     sort_title: Jurassic World (2015) 003B
     content_rating: gb/12
     country.sync: [China, Malta, United States of America]
@@ -37,7 +39,7 @@ metadata:
     label: [ID__000507086B]
 
 collections:
-  "Jurassic World Dominion":
+  Jurassic World Dominion:
     template: { name: Edition }
     tmdb_movie: 507086
     sort_title: Jurassic World (2015) 003

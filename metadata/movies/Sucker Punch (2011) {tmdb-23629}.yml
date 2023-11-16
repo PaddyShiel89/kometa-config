@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Sucker Punch [Theatrical cut]":
-    title: Sucker Punch
-    year: 2011
-    edition_filter: Theatrical cut
+  "Sucker Punch (2011) {tmdb-23629} [Theatrical cut]":
+    match:
+      title: Sucker Punch
+      year: 2011
+      edition: Theatrical cut
     sort_title: Sucker Punch (2011) 001A
     content_rating: gb/12
     country.sync: [Canada, United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [Zack Snyder, Steve Shibuya]
     label: [ID__000023629A]
 
-  "Sucker Punch [Extended cut]":
-    title: Sucker Punch
-    year: 2011
-    edition_filter: Extended cut
+  "Sucker Punch (2011) {tmdb-23629} [Extended cut]":
+    match:
+      title: Sucker Punch
+      year: 2011
+      edition: Extended cut
     sort_title: Sucker Punch (2011) 001B
     content_rating: gb/12
     country.sync: [Canada, United States of America]
@@ -37,7 +39,7 @@ metadata:
     label: [ID__000023629B]
 
 collections:
-  "Sucker Punch":
+  Sucker Punch:
     template: { name: Edition }
     tmdb_movie: 23629
     sort_title: Sucker Punch (2011) 001

@@ -2,7 +2,7 @@ metadata:
   The Shawshank Redemption:
     title: The Shawshank Redemption
     year: 1994
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Shawshank Redemption (1994)
     content_rating: gb/15
     country.sync: [United States of America]

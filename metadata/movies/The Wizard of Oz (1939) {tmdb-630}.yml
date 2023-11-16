@@ -2,7 +2,7 @@ metadata:
   The Wizard of Oz:
     title: The Wizard of Oz
     year: 1939
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Wizard of Oz (1939)
     content_rating: gb/U
     country.sync: [United States of America]

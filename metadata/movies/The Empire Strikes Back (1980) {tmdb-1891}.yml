@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Star Wars: Episode V - The Empire Strikes Back [Theatrical cut]":
-    title: "Star Wars: Episode V - The Empire Strikes Back"
-    year: 1980
-    edition_filter: Theatrical cut
+  "The Empire Strikes Back (1980) {tmdb-1891} [Theatrical cut]":
+    match:
+      title: "Star Wars: Episode V - The Empire Strikes Back"
+      year: 1980
+      edition: Theatrical cut
     sort_title: Star Wars 005A
     content_rating: gb/PG
     country.sync: [United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [Leigh Brackett, Lawrence Kasdan, George Lucas]
     label: [ID__000001891A]
 
-  "Star Wars: Episode V - The Empire Strikes Back [Special edition]":
-    title: "Star Wars: Episode V - The Empire Strikes Back"
-    year: 1980
-    edition_filter: Special edition
+  "The Empire Strikes Back (1980) {tmdb-1891} [Special edition]":
+    match:
+      title: "Star Wars: Episode V - The Empire Strikes Back"
+      year: 1980
+      edition: Special edition
     sort_title: Star Wars 005B
     content_rating: gb/PG
     country.sync: [United States of America]
@@ -36,10 +38,11 @@ metadata:
     writer.sync: [Leigh Brackett, Lawrence Kasdan, George Lucas]
     label: [ID__000001891B]
 
-  "Star Wars: Episode V - The Empire Strikes Back [DVD cut]":
-    title: "Star Wars: Episode V - The Empire Strikes Back"
-    year: 1980
-    edition_filter: DVD cut
+  "The Empire Strikes Back (1980) {tmdb-1891} [DVD cut]":
+    match:
+      title: "Star Wars: Episode V - The Empire Strikes Back"
+      year: 1980
+      edition: DVD cut
     sort_title: Star Wars 005C
     content_rating: gb/PG
     country.sync: [United States of America]
@@ -53,10 +56,11 @@ metadata:
     writer.sync: [Leigh Brackett, Lawrence Kasdan, George Lucas]
     label: [ID__000001891C]
 
-  "Star Wars: Episode V - The Empire Strikes Back [Blu-ray cut]":
-    title: "Star Wars: Episode V - The Empire Strikes Back"
-    year: 1980
-    edition_filter: Blu-ray cut
+  "The Empire Strikes Back (1980) {tmdb-1891} [Blu-ray cut]":
+    match:
+      title: "Star Wars: Episode V - The Empire Strikes Back"
+      year: 1980
+      edition: Blu-ray cut
     sort_title: Star Wars 005D
     content_rating: gb/PG
     country.sync: [United States of America]
@@ -70,10 +74,11 @@ metadata:
     writer.sync: [Leigh Brackett, Lawrence Kasdan, George Lucas]
     label: [ID__000001891D]
 
-  "Star Wars: Episode V - The Empire Strikes Back [Despecialized edition]":
-    title: "Star Wars: Episode V - The Empire Strikes Back"
-    year: 1980
-    edition_filter: Despecialized edition
+  "The Empire Strikes Back (1980) {tmdb-1891} [Despecialized edition]":
+    match:
+      title: "Star Wars: Episode V - The Empire Strikes Back"
+      year: 1980
+      edition: Despecialized edition
     sort_title: Star Wars 005E
     content_rating: gb/PG
     country.sync: [United States of America]

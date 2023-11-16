@@ -2,7 +2,7 @@ metadata:
   "I Am Curious (Yellow)":
     title: "I Am Curious (Yellow)"
     year: 1967
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: "I Am Curious (1967) 001"
     content_rating: gb/15
     country.sync: [Sweden]

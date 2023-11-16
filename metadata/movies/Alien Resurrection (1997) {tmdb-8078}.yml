@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Alien Resurrection [Theatrical cut]":
-    title: "Alien Resurrection"
-    year: 1997
-    edition_filter: Theatrical cut
+  "Alien Resurrection (1997) {tmdb-8078} [Theatrical cut]":
+    match:
+      title: Alien Resurrection
+      year: 1997
+      edition: Theatrical cut
     sort_title: Alien (1979) 004A
     content_rating: gb/18
     country.sync: [United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [Joss Whedon]
     label: [ID__000008078A]
 
-  "Alien Resurrection [Special edition]":
-    title: "Alien Resurrection"
-    year: 1997
-    edition_filter: Special edition
+  "Alien Resurrection (1997) {tmdb-8078} [Special edition]":
+    match:
+      title: Alien Resurrection
+      year: 1997
+      edition: Special edition
     sort_title: Alien (1979) 004B
     content_rating: gb/18
     country.sync: [United States of America]
@@ -37,7 +39,7 @@ metadata:
     label: [ID__000008078B]
 
 collections:
-  "Alien Resurrection":
+  Alien Resurrection:
     template: { name: Edition }
     tmdb_movie: 8078
     sort_title: Alien (1979) 004

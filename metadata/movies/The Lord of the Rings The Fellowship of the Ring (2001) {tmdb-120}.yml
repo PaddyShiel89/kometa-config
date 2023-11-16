@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "The Lord of the Rings: The Fellowship of the Ring (2001) [Theatrical cut]":
-    title: "The Lord of the Rings: The Fellowship of the Ring"
-    year: 2001
-    edition_filter: Theatrical cut
+  "The Lord of the Rings The Fellowship of the Ring (2001) {tmdb-120} [Theatrical cut]":
+    match:
+      title: "The Lord of the Rings: The Fellowship of the Ring"
+      year: 2001
+      edition: Theatrical cut
     sort_title: Lord of the Rings (2001) 001A
     content_rating: gb/PG
     country.sync: [New Zealand, United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Peter Jackson]
     label: [ID__000000120A]
 
-  "The Lord of the Rings: The Fellowship of the Ring (2001) [Extended edition]":
-    title: "The Lord of the Rings: The Fellowship of the Ring"
-    year: 2001
-    edition_filter: Extended edition
+  "The Lord of the Rings The Fellowship of the Ring (2001) {tmdb-120} [Extended edition]":
+    match:
+      title: "The Lord of the Rings: The Fellowship of the Ring"
+      year: 2001
+      edition: Extended edition
     sort_title: Lord of the Rings (2001) 001B
     content_rating: gb/12
     country.sync: [New Zealand, United States of America]

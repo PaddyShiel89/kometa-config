@@ -2,7 +2,7 @@ metadata:
   Once Upon a Time... in Hollywood:
     title: Once Upon a Time in Hollywood
     year: 2019
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Once Upon a Time in Hollywood
     content_rating: gb/18
     country.sync: [China, United Kingdom, United States of America]

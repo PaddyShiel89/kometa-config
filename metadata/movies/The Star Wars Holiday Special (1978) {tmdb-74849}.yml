@@ -2,7 +2,7 @@ metadata:
   "The Star Wars Holiday Special":
     title: "The Star Wars Holiday Special"
     year: 1978
-    edition_filter: TV special
+    edition: TV special
     sort_title: "Star Wars Holiday Special"
     content_rating: gb/Unrated
     country.sync: [United States of America]

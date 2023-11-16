@@ -2,7 +2,7 @@ metadata:
   Joker:
     title: Joker
     year: 2019
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Joker (2019)
     content_rating: gb/15
     country.sync: [Canada, United States of America]

@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "The Lord of the Rings: The Return of the King (2003) [Theatrical cut]":
-    title: "The Lord of the Rings: The Return of the King"
-    year: 2003
-    edition_filter: Theatrical cut
+  "The Lord of the Rings The Return of the King (2003) {tmdb-122} [Theatrical cut]":
+    match:
+      title: "The Lord of the Rings: The Return of the King"
+      year: 2003
+      edition: Theatrical cut
     sort_title: Lord of the Rings (2001) 003A
     content_rating: gb/12
     country.sync: [New Zealand, United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Peter Jackson]
     label: [ID__000000122A]
 
-  "The Lord of the Rings: The Return of the King (2003) [Extended edition]":
-    title: "The Lord of the Rings: The Return of the King"
-    year: 2003
-    edition_filter: Extended edition
+  "The Lord of the Rings The Return of the King (2003) {tmdb-122} [Extended edition]":
+    match:
+      title: "The Lord of the Rings: The Return of the King"
+      year: 2003
+      edition: Extended edition
     sort_title: Lord of the Rings (2001) 003B
     content_rating: gb/12
     country.sync: [New Zealand, United States of America]

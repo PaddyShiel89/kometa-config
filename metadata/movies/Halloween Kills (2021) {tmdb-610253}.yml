@@ -2,10 +2,11 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Halloween Kills [Theatrical cut]":
-    title: Halloween Kills
-    year: 2021
-    edition_filter: Theatrical cut
+  "Halloween Kills (2021) {tmdb-610253} [Theatrical cut]":
+    match:
+      title: Halloween Kills
+      year: 2021
+      edition: Theatrical cut
     sort_title: Halloween (2018) 002A
     content_rating: gb/18
     country.sync: [United States of America]
@@ -19,10 +20,11 @@ metadata:
     writer.sync: [Scott Teems, Danny McBride, David Gordon Green]
     label: [ID__000610253A]
 
-  "Halloween Kills [Extended cut]":
-    title: Halloween Kills
-    year: 2021
-    edition_filter: Extended cut
+  "Halloween Kills (2021) {tmdb-610253} [Extended cut]":
+    match:
+      title: Halloween Kills
+      year: 2021
+      edition: Extended cut
     sort_title: Halloween (2018) 002B
     content_rating: gb/18
     country.sync: [United States of America]
@@ -37,7 +39,7 @@ metadata:
     label: [ID__000610253B]
 
 collections:
-  "Halloween Kills":
+  Halloween Kills:
     template: { name: Edition }
     tmdb_movie: 610253
     sort_title: Halloween (2018) 002

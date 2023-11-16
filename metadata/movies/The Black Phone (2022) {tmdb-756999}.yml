@@ -2,7 +2,7 @@ metadata:
   The Black Phone:
     title: The Black Phone
     year: 2021 # Not a mistake
-    edition_filter: Theatrical cut
+    edition: Theatrical cut
     sort_title: Black Phone (2021)
     content_rating: gb/15
     country.sync: [United States of America]
