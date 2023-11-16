@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "this-file-name [Edition]":
+  "movie-folder-name (yyyy) {tmdb-xxxxxx} {edition-abc}":
     match:
       title:
       year:
