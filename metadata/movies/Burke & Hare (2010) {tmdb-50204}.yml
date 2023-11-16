@@ -1,8 +1,9 @@
 metadata:
-  Burke & Hare:
-    title: Burke & Hare
-    year: 2010
-    edition: Theatrical cut
+  "Burke & Hare (2010) {tmdb-50204} {edition-Theatrical cut}":
+    match:
+      title: Burke & Hare
+      year: 2010
+      edition: Theatrical cut
     sort_title: Burke & Hare (2010)
     content_rating: gb/15
     country.sync: [United Kingdom]

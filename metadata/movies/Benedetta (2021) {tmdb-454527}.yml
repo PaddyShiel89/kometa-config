@@ -1,8 +1,9 @@
 metadata:
-  Benedetta:
-    title: Benedetta
-    year: 2021
-    edition: Theatrical cut
+  "Benedetta (2021) {tmdb-454527} {edition-Theatrical cut}":
+    match:
+      title: Benedetta
+      year: 2021
+      edition: Theatrical cut
     sort_title: "Benedetta (2021)"
     content_rating: gb/18
     country.sync: [France, Belgium, Netherlands]

@@ -1,8 +1,9 @@
 metadata:
-  Changeling:
-    title: Changeling
-    year: 2008
-    edition: Theatrical cut
+  "Changeling (2008) {tmdb-3580} {edition-Theatrical cut}":
+    match:
+      title: Changeling
+      year: 2008
+      edition: Theatrical cut
     sort_title: Changeling (2008)
     content_rating: gb/15
     country.sync: [United States of America]

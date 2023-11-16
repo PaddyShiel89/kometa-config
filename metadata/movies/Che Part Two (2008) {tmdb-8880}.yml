@@ -1,8 +1,9 @@
 metadata:
-  "Che: Part Two":
-    title: "Che: Part Two"
-    year: 2008
-    edition: Theatrical cut
+  "Che Part Two (2008) {tmdb-8880} {edition-Theatrical cut}":
+    match:
+      title: "Che: Part Two"
+      year: 2008
+      edition: Theatrical cut
     sort_title: "Che (2008) 002"
     content_rating: gb/15
     country.sync: [France, Spain, United States of America]

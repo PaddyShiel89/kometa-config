@@ -1,8 +1,9 @@
 metadata:
-  Choke:
-    title: Choke
-    year: 2008
-    edition: Theatrical cut
+  "Choke (2008) {tmdb-13973} {edition-Theatrical cut}":
+    match:
+      title: Choke
+      year: 2008
+      edition: Theatrical cut
     sort_title: Choke (2008)
     content_rating: gb/18
     country.sync: [United States of America]

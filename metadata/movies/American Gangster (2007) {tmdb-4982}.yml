@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "American Gangster (2007) {tmdb-4982} [Theatrical cut]":
+  "American Gangster (2007) {tmdb-4982} {edition-Theatrical cut}":
     match:
       title: American Gangster
       year: 2007
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [Steven Zaillian, Mark Jacobson]
     label: [ID__000004982A]
 
-  "American Gangster (2007) {tmdb-4982} [Extended edition]":
+  "American Gangster (2007) {tmdb-4982} {edition-Extended edition}":
     match:
       title: American Gangster
       year: 2007

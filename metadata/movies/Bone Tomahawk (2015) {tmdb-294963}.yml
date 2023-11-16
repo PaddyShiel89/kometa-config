@@ -1,8 +1,9 @@
 metadata:
-  Bone Tomahawk:
-    title: Bone Tomahawk
-    year: 2015
-    edition: Theatrical cut
+  "Bone Tomahawk (2015) {tmdb-294963} {edition-Theatrical cut}":
+    match:
+      title: Bone Tomahawk
+      year: 2015
+      edition: Theatrical cut
     sort_title: Bone Tomahawk (2015)
     content_rating: gb/18
     country.sync: [United Kingdom, United States of Amercina]

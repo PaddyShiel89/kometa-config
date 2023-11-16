@@ -1,8 +1,9 @@
 metadata:
-  Crimes of the Future:
-    title: Crimes of the Future
-    year: 2022
-    edition: Theatrical cut
+  "Crimes of the Future (2022) {tmdb-819876} {edition-Theatrical cut}":
+    match:
+      title: Crimes of the Future
+      year: 2022
+      edition: Theatrical cut
     sort_title: Crimes of the Future (2022)
     content_rating: gb/18
     country.sync: [Canada, Greece, United Kingdom]

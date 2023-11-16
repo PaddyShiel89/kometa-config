@@ -1,8 +1,9 @@
 metadata:
-  Amsterdam:
-    title: Amsterdam
-    year: 2022
-    edition: Theatrical cut
+  "Amsterdam (2022) {tmdb-664469} {edition-Theatrical cut}":
+    match:
+      title: Amsterdam
+      year: 2022
+      edition: Theatrical cut
     sort_title: Amsterdam (2022)
     content_rating: gb/15
     country.sync: [Japan, United States of America]

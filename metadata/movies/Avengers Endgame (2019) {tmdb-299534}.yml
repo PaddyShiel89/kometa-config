@@ -1,8 +1,9 @@
 metadata:
-  "Avengers: Endgame":
-    title: "Avengers: Endgame"
-    year: 2019
-    edition: Theatrical cut
+  "Avengers Endgame (2019) {tmdb-299534} {edition-Theatrical cut}":
+    match:
+      title: "Avengers: Endgame"
+      year: 2019
+      edition: Theatrical cut
     sort_title: Avengers (2012) 004
     content_rating: gb/12
     country.sync: [United States of America]

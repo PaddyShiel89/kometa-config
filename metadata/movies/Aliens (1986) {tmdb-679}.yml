@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Aliens (1986) {tmdb-679} [Theatrical cut]":
+  "Aliens (1986) {tmdb-679} {edition-Theatrical cut}":
     match:
       title: Aliens
       year: 1986
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [James Cameron, David Giler, Walter Hill]
     label: [ID__000000679A]
 
-  "Aliens (1986) {tmdb-679} [Special edition]":
+  "Aliens (1986) {tmdb-679} {edition-Special edition}":
     match:
       title: Aliens
       year: 1986

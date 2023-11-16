@@ -1,8 +1,9 @@
 metadata:
-  Blue Velvet:
-    title: Blue Velvet
-    year: 1986
-    edition: Theatrical cut
+  "Blue Velvet (1986) {tmdb-793} {edition-Theatrical cut}":
+    match:
+      title: Blue Velvet
+      year: 1986
+      edition: Theatrical cut
     sort_title: Blue Velvet (1986)
     content_rating: gb/18
     country.sync: [United States of America]

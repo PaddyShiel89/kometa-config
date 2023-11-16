@@ -1,8 +1,9 @@
 metadata:
-  Boogie Nights:
-    title: Boogie Nights
-    year: 1997
-    edition: Theatrical cut
+  "Boogie Nights (1997) {tmdb-4995} {edition-Theatrical cut}":
+    match:
+      title: Boogie Nights
+      year: 1997
+      edition: Theatrical cut
     sort_title: Boogie Nights (1997)
     content_rating: gb/18
     country.sync: [United States of America]

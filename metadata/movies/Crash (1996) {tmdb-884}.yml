@@ -1,8 +1,9 @@
 metadata:
-  Crash:
-    title: Crash
-    year: 1996
-    edition: Theatrical cut
+  "Crash (1996) {tmdb-884} {edition-Theatrical cut}":
+    match:
+      title: Crash
+      year: 1996
+      edition: Theatrical cut
     sort_title: Crash (1996)
     content_rating: gb/18
     country.sync: [Canada, United Kingdom]

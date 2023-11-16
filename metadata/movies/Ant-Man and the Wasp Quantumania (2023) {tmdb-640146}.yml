@@ -1,8 +1,9 @@
 metadata:
-  "Ant-Man and the Wasp: Quantumania":
-    title: "Ant-Man and the Wasp: Quantumania"
-    year: 2023
-    edition: Theatrical cut
+  "Ant-Man and the Wasp Quantumania (2023) {tmdb-640146} {edition-Theatrical cut}":
+    match:
+      title: "Ant-Man and the Wasp: Quantumania"
+      year: 2023
+      edition: Theatrical cut
     sort_title: Ant-Man (2015) 003
     content_rating: gb/12
     country.sync: [Australia, Canada, United States of America]

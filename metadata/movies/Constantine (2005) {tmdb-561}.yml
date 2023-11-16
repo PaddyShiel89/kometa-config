@@ -1,8 +1,9 @@
 metadata:
-  Constantine:
-    title: Constantine
-    year: 2005
-    edition: Theatrical cut
+  "Constantine (2005) {tmdb-561} {edition-Theatrical cut}":
+    match:
+      title: Constantine
+      year: 2005
+      edition: Theatrical cut
     sort_title: Constantine (2005)
     content_rating: gb/15
     country.sync: [Germany, United States of America]

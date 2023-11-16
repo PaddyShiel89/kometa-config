@@ -1,8 +1,9 @@
 metadata:
-  "300: Rise of an Empire":
-    title: "300: Rise of an Empire"
-    year: 2014
-    edition: Theatrical cut
+  "300 Rise of an Empire (2014) {tmdb-53182} {edition-Theatrical cut}":
+    match:
+      title: "300: Rise of an Empire"
+      year: 2014
+      edition: Theatrical cut
     sort_title: "300 (2006) 002"
     content_rating: gb/15
     country.sync: [United States of America]

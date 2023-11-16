@@ -1,8 +1,9 @@
 metadata:
-  Cashback:
-    title: Cashback
-    year: 2006
-    edition: Theatrical cut
+  "Cashback (2006) {tmdb-12225} {edition-Theatrical cut}":
+    match:
+      title: Cashback
+      year: 2006
+      edition: Theatrical cut
     sort_title: Cashback (2006)
     content_rating: gb/15
     country.sync: [United Kingdom]

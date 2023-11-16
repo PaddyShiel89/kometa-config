@@ -1,8 +1,9 @@
 metadata:
-  "Black Widow":
-    title: Black Widow
-    year: 2021
-    edition: Theatrical cut
+  "Black Widow (2021) {tmdb-497698} {edition-Theatrical cut}":
+    match:
+      title: Black Widow
+      year: 2021
+      edition: Theatrical cut
     sort_title: Black Widow (2021)
     content_rating: gb/12
     country.sync: [United States of America]

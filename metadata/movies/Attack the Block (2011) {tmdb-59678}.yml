@@ -1,8 +1,9 @@
 metadata:
-  "Attack the Block":
-    title: "Attack the Block"
-    year: 2011
-    edition: Theatrical cut
+  "Attack the Block (2011) {tmdb-59678} {edition-Theatrical cut}":
+    match:
+      title: "Attack the Block"
+      year: 2011
+      edition: Theatrical cut
     sort_title: Attack the Block (2011)
     content_rating: gb/15
     country.sync: [United Kingdom]

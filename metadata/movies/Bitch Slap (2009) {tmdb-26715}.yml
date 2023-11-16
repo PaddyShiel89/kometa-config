@@ -1,8 +1,9 @@
 metadata:
-  Bitch Slap:
-    title: Bitch Slap
-    year: 2009
-    edition: Theatrical cut
+  "Bitch Slap (2009) {tmdb-26715} {edition-Theatrical cut}":
+    match:
+      title: Bitch Slap
+      year: 2009
+      edition: Theatrical cut
     sort_title: Bitch Slap (2009)
     content_rating: gb/18
     country.sync: [United States of America]

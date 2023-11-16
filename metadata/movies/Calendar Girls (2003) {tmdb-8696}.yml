@@ -1,8 +1,9 @@
 metadata:
-  Calendar Girls:
-    title: Calendar Girls
-    year: 2003
-    edition: Theatrical cut
+  "Calendar Girls (2003) {tmdb-8696} {edition-Theatrical cut}":
+    match:
+      title: Calendar Girls
+      year: 2003
+      edition: Theatrical cut
     sort_title: Calendar Girls (2003)
     content_rating: gb/12
     country.sync: [United Kingdom, United States of America]

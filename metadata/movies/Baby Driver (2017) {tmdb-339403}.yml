@@ -1,8 +1,9 @@
 metadata:
-  Baby Driver:
-    title: Baby Driver
-    year: 2017
-    edition: Theatrical cut
+  "Baby Driver (2017) {tmdb-339403} {edition-Theatrical cut}":
+    match:
+      title: Baby Driver
+      year: 2017
+      edition: Theatrical cut
     sort_title: Baby Driver (2017)
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]

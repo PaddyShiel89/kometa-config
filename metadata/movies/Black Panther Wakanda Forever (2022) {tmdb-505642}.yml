@@ -1,8 +1,9 @@
 metadata:
-  "Black Panther: Wakanda Forever":
-    title: "Black Panther: Wakanda Forever"
-    year: 2022
-    edition: Theatrical cut
+  "Black Panther Wakanda Forever (2022) {tmdb-505642} {edition-Theatrical cut}":
+    match:
+      title: "Black Panther: Wakanda Forever"
+      year: 2022
+      edition: Theatrical cut
     sort_title: "Black Panther (2018) 002"
     content_rating: gb/12
     country.sync: [United States of America]

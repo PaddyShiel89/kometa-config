@@ -1,8 +1,9 @@
 metadata:
-  A Beautiful Mind:
-    title: A Beautiful Mind
-    year: 2001
-    edition: Theatrical cut
+  "A Beautiful Mind (2001) {tmdb-453} {edition-Theatrical cut}":
+    match:
+      title: A Beautiful Mind
+      year: 2001
+      edition: Theatrical cut
     sort_title: Beautiful Mind (2001)
     content_rating: gb/12
     country.sync: [United States of America]
