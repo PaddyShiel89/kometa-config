@@ -315,8 +315,6 @@ libraries:
       - repo: labelling/movies/sources
       # - repo: labelling/shared/themes
       - repo: labelling/movies/themes
-      - repo: libraries/shared/actors
-      - repo: libraries/movies/directors
       - repo: libraries/shared/content_ratings
       - repo: libraries/shared/genres
         asset_directory: config/assets/genres/Movies
@@ -355,7 +353,6 @@ libraries:
       - repo: labelling/tv_shows/sources
       - repo: labelling/tv_shows/themes
       # - repo: labelling/shared/themes
-      - repo: libraries/shared/actors
       - repo: libraries/shared/content_ratings
       - repo: libraries/shared/genres
         asset_directory: config/assets/genres/TV shows
@@ -395,7 +392,6 @@ libraries:
       - repo: labelling/short_films/series
       - repo: labelling/short_films/sources
       - repo: labelling/short_films/themes
-      - repo: libraries/shared/actors
       - repo: libraries/short_films/series
       - repo: libraries/short_films/themes
   Documentaries:
