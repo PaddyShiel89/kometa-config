@@ -1,8 +1,9 @@
 metadata:
-  How to Lose Friends & Alienate People:
-    title: How to Lose Friends & Alienate People
-    year: 2008
-    edition: Theatrical cut
+  "How to Lose Friends & Alienate People (2008) {tmdb-13092} {edition-Theatrical cut}":
+    match:
+      title: How to Lose Friends & Alienate People
+      year: 2008
+      edition: Theatrical cut
     sort_title: How to Lose Friends & Alienate People (2008)
     content_rating: gb/15
     country.sync: [United Kingdom]

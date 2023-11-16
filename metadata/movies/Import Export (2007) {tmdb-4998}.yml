@@ -1,8 +1,9 @@
 metadata:
-  "Import/Export":
-    title: "Import/Export"
-    year: 2007
-    edition: Theatrical cut
+  "Import Export (2007) {tmdb-4998} {edition-Theatrical cut}":
+    match:
+      title: "Import/Export"
+      year: 2007
+      edition: Theatrical cut
     sort_title: "Import/Export (2007)"
     content_rating: gb/18
     country.sync: [Austria, France, Germany]

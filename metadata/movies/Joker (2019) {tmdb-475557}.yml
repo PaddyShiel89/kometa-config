@@ -1,8 +1,9 @@
 metadata:
-  Joker:
-    title: Joker
-    year: 2019
-    edition: Theatrical cut
+  "Joker (2019) {tmdb-475557} {edition-Theatrical cut}":
+    match:
+      title: Joker
+      year: 2019
+      edition: Theatrical cut
     sort_title: Joker (2019)
     content_rating: gb/15
     country.sync: [Canada, United States of America]

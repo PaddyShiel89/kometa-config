@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Police Story 2 (1988) {tmdb-10753} [Original Hong Kong cut]":
+  "Police Story 2 (1988) {tmdb-10753} {edition-Original Hong Kong cut}":
     match:
       title: Police Story 2
       year: 1988
@@ -21,7 +21,7 @@ metadata:
     writer.sync: [Jackie Chan, Paul B. Clay, Edward Tang]
     label: [ID__000010753A]
 
-  "Police Story 2 (1988) {tmdb-10753} [Uncut restoration]":
+  "Police Story 2 (1988) {tmdb-10753} {edition-Uncut restoration}":
     match:
       title: Police Story 2
       year: 1988

@@ -1,8 +1,9 @@
 metadata:
-  It:
-    title: "IT: Chapter One"
-    year: 2017
-    edition: Theatrical cut
+  "It (2017) {tmdb-346364} {edition-Theatrical cut}":
+    match:
+      title: "IT: Chapter One"
+      year: 2017
+      edition: Theatrical cut
     sort_title: "It (2017) 001"
     content_rating: gb/15
     country.sync: [Canada, United States of America]

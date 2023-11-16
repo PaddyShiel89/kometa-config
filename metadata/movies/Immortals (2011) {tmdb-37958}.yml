@@ -1,8 +1,9 @@
 metadata:
-  Immortals:
-    title: Immortals
-    year: 2011
-    edition: Theatrical cut
+  "Immortals (2011) {tmdb-37958} {edition-Theatrical cut}":
+    match:
+      title: Immortals
+      year: 2011
+      edition: Theatrical cut
     sort_title: Immortals (2011)
     content_rating: gb/15
     country.sync: [Canada, United Kingdom, United States of America]

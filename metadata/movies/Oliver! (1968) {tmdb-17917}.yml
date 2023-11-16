@@ -1,8 +1,9 @@
 metadata:
-  Oliver!:
-    title: Oliver!
-    year: 1968
-    edition: Theatrical cut
+  "Oliver! (1968) {tmdb-17917} {edition-Theatrical cut}":
+    match:
+      title: Oliver!
+      year: 1968
+      edition: Theatrical cut
     sort_title: Oliver! (1968)
     content_rating: gb/U
     country.sync: [United Kingdom, United States of America]

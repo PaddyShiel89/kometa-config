@@ -1,8 +1,9 @@
 metadata:
-  Planet of the Apes:
-    title: Planet of the Apes
-    year: 2001
-    edition: Theatrical cut
+  "Planet of the Apes (2001) {tmdb-869} {edition-Theatrical cut}":
+    match:
+      title: Planet of the Apes
+      year: 2001
+      edition: Theatrical cut
     sort_title: Planet of the Apes (2001)
     content_rating: gb/12
     country.sync: [United States of America]

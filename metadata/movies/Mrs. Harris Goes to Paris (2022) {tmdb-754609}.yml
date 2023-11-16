@@ -1,8 +1,9 @@
 metadata:
-  Mrs. Harris Goes to Paris:
-    title: Mrs. Harris Goes to Paris
-    year: 2022
-    edition: Theatrical cut
+  "Mrs. Harris Goes to Paris (2022) {tmdb-754609} {edition-Theatrical cut}":
+    match:
+      title: Mrs. Harris Goes to Paris
+      year: 2022
+      edition: Theatrical cut
     sort_title: Mrs. Harris Goes to Paris (2022)
     content_rating: gb/PG
     country.sync: [Belgium, Canada, France, Hungary, United Kingdom]

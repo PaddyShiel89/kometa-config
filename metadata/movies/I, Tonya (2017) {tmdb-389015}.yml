@@ -1,8 +1,9 @@
 metadata:
-  I, Tonya:
-    title: I, Tonya
-    year: 2017
-    edition: Theatrical cut
+  "I, Tonya (2017) {tmdb-389015} {edition-Theatrical cut}":
+    match:
+      title: I, Tonya
+      year: 2017
+      edition: Theatrical cut
     sort_title: I, Tonya (2017)
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]

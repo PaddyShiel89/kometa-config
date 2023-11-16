@@ -1,8 +1,9 @@
 metadata:
-  Nightmare Alley:
-    title: Nightmare Alley
-    year: 2021
-    edition: Theatrical cut
+  "Nightmare Alley (2021) {tmdb-597208} {edition-Theatrical cut}":
+    match:
+      title: Nightmare Alley
+      year: 2021
+      edition: Theatrical cut
     sort_title: Nightmare Alley (2021)
     content_rating: gb/15
     country.sync: [Canada, Mexico, United States of America]

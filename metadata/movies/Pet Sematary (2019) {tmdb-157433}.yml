@@ -1,8 +1,9 @@
 metadata:
-  Pet Sematary:
-    title: Pet Sematary
-    year: 2019
-    edition: Theatrical cut
+  "Pet Sematary (2019) {tmdb-157433} {edition-Theatrical cut}":
+    match:
+      title: Pet Sematary
+      year: 2019
+      edition: Theatrical cut
     sort_title: Pet Sematary (2019)
     content_rating: gb/15
     country.sync: [Canada, United States of America]

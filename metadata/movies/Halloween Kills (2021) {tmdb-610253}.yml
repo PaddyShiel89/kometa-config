@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Halloween Kills (2021) {tmdb-610253} [Theatrical cut]":
+  "Halloween Kills (2021) {tmdb-610253} {edition-Theatrical cut}":
     match:
       title: Halloween Kills
       year: 2021
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [Scott Teems, Danny McBride, David Gordon Green]
     label: [ID__000610253A]
 
-  "Halloween Kills (2021) {tmdb-610253} [Extended cut]":
+  "Halloween Kills (2021) {tmdb-610253} {edition-Extended cut}":
     match:
       title: Halloween Kills
       year: 2021

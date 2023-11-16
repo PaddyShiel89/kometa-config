@@ -1,8 +1,9 @@
 metadata:
-  Nine:
-    title: Nine
-    year: 2009
-    edition: Theatrical cut
+  "Nine (2009) {tmdb-10197} {edition-Theatrical cut}":
+    match:
+      title: Nine
+      year: 2009
+      edition: Theatrical cut
     sort_title: Nine (2009)
     content_rating: gb/12
     country.sync: [United Kingdom, United States of America]

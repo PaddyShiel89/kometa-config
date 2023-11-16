@@ -1,8 +1,9 @@
 metadata:
-  Mulholland Drive:
-    title: Mulholland Drive
-    year: 2001
-    edition: Theatrical cut
+  "Mulholland Drive (2001) {tmdb-1018} {edition-Theatrical cut}":
+    match:
+      title: Mulholland Drive
+      year: 2001
+      edition: Theatrical cut
     sort_title: Mulholland Drive (2001)
     content_rating: gb/15
     country.sync: [France, United States of America]

@@ -1,8 +1,9 @@
 metadata:
-  It Chapter Two:
-    title: "IT: Chapter Two"
-    year: 2019
-    edition: Theatrical cut
+  "It Chapter Two (2019) {tmdb-474350} {edition-Theatrical cut}":
+    match:
+      title: "IT: Chapter Two"
+      year: 2019
+      edition: Theatrical cut
     sort_title: "It (2019) 002"
     content_rating: gb/15
     country.sync: [Canada, United States of America]

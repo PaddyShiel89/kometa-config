@@ -1,8 +1,9 @@
 metadata:
-  "Pirates of the Caribbean: On Stranger Tides":
-    title: "Pirates of the Caribbean: On Stranger Tides"
-    year: 2011
-    edition: Theatrical cut
+  "Pirates of the Caribbean On Stranger Tides (2011) {tmdb-1865} {edition-Theatrical cut}":
+    match:
+      title: "Pirates of the Caribbean: On Stranger Tides"
+      year: 2011
+      edition: Theatrical cut
     sort_title: Pirates of the Caribbean (2003) 004
     content_rating: gb/12
     country.sync: [United Kingdom, United States of America]

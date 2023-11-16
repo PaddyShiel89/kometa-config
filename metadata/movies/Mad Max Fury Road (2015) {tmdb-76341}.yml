@@ -1,8 +1,9 @@
 metadata:
-  "Mad Max: Fury Road":
-    title: "Mad Max: Fury Road"
-    year: 2015
-    edition: Theatrical cut
+  "Mad Max Fury Road (2015) {tmdb-76341} {edition-Theatrical cut}":
+    match:
+      title: "Mad Max: Fury Road"
+      year: 2015
+      edition: Theatrical cut
     sort_title: Mad Max (1979) 004A
     content_rating: gb/15
     country.sync: [Australia]
