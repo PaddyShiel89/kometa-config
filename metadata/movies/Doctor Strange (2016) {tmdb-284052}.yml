@@ -1,8 +1,9 @@
 metadata:
-  "Doctor Strange":
-    title: "Doctor Strange"
-    year: 2016
-    edition: Theatrical cut
+  "Doctor Strange (2016) {tmdb-284052} {edition-Theatrical cut}":
+    match:
+      title: "Doctor Strange"
+      year: 2016
+      edition: Theatrical cut
     sort_title: Doctor Strange (2016) 001
     content_rating: gb/12
     country.sync: [United States of America]

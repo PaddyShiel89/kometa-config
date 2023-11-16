@@ -1,8 +1,9 @@
 metadata:
-  Disobedience:
-    title: Disobedience
-    year: 2017
-    edition: Theatrical cut
+  "Disobedience (2018) {tmdb-419743} {edition-Theatrical cut}":
+    match:
+      title: Disobedience
+      year: 2017
+      edition: Theatrical cut
     sort_title: Disobedience (2017)
     content_rating: gb/15
     country.sync: [Ireland, United Kingdom, United States of America]

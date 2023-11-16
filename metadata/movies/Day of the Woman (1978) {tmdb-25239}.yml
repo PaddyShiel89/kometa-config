@@ -1,8 +1,9 @@
 metadata:
-  Day of the Woman:
-    title: I Spit on Your Grave
-    year: 1978
-    edition: Theatrical cut
+  "Day of the Woman (1978) {tmdb-25239} {edition-Theatrical cut}":
+    match:
+      title: I Spit on Your Grave
+      year: 1978
+      edition: Theatrical cut
     sort_title: I Spit on Your Grave
     content_rating: gb/18
     country.sync: [United States of America]

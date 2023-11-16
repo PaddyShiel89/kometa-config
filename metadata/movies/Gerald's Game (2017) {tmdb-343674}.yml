@@ -1,8 +1,9 @@
 metadata:
-  "Gerald's Game":
-    title: "Gerald's Game"
-    year: 2017
-    edition: Theatrical cut
+  "Gerald's Game (2017) {tmdb-343674} {edition-Theatrical cut}":
+    match:
+      title: "Gerald's Game"
+      year: 2017
+      edition: Theatrical cut
     sort_title: Gerald's Game (2017)
     content_rating: gb/18
     country.sync: [United States of America]

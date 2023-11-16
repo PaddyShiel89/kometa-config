@@ -1,8 +1,9 @@
 metadata:
-  Ghostbusters II:
-    title: Ghostbusters II
-    year: 1989
-    edition: Theatrical cut
+  "Ghostbusters II (1989) {tmdb-2978} {edition-Theatrical cut}":
+    match:
+      title: Ghostbusters II
+      year: 1989
+      edition: Theatrical cut
     sort_title: Ghostbusters (1984) 002
     content_rating: gb/PG
     country.sync: [United States of America]

@@ -1,8 +1,9 @@
 metadata:
-  Desire:
-    title: Q
-    year: 2011
-    edition: Theatrical cut
+  "Desire (2011) {tmdb-86331} {edition-Theatrical cut}":
+    match:
+      title: Q
+      year: 2011
+      edition: Theatrical cut
     sort_title: Q (2011)
     content_rating: gb/18
     country.sync: [France]

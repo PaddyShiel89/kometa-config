@@ -1,8 +1,9 @@
 metadata:
-  "Eternals":
-    title: Eternals
-    year: 2021
-    edition: Theatrical cut
+  "Eternals (2021) {tmdb-524434} {edition-Theatrical cut}":
+    match:
+      title: Eternals
+      year: 2021
+      edition: Theatrical cut
     sort_title: Eternals (2021) 001
     content_rating: gb/12
     country.sync: [United States of America]

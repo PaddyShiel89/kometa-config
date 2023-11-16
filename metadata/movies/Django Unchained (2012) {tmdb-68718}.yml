@@ -1,8 +1,9 @@
 metadata:
-  Django Unchained:
-    title: Django Unchained
-    year: 2012
-    edition: Theatrical cut
+  "Django Unchained (2012) {tmdb-68718} {edition-Theatrical cut}":
+    match:
+      title: Django Unchained
+      year: 2012
+      edition: Theatrical cut
     sort_title: "Django Unchained (2012)"
     content_rating: gb/18
     country.sync: [United States of America]

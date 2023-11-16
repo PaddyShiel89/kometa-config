@@ -1,8 +1,9 @@
 metadata:
-  Forgetting Sarah Marshall:
-    title: Forgetting Sarah Marshall
-    year: 2008
-    edition: Extended edition
+  "Forgetting Sarah Marshall (2008) {tmdb-9870} {edition-Extended edition}":
+    match:
+      title: Forgetting Sarah Marshall
+      year: 2008
+      edition: Extended edition
     sort_title: Forgetting Sarah Marshall (2008)
     content_rating: gb/15
     country.sync: [United States of America]

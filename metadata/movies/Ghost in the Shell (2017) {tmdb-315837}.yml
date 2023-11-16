@@ -1,8 +1,9 @@
 metadata:
-  Ghost in the Shell:
-    title: Ghost in the Shell
-    year: 2017
-    edition: Theatrical cut
+  "Ghost in the Shell (2017) {tmdb-315837} {edition-Theatrical cut}":
+    match:
+      title: Ghost in the Shell
+      year: 2017
+      edition: Theatrical cut
     sort_title: Ghost in the Shell (2017)
     content_rating: gb/12
     country.sync: [Canada, China, Hong Kong, India, United States of America]

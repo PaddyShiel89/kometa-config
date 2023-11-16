@@ -1,8 +1,9 @@
 metadata:
-  Gone Girl:
-    title: Gone Girl
-    year: 2014
-    edition: Theatrical cut
+  "Gone Girl (2014) {tmdb-210577} {edition-Theatrical cut}":
+    match:
+      title: Gone Girl
+      year: 2014
+      edition: Theatrical cut
     sort_title: Gone Girl (2014)
     content_rating: gb/18
     country.sync: [United States of America]
