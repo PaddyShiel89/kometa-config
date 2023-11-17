@@ -19,7 +19,6 @@ collections:
     libraries: Movies
     summary: "Empire asked readers to share their picks for the best films of all time - ones that comfort, challenge and pioneer. Films that blow your mind, help you see things from a new perspective, and that continue to shape cinema as we know it today. Films that make you feel something. Combining reader votes with critic's choices from Team Empire, here we have it - the latest version of the 100 Greatest Movies list."
     sync_mode: sync
-    collection_mode: hide
     visible_home: true
     collection_order: custom
     filters:
