@@ -1,8 +1,9 @@
 metadata:
-  "X-Men: First Class":
-    title: "X-Men: First Class"
-    year: 2011
-    edition: Theatrical cut
+  "X-Men First Class (2011) {tmdb-49538} {edition-Theatrical cut}":
+    match:
+      title: "X-Men: First Class"
+      year: 2011
+      edition: Theatrical cut
     sort_title: X-Men (2000) 005
     content_rating: gb/12
     country.sync: [United Kingdom, United States of America]

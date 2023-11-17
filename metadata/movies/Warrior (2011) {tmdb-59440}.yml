@@ -1,8 +1,9 @@
 metadata:
-  Warrior:
-    title: Warrior
-    year: 2011
-    edition: Theatrical cut
+  "Warrior (2011) {tmdb-59440} {edition-Theatrical cut}":
+    match:
+      title: Warrior
+      year: 2011
+      edition: Theatrical cut
     sort_title: Warrior (2011)
     content_rating: gb/12
     country.sync: [United States of America]

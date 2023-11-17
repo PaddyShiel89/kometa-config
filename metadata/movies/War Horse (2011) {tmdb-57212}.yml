@@ -1,8 +1,9 @@
 metadata:
-  War Horse:
-    title: War Horse
-    year: 2011
-    edition: Theatrical cut
+  "War Horse (2011) {tmdb-57212} {edition-Theatrical cut}":
+    match:
+      title: War Horse
+      year: 2011
+      edition: Theatrical cut
     sort_title: War Horse (2011)
     content_rating: gb/12
     country.sync: [India, United States of America]

@@ -1,8 +1,9 @@
 metadata:
-  X-Men:
-    title: X-Men
-    year: 2000
-    edition: Theatrical cut
+  "X-Men (2000) {tmdb-36657} {edition-Theatrical cut}":
+    match:
+      title: X-Men
+      year: 2000
+      edition: Theatrical cut
     sort_title: X-Men (2000) 001
     content_rating: gb/12
     country.sync: [United States of America]

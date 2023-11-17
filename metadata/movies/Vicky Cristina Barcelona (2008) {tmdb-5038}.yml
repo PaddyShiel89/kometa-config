@@ -1,8 +1,9 @@
 metadata:
-  Vicky Cristina Barcelona:
-    title: Vicky Cristina Barcelona
-    year: 2008
-    edition: Theatrical cut
+  "Vicky Cristina Barcelona (2008) {tmdb-5038} {edition-Theatrical cut}":
+    match:
+      title: Vicky Cristina Barcelona
+      year: 2008
+      edition: Theatrical cut
     sort_title: Vicky Cristina Barcelona (2008)
     content_rating: gb/12
     country.sync: [Spain, United States of America]

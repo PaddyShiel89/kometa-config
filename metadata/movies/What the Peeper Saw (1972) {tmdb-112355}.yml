@@ -1,8 +1,9 @@
 metadata:
-  What the Peeper Saw:
-    title: What the Peeper Saw
-    year: 1972
-    edition: Uncut edition
+  "What the Peeper Saw (1972) {tmdb-112355} {edition-Uncut edition}":
+    match:
+      title: What the Peeper Saw
+      year: 1972
+      edition: Uncut edition
     sort_title: What the Peeper Saw (1972)
     content_rating: gb/Unrated
     country.sync: [Germany, Italy, Spain, United Kingdom]

@@ -1,8 +1,9 @@
 metadata:
-  "X2: X-Men United":
-    title: "X2: X-Men United"
-    year: 2003
-    edition: Theatrical cut
+  "X2 (2003) {tmdb-36658} {edition-Theatrical cut}":
+    match:
+      title: "X2: X-Men United"
+      year: 2003
+      edition: Theatrical cut
     sort_title: X-Men (2000) 002
     content_rating: gb/12
     country.sync: [Canada, United States of America]

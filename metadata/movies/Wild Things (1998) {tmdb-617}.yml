@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Wild Things (1998) {tmdb-617} [Theatrical cut]":
+  "Wild Things (1998) {tmdb-617} {edition-Theatrical cut}":
     match:
       title: Wild Things
       year: 1998
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [Stephen Peters]
     label: [ID__000000617A]
 
-  "Wild Things (1998) {tmdb-617} [Unrated cut]":
+  "Wild Things (1998) {tmdb-617} {edition-Unrated cut}":
     match:
       title: Wild Things
       year: 1998
