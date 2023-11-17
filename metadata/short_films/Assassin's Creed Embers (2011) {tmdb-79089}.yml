@@ -1,7 +1,8 @@
 metadata:
-  "Assassin's Creed: Embers":
-    title: "Assassin's Creed: Embers"
-    year: 2011
+  "Assassin's Creed Embers (2011) {tmdb-79089}":
+    match:
+      title: "Assassin's Creed: Embers"
+      year: 2011
     sort_title: "Assassin's Creed: Embers"
     content_rating: gb/15
     country.sync: [Canada]

@@ -1,7 +1,8 @@
 metadata:
-  "Laura Hasn't Slept":
-    title: "Laura Hasn't Slept"
-    year: 2020
+  "Laura Hasn't Slept (2020) {tmdb-689397}":
+    match:
+      title: "Laura Hasn't Slept"
+      year: 2020
     sort_title: Laura Hasn't Slept (2020)
     content_rating: gb/Unrated
     country.sync: [United States of America]

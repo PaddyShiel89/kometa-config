@@ -1,7 +1,8 @@
 metadata:
-  "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer":
-    title: "A Funny Thing Happened on the Way to Thor's Hammer"
-    year: 2011
+  "Marvel One-Shot A Funny Thing Happened on the Way to Thor's Hammer (2011) {tmdb-76535}":
+    match:
+      title: "A Funny Thing Happened on the Way to Thor's Hammer"
+      year: 2011
     sort_title: Funny Thing Happened on the Way to Thor's Hammer (2011)
     content_rating: gb/Unrated
     country.sync: [United States of America]

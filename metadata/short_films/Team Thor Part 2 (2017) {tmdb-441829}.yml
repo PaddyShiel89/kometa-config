@@ -1,7 +1,8 @@
 metadata:
-  "Team Thor: Part 2":
-    title: "Team Thor: Part 2"
-    year: 2017
+  "Team Thor Part 2 (2017) {tmbd-441829}":
+    match:
+      title: "Team Thor: Part 2"
+      year: 2017
     sort_title: "Team Thor (2016) 002"
     content_rating: gb/Unrated
     country.sync: [United States of America]

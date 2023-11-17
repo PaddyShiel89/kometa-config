@@ -1,7 +1,8 @@
 metadata:
-  Shadowprowler:
-    title: Shadowprowler
-    year: 2021
+  "Shadowprowler (2021) {tmdb-801109}":
+    match:
+      title: Shadowprowler
+      year: 2021
     sort_title: Shadowprowler (2021)
     content_rating: gb/Unrated
     country.sync: [United States of America]

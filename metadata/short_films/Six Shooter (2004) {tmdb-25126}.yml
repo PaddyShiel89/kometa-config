@@ -1,7 +1,8 @@
 metadata:
-  Six Shooter:
-    title: Six Shooter
-    year: 2004
+  "Six Shooter (2004) {tmdb-25126}":
+    match:
+      title: Six Shooter
+      year: 2004
     sort_title: Six Shooter (2004)
     content_rating: gb/18
     country.sync: [Ireland, United Kingdom]

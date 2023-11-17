@@ -1,7 +1,8 @@
 metadata:
-  "Team Darryl":
-    title: Team Darryl
-    year: 2018
+  "Team Darryl (2018) {tmdb-505945}":
+    match:
+      title: Team Darryl
+      year: 2018
     sort_title: Team Darryl (2018)
     content_rating: gb/Unrated
     country.sync: [United States of America]

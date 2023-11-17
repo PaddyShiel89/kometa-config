@@ -1,7 +1,8 @@
 metadata:
-  "Marvel One-Shot: The Consultant":
-    title: The Consultant
-    year: 2011
+  "Marvel One-Shot The Consultant (2011) {tmdb-76122}":
+    match:
+      title: The Consultant
+      year: 2011
     sort_title: Consultant (2011)
     content_rating: gb/Unrated
     country.sync: [United States of America]
