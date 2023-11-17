@@ -1,8 +1,9 @@
 metadata:
-  The Exterminating Angels:
-    title: The Exterminating Angels
-    year: 2006
-    edition: Theatrical cut
+  "The Exterminating Angels (2006) {tmdb-19976} {edition-Theatrical cut}":
+    match:
+      title: The Exterminating Angels
+      year: 2006
+      edition: Theatrical cut
     sort_title: Exterminating Angels (2006)
     content_rating: gb/18
     country.sync: [France]

@@ -1,8 +1,9 @@
 metadata:
-  "The Girl with the Dragon Tattoo (2009)":
-    title: The Girl with the Dragon Tattoo
-    year: 2009
-    edition: Theatrical cut
+  "The Girl with the Dragon Tattoo (2009) {tmdb-15472} {edition-Theatrical cut}":
+    match:
+      title: The Girl with the Dragon Tattoo
+      year: 2009
+      edition: Theatrical cut
     sort_title: "Girl with the Dragon Tattoo (2009) 001"
     content_rating: gb/18
     country.sync: [Denmark, Germany, Norway, Sweden]

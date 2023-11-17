@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "The Lord of the Rings The Two Towers (2002) {tmdb-121} [Theatrical cut]":
+  "The Lord of the Rings The Two Towers (2002) {tmdb-121} {edition-Theatrical cut}":
     match:
       title: "The Lord of the Rings: The Two Towers"
       year: 2002
@@ -27,7 +27,7 @@ metadata:
       ]
     label: [ID__000000121A]
 
-  "The Lord of the Rings The Two Towers (2002) {tmdb-121} [Extended edition]":
+  "The Lord of the Rings The Two Towers (2002) {tmdb-121} {edition-Extended edition}":
     match:
       title: "The Lord of the Rings: The Two Towers"
       year: 2002

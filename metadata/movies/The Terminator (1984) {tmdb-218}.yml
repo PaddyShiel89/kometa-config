@@ -1,8 +1,9 @@
 metadata:
-  The Terminator:
-    title: The Terminator
-    year: 1984
-    edition: Theatrical cut
+  "The Terminator (1984) {tmdb-218} {edition-Theatrical cut}":
+    match:
+      title: The Terminator
+      year: 1984
+      edition: Theatrical cut
     sort_title: Terminator (1984) 001
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]

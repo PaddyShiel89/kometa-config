@@ -1,8 +1,9 @@
 metadata:
-  The Road:
-    title: The Road
-    year: 2009
-    edition: Theatrical cut
+  "The Road (2009) {tmdb-20766} {edition-Theatrical cut}":
+    match:
+      title: The Road
+      year: 2009
+      edition: Theatrical cut
     sort_title: Road (2009)
     content_rating: gb/15
     country.sync: [United States of America]

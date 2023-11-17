@@ -1,8 +1,9 @@
 metadata:
-  The Girlfriend Experience:
-    title: The Girlfriend Experience
-    year: 2009
-    edition: Theatrical cut
+  "The Girlfriend Experience (2009) {tmdb-17680} {edition-Theatrical cut}":
+    match:
+      title: The Girlfriend Experience
+      year: 2009
+      edition: Theatrical cut
     sort_title: Girlfriend Experience (2009)
     content_rating: gb/15
     country.sync: [United States of America]

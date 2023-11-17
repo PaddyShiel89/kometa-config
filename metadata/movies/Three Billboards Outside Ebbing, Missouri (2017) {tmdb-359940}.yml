@@ -1,8 +1,9 @@
 metadata:
-  Three Billboards Outside Ebbing, Missouri:
-    title: Three Billboards Outside Ebbing, Missouri
-    year: 2017
-    edition: Theatrical cut
+  "Three Billboards Outside Ebbing, Missouri (2017) {tmdb-359940} {edition-Theatrical cut}":
+    match:
+      title: Three Billboards Outside Ebbing, Missouri
+      year: 2017
+      edition: Theatrical cut
     sort_title: Three Billboards Outside Ebbing, Missouri (2017)
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]

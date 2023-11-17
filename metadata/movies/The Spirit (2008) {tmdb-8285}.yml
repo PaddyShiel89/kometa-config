@@ -1,8 +1,9 @@
 metadata:
-  The Spirit:
-    title: The Spirit
-    year: 2008
-    edition: Theatrical cut
+  "The Spirit (2008) {tmdb-8285} {edition-Theatrical cut}":
+    match:
+      title: The Spirit
+      year: 2008
+      edition: Theatrical cut
     sort_title: Spirit (2008)
     content_rating: gb/12
     country.sync: [United States of America]

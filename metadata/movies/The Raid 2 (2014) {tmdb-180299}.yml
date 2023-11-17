@@ -1,8 +1,9 @@
 metadata:
-  The Raid 2:
-    title: The Raid 2
-    year: 2014
-    edition: Theatrical cut
+  "The Raid 2 (2014) {tmdb-180299} {edition-Theatrical cut}":
+    match:
+      title: The Raid 2
+      year: 2014
+      edition: Theatrical cut
     sort_title: Raid (2011) 002
     content_rating: gb/18
     country.sync: [Indonesia, United States of America]

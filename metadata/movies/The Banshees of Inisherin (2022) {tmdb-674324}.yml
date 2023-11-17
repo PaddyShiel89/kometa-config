@@ -1,8 +1,9 @@
 metadata:
-  The Banshees of Inisherin:
-    title: The Banshees of Inisherin
-    year: 2022
-    edition: Theatrical cut
+  "The Banshees of Inisherin (2022) {tmdb-674324} {edition-Theatrical cut}":
+    match:
+      title: The Banshees of Inisherin
+      year: 2022
+      edition: Theatrical cut
     sort_title: Banshees of Inisherin
     content_rating: gb/15
     country.sync: [Ireland, United Kingdom, United States of America]

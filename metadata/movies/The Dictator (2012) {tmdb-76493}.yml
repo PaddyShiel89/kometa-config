@@ -1,8 +1,9 @@
 metadata:
-  The Dictator:
-    title: The Dictator
-    year: 2012
-    edition: Theatrical cut
+  "The Dictator (2012) {tmdb-76493} {edition-Theatrical cut}":
+    match:
+      title: The Dictator
+      year: 2012
+      edition: Theatrical cut
     sort_title: Dictator (2012)
     content_rating: gb/15
     country.sync: [United States of America]

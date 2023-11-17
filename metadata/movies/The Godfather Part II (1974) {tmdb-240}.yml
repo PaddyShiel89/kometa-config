@@ -1,8 +1,9 @@
 metadata:
-  The Godfather Part II:
-    title: The Godfather Part II
-    year: 1974
-    edition: Theatrical cut
+  "The Godfather Part II (1975) {tmdb-240} {edition-Theatrical cut}":
+    match:
+      title: The Godfather Part II
+      year: 1974
+      edition: Theatrical cut
     sort_title: Godfather (1972) 002
     content_rating: gb/15
     country.sync: [United States of America]

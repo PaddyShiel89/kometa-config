@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "The Wicker Man (1973) {tmdb-16307} [UK theatrical cut]":
+  "The Wicker Man (1973) {tmdb-16307} {edition-UK theatrical cut}":
     match:
       title: The Wicker Man
       year: 1973
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [Anthony Shaffer, David Pinner]
     label: [ID__000016307A]
 
-  "The Wicker Man (1973) {tmdb-16307} [Director's cut]":
+  "The Wicker Man (1973) {tmdb-16307} {edition-Director's cut}":
     match:
       title: The Wicker Man
       year: 1973
@@ -38,7 +38,7 @@ metadata:
     writer.sync: [Anthony Shaffer, David Pinner]
     label: [ID__000016307B]
 
-  "The Wicker Man (1973) {tmdb-16307} [The Final Cut]":
+  "The Wicker Man (1973) {tmdb-16307} {edition-The Final Cut}":
     match:
       title: The Wicker Man
       year: 1973

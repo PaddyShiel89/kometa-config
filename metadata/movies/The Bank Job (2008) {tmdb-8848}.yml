@@ -1,8 +1,9 @@
 metadata:
-  The Bank Job:
-    title: The Bank Job
-    year: 2008
-    edition: Theatrical cut
+  "The Bank Job (2008) {tmdb-8848} {edition-Theatrical cut}":
+    match:
+      title: The Bank Job
+      year: 2008
+      edition: Theatrical cut
     sort_title: "Bank Job (2008)"
     content_rating: gb/15
     country.sync: [Australia, United Kingdom, United States of America]

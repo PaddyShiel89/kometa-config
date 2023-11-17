@@ -1,8 +1,9 @@
 metadata:
-  The Birds:
-    title: The Birds
-    year: 1963
-    edition: Theatrical cut
+  "The Birds (1963) {tmdb-571} {edition-Theatrical cut}":
+    match:
+      title: The Birds
+      year: 1963
+      edition: Theatrical cut
     sort_title: Birds (1963)
     content_rating: gb/15
     country.sync: [United States of America]

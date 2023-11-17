@@ -1,8 +1,9 @@
 metadata:
-  The Woman in Black:
-    title: The Woman in Black
-    year: 2012
-    edition: Theatrical cut
+  "The Woman in Black (2012) {tmdb-65086} {edition-Theatrical cut}":
+    match:
+      title: The Woman in Black
+      year: 2012
+      edition: Theatrical cut
     sort_title: Woman in Black (2012) 001
     content_rating: gb/12
     country.sync: [Canada, Sweden, United Kingdom, United States of America]

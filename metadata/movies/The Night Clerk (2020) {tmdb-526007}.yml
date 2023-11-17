@@ -1,8 +1,9 @@
 metadata:
-  The Night Clerk:
-    title: The Night Clerk
-    year: 2020
-    edition: Theatrical cut
+  "The Night Clerk (2020) {tmdb-526007} {edition-Theatrical cut}":
+    match:
+      title: The Night Clerk
+      year: 2020
+      edition: Theatrical cut
     sort_title: Night Clerk (2020)
     content_rating: gb/15
     country.sync: [United States of America]

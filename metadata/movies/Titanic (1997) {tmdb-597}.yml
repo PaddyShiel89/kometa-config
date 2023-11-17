@@ -1,8 +1,9 @@
 metadata:
-  Titanic:
-    title: Titanic
-    year: 1997
-    edition: Theatrical cut
+  "Titanic (1997) {tmdb-597} {edition-Theatrical cut}":
+    match:
+      title: Titanic
+      year: 1997
+      edition: Theatrical cut
     sort_title: Titanic (1997)
     content_rating: gb/12
     country.sync: [Mexico, United States of America]

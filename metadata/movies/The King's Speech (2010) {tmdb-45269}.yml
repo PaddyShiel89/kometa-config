@@ -1,8 +1,9 @@
 metadata:
-  The King's Speech:
-    title: The King's Speech
-    year: 2010
-    edition: Theatrical cut
+  "The King's Speech (2010) {tmdb-45269} {edition-Theatrical cut}":
+    match:
+      title: The King's Speech
+      year: 2010
+      edition: Theatrical cut
     sort_title: King's Speech (2010)
     content_rating: gb/12
     country.sync: [United Kingdom, United States of America]

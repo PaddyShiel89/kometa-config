@@ -1,8 +1,9 @@
 metadata:
-  "Thor: Love and Thunder":
-    title: "Thor: Love and Thunder"
-    year: 2022
-    edition: Theatrical cut
+  "Thor Love and Thunder (2022) {tmdb-616037} {edition-Theatrical cut}":
+    match:
+      title: "Thor: Love and Thunder"
+      year: 2022
+      edition: Theatrical cut
     sort_title: Thor (2011) 004
     content_rating: gb/12
     country.sync: [Australia, United States of America]

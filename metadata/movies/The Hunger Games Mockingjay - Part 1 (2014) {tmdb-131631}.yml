@@ -1,8 +1,9 @@
 metadata:
-  "The Hunger Games: Mockingjay - Part 1":
-    title: "The Hunger Games: Mockingjay - Part 1"
-    year: 2014
-    edition: Theatrical cut
+  "The Hunger Games Mockingjay - Part 1 (2014) {tmdb-131631} {edition-Theatrical cut}":
+    match:
+      title: "The Hunger Games: Mockingjay - Part 1"
+      year: 2014
+      edition: Theatrical cut
     sort_title: Hunger Games (2012) 003
     content_rating: gb/12
     country.sync: [Canada, France, United States of America]

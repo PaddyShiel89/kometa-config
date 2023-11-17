@@ -1,8 +1,9 @@
 metadata:
-  The Muppets:
-    title: The Muppets
-    year: 2011
-    edition: Theatrical cut
+  "The Muppets (2011) {tmdb-64328} {edition-Theatrical cut}":
+    match:
+      title: The Muppets
+      year: 2011
+      edition: Theatrical cut
     sort_title: Muppets (2011)
     content_rating: gb/U
     country.sync: [United States of America]

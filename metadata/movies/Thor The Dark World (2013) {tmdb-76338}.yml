@@ -1,8 +1,9 @@
 metadata:
-  "Thor: The Dark World":
-    title: "Thor: The Dark World"
-    year: 2013
-    edition: Theatrical cut
+  "Thor The Dark World (2013) {tmdb-76338} {edition-Theatrical cut}":
+    match:
+      title: "Thor: The Dark World"
+      year: 2013
+      edition: Theatrical cut
     sort_title: Thor (2011) 002
     content_rating: gb/12
     country.sync: [United States of America]

@@ -1,8 +1,9 @@
 metadata:
-  The Sound of Music:
-    title: The Sound of Music
-    year: 1965
-    edition: Theatrical cut
+  "The Sound of Music (1965) {tmdb-15121} {edition-Theatrical cut}":
+    match:
+      title: The Sound of Music
+      year: 1965
+      edition: Theatrical cut
     sort_title: Sound of Music (1965)
     content_rating: gb/U
     country.sync: [United States of America]

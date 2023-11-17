@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "The Lord of the Rings The Fellowship of the Ring (2001) {tmdb-120} [Theatrical cut]":
+  "The Lord of the Rings The Fellowship of the Ring (2001) {tmdb-120} {edition-Theatrical cut}":
     match:
       title: "The Lord of the Rings: The Fellowship of the Ring"
       year: 2001
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Peter Jackson]
     label: [ID__000000120A]
 
-  "The Lord of the Rings The Fellowship of the Ring (2001) {tmdb-120} [Extended edition]":
+  "The Lord of the Rings The Fellowship of the Ring (2001) {tmdb-120} {edition-Extended edition}":
     match:
       title: "The Lord of the Rings: The Fellowship of the Ring"
       year: 2001

@@ -1,8 +1,9 @@
 metadata:
-  The Green Mile:
-    title: The Green Mile
-    year: 1999
-    edition: Theatrical cut
+  "The Green Mile (1999) {tmdb-497} {edition-Theatrical cut}":
+    match:
+      title: The Green Mile
+      year: 1999
+      edition: Theatrical cut
     sort_title: Green Mile (1999)
     content_rating: gb/18
     country.sync: [United States of America]

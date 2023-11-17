@@ -1,8 +1,9 @@
 metadata:
-  The Seven Year Itch:
-    title: The Seven Year Itch
-    year: 1955
-    edition: Theatrical cut
+  "The Seven Year Itch (1955) {tmdb-10653} {edition-Theatrical cut}":
+    match:
+      title: The Seven Year Itch
+      year: 1955
+      edition: Theatrical cut
     sort_title: Seven Year Itch (1955)
     content_rating: gb/PG
     country.sync: [United States of America]

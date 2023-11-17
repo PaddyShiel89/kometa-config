@@ -1,8 +1,9 @@
 metadata:
-  "The Godfather":
-    title: The Godfather
-    year: 1972
-    edition: Theatrical cut
+  "The Godfather (1972) {tmdb-238} {edition-Theatrical cut}":
+    match:
+      title: The Godfather
+      year: 1972
+      edition: Theatrical cut
     sort_title: Godfather (1972) 001
     content_rating: gb/15
     country.sync: [United States of America]

@@ -1,8 +1,9 @@
 metadata:
-  "The Hunger Games: Catching Fire":
-    title: "The Hunger Games: Catching Fire"
-    year: 2013
-    edition: Theatrical cut
+  "The Hunger Games Catching Fire (2013) {tmdb-101299} {edition-Theatrical cut}":
+    match:
+      title: "The Hunger Games: Catching Fire"
+      year: 2013
+      edition: Theatrical cut
     sort_title: Hunger Games (2012) 002
     content_rating: gb/12
     country.sync: [United States of America]

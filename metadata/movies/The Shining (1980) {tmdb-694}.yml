@@ -1,8 +1,9 @@
 metadata:
-  The Shining:
-    title: The Shining
-    year: 1980
-    edition: Theatrical cut
+  "The Shining (1980) {tmdb-694} {edition-Theatrical cut}":
+    match:
+      title: The Shining
+      year: 1980
+      edition: Theatrical cut
     sort_title: Shining (1980)
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]
