@@ -1,8 +1,9 @@
 metadata:
-  "Resident Evil: Apocalypse":
-    title: "Resident Evil: Apocalypse"
-    year: 2004
-    edition: Theatrical cut
+  "Resident Evil Apocalypse (2004) {tmdb-1577} {edition-Theatrical cut}":
+    match:
+      title: "Resident Evil: Apocalypse"
+      year: 2004
+      edition: Theatrical cut
     sort_title: "Resident Evil (2002) 002"
     content_rating: gb/15
     country.sync:

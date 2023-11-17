@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Star Wars Episode II - Attack of the Clones (2002) {tmdb-1894} [DVD cut]":
+  "Star Wars Episode II - Attack of the Clones (2002) {tmdb-1894} {edition-DVD cut}":
     match:
       title: "Star Wars: Episode II - Attack of the Clones"
       year: 2002
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [George Lucas, Jonathan Hales]
     label: [ID__000001894B]
 
-  "Star Wars Episode II - Attack of the Clones (2002) {tmdb-1894} [Blu-ray cut]":
+  "Star Wars Episode II - Attack of the Clones (2002) {tmdb-1894} {edition-Blu-ray cut}":
     match:
       title: "Star Wars: Episode II - Attack of the Clones"
       year: 2002

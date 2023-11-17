@@ -1,8 +1,9 @@
 metadata:
-  "Spider-Man: No Way Home":
-    title: "Spider-Man: No Way Home"
-    year: 2021
-    edition: Theatrical cut
+  "Spider-Man No Way Home (2021) {tmdb-634649} {edition-Theatrical cut}":
+    match:
+      title: "Spider-Man: No Way Home"
+      year: 2021
+      edition: Theatrical cut
     sort_title: Spider-Man (2017) 003
     content_rating: gb/12
     country.sync: [United States of America]

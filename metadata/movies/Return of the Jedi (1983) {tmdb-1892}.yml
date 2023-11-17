@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Return of the Jedi (1983) {tmdb-1892} [Theatrical cut]":
+  "Return of the Jedi (1983) {tmdb-1892} {edition-Theatrical cut}":
     match:
       title: "Star Wars: Episode VI - Return of the Jedi"
       year: 1983
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [Lawrence Kasdan, George Lucas]
     label: [ID__000001892A]
 
-  "Return of the Jedi (1983) {tmdb-1892} [Special edition]":
+  "Return of the Jedi (1983) {tmdb-1892} {edition-Special edition}":
     match:
       title: "Star Wars: Episode VI - Return of the Jedi"
       year: 1983
@@ -38,7 +38,7 @@ metadata:
     writer.sync: [Lawrence Kasdan, George Lucas]
     label: [ID__000001892B]
 
-  "Return of the Jedi (1983) {tmdb-1892} [DVD cut]":
+  "Return of the Jedi (1983) {tmdb-1892} {edition-DVD cut}":
     match:
       title: "Star Wars: Episode VI - Return of the Jedi"
       year: 1983
@@ -56,7 +56,7 @@ metadata:
     writer.sync: [Lawrence Kasdan, George Lucas]
     label: [ID__000001892C]
 
-  "Return of the Jedi (1983) {tmdb-1892} [Blu-ray cut]":
+  "Return of the Jedi (1983) {tmdb-1892} {edition-Blu-ray cut}":
     match:
       title: "Star Wars: Episode VI - Return of the Jedi"
       year: 1983
@@ -74,7 +74,7 @@ metadata:
     writer.sync: [Lawrence Kasdan, George Lucas]
     label: [ID__000001892D]
 
-  "Return of the Jedi (1983) {tmdb-1892} [Despecialized edition]":
+  "Return of the Jedi (1983) {tmdb-1892} {edition-Despecialized edition}":
     match:
       title: "Star Wars: Episode VI - Return of the Jedi"
       year: 1983
@@ -92,7 +92,7 @@ metadata:
     writer.sync: [Lawrence Kasdan, George Lucas]
     label: [ID__000001892E]
 
-  "Return of the Jedi (1983) {tmdb-1892} [Project 4K83]":
+  "Return of the Jedi (1983) {tmdb-1892} {edition-Project 4K83}":
     match:
       title: "Star Wars: Episode VI - Return of the Jedi"
       year: 1983

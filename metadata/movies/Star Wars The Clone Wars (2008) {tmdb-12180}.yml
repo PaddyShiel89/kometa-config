@@ -1,8 +1,9 @@
 metadata:
-  "Star Wars: The Clone Wars":
-    title: "Star Wars: The Clone Wars"
-    year: 2008
-    edition: Theatrical cut
+  "Star Wars The Clone Wars (2008) {tmdb-12180} {edition-Theatrical cut}":
+    match:
+      title: "Star Wars: The Clone Wars"
+      year: 2008
+      edition: Theatrical cut
     sort_title: "Star Wars: The Clone Wars (2008)"
     content_rating: gb/PG
     country.sync: [United States of America]

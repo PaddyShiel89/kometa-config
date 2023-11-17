@@ -1,8 +1,9 @@
 metadata:
-  "Resident Evil: Welcome to Raccoon City":
-    title: "Resident Evil: Welcome to Raccoon City"
-    year: 2021
-    edition: Theatrical cut
+  "Resident Evil Welcome to Raccoon City (2021) {tmdb-460458} {edition-Theatrical cut}":
+    match:
+      title: "Resident Evil: Welcome to Raccoon City"
+      year: 2021
+      edition: Theatrical cut
     sort_title: "Resident Evil (2021) 001"
     content_rating: gb/15
     country.sync: [Canada, Germany]

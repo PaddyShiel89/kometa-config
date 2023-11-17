@@ -1,8 +1,9 @@
 metadata:
-  Silent Hill:
-    title: Silent Hill
-    year: 2006
-    edition: Theatrical cut
+  "Silent Hill (2006) {tmdb-588} {edition-Theatrical cut}":
+    match:
+      title: Silent Hill
+      year: 2006
+      edition: Theatrical cut
     sort_title: Silent Hill (2006) 001
     content_rating: gb/15
     country.sync: [Canada, France]

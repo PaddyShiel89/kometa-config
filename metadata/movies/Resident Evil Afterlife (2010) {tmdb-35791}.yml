@@ -1,8 +1,9 @@
 metadata:
-  "Resident Evil: Afterlife":
-    title: "Resident Evil: Afterlife"
-    year: 2010
-    edition: Theatrical cut
+  "Resident Evil Afterlife (2010) {tmdb-35791} {edition-Theatrical cut}":
+    match:
+      title: "Resident Evil: Afterlife"
+      year: 2010
+      edition: Theatrical cut
     sort_title: "Resident Evil (2002) 004"
     content_rating: gb/15
     country.sync: [Canada, Germany, United States of America]

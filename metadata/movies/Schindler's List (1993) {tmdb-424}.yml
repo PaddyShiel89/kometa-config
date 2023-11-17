@@ -1,8 +1,9 @@
 metadata:
-  Schindler's List:
-    title: Schindler's List
-    year: 1993
-    edition: Theatrical cut
+  "Schindler's List (1993) {tmdb-424} {edition-Theatrical cut}":
+    match:
+      title: Schindler's List
+      year: 1993
+      edition: Theatrical cut
     sort_title: Schindler's List (1993)
     content_rating: gb/15
     country.sync: [United States of America]

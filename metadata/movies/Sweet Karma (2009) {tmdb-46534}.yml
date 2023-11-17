@@ -1,8 +1,9 @@
 metadata:
-  Sweet Karma:
-    title: Sweet Karma
-    year: 2009
-    edition: Theatrical cut
+  "Sweet Karma (2009) {tmdb-46534} {edition-Theatrical cut}":
+    match:
+      title: Sweet Karma
+      year: 2009
+      edition: Theatrical cut
     sort_title: Sweet Karma (2009)
     content_rating: gb/18
     country.sync: [Canada]

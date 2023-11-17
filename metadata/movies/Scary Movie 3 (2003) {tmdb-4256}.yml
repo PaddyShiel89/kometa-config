@@ -1,8 +1,9 @@
 metadata:
-  Scary Movie 3:
-    title: Scary Movie 3
-    year: 2003
-    edition: Extended edition
+  "Scary Movie 3 (2003) {tmdb-4256} {edition-Extended edition}":
+    match:
+      title: Scary Movie 3
+      year: 2003
+      edition: Extended edition
     sort_title: Scary Movie (2000) 003
     content_rating: gb/15
     country.sync: [United States of America]

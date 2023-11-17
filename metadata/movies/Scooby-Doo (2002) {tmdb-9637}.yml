@@ -1,8 +1,9 @@
 metadata:
-  Scooby-Doo:
-    title: Scooby-Doo
-    year: 2002
-    edition: Theatrical cut
+  "Scooby-Doo (2002) {tmdb-9637} {edition-Theatrical cut}":
+    match:
+      title: Scooby-Doo
+      year: 2002
+      edition: Theatrical cut
     sort_title: Scooby-Doo (2002) 001
     content_rating: gb/PG
     country.sync: [Australia, United States of America]

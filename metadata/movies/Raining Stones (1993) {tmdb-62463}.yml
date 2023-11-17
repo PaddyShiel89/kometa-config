@@ -1,8 +1,9 @@
 metadata:
-  Raining Stones:
-    title: Raining Stones
-    year: 1993
-    edition: Theatrical cut
+  "Raining Stones (1993) {tmdb-62463} {edition-Theatrical cut}":
+    match:
+      title: Raining Stones
+      year: 1993
+      edition: Theatrical cut
     sort_title: Raining Stones (1993)
     content_rating: gb/15
     country.sync: [United Kingdom]

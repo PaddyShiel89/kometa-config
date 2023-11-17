@@ -1,8 +1,9 @@
 metadata:
-  Resident Evil:
-    title: Resident Evil
-    year: 2002
-    edition: Theatrical cut
+  "Resident Evil (2002) {tmdb-1576} {edition-Theatrical cut}":
+    match:
+      title: Resident Evil
+      year: 2002
+      edition: Theatrical cut
     sort_title: Resident Evil (2002) 001
     content_rating: gb/15
     country.sync: [Germany, United Kingdom]

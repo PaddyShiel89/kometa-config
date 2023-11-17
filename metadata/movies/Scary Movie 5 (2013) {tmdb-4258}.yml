@@ -1,8 +1,9 @@
 metadata:
-  Scary Movie 5:
-    title: Scary Movie 5
-    year: 2013
-    edition: Theatrical cut
+  "Scary Movie 5 (2013) {tmdb-4258} {edition-Theatrical cut}":
+    match:
+      title: Scary Movie 5
+      year: 2013
+      edition: Theatrical cut
     sort_title: Scary Movie (2000) 005
     content_rating: gb/15
     country.sync: [United States of America]
