@@ -15,7 +15,6 @@ metadata:
     seasons:
       1: # Season 1
         title:
-        label: [ID__000000000A__SXX]
         summary:
         episodes:
           1: # S01E01
@@ -25,7 +24,6 @@ metadata:
             originally_available: YYYY-MM-DD
             director.sync: []
             writer.sync: []
-            label: [ID__000000000A__SXXEXX]
             summary:
 # ----------------------------------- Notes ---------------------------------- #
 

@@ -334,8 +334,6 @@ libraries:
       - repo: labelling/tv_shows/shows/ownership
       - repo: labelling/tv_shows/shows/sources
       - repo: labelling/tv_shows/shows/themes
-      - repo: labelling/tv_shows/episodes/ownership
-      - repo: labelling/tv_shows/episodes/sources
       - repo: labelling/tv_shows/content/drug_references
       - repo: labelling/tv_shows/content/drug_use
       - repo: labelling/tv_shows/content/gore

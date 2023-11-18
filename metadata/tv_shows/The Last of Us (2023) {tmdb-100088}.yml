@@ -13,7 +13,6 @@ metadata:
     seasons:
       1: # Season 1
         title: Season 1
-        label: [ID__000100088A__S01]
         episodes:
           1: # S01E01
             title: When You're Lost in the Darkness
@@ -22,7 +21,6 @@ metadata:
             originally_available: 2023-01-15
             director.sync: [Craig Mazin]
             writer.sync: [Craig Mazin, Neil Druckmann]
-            label: [ID__000100088A__S01E01]
             summary: In 2003, a parasitic fungal outbreak begins to ravage the world. Twenty years later, a hardened Joel Miller and his partner Tess fight to survive under a totalitarian regime.
           2: # S01E02
             title: Infected
@@ -31,7 +29,6 @@ metadata:
             originally_available: 2023-01-23
             director.sync: [Neil Druckmann]
             writer.sync: [Craig Mazin, Neil Druckmann]
-            label: [ID__000100088A__S01E02]
             summary: In 2003, an Indonesian scientist makes a devastating discovery. In 2023, Joel and Tess clash over Ellie's fate as they navigate a long-abandoned Boston overrun with Infected.
           3: # S01E03
             title: Long, Long Time
@@ -40,7 +37,6 @@ metadata:
             originally_available: 2023-01-30
             director.sync: [Peter Hoar]
             writer.sync: [Craig Mazin, Neil Druckmann]
-            label: [ID__000100088A__S01E03]
             summary: Doomsday prepper Bill prepares to ride out the apocalypse alone, until a stranger upends his plans. Joel and Ellie seek Bill's guidance ‒ and find themselves at a crossroads.
 # ----------------------------------- Notes ---------------------------------- #
 

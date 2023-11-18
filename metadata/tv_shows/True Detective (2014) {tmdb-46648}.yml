@@ -14,7 +14,6 @@ metadata:
     seasons:
       1: # Season 1
         title: Season 1
-        label: [ID__000046648A__S01]
         episodes:
           1: # S01E01
             title: The Long Bright Dark
@@ -23,7 +22,6 @@ metadata:
             originally_available: 2014-02-22
             director.sync: [Cary Joji Fukunaga]
             writer.sync: [Nic Pizzolatto]
-            label: [ID__000046648A__S01E01]
             summary: The lead investigators in a macabre 1995 murder relive the case in the wake of new info.
           2: # S01E02
             title: Seeing Things
@@ -32,7 +30,6 @@ metadata:
             originally_available: 2014-03-01
             director.sync: [Cary Joji Fukunaga]
             writer.sync: [Nic Pizzolatto]
-            label: [ID__000046648A__S01E02]
             summary: Under pressure to land a suspect, Cohle and Hart follow a lead to a cathouse and an incinerated church.
           3: # S01E03
             title: The Locked Room
@@ -41,7 +38,6 @@ metadata:
             originally_available: 2014-03-08
             director.sync: [Cary Joji Fukunaga]
             writer.sync: [Nic Pizzolatto]
-            label: [ID__000046648A__S01E03]
             summary: Cohle and Hart visit a tent revival in search of leads; Hart gets sidetracked at a C&W bar.
           4: # S01E04
             title: Who Goes There
@@ -50,7 +46,6 @@ metadata:
             originally_available: 2014-03-15
             director.sync: [Cary Joji Fukunaga]
             writer.sync: [Nic Pizzolatto]
-            label: [ID__000046648A__S01E04]
             summary: Hart and Cohle follow a series of dangerous leads in an effort to locate prime suspect Reggie Ledoux.
           5: # S01E05
             title: The Secret Fate of All Life
@@ -59,7 +54,6 @@ metadata:
             originally_available: 2014-03-22
             director.sync: [Cary Joji Fukunaga]
             writer.sync: [Nic Pizzolatto]
-            label: [ID__000046648A__S01E05]
             summary: Hart and Cohle share the spoils of a solved case; Papania and Gilbough confront the detectives with troubling new intelligence.
           6: # S01E06
             title: Haunted Houses
@@ -68,7 +62,6 @@ metadata:
             originally_available: 2014-03-29
             director.sync: [Cary Joji Fukunaga]
             writer.sync: [Nic Pizzolatto]
-            label: [ID__000046648A__S01E06]
             summary: Maggie sheds light on Cohle's activities in 2002, when his relationship with Hart fractured and Cohle quit the force.
 # ----------------------------------- Notes ---------------------------------- #
 
