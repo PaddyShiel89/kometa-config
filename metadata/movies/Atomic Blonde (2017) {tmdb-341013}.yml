@@ -1,8 +1,9 @@
 metadata:
-  Atomic Blonde:
-    title: Atomic Blonde
-    year: 2017
-    edition: Theatrical cut
+  "Atomic Blonde (2017) {tmdb-341013} {edition-Theatrical cut}":
+    match:
+      title: Atomic Blonde
+      year: 2017
+      edition: Theatrical cut
     sort_title: Atomic Blonde (2017)
     content_rating: gb/15
     country.sync: [Germany, Hungary, Sweden, United States of America]

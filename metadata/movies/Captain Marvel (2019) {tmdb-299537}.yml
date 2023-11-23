@@ -1,8 +1,9 @@
 metadata:
-  "Captain Marvel":
-    title: "Captain Marvel"
-    year: 2019
-    edition: Theatrical cut
+  "Captain Marvel (2019) {tmdb-299537} {edition-Theatrical cut}":
+    match:
+      title: "Captain Marvel"
+      year: 2019
+      edition: Theatrical cut
     sort_title: Captain Marvel (2019) 001
     content_rating: gb/12
     country.sync: [Australia, United States of America]

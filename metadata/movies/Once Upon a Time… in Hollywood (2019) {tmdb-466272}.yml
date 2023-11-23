@@ -1,8 +1,9 @@
 metadata:
-  Once Upon a Time... in Hollywood:
-    title: Once Upon a Time in Hollywood
-    year: 2019
-    edition: Theatrical cut
+  "Once Upon a Time… in Hollywood (2019) {tmdb-466272} {edition-Theatrical cut}":
+    match:
+      title: Once Upon a Time in Hollywood
+      year: 2019
+      edition: Theatrical cut
     sort_title: Once Upon a Time in Hollywood
     content_rating: gb/18
     country.sync: [China, United Kingdom, United States of America]

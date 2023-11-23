@@ -1,8 +1,9 @@
 metadata:
-  Tropic Thunder:
-    title: Tropic Thunder
-    year: 2008
-    edition: Theatrical cut
+  "Tropic Thunder (2008) {tmdb-7446} {edition-Theatrical cut}":
+    match:
+      title: Tropic Thunder
+      year: 2008
+      edition: Theatrical cut
     sort_title: "Tropic Thunder (2008)"
     content_rating: gb/15
     country.sync: [Germany, United Kingdom, United States of America]

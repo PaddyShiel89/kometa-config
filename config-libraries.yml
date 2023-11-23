@@ -313,20 +313,15 @@ libraries:
       - repo: labelling/movies/restrictions
       - repo: labelling/movies/series
       - repo: labelling/movies/sources
-      # - repo: labelling/shared/themes
       - repo: labelling/movies/themes
-      - repo: libraries/shared/actors
-      - repo: libraries/movies/directors
       - repo: libraries/shared/content_ratings
       - repo: libraries/shared/genres
         asset_directory: config/assets/genres/Movies
-      - repo: libraries/shared/series
       - repo: libraries/movies/series
       - repo: libraries/shared/themes
         asset_directory: config/assets/themes/Movies
       - repo: libraries/movies/themes
         asset_directory: config/assets/themes/Movies
-      - repo: libraries/movies/charts
   TV shows:
     operations:
       assets_for_all: true
@@ -336,8 +331,6 @@ libraries:
       - repo: labelling/tv_shows/shows/ownership
       - repo: labelling/tv_shows/shows/sources
       - repo: labelling/tv_shows/shows/themes
-      - repo: labelling/tv_shows/episodes/ownership
-      - repo: labelling/tv_shows/episodes/sources
       - repo: labelling/tv_shows/content/drug_references
       - repo: labelling/tv_shows/content/drug_use
       - repo: labelling/tv_shows/content/gore
@@ -354,12 +347,9 @@ libraries:
       - repo: labelling/tv_shows/ownership
       - repo: labelling/tv_shows/sources
       - repo: labelling/tv_shows/themes
-      # - repo: labelling/shared/themes
-      - repo: libraries/shared/actors
       - repo: libraries/shared/content_ratings
       - repo: libraries/shared/genres
         asset_directory: config/assets/genres/TV shows
-      - repo: libraries/shared/series
       - repo: libraries/shared/themes
         asset_directory: config/assets/themes/TV shows
       - repo: libraries/tv_shows/themes
@@ -395,7 +385,6 @@ libraries:
       - repo: labelling/short_films/series
       - repo: labelling/short_films/sources
       - repo: labelling/short_films/themes
-      - repo: libraries/shared/actors
       - repo: libraries/short_films/series
       - repo: libraries/short_films/themes
   Documentaries:
@@ -410,7 +399,6 @@ libraries:
     metadata_path:
       - repo: labelling/documentaries/themes
       - repo: libraries/shared/content_ratings
-      - repo: libraries/shared/series
       - repo: libraries/documentaries/themes
   Live music & music videos:
     operations:

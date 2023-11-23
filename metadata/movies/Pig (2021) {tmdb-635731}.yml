@@ -1,8 +1,9 @@
 metadata:
-  Pig:
-    title: Pig
-    year: 2021
-    edition: Theatrical cut
+  "Pig (2021) {tmdb-635731} {edition-Theatrical cut}":
+    match:
+      title: Pig
+      year: 2021
+      edition: Theatrical cut
     sort_title: Pig (2021)
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]

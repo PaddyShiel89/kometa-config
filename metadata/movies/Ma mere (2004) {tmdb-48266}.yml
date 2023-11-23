@@ -1,8 +1,9 @@
 metadata:
-  "Ma mère":
-    title: "Ma mère"
-    year: 2004
-    edition: Theatrical cut
+  "Ma mère (2004) {tmdb-48266} {edition-Theatrical cut}":
+    match:
+      title: "Ma mère"
+      year: 2004
+      edition: Theatrical cut
     sort_title: "Ma mere (2004)"
     content_rating: gb/18
     country.sync: [Austria, France, Portugal, Spain]

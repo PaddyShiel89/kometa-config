@@ -13,7 +13,6 @@ templates:
         title: <<title_list>>
     item_label: "content: <<content>><<level_string>>"
     build_collection: false
-    sync_mode: sync
 
   Ownership label:
     plex_search:
@@ -21,7 +20,6 @@ templates:
         title: <<title_list>>
     item_label: "ownership: <<status>>"
     build_collection: false
-    sync_mode: sync
 
   Playlist label:
     plex_search:
@@ -29,13 +27,11 @@ templates:
         title: <<title_list>>
     item_label: "playlist: <<playlist_name>>"
     build_collection: false
-    sync_mode: sync
 
   Restriction label:
     # No search as restrictions may be complex and assorted
     item_label: "restriction: <<restriction>>"
     build_collection: false
-    sync_mode: sync
 
   Series label:
     plex_search:
@@ -43,7 +39,6 @@ templates:
         title: <<title_list>>
     item_label: "series: <<series>>"
     build_collection: false
-    sync_mode: sync
 
   Source label:
     plex_search:
@@ -51,7 +46,6 @@ templates:
         title: <<title_list>>
     item_label: "source: <<source>>"
     build_collection: false
-    sync_mode: sync
 
   Theme label:
     plex_search:
@@ -59,55 +53,45 @@ templates:
         title: <<title_list>>
     item_label: "theme: <<theme>>"
     build_collection: false
-    sync_mode: sync
 
   Theme label (external source):
     item_label: "theme: <<theme>>"
     build_collection: false
-    sync_mode: sync
 
     # ------------------------------- New labelling ------------------------------ #
 
   TMDB ownership label:
     item_label: "Ownership__<<ownership_status>>"
     build_collection: false
-    sync_mode: sync
 
   TMDB series label:
     item_label: "Series__<<series_name>>_<<series_year>>"
     build_collection: false
-    sync_mode: sync
 
   TMDB source label:
     item_label: "Source__<<source_type>>"
     build_collection: false
-    sync_mode: sync
 
   TMDB restriction label:
     default:
       list_type: "blacklist"
     item_label: "Restriction__<<list_type>>_<<restriction_level>>"
     build_collection: false
-    sync_mode: sync
 
   TMDB theme label:
     item_label: "Theme__<<theme_name>>"
     build_collection: false
-    sync_mode: sync
 
   # Creates a label on a 0-5 scale for given content
   Content rating numeric label:
     item_label: "Content__<<ratings_board>>_<<content>>_lvl<<level>>"
     build_collection: false
-    sync_mode: sync
 
   Content rating static label:
     item_label: "Content__<<ratings_board>>_<<content>>"
     build_collection: false
-    sync_mode: sync
 
   # Edition labels are for labelling certain editions of a movie to allow for easier filtering.
   Edition label:
     item_label: "Edition__<<edition_type>>"
     build_collection: false
-    sync_mode: sync

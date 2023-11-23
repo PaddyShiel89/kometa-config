@@ -1,8 +1,9 @@
 metadata:
-  "Hostel: Part III":
-    title: "Hostel: Part III"
-    year: 2011
-    edition: Unrated cut
+  "Hostel Part III (2011) {tmdb-71670} {edition-Unrated cut}":
+    match:
+      title: "Hostel: Part III"
+      year: 2011
+      edition: Unrated cut
     sort_title: Hostel (2005) 003
     content_rating: gb/18
     country.sync: [United States of America]

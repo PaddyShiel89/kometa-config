@@ -1,8 +1,9 @@
 metadata:
-  "Pirates of the Caribbean: Dead Men Tell No Tales":
-    title: "Pirates of the Caribbean: Salazar's Revenge"
-    year: 2017
-    edition: Theatrical cut
+  "Pirates of the Caribbean Dead Men Tell No Tales (2017) {tmdb-166426} {edition-Theatrical cut}":
+    match:
+      title: "Pirates of the Caribbean: Salazar's Revenge"
+      year: 2017
+      edition: Theatrical cut
     sort_title: Pirates of the Caribbean (2003) 005
     content_rating: gb/12
     country.sync: [Australia, Canada, United Kingdom, United States of America]

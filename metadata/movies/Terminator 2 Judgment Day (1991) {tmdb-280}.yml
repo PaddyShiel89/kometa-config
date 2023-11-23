@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Terminator 2 Judgment Day (1991) {tmdb-280} [Theatrical cut]":
+  "Terminator 2 Judgment Day (1991) {tmdb-280} {edition-Theatrical cut}":
     match:
       title: "Terminator 2: Judgment Day"
       year: 1991
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [James Cameron, William Wisher]
     label: [ID__000000280A]
 
-  "Terminator 2 Judgment Day (1991) {tmdb-280} [Special edition]":
+  "Terminator 2 Judgment Day (1991) {tmdb-280} {edition-Special edition}":
     match:
       title: "Terminator 2: Judgment Day"
       year: 1991
@@ -38,7 +38,7 @@ metadata:
     writer.sync: [James Cameron, William Wisher]
     label: [ID__000000280B]
 
-  "Terminator 2 Judgment Day (1991) {tmdb-280} [Extended special edition]":
+  "Terminator 2 Judgment Day (1991) {tmdb-280} {edition-Extended special edition}":
     match:
       title: "Terminator 2: Judgment Day"
       year: 1991

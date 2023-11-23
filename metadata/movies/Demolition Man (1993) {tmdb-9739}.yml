@@ -1,8 +1,9 @@
 metadata:
-  Demolition Man:
-    title: Demolition Man
-    year: 1993
-    edition: Theatrical cut
+  "Demolition Man (1993) {tmdb-9739} {edition-Theatrical cut}":
+    match:
+      title: Demolition Man
+      year: 1993
+      edition: Theatrical cut
     sort_title: Demolition Man (1993)
     content_rating: gb/15
     country.sync: [United States of America]

@@ -1,8 +1,9 @@
 metadata:
-  The Boat That Rocked:
-    title: The Boat That Rocked
-    year: 2009
-    edition: Theatrical cut
+  "The Boat That Rocked (2009) {tmdb-18947} {edition-Theatrical cut}":
+    match:
+      title: The Boat That Rocked
+      year: 2009
+      edition: Theatrical cut
     sort_title: Boat That Rocked (2009)
     content_rating: gb/15
     country.sync: [France, Germany, United Kingdom, United States of America]

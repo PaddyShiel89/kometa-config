@@ -1,8 +1,9 @@
 metadata:
-  The Last Picture Show:
-    title: The Last Picture Show
-    year: 1971
-    edition: Director's cut
+  "The Last Picture Show (1971) {tmdb-25188} {edition-Director's cut}":
+    match:
+      title: The Last Picture Show
+      year: 1971
+      edition: Director's cut
     sort_title: Last Picture Show (1971)
     content_rating: gb/15
     country.sync: [United States of America]

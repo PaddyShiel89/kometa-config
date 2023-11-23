@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "The Hangover (2009) {tmdb-18785} [Theatrical cut]":
+  "The Hangover (2009) {tmdb-18785} {edition-Theatrical cut}":
     match:
       title: The Hangover
       year: 2009
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [Jon Lucas, Scott Moore]
     label: [ID__000018785A]
 
-  "The Hangover (2009) {tmdb-18785} [Uncut version]":
+  "The Hangover (2009) {tmdb-18785} {edition-Uncut version}":
     match:
       title: The Hangover
       year: 2009

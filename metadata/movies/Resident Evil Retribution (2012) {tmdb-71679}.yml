@@ -1,8 +1,9 @@
 metadata:
-  "Resident Evil: Retribution":
-    title: "Resident Evil: Retribution"
-    year: 2012
-    edition: Theatrical cut
+  "Resident Evil Retribution (2012) {tmdb-71679} {edition-Theatrical cut}":
+    match:
+      title: "Resident Evil: Retribution"
+      year: 2012
+      edition: Theatrical cut
     sort_title: "Resident Evil (2002) 005"
     content_rating: gb/15
     country.sync: [Canada, Germany, United States of America]

@@ -1,8 +1,9 @@
 metadata:
-  Lawrence of Arabia:
-    title: Lawrence of Arabia
-    year: 1962
-    edition: Restored version
+  "Lawrence of Arabia (1962) {tmdb-947} {edition-Restored version}":
+    match:
+      title: Lawrence of Arabia
+      year: 1962
+      edition: Restored version
     sort_title: Lawrence of Arabia (1962)
     content_rating: gb/PG
     country.sync: [United Kingdom]

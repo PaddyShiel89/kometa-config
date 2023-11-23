@@ -1,8 +1,9 @@
 metadata:
-  The Thing:
-    title: The Thing
-    year: 1982
-    edition: Theatrical cut
+  "The Thing (1982) {tmdb-1091} {edition-Theatrical cut}":
+    match:
+      title: The Thing
+      year: 1982
+      edition: Theatrical cut
     sort_title: Thing (1982)
     content_rating: gb/18
     country.sync: [Canada, United States of America]

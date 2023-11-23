@@ -1,8 +1,9 @@
 metadata:
-  After Sex:
-    title: After Sex
-    year: 2007
-    edition: Theatrical cut
+  "After Sex (2007) {tmdb-17097} {edition-Theatrical cut}":
+    match:
+      title: After Sex
+      year: 2007
+      edition: Theatrical cut
     sort_title: "After Sex (2007)"
     content_rating: gb/15
     country.sync: [United States of America]

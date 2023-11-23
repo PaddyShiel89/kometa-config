@@ -1,8 +1,9 @@
 metadata:
-  BlacKkKlansman:
-    title: BlacKkKlansman
-    year: 2018
-    edition: Theatrical cut
+  "BlacKkKlansman (2018) {tmdb-487558} {edition-Theatrical cut}":
+    match:
+      title: BlacKkKlansman
+      year: 2018
+      edition: Theatrical cut
     sort_title: BlacKkKlansman (2018)
     content_rating: gb/15
     country.sync: [China, United States of America]

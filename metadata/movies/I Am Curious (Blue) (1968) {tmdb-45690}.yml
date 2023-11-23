@@ -1,8 +1,9 @@
 metadata:
-  "I Am Curious (Blue)":
-    title: "I Am Curious (Blue)"
-    year: 1968
-    edition: Theatrical cut
+  "I Am Curious (Blue) (1968) {tmdb-45690} {edition-Theatrical cut}":
+    match:
+      title: "I Am Curious (Blue)"
+      year: 1968
+      edition: Theatrical cut
     sort_title: "I Am Curious (1967) 002"
     content_rating: gb/15
     country.sync: [Sweden]

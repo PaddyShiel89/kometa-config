@@ -1,8 +1,9 @@
 metadata:
-  "Team America: World Police":
-    title: "Team America: World Police"
-    year: 2004
-    edition: Theatrical cut
+  "Team America World Police (2004) {tmdb-3989} {edition-Theatrical cut}":
+    match:
+      title: "Team America: World Police"
+      year: 2004
+      edition: Theatrical cut
     sort_title: "Team America: World Police (2004)"
     content_rating: gb/15
     country.sync: [Germany, United States of America]

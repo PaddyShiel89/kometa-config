@@ -1,8 +1,9 @@
 metadata:
-  Uncharted:
-    title: Uncharted
-    year: 2022
-    edition: Theatrical cut
+  "Uncharted (2022) {tmdb-335787} {edition-Theatrical cut}":
+    match:
+      title: Uncharted
+      year: 2022
+      edition: Theatrical cut
     sort_title: Uncharted (2022)
     content_rating: gb/12
     country.sync: [Spain, United States of America]

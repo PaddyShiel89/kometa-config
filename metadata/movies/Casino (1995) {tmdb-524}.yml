@@ -1,8 +1,9 @@
 metadata:
-  Casino:
-    title: Casino
-    year: 1995
-    edition: Theatrical cut
+  "Casino (1995) {tmdb-524} {edition-Theatrical cut}":
+    match:
+      title: Casino
+      year: 1995
+      edition: Theatrical cut
     sort_title: Casino (1995)
     content_rating: gb/18
     country.sync: [France, United States of America]

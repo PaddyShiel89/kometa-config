@@ -1,8 +1,9 @@
 metadata:
-  "John Wick: Chapter 4":
-    title: "John Wick: Chapter 4"
-    year: 2023
-    edition: Theatrical cut
+  "John Wick Chapter 4 (2023) {tmdb-603692} {edition-Theatrical cut}":
+    match:
+      title: "John Wick: Chapter 4"
+      year: 2023
+      edition: Theatrical cut
     sort_title: John Wick (2014) 004
     content_rating: gb/15
     country.sync: [Germany, United States of America]

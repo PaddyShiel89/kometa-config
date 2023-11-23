@@ -1,8 +1,9 @@
 metadata:
-  My Week with Marilyn:
-    title: My Week with Marilyn
-    year: 2011
-    edition: Theatrical cut
+  "My Week with Marilyn (2011) {tmdb-75900} {edition-Theatrical cut}":
+    match:
+      title: My Week with Marilyn
+      year: 2011
+      edition: Theatrical cut
     sort_title: My Week with Marilyn (2011)
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]

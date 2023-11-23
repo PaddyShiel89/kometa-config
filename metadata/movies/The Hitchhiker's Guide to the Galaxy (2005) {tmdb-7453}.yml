@@ -1,8 +1,9 @@
 metadata:
-  The Hitchhiker's Guide to the Galaxy:
-    title: The Hitchhiker's Guide to the Galaxy
-    year: 2005
-    edition: Theatrical cut
+  "The Hitchhiker's Guide to the Galaxy (2005) {tmdb-7453} {edition-Theatrical cut}":
+    match:
+      title: The Hitchhiker's Guide to the Galaxy
+      year: 2005
+      edition: Theatrical cut
     sort_title: Hitchhiker's Guide to the Galaxy (2005)
     content_rating: gb/PG
     country.sync: [United Kingdom, United States of America]

@@ -1,8 +1,9 @@
 metadata:
-  Baise-moi:
-    title: Baise-moi
-    year: 2000
-    edition: Theatrical cut
+  "Baise-moi (2000) {tmdb-3134} {edition-Theatrical cut}":
+    match:
+      title: Baise-moi
+      year: 2000
+      edition: Theatrical cut
     sort_title: Baise-moi (2000)
     content_rating: gb/18
     country.sync: [France]

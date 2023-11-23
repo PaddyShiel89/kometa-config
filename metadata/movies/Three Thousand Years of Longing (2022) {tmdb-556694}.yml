@@ -1,8 +1,9 @@
 metadata:
-  Three Thousand Years of Longing:
-    title: Three Thousand Years of Longing
-    year: 2022
-    edition: Theatrical cut
+  "Three Thousand Years of Longing (2022) {tmdb-556694} {edition-Theatrical cut}":
+    match:
+      title: Three Thousand Years of Longing
+      year: 2022
+      edition: Theatrical cut
     sort_title: Three Thousand Years of Longing (2022)
     content_rating: gb/15
     country.sync: [Australia, United States of America]

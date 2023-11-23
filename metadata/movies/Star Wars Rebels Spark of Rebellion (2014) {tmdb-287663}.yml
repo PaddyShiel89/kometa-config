@@ -1,8 +1,9 @@
 metadata:
-  "Star Wars Rebels: Spark of Rebellion":
-    title: "Star Wars Rebels: Spark of Rebellion"
-    year: 2014
-    edition: TV special
+  "Star Wars Rebels Spark of Rebellion (2014) {tmdb-287663} {edition-TV special}":
+    match:
+      title: "Star Wars Rebels: Spark of Rebellion"
+      year: 2014
+      edition: TV special
     sort_title: "Star Wars Rebels (2014) 001"
     content_rating: gb/U
     country.sync: [United States of America]

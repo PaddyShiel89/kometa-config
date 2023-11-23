@@ -1,8 +1,9 @@
 metadata:
-  Atonement:
-    title: Atonement
-    year: 2007
-    edition: Theatrical cut
+  "Atonement (2007) {tmdb-4347} {edition-Theatrical cut}":
+    match:
+      title: Atonement
+      year: 2007
+      edition: Theatrical cut
     sort_title: Atonement (2007)
     content_rating: gb/15
     country.sync: [France, United Kingdom, United States of America]

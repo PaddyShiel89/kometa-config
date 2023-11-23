@@ -1,8 +1,9 @@
 metadata:
-  Martha Marcy May Marlene:
-    title: Martha Marcy May Marlene
-    year: 2011
-    edition: Theatrical cut
+  "Martha Marcy May Marlene (2011) {tmdb-50837} {edition-Theatrical cut}":
+    match:
+      title: Martha Marcy May Marlene
+      year: 2011
+      edition: Theatrical cut
     sort_title: Martha Marcy May Marlene (2011)
     content_rating: gb/15
     country.sync: [United States of America]

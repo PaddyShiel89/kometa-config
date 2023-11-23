@@ -1,8 +1,9 @@
 metadata:
-  "The Usual Suspects":
-    title: "The Usual Suspects"
-    year: 1995
-    edition: Theatrical cut
+  "The Usual Suspects (1995) {tmdb-629} {edition-Theatrical cut}":
+    match:
+      title: "The Usual Suspects"
+      year: 1995
+      edition: Theatrical cut
     sort_title: Usual Suspects (1995)
     content_rating: gb/18
     country.sync: [Germany, United States of America]

@@ -1,8 +1,9 @@
 metadata:
-  "The Hunger Games: Mockingjay - Part 2":
-    title: "The Hunger Games: Mockingjay - Part 2"
-    year: 2015
-    edition: Theatrical cut
+  "The Hunger Games Mockingjay - Part 2 (2015) {tmdb-131634} {edition-Theatrical cut}":
+    match:
+      title: "The Hunger Games: Mockingjay - Part 2"
+      year: 2015
+      edition: Theatrical cut
     sort_title: Hunger Games (2012) 004
     content_rating: gb/12
     country.sync: [Canada, France, Germany, United States of America]

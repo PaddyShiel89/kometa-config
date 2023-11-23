@@ -1,8 +1,9 @@
 metadata:
-  The Constant Gardener:
-    title: The Constant Gardener
-    year: 2005
-    edition: Theatrical cut
+  "The Constant Gardener (2005) {tmdb-1985} {edition-Theatrical cut}":
+    match:
+      title: The Constant Gardener
+      year: 2005
+      edition: Theatrical cut
     sort_title: Constant Gardener (2005)
     content_rating: gb/15
     country.sync:

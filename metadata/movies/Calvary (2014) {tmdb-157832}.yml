@@ -1,8 +1,9 @@
 metadata:
-  Calvary:
-    title: Calvary
-    year: 2014
-    edition: Theatrical cut
+  "Calvary (2014) {tmdb-157832} {edition-Theatrical cut}":
+    match:
+      title: Calvary
+      year: 2014
+      edition: Theatrical cut
     sort_title: Calvary (2014)
     content_rating: gb/15
     country.sync: [Ireland]

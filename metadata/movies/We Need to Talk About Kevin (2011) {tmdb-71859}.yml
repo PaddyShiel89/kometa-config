@@ -1,8 +1,9 @@
 metadata:
-  We Need to Talk About Kevin:
-    title: We Need to Talk About Kevin
-    year: 2011
-    edition: Theatrical cut
+  "We Need to Talk About Kevin (2011) {tmdb-71859} {edition-Theatrical cut}":
+    match:
+      title: We Need to Talk About Kevin
+      year: 2011
+      edition: Theatrical cut
     sort_title: We Need to Talk About Kevin (2011)
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]

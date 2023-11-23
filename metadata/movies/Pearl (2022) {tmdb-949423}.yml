@@ -1,8 +1,9 @@
 metadata:
-  Pearl:
-    title: Pearl
-    year: 2022
-    edition: Theatrical cut
+  "Pearl (2022) {tmdb-949423} {edition-Theatrical cut}":
+    match:
+      title: Pearl
+      year: 2022
+      edition: Theatrical cut
     sort_title: Pearl (2022)
     content_rating: gb/15
     country.sync: [Canada, New Zealand, United States of America]

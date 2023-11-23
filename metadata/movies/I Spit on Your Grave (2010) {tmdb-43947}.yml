@@ -1,8 +1,9 @@
 metadata:
-  I Spit on Your Grave:
-    title: I Spit on Your Grave
-    year: 2010
-    edition: Theatrical cut
+  "I Spit on Your Grave (2010) {tmdb-43947} {edition-Theatrical cut}":
+    match:
+      title: I Spit on Your Grave
+      year: 2010
+      edition: Theatrical cut
     sort_title: I Spit on Your Grave (2010) 001
     content_rating: gb/18
     country.sync: [United States of America]

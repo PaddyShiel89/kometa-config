@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Leon The Professional (1994) {tmdb-101} [Theatrical cut]":
+  "Léon The Professional (1994) {tmdb-101} {edition-Theatrical cut}":
     match:
       title: "Léon: The Professional"
       year: 1994
@@ -21,7 +21,7 @@ metadata:
     writer.sync: [Luc Besson]
     label: [ID__000000101A]
 
-  "Leon The Professional (1994) {tmdb-101} [Director's cut]":
+  "Léon The Professional (1994) {tmdb-101} {edition-Director's cut}":
     match:
       title: "Léon: The Professional"
       year: 1994

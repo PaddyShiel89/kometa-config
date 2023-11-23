@@ -1,8 +1,9 @@
 metadata:
-  Brightburn:
-    title: Brightburn
-    year: 2019
-    edition: Theatrical cut
+  "Brightburn (2019) {tmdb-531309} {edition-Theatrical cut}":
+    match:
+      title: Brightburn
+      year: 2019
+      edition: Theatrical cut
     sort_title: Brightburn (2019)
     content_rating: gb/15
     country.sync: [ United States of America]

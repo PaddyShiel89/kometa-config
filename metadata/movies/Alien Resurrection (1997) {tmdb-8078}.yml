@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Alien Resurrection (1997) {tmdb-8078} [Theatrical cut]":
+  "Alien Resurrection (1997) {tmdb-8078} {edition-Theatrical cut}":
     match:
       title: Alien Resurrection
       year: 1997
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [Joss Whedon]
     label: [ID__000008078A]
 
-  "Alien Resurrection (1997) {tmdb-8078} [Special edition]":
+  "Alien Resurrection (1997) {tmdb-8078} {edition-Special edition}":
     match:
       title: Alien Resurrection
       year: 1997

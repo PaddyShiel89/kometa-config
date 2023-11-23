@@ -1,8 +1,9 @@
 metadata:
-  The Girl Next Door:
-    title: The Girl Next Door
-    year: 2004
-    edition: Theatrical cut
+  "The Girl Next Door (2004) {tmdb-10591} {edition-Theatrical cut}":
+    match:
+      title: The Girl Next Door
+      year: 2004
+      edition: Theatrical cut
     sort_title: Girl Next Door (2004)
     content_rating: gb/15
     country.sync: [United States of America]

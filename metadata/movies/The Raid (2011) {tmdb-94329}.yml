@@ -1,8 +1,9 @@
 metadata:
-  The Raid:
-    title: The Raid
-    year: 2011
-    edition: Uncut version
+  "The Raid (2011) {tmdb-94329} {edition-Uncut version}":
+    match:
+      title: The Raid
+      year: 2011
+      edition: Uncut version
     sort_title: Raid (2011) 001
     content_rating: gb/18
     country.sync: [Indonesia, France, United States of America]

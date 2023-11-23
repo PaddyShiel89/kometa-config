@@ -1,8 +1,9 @@
 metadata:
-  Renfield:
-    title: Renfield
-    year: 2023
-    edition: Theatrical cut
+  "Renfield (2023) {tmdb-649609} {edition-Theatrical cut}":
+    match:
+      title: Renfield
+      year: 2023
+      edition: Theatrical cut
     sort_title: Renfield (2023)
     content_rating: gb/15
     country.sync: [United States of America]

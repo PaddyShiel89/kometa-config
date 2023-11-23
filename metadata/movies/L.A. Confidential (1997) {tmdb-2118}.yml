@@ -1,8 +1,9 @@
 metadata:
-  "L.A. Confidential":
-    title: "L.A. Confidential"
-    year: 1997
-    edition: Theatrical cut
+  "L.A. Confidential (1997) {tmdb-2118} {edition-Theatrical cut}":
+    match:
+      title: "L.A. Confidential"
+      year: 1997
+      edition: Theatrical cut
     sort_title: L.A. Confidential (1997)
     content_rating: gb/18
     country.sync: [United States of America]

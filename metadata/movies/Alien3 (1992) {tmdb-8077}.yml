@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Alien3 (1992) {tmdb-8077} [Theatrical cut]":
+  "Alien³ (1992) {tmdb-8077} {edition-Theatrical cut}":
     match:
       title: "Alien³"
       year: 1992
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [Vincent Ward, David Giler, Walter Hill, Larry Ferguson]
     label: [ID__000008077A]
 
-  "Alien3 (1992) {tmdb-8077} [Assembley cut]":
+  "Alien³ (1992) {tmdb-8077} {edition-Assembly cut}":
     match:
       title: "Alien³"
       year: 1992

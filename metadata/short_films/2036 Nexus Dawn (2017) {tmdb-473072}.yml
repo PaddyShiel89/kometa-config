@@ -1,7 +1,8 @@
 metadata:
-  "2036: Nexus Dawn":
-    title: "2036: Nexus Dawn"
-    year: 2017
+  "2036 Nexus Dawn (2017) {tmdb-473072}":
+    match:
+      title: "2036: Nexus Dawn"
+      year: 2017
     sort_title: "2036: Nexus Dawn (2017)"
     content_rating: gb/Unrated
     country.sync: [United States of America]

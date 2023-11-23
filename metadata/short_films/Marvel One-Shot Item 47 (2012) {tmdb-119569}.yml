@@ -1,7 +1,8 @@
 metadata:
-  "Marvel One-Shot: Item 47":
-    title: "Item 47"
-    year: 2012
+  "Marvel One-Shot Item 47 (2012) {tmdb-119569}":
+    match:
+      title: "Item 47"
+      year: 2012
     sort_title: "Item 47 (2012)"
     content_rating: gb/Unrated
     country.sync: [United States of America]

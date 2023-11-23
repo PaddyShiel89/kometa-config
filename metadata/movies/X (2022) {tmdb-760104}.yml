@@ -1,8 +1,9 @@
 metadata:
-  X:
-    title: X
-    year: 2022
-    edition: Theatrical cut
+  "X (2022) {tmdb-760104} {edition-Theatrical cut}":
+    match:
+      title: X
+      year: 2022
+      edition: Theatrical cut
     sort_title: X (2022)
     content_rating: gb/18
     country.sync: [Canada, United States of America]

@@ -1,8 +1,9 @@
 metadata:
-  "Iron Man 3":
-    title: Iron Man 3
-    year: 2013
-    edition: Theatrical cut
+  "Iron Man 3 (2013) {tmdb-68721} {edition-Theatrical cut}":
+    match:
+      title: Iron Man 3
+      year: 2013
+      edition: Theatrical cut
     sort_title: Iron Man (2008) 003
     content_rating: gb/12
     country.sync: [United States of America]

@@ -1,8 +1,9 @@
 metadata:
-  "Fantastic Beasts: The Crimes of Grindelwald":
-    title: "Fantastic Beasts: The Crimes of Grindelwald"
-    year: 2018
-    edition: Theatrical cut
+  "Fantastic Beasts The Crimes of Grindelwald (2018) {tmdb-338952} {edition-Theatrical cut}":
+    match:
+      title: "Fantastic Beasts: The Crimes of Grindelwald"
+      year: 2018
+      edition: Theatrical cut
     sort_title: Fantastic Beasts (2016) 002
     content_rating: gb/12
     country.sync: [United Kingdom, United States of America]

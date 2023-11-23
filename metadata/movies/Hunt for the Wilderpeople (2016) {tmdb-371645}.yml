@@ -1,8 +1,9 @@
 metadata:
-  Hunt for the Wilderpeople:
-    title: Hunt for the Wilderpeople
-    year: 2016
-    edition: Theatrical cut
+  "Hunt for the Wilderpeople (2016) {tmdb-371645} {edition-Theatrical cut}":
+    match:
+      title: Hunt for the Wilderpeople
+      year: 2016
+      edition: Theatrical cut
     sort_title: Hunt for the Wilderpeople (2016)
     content_rating: gb/12
     country.sync: [New Zealand]

@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Malena (2000) {tmdb-10867} [Original Italian cut]":
+  "Malena (2000) {tmdb-10867) {edition-Original Italian cut}":
     match:
       title: Malèna
       year: 2000
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [Giuseppe Tornatore, Luciano Vincenzoni]
     label: [ID__000010867A]
 
-  "Malena (2000) {tmdb-10867} [International cut]":
+  "Malena (2000) {tmdb-10867) {edition-International cut}":
     match:
       title: Malèna
       year: 2000

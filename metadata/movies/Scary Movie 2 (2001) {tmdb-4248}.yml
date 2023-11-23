@@ -1,8 +1,9 @@
 metadata:
-  Scary Movie 2:
-    title: Scary Movie 2
-    year: 2001
-    edition: Theatrical cut
+  "Scary Movie 2 (2001) {tmdb-4248} {edition-Theatrical cut}":
+    match:
+      title: Scary Movie 2
+      year: 2001
+      edition: Theatrical cut
     sort_title: Scary Movie (2000) 002
     content_rating: gb/18
     country.sync: [United States of America]

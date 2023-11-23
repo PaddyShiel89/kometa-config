@@ -1,8 +1,9 @@
 metadata:
-  "Brüno":
-    title: "Brüno"
-    year: 2009
-    edition: Theatrical cut
+  "Brüno (2009) {tmdb-18480} {edition-Theatrical cut}":
+    match:
+      title: "Brüno"
+      year: 2009
+      edition: Theatrical cut
     sort_title: "Brüno (2009)"
     content_rating: gb/18
     country.sync: [United Kingdom, United States of America]

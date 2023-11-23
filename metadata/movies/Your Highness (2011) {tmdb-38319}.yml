@@ -1,8 +1,9 @@
 metadata:
-  Your Highness:
-    title: Your Highness
-    year: 2011
-    edition: Extended cut
+  "Your Highness (2011) {tmdb-38319} {edition-Extended cut}":
+    match:
+      title: Your Highness
+      year: 2011
+      edition: Extended cut
     sort_title: Your Highness (2011)
     content_rating: gb/15
     country.sync: [United States of America]

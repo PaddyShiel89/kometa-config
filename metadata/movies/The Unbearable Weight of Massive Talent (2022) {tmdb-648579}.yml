@@ -1,8 +1,9 @@
 metadata:
-  The Unbearable Weight of Massive Talent:
-    title: The Unbearable Weight of Massive Talent
-    year: 2022
-    edition: Theatrical cut
+  "The Unbearable Weight of Massive Talent (2022) {tmdb-648579} {edition-Theatrical cut}":
+    match:
+      title: The Unbearable Weight of Massive Talent
+      year: 2022
+      edition: Theatrical cut
     sort_title: Unbearable Weight of Massive Talent (2022)
     content_rating: gb/15
     country.sync: [United States of America]

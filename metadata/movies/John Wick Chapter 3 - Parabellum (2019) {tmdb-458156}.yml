@@ -1,8 +1,9 @@
 metadata:
-  "John Wick: Chapter 3 - Parabellum":
-    title: "John Wick: Chapter 3 - Parabellum"
-    year: 2019
-    edition: Theatrical cut
+  "John Wick Chapter 3 - Parabellum (2019) {tmdb-458156} {edition-Theatrical cut}":
+    match:
+      title: "John Wick: Chapter 3 - Parabellum"
+      year: 2019
+      edition: Theatrical cut
     sort_title: John Wick (2014) 003
     content_rating: gb/15
     country.sync: [United States of America]

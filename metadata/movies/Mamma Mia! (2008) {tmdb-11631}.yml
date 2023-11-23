@@ -1,8 +1,9 @@
 metadata:
-  Mamma Mia!:
-    title: Mamma Mia!
-    year: 2008
-    edition: Theatrical cut
+  "Mamma Mia! (2008) {tmdb-11631} {edition-Theatrical cut}":
+    match:
+      title: Mamma Mia!
+      year: 2008
+      edition: Theatrical cut
     sort_title: Mamma Mia! (2008)
     content_rating: gb/PG
     country.sync: [Germany, United Kingdom, United States of America]

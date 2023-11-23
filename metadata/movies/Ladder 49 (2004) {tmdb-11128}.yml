@@ -1,8 +1,9 @@
 metadata:
-  Ladder 49:
-    title: Ladder 49
-    year: 2004
-    edition: Theatrical cut
+  "Ladder 49 (2004) {tmdb-11128} {edition-Theatrical cut}":
+    match:
+      title: Ladder 49
+      year: 2004
+      edition: Theatrical cut
     sort_title: Ladder 49 (2004)
     content_rating: gb/12
     country.sync: [United States of America]

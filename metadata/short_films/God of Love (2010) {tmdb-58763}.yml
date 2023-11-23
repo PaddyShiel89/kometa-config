@@ -1,7 +1,8 @@
 metadata:
-  God of Love:
-    title: God of Love
-    year: 2010
+  "God of Love (2010) {tmdb-58763}":
+    match:
+      title: God of Love
+      year: 2010
     sort_title: God of Love (2010)
     content_rating: gb/Unrated
     country.sync: [United States of America]

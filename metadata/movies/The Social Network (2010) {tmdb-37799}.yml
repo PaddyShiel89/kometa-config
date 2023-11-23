@@ -1,8 +1,9 @@
 metadata:
-  The Social Network:
-    title: The Social Network
-    year: 2010
-    edition: Theatrical cut
+  "The Social Network (2010) {tmdb-37799} {edition-Theatrical cut}":
+    match:
+      title: The Social Network
+      year: 2010
+      edition: Theatrical cut
     sort_title: Social Network (2010)
     content_rating: gb/12
     country.sync: [United States of America]

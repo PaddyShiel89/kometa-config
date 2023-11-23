@@ -1,8 +1,9 @@
 metadata:
-  Star Trek Into Darkness:
-    title: Star Trek Into Darkness
-    year: 2013
-    edition: Theatrical cut
+  "Star Trek Into Darkness (2013) {tmdb-54138} {edition-Theatrical cut}":
+    match:
+      title: Star Trek Into Darkness
+      year: 2013
+      edition: Theatrical cut
     sort_title: Star Trek (2009) 002
     content_rating: gb/12
     country.sync: [United States of America]

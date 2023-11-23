@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "The Lord of the Rings The Return of the King (2003) {tmdb-122} [Theatrical cut]":
+  "The Lord of the Rings The Return of the King (2003) {tmdb-122} {edition-Theatrical cut}":
     match:
       title: "The Lord of the Rings: The Return of the King"
       year: 2003
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Peter Jackson]
     label: [ID__000000122A]
 
-  "The Lord of the Rings The Return of the King (2003) {tmdb-122} [Extended edition]":
+  "The Lord of the Rings The Return of the King (2003) {tmdb-122} {edition-Extended edition}":
     match:
       title: "The Lord of the Rings: The Return of the King"
       year: 2003

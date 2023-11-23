@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Star Wars Episode I - The Phantom Menace (1999) {tmdb-1893} [DVD cut]":
+  "Star Wars Episode I - The Phantom Menace (1999) {tmdb-1893} {edition-DVD cut}":
     match:
       title: "Star Wars: Episode I - The Phantom Menace"
       year: 1999
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [George Lucas]
     label: [ID__000001893B]
 
-  "Star Wars Episode I - The Phantom Menace (1999) {tmdb-1893} [Blu-ray cut]":
+  "Star Wars Episode I - The Phantom Menace (1999) {tmdb-1893} {edition-Blu-ray cut}":
     match:
       title: "Star Wars: Episode I - The Phantom Menace"
       year: 1999

@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Alien (1979) {tmdb-348} [Theatrical cut]":
+  "Alien (1979) {tmdb-348} {edition-Theatrical cut}":
     match:
       title: Alien
       year: 1979
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [Dan O'Bannon, Dan O'Bannon, Ronald Shusett]
     label: [ID__000000348A]
 
-  "Alien (1979) {tmdb-348} [Director's cut]":
+  "Alien (1979) {tmdb-348} {edition-Director's cut}":
     match:
       title: Alien
       year: 1979

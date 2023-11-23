@@ -1,8 +1,9 @@
 metadata:
-  Wedding Crashers:
-    title: Wedding Crashers
-    year: 2005
-    edition: Extended cut
+  "Wedding Crashers (2005) {tmdb-9522} {edition-Extended cut}":
+    match:
+      title: Wedding Crashers
+      year: 2005
+      edition: Extended cut
     sort_title: Wedding Crashers (2005) 001B
     content_rating: gb/15
     country.sync: [United States of America]

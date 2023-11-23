@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Gladiator (2000) {tmdb-98} [Theatrical cut]":
+  "Gladiator (2000) {tmdb-98} {edition-Theatrical cut}":
     match:
       title: Gladiator
       year: 2000
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [David Franzoni, John Logan, William Nicholson]
     label: [ID__000000098A]
 
-  "Gladiator (2000) {tmdb-98} [Extended edition]":
+  "Gladiator (2000) {tmdb-98} {edition-Extended cut}":
     match:
       title: Gladiator
       year: 2000

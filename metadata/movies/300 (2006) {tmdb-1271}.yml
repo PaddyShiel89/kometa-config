@@ -1,8 +1,9 @@
 metadata:
-  "300":
-    title: "300"
-    year: 2006
-    edition: Theatrical cut
+  "300 (2006) {tmdb-1271} {edition-Theatrical cut}":
+    match:
+      title: "300"
+      year: 2006
+      edition: Theatrical cut
     sort_title: "300 (2006) 001"
     content_rating: gb/15
     country.sync: [Bulgaria, Canada, United States of America]

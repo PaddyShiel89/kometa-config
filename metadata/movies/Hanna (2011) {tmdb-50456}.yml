@@ -1,8 +1,9 @@
 metadata:
-  "Hanna":
-    title: Hanna
-    year: 2011
-    edition: Theatrical cut
+  "Hanna (2011) {tmdb-50456} {edition-Theatrical cut}":
+    match:
+      title: Hanna
+      year: 2011
+      edition: Theatrical cut
     sort_title: Hanna (2011)
     content_rating: gb/12
     country.sync: [United States of America, United Kingdom, Germany]

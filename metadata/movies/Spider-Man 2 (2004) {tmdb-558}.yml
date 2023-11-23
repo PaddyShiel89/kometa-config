@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Spider-Man 2 (2004) {tmdb-558} [Theatrical cut]":
+  "Spider-Man 2 (2004) {tmdb-558} {edition-Theatrical cut}":
     match:
       title: Spider-Man 2
       year: 2004
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [Alfred Gough, Miles Millar, Michael Chabon, Alvin Sargent]
     label: [ID__000000558A]
 
-  "Spider-Man 2 (2004) {tmdb-558} [Extended edition]":
+  "Spider-Man 2 (2004) {tmdb-558} {edition-Extended edition}":
     match:
       title: Spider-Man 2.1
       year: 2004

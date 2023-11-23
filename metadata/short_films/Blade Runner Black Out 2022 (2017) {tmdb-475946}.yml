@@ -1,7 +1,8 @@
 metadata:
-  "Blade Runner: Black Out 2022":
-    title: "Blade Runner: Black Out 2022"
-    year: 2017
+  "Blade Runner Black Out 2022 (2017) {tmdb-475946}":
+    match:
+      title: "Blade Runner: Black Out 2022"
+      year: 2017
     sort_title: "Blade Runner: Black Out 2022 (2017)"
     content_rating: gb/Unrated
     country.sync: [Japan, United States of America]

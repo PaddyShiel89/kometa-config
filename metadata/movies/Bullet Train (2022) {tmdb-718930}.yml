@@ -1,8 +1,9 @@
 metadata:
-  Bullet Train:
-    title: Bullet Train
-    year: 2022
-    edition: Theatrical cut
+  "Bullet Train (2022) {tmdb-718930} {edition-Theatrical cut}":
+    match:
+      title: Bullet Train
+      year: 2022
+      edition: Theatrical cut
     sort_title: Bullet Train (2002)
     content_rating: gb/15
     country.sync: [Japan, United States of America]

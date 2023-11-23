@@ -1,8 +1,9 @@
 metadata:
-  "I Am Curious (Yellow)":
-    title: "I Am Curious (Yellow)"
-    year: 1967
-    edition: Theatrical cut
+  "I Am Curious (Yellow) (1967) {tmdb-42695} {edition-Theatrical cut}":
+    match:
+      title: "I Am Curious (Yellow)"
+      year: 1967
+      edition: Theatrical cut
     sort_title: "I Am Curious (1967) 001"
     content_rating: gb/15
     country.sync: [Sweden]

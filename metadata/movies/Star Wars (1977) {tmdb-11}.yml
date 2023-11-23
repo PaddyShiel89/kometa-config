@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Star Wars (1977) {tmdb-11} [Theatrical cut]":
+  "Star Wars (1977) {tmdb-11} {edition-Theatrical cut}":
     match:
       title: "Star Wars: Episode IV - A New Hope"
       year: 1977
@@ -21,7 +21,7 @@ metadata:
     writer.sync: George Lucas
     label: [ID__000000011A]
 
-  "Star Wars (1977) {tmdb-11} [Special edition]":
+  "Star Wars (1977) {tmdb-11} {edition-Special edition}":
     match:
       title: "Star Wars: Episode IV - A New Hope"
       year: 1977
@@ -40,7 +40,7 @@ metadata:
     writer.sync: George Lucas
     label: [ID__000000011B]
 
-  "Star Wars (1977) {tmdb-11} [DVD cut]":
+  "Star Wars (1977) {tmdb-11} {edition-DVD cut}":
     match:
       title: "Star Wars: Episode IV - A New Hope"
       year: 1977
@@ -59,7 +59,7 @@ metadata:
     writer.sync: George Lucas
     label: [ID__000000011C]
 
-  "Star Wars (1977) {tmdb-11} [Blu-ray cut]":
+  "Star Wars (1977) {tmdb-11} {edition-Blu-ray cut}":
     match:
       title: "Star Wars: Episode IV - A New Hope"
       year: 1977
@@ -78,7 +78,7 @@ metadata:
     writer.sync: George Lucas
     label: [ID__000000011D]
 
-  "Star Wars (1977) {tmdb-11} [Despecialized edition]":
+  "Star Wars (1977) {tmdb-11} {edition-Despecialized edition}":
     match:
       title: "Star Wars: Episode IV - A New Hope"
       year: 1977
@@ -97,7 +97,7 @@ metadata:
     writer.sync: George Lucas
     label: [ID__000000011E]
 
-  "Star Wars (1977) {tmdb-11} [Project 4K77]":
+  "Star Wars (1977) {tmdb-11} {edition-Project 4K77}":
     match:
       title: "Star Wars: Episode IV - A New Hope"
       year: 1977

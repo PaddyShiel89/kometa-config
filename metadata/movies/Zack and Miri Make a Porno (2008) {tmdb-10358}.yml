@@ -1,8 +1,9 @@
 metadata:
-  Zack and Miri Make a Porno:
-    title: Zack and Miri Make a Porno
-    year: 2008
-    edition: Theatrical cut
+  "Zack and Miri Make a Porno (2008) {tmdb-10358} {edition-Theatrical cut}":
+    match:
+      title: Zack and Miri Make a Porno
+      year: 2008
+      edition: Theatrical cut
     sort_title: Zack and Miri Make a Porno (2008)
     content_rating: gb/18
     country.sync: [United States of America]

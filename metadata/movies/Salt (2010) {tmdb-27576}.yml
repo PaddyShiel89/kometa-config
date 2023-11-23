@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Salt (2010) {tmdb-27576} [Theatrical cut]":
+  "Salt (2010) {tmdb-27576} {edition-Theatrical cut}":
     match:
       title: Salt
       year: 2010
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [Kurt Wimmer]
     label: [ID__000027576A]
 
-  "Salt (2010) {tmdb-27576} [Extended cut]":
+  "Salt (2010) {tmdb-27576} {edition-Extended cut}":
     match:
       title: Salt
       year: 2010
@@ -38,7 +38,7 @@ metadata:
     writer.sync: [Kurt Wimmer]
     label: [ID__000027576B]
 
-  "Salt (2010) {tmdb-27576} [Director's cut]":
+  "Salt (2010) {tmdb-27576} {edition-Director's cut}":
     match:
       title: Salt
       year: 2010

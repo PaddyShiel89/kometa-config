@@ -1,8 +1,9 @@
 metadata:
-  Get Out:
-    title: Get Out
-    year: 2017
-    edition: Theatrical cut
+  "Get Out (2017) {tmdb-419430} {edition-Theatrical cut}":
+    match:
+      title: Get Out
+      year: 2017
+      edition: Theatrical cut
     sort_title: Get Out (2017)
     content_rating: gb/15
     country.sync: [Japan, United States of America]

@@ -1,8 +1,9 @@
 metadata:
-  The Hunger Games:
-    title: The Hunger Games
-    year: 2012
-    edition: Theatrical cut
+  "The Hunger Games (2012) {tmdb-70160} {edition-Theatrical cut}":
+    match:
+      title: The Hunger Games
+      year: 2012
+      edition: Theatrical cut
     sort_title: Hunger Games (2012) 001
     content_rating: gb/12
     country.sync: [United States of America]

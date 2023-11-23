@@ -1,8 +1,9 @@
 metadata:
-  Thor:
-    title: Thor
-    year: 2011
-    edition: Theatrical cut
+  "Thor (2011) {tmdb-10195} {edition-Theatrical cut}":
+    match:
+      title: Thor
+      year: 2011
+      edition: Theatrical cut
     sort_title: Thor (2011) 001
     content_rating: gb/12
     country.sync: [United States of America]

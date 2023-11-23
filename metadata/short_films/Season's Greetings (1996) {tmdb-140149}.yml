@@ -1,7 +1,8 @@
 metadata:
-  "Season's Greetings":
-    title: "Season's Greetings"
-    year: 1996
+  "Season's Greetings (1996) {tmdb-140149}":
+    match:
+      title: "Season's Greetings"
+      year: 1996
     sort_title: "Season's Greetings (1996)"
     content_rating: gb/Unrated
     country.sync: [United States of America]

@@ -1,8 +1,9 @@
 metadata:
-  Emmanuelle:
-    title: Emmanuelle
-    year: 1974
-    edition: Theatrical cut
+  "Emmanuelle (1974) {tmdb-24402} {edition-Theatrical cut}":
+    match:
+      title: Emmanuelle
+      year: 1974
+      edition: Theatrical cut
     sort_title: Emmanuelle (1974) 001
     content_rating: gb/18
     country.sync: [France]

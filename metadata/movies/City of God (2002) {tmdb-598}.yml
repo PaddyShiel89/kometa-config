@@ -1,8 +1,9 @@
 metadata:
-  City of God:
-    title: City of God
-    year: 2002
-    edition: Theatrical cut
+  "City of God (2002) {tmdb-598} {edition-Theatrical cut}":
+    match:
+      title: City of God
+      year: 2002
+      edition: Theatrical cut
     sort_title: City of God (2002)
     content_rating: gb/18
     country.sync: [Brazil, France, Germany]

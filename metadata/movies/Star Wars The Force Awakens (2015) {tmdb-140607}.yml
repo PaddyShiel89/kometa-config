@@ -1,8 +1,9 @@
 metadata:
-  "Star Wars: Episode VII - The Force Awakens":
-    title: "Star Wars: Episode VII - The Force Awakens"
-    year: 2015
-    edition: Theatrical cut
+  "Star Wars The Force Awakens (2015) {tmdb-140607} {edition-Theatrical cut}":
+    match:
+      title: "Star Wars: Episode VII - The Force Awakens"
+      year: 2015
+      edition: Theatrical cut
     sort_title: Star Wars 007
     content_rating: gb/12
     country.sync: [United States of America]

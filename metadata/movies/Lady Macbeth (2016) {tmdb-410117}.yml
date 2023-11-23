@@ -1,8 +1,9 @@
 metadata:
-  Lady Macbeth:
-    title: Lady Macbeth
-    year: 2016
-    edition: Theatrical cut
+  "Lady Macbeth (2016) {tmdb-410117} {edition-Theatrical cut}":
+    match:
+      title: Lady Macbeth
+      year: 2016
+      edition: Theatrical cut
     sort_title: Lady Macbeth (2016)
     content_rating: gb/15
     country.sync: [United Kingdom]

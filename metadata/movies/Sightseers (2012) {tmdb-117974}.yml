@@ -1,8 +1,9 @@
 metadata:
-  Sightseers:
-    title: Sightseers
-    year: 2012
-    edition: Theatrical cut
+  "Sightseers (2012) {tmdb-117974} {edition-Theatrical cut}":
+    match:
+      title: Sightseers
+      year: 2012
+      edition: Theatrical cut
     sort_title: Sightseers (2012)
     content_rating: gb/15
     country.sync: [United Kingdom]

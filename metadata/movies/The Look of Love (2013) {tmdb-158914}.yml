@@ -1,8 +1,9 @@
 metadata:
-  The Look of Love:
-    title: The Look of Love
-    year: 2013
-    edition: Theatrical cut
+  "The Look of Love (2013) {tmdb-158914} {edition-Theatrical cut}":
+    match:
+      title: The Look of Love
+      year: 2013
+      edition: Theatrical cut
     sort_title: Look of Love
     content_rating: gb/18
     country.sync: [United Kingdom, United States of America]

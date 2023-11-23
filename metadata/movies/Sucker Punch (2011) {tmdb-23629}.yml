@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Sucker Punch (2011) {tmdb-23629} [Theatrical cut]":
+  "Sucker Punch (2011) {tmdb-23629} {edition-Theatrical cut}":
     match:
       title: Sucker Punch
       year: 2011
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [Zack Snyder, Steve Shibuya]
     label: [ID__000023629A]
 
-  "Sucker Punch (2011) {tmdb-23629} [Extended cut]":
+  "Sucker Punch (2011) {tmdb-23629} {edition-Extended cut}":
     match:
       title: Sucker Punch
       year: 2011

@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "Jurassic World Dominion (2022) {tmdb-507086} [Theatrical cut]":
+  "Jurassic World Dominion (2022) {tmdb-507086} {edition-Theatrical cut}":
     match:
       title: Jurassic World Dominion
       year: 2022
@@ -20,7 +20,7 @@ metadata:
     writer.sync: [Emily Carmichael, Colin Trevorrow, Derek Connolly]
     label: [ID__000507086A]
 
-  "Jurassic World Dominion (2022) {tmdb-507086} [Extended edition]":
+  "Jurassic World Dominion (2022) {tmdb-507086} {edition-Extended edition}":
     match:
       title: Jurassic World Dominion
       year: 2022

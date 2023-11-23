@@ -1,8 +1,9 @@
 metadata:
-  Split:
-    title: Split
-    year: 2016
-    edition: Theatrical cut
+  "Split (2016) {tmdb-381288} {edition-Theatrical cut}":
+    match:
+      title: Split
+      year: 2016
+      edition: Theatrical cut
     sort_title: Split (2016)
     content_rating: gb/15
     country.sync: [Japan, United States of America]

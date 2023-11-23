@@ -25,6 +25,25 @@ collections:
     content_rating: gb/15
     summary: "An American superhero thriller and psychological horror film series, featuring superhero David Dunn and his archenemy Elijah Price."
 
+  Middle-earth Collection:
+    template:
+      - name: Smart series
+        label_list:
+          - Series__The_Lord_of_the_Rings_2001
+          - "series: The Hobbit (2012)"
+    sort_title: Middle-earth Collection
+    content_rating: gb/12
+    summary: "A movie franchise based on the literary works of J.R.R. Tolkein set in the fantasy realm of Middle-earth, including 'The Hobbit' and 'The Lord of the Rings'."
+
+  Star Wars Collection:
+    template:
+      - name: Smart series
+        label_list:
+          - Series__Star_Wars_1977
+    sort_title: Star Wars Collection
+    content_rating: gb/12
+    summary: "An American epic space opera media franchise created by George Lucas, which began with the eponymous 1977 film and quickly became a worldwide pop culture phenomenon."
+
   The Marvel Cinematic Universe:
     template:
       - name: Smart series

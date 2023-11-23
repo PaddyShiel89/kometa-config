@@ -1,8 +1,9 @@
 metadata:
-  The Karate Kid:
-    title: The Karate Kid
-    year: 2010
-    edition: Theatrical cut
+  "The Karate Kid (2010) {tmdb-38575} {edition-Theatrical cut}":
+    match:
+      title: The Karate Kid
+      year: 2010
+      edition: Theatrical cut
     sort_title: Karate Kid (2010)
     content_rating: gb/PG
     country.sync: [China, United States of America]

@@ -1,8 +1,9 @@
 metadata:
-  "Minority Report":
-    title: "Minority Report"
-    year: 2002
-    edition: Theatrical cut
+  "Minority Report (2002) {tmdb-180} {edition-Theatrical cut}":
+    match:
+      title: "Minority Report"
+      year: 2002
+      edition: Theatrical cut
     sort_title: Minority Report (2002)
     content_rating: gb/12
     country.sync: [United States of America]

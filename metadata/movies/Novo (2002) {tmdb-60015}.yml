@@ -1,8 +1,9 @@
 metadata:
-  Novo:
-    title: Novo
-    year: 2002
-    edition: Theatrical cut
+  "Novo (2002) {tmdb-60015} {edition-Theatrical cut}":
+    match:
+      title: Novo
+      year: 2002
+      edition: Theatrical cut
     sort_title: Novo (2002)
     content_rating: gb/18
     country.sync: [France, Spain, Switzerland]

@@ -1,8 +1,9 @@
 metadata:
-  Christine:
-    title: Christine
-    year: 1983
-    edition: Theatrical cut
+  "Christine (1983) {tmdb-8769} {edition-Theatrical cut}":
+    match:
+      title: Christine
+      year: 1983
+      edition: Theatrical cut
     sort_title: Christine (1983)
     content_rating: gb/18
     country.sync: [United States of America]

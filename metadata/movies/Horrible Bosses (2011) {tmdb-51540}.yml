@@ -1,8 +1,9 @@
 metadata:
-  Horrible Bosses:
-    title: Horrible Bosses
-    year: 2011
-    edition: Extended cut
+  "Horrible Bosses (2011) {tmdb-51540} {edition-Extended cut}":
+    match:
+      title: Horrible Bosses
+      year: 2011
+      edition: Extended cut
     sort_title: Horrible Bosses (2011) 001
     content_rating: gb/15
     country.sync: [United States of America]

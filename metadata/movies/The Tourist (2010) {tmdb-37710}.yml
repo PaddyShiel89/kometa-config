@@ -1,8 +1,9 @@
 metadata:
-  The Tourist:
-    title: The Tourist
-    year: 2010
-    edition: Theatrical cut
+  "The Tourist (2010) {tmdb-37710} {edition-Theatrical cut}":
+    match:
+      title: The Tourist
+      year: 2010
+      edition: Theatrical cut
     sort_title: Tourist (2010)
     content_rating: gb/12
     country.sync: [France, Italy, United Kingdom, United States of America]

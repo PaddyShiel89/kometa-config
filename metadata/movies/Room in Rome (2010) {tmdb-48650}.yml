@@ -1,8 +1,9 @@
 metadata:
-  Room in Rome:
-    title: Room in Rome
-    year: 2010
-    edition: Theatrical cut
+  "Room in Rome (2010) {tmdb-48650} {edition-Theatrical cut}":
+    match:
+      title: Room in Rome
+      year: 2010
+      edition: Theatrical cut
     sort_title: Room in Rome (2010)
     content_rating: gb/18
     country.sync: [Spain]

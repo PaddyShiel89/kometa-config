@@ -1,8 +1,9 @@
 metadata:
-  "Doctor Strange in the Multiverse of Madness":
-    title: "Doctor Strange in the Multiverse of Madness"
-    year: 2022
-    edition: Theatrical cut
+  "Doctor Strange in the Multiverse of Madness (2022) {tmdb-453395} {edition-Theatrical cut}":
+    match:
+      title: "Doctor Strange in the Multiverse of Madness"
+      year: 2022
+      edition: Theatrical cut
     sort_title: Doctor Strange (2016) 002
     content_rating: gb/12
     country.sync: [United States of America]

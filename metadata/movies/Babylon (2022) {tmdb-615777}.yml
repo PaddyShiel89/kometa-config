@@ -1,8 +1,9 @@
 metadata:
-  Babylon:
-    title: Babylon
-    year: 2022
-    edition: Theatrical cut
+  "Babylon (2022) {tmdb-615777} {edition-Theatrical cut}":
+    match:
+      title: Babylon
+      year: 2022
+      edition: Theatrical cut
     sort_title: Babylon (2022)
     content_rating: gb/18
     country.sync: [United States of America]

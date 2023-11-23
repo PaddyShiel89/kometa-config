@@ -1,8 +1,9 @@
 metadata:
-  "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan":
-    title: "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan"
-    year: 2006
-    edition: Theatrical cut
+  "Borat (2006) {tmdb-496} {edition-Theatrical cut}":
+    match:
+      title: "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan"
+      year: 2006
+      edition: Theatrical cut
     sort_title: "Borat (2006) 001"
     content_rating: gb/15
     country.sync: [United Kingdom, United States of America]

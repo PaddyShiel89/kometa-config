@@ -2,7 +2,7 @@ external_templates:
   - repo: templates/metadata/Edition
 
 metadata:
-  "King Kong (2005) {tmdb-254} [Theatrical cut]":
+  "King Kong (2005) {tmdb-254} {edition-Theatrical cut}":
     match:
       title: King Kong
       year: 2005
@@ -28,7 +28,7 @@ metadata:
       ]
     label: [ID__000000254A]
 
-  "King Kong (2005) {tmdb-254} [Extended edition]":
+  "King Kong (2005) {tmdb-254} {edition-Extended edition}":
     match:
       title: King Kong
       year: 2005

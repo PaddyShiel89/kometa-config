@@ -1,8 +1,9 @@
 metadata:
-  The Voyeurs:
-    title: The Voyeurs
-    year: 2021
-    edition: Theatrical cut
+  "The Voyeurs (2021) {tmdb-645710} {edition-Theatrical cut}":
+    match:
+      title: The Voyeurs
+      year: 2021
+      edition: Theatrical cut
     sort_title: Voyeurs (2021)
     content_rating: gb/18
     country.sync: [United States of America]
