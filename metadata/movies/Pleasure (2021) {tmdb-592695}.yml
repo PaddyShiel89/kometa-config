@@ -1,0 +1,21 @@
+metadata:
+  "Pleasure (2021) {tmdb-592695} {edition-Theatrical cut}":
+    match:
+      title: Pleasure
+      year: 2021
+      edition: Theatrical cut
+    sort_title: Pleasure (2021)
+    content_rating: gb/18
+    country.sync: [France, Netherlands, Sweden]
+    director.sync: [Ninja Thyberg]
+    genre.sync: [Drama]
+    originally_available: 2021-01-30
+    producer.sync: [Erik Hemmendorff, Eliza Jones, Markus Waltå]
+    studio: Plattform Produktion
+    summary: Bella arrives in Los Angeles with dreams of becoming an adult film star, but she soon learns that fame won't come easy as she harnesses her ambition and cunning to rise to the top.
+    writer.sync: [Ninja Thyberg, Peter Modestij]
+    label: [ID__000592695A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
