@@ -1,0 +1,22 @@
+metadata:
+  "A Clockwork Orange (1971) {tmdb-185} {edition-Theatrical cut}":
+    match:
+      title: A Clockwork Orange
+      year: 1971
+      edition: Theatrical cut
+    sort_title: Clockwork Orange (1971)
+    content_rating: gb/18
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Stanley Kubrick]
+    genre.sync: [Crime, Science Fiction]
+    originally_available: 1971-12-19
+    producer.sync: [Stanley Kubrick]
+    studio: Polaris Productions
+    summary: In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.
+    tagline: Being the adventures of a young man whose principal interests are rape, ultra-violence and Beethoven.
+    writer.sync: [Stanley Kubrick, Anthony Burgess]
+    label: [ID__000000185A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
