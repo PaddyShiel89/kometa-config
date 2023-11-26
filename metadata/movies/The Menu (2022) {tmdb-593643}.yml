@@ -1,0 +1,22 @@
+metadata:
+  "The Menu (2022) {tmdb-593643} {edition-Theatrical cut}":
+    match:
+      title: The Menu
+      year: 2022
+      edition: Theatrical cut
+    sort_title: Menu (2022)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Mark Mylod]
+    genre.sync: [Coimedy, Horror, Thriller]
+    originally_available: 2022-09-10
+    producer.sync: [Will Ferrell, Betsy Koch, Adam McKay]
+    studio: 20th Century Studios
+    summary: A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.
+    tagline: Wonderful surprises await you all.
+    writer.sync: [Seth Reiss, Will Tracy]
+    label: [ID__000593643A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

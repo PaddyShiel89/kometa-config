@@ -240,6 +240,7 @@ libraries:
       - repo: metadata/movies/The Lord of the Rings The Return of the King (2003) {tmdb-122}
       - repo: metadata/movies/The Lord of the Rings The Two Towers (2002) {tmdb-121}
       - repo: metadata/movies/The Matrix Resurrections (2021) {tmdb-624860}
+      - repo: metadata/movies/The Menu (2022) {tmdb-593643}
       - repo: metadata/movies/The Mist (2007) {tmdb-5876}
       - repo: metadata/movies/The Muppets (2011) {tmdb-64328}
       - repo: metadata/movies/The Night Clerk (2020) {tmdb-526007}
