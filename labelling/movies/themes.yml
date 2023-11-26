@@ -459,6 +459,7 @@ collections:
     tmdb_movie:
       - 341013 # Atomic Blonde (2017)
       - 27576 # Salt (2010)
+      - 399055 # The Shape of Water (2017)
       - 49538 # X-Men: First Class (2011)
 
   Theme__coming_of_age:
@@ -542,6 +543,7 @@ collections:
     template: { name: TMDB theme label, theme_name: disability }
     tmdb_movie:
       - 526007 # The Night Clerk (2020)
+      - 399055 # The Shape of Water (2017)
       - 9741 # Unbreakable (2000)
       - 49538 # X-Men: First Class (2011)
 
@@ -883,6 +885,7 @@ collections:
       - 19976 # The Exterminating Angels (2006)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 205596 # The Imitation Game (2014)
+      - 399055 # The Shape of Water (2017)
       - 796185 # The Three Musketeers: D'Artagnan (2023)
       - 617 # Wild Things
 
@@ -1003,6 +1006,7 @@ collections:
       - 122 # The Lord of the Rings: The Return of the King (2003)
       - 121 # The Lord of the Rings: The Two Towers (2002)
       - 5876 # The Mist (2007)
+      - 399055 # The Shape of Water (2017)
       - 1091 # The Thing (1982)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
@@ -1106,6 +1110,7 @@ collections:
       - 101 # Léon: The Professional (1995)
       - 17917 # Oliver! (1968)
       - 348350 # Solo: A Star Wars Story (2018)
+      - 399055 # The Shape of Water (2017)
 
   Theme__parody:
     template: { name: TMDB theme label, theme_name: parody }
@@ -1230,6 +1235,7 @@ collections:
       - 424 # Schindler's List (1993)
       - 3989 # Team America: World Police (2004)
       - 76493 # The Dictator (2012)
+      - 399055 # The Shape of Water (2017)
 
   Theme__religion:
     template: { name: TMDB theme label, theme_name: religion }
@@ -1341,6 +1347,11 @@ collections:
       - 158914 # The Look of Love (2013)
       - 760104 # X (2022)
       - 10358 # Zack and Miri Make a Porno (2008)
+
+  Theme__sexism:
+    template: { name: TMDB theme label, theme_name: sexism }
+    tmdb_movie:
+      - 399055 # The Shape of Water (2017)
 
   Theme__sexual_violence:
     template: { name: TMDB theme label, theme_name: sexual_violence }
