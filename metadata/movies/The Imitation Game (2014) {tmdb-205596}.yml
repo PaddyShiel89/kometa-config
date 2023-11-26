@@ -1,0 +1,22 @@
+metadata:
+  "The Imitation Game (2014) {tmdb-205596} {edition-Theatrical cut}":
+    match:
+      title: The Imitation Game
+      year: 2014
+      edition: Theatrical cut
+    sort_title: Imitation Game (2014)
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Morten Tyldum]
+    genre.sync: [Biopic, Drama, Thriller, War]
+    originally_available: 2014-08-29
+    producer.sync: [Nora Grossman, Ido Ostrowsky, Teddy Schwarzman]
+    studio: Black Bear
+    summary: During World War II, English mathematical genius Alan Turing works to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life.
+    tagline: Behind every code is an enigma
+    writer.sync: [Graham Moore, Andrew Hodges]
+    label: [ID__000205596A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

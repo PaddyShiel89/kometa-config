@@ -232,6 +232,7 @@ libraries:
       - repo: metadata/movies/The Hunger Games Catching Fire (2013) {tmdb-101299}
       - repo: metadata/movies/The Hunger Games Mockingjay - Part 1 (2014) {tmdb-131631}
       - repo: metadata/movies/The Hunger Games Mockingjay - Part 2 (2015) {tmdb-131634}
+      - repo: metadata/movies/The Imitation Game (2014) {tmdb-205596}
       - repo: metadata/movies/The Karate Kid (2010) {tmdb-38575}
       - repo: metadata/movies/The King's Speech (2010) {tmdb-45269}
       - repo: metadata/movies/The Last Picture Show (1971) {tmdb-25188}
