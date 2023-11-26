@@ -76,6 +76,7 @@ collections:
       - 640146 # Ant-Man and the Wasp: Quantumania (2023)
       - 299534 # Avengers: Endgame (2019)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
+      - 545611 # Everything Everywhere All at Once (2022)
       - 180 # Minority Report (2002)
       - 466272 # Once Upon a Time in Hollywood (2019)
       - 588 # Silent Hill (2006)
@@ -329,6 +330,7 @@ collections:
       - 50204 # Burke & Hare (2010)
       - 13973 # Choke (2008)
       - 68718 # Django Unchained (2012)
+      - 545611 # Everything Everywhere All at Once (2022)
       - 17796 # Freaked (1993)
       - 51540 # Horrible Bosses (2011)
       - 389015 # I, Tonya (2017)
@@ -670,6 +672,7 @@ collections:
       - 86331 # Desire (2011)
       - 619730 # Don't Worry Darling (2022)
       - 524434 # Eternals (2021)
+      - 545611 # Everything Everywhere All at Once (2022)
       - 343674 # Gerald's Game (2017)
       - 315837 # Ghost in the Shell (2017)
       - 610253 # Halloween Kills (2021)
@@ -824,6 +827,7 @@ collections:
   Theme__immigration:
     template: { name: TMDB theme label, theme_name: immigration }
     tmdb_movie:
+      - 545611 # Everything Everywhere All at Once (2022)
       - 4998 # Import/Export (2007)
 
   Theme__incest:
@@ -866,6 +870,7 @@ collections:
       - 86331 # Desire (2011)
       - 419743 # Disobedience (2017)
       - 24402 # Emmanuelle (1974)
+      - 545611 # Everything Everywhere All at Once (2022)
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 1018 # Mulholland Drive (2001)
@@ -923,6 +928,7 @@ collections:
     template: { name: TMDB theme label, theme_name: martial_arts }
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
+      - 545611 # Everything Everywhere All at Once (2022)
       - 10753 # Police Story 2 (1988)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 38575 # The Karate Kid (2010)
@@ -937,6 +943,7 @@ collections:
       - 301502 # Blonde (2022)
       - 3580 # Changeling (2008)
       - 884 # Crash (1996)
+      - 545611 # Everything Everywhere All at Once (2022)
       - 450465 # Glass (2019)
       - 493922 # Hereditary (2018)
       - 68721 # Iron Man 3 (2013)
@@ -1296,6 +1303,7 @@ collections:
     template: { name: TMDB theme label, theme_name: serial_killer }
     tmdb_movie:
       - 50204 # Burke & Hare (2010)
+      - 545611 # Everything Everywhere All at Once (2022)
       - 610253 # Halloween Kills (2021)
       - 71670 # Hostel: Part III (2011)
       - 43947 # I Spit on Your Grave (2010)
@@ -1503,6 +1511,7 @@ collections:
   Theme__surreal:
     template: { name: TMDB theme label, theme_name: surreal }
     tmdb_movie:
+      - 545611 # Everything Everywhere All at Once (2022)
       - 1018 # Mulholland Drive (2001)
 
   Theme__survival:

@@ -72,6 +72,7 @@ libraries:
       - repo: metadata/movies/Dungeons & Dragons Honor Among Thieves (2023) {tmdb-493529}
       - repo: metadata/movies/Emmanuelle (1974) {tmdb-24402}
       - repo: metadata/movies/Eternals (2021) {tmdb-524434}
+      - repo: metadata/movies/Everything Everywhere All at Once (2022) {tmdb-545611}
       - repo: metadata/movies/Fantastic Beasts and Where to Find Them (2016) {tmdb-259316}
       - repo: metadata/movies/Fantastic Beasts The Crimes of Grindelwald (2018) {tmdb-338952}
       - repo: metadata/movies/Fantastic Beasts The Secrets of Dumbledore (2022) {tmdb-338953}
