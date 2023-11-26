@@ -259,6 +259,7 @@ libraries:
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
       - repo: metadata/movies/The Terminator (1984) {tmdb-218}
       - repo: metadata/movies/The Thing (1982) {tmdb-1091}
+      - repo: metadata/movies/The Three Musketeers D'Artagnan (2023) {tmdb-796185}
       - repo: metadata/movies/The Tourist (2010) {tmdb-37710}
       - repo: metadata/movies/The Unbearable Weight of Massive Talent (2022) {tmdb-648579}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}

@@ -200,6 +200,7 @@ collections:
       - 37799 # The Social Network (2010)
       - 15121 # The Sound of Music (1965)
       - 1091 # The Thing (1982)
+      - 796185 # The Three Musketeers: D'Artagnan (2023)
       - 16307 # The Wicker Man (1973)
       - 630 # The Wizard of Oz (1939)
       - 65086 # The Woman in Black (2012)
@@ -875,6 +876,7 @@ collections:
       - 19976 # The Exterminating Angels (2006)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 205596 # The Imitation Game (2014)
+      - 796185 # The Three Musketeers: D'Artagnan (2023)
       - 617 # Wild Things
 
   Theme__mafia:

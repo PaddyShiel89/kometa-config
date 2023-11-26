@@ -1,0 +1,20 @@
+metadata:
+  "The Three Musketeers D'Artagnan (2023) {tmdb-796185} {edition-Theatrical cut}":
+    match:
+      title: "The Three Musketeers: D'Artagnan"
+      year: 2023
+      edition: Theatrical cut
+    sort_title: "Three Musketeers (2023) 001A"
+    content_rating: gb/15
+    country.sync: [Belgium, France, Germany, Spain]
+    director.sync: [Martin Bourboulon]
+    genre.sync: [Action, Adventure, History]
+    original_title: "Les trois mousquetaires: D'Artagnan"
+    originally_available: 2023-03-23
+    producer.sync: [Dimitri Rassam]
+    studio: Pathé
+    summary: D'Artagnan arrives in Paris trying to find his attackers after being left for dead, which leads him to a real war where the future of France is at stake.
+    tagline:
+    writer.sync:
+      [Matthieu Delaporte, Alexandre de La Patellière, Alexandre Dumas]
+    label: [ID__000796185A]
