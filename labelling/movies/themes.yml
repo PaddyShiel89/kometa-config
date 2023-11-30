@@ -698,6 +698,7 @@ collections:
       - 1018 # Mulholland Drive (2001)
       - 949423 # Pearl (2022)
       - 592695 # Pleasure (2021)
+      - 531428 # Portrait of a Lady on Fire (2019)
       - 4348 # Pride & Prejudice (2005)
       - 1576 # Resident Evil (2002)
       - 35791 # Resident Evil: Afterlife (2010)
@@ -887,6 +888,7 @@ collections:
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 1018 # Mulholland Drive (2001)
+      - 531428 # Portrait of a Lady on Fire (2019)
       - 670428 # Psycho Goreman (2020)
       - 48650 # Room in Rome (2010)
       - 35712 # Secret Things (2002)
@@ -937,6 +939,7 @@ collections:
     tmdb_movie:
       - 619730 # Don't Worry Darling (2022)
       - 410117 # Lady Macbeth (2016)
+      - 531428 # Portrait of a Lady on Fire (2019)
       - 9522 # Wedding Crashers (2005)
 
   Theme__martial_arts:
