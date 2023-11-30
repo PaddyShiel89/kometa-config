@@ -26,6 +26,17 @@ collections:
           - ID__000000808A # Shrek (2001)
           - ID__000101299A # The Hunger Games: Catching Fire (2013)
 
+  BBFC nudity lvl 2:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: nudity
+        level: 2
+    plex_search:
+      any:
+        label:
+          - ID__000796185A # The Three Musketeers: D'Artagnan (2023)
+
   BBFC nudity lvl 3:
     template:
       - name: Content rating numeric label

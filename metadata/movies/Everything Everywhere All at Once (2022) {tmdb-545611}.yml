@@ -1,0 +1,25 @@
+metadata:
+  "Everything Everywhere All at Once (2022) {tmdb-545611} {edition-Theatrical cut}":
+    match:
+      title: Everything Everywhere All at Once
+      year: 2022
+      edition: Theatrical cut
+    sort_title: Everything Everywhere All at Once (2022)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Daniel Kwan, Daniel Scheinert]
+    genre.sync: [Action, Adventure, Comedy, Fantasy, Science Fiction]
+    originally_available: 2022-03-11
+    producer.sync:
+      [
+        Daniel Kwan,
+        Mike Larocca,
+        Anthony Russo,
+        Joe Russo,
+        Daniel Scheinert,
+        Jonathan Wang,
+      ]
+    studio: A24
+    summary: A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.
+    writer.sync: [Daniel Kwan, Daniel Scheinert]
+    label: [ID__000545611A]

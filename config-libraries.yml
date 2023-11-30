@@ -9,6 +9,7 @@ libraries:
       - repo: metadata/movies/300 Rise of an Empire (2014) {tmdb-53182}
       - repo: metadata/movies/2012 (2009) {tmdb-14161}
       - repo: metadata/movies/A Beautiful Mind (2001) {tmdb-453}
+      - repo: metadata/movies/A Clockwork Orange (1971) {tmdb-185}
       - repo: metadata/movies/A l'aventure (2009) {tmdb-64124}
       - repo: metadata/movies/After Sex (2007) {tmdb-17097}
       - repo: metadata/movies/Alien (1979) {tmdb-348}
@@ -71,6 +72,7 @@ libraries:
       - repo: metadata/movies/Dungeons & Dragons Honor Among Thieves (2023) {tmdb-493529}
       - repo: metadata/movies/Emmanuelle (1974) {tmdb-24402}
       - repo: metadata/movies/Eternals (2021) {tmdb-524434}
+      - repo: metadata/movies/Everything Everywhere All at Once (2022) {tmdb-545611}
       - repo: metadata/movies/Fantastic Beasts and Where to Find Them (2016) {tmdb-259316}
       - repo: metadata/movies/Fantastic Beasts The Crimes of Grindelwald (2018) {tmdb-338952}
       - repo: metadata/movies/Fantastic Beasts The Secrets of Dumbledore (2022) {tmdb-338953}
@@ -146,6 +148,7 @@ libraries:
       - repo: metadata/movies/Pirates of the Caribbean On Stranger Tides (2011) {tmdb-1865}
       - repo: metadata/movies/Pirates of the Caribbean The Curse of the Black Pearl (2003) {tmdb-22}
       - repo: metadata/movies/Planet of the Apes (2001) {tmdb-869}
+      - repo: metadata/movies/Pleasure (2021) {tmdb-592695}
       - repo: metadata/movies/Police Story 2 (1988) {tmdb-10753}
       - repo: metadata/movies/Pride & Prejudice (2005) {tmdb-4348}
       - repo: metadata/movies/Psycho Goreman (2020) {tmdb-670428}
@@ -232,6 +235,7 @@ libraries:
       - repo: metadata/movies/The Hunger Games Catching Fire (2013) {tmdb-101299}
       - repo: metadata/movies/The Hunger Games Mockingjay - Part 1 (2014) {tmdb-131631}
       - repo: metadata/movies/The Hunger Games Mockingjay - Part 2 (2015) {tmdb-131634}
+      - repo: metadata/movies/The Imitation Game (2014) {tmdb-205596}
       - repo: metadata/movies/The Karate Kid (2010) {tmdb-38575}
       - repo: metadata/movies/The King's Speech (2010) {tmdb-45269}
       - repo: metadata/movies/The Last Picture Show (1971) {tmdb-25188}
@@ -240,6 +244,7 @@ libraries:
       - repo: metadata/movies/The Lord of the Rings The Return of the King (2003) {tmdb-122}
       - repo: metadata/movies/The Lord of the Rings The Two Towers (2002) {tmdb-121}
       - repo: metadata/movies/The Matrix Resurrections (2021) {tmdb-624860}
+      - repo: metadata/movies/The Menu (2022) {tmdb-593643}
       - repo: metadata/movies/The Mist (2007) {tmdb-5876}
       - repo: metadata/movies/The Muppets (2011) {tmdb-64328}
       - repo: metadata/movies/The Night Clerk (2020) {tmdb-526007}
@@ -248,6 +253,7 @@ libraries:
       - repo: metadata/movies/The Raid 2 (2014) {tmdb-180299}
       - repo: metadata/movies/The Road (2009) {tmdb-20766}
       - repo: metadata/movies/The Seven Year Itch (1955) {tmdb-10653}
+      - repo: metadata/movies/The Shape of Water (2017) {tmdb-399055}
       - repo: metadata/movies/The Shawshank Redemption (1994) {tmdb-278}
       - repo: metadata/movies/The Shining (1980) {tmdb-694}
       - repo: metadata/movies/The Social Network (2010) {tmdb-37799}
@@ -256,6 +262,7 @@ libraries:
       - repo: metadata/movies/The Star Wars Holiday Special (1978) {tmdb-74849}
       - repo: metadata/movies/The Terminator (1984) {tmdb-218}
       - repo: metadata/movies/The Thing (1982) {tmdb-1091}
+      - repo: metadata/movies/The Three Musketeers D'Artagnan (2023) {tmdb-796185}
       - repo: metadata/movies/The Tourist (2010) {tmdb-37710}
       - repo: metadata/movies/The Unbearable Weight of Massive Talent (2022) {tmdb-648579}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}

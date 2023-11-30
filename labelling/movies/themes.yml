@@ -76,6 +76,7 @@ collections:
       - 640146 # Ant-Man and the Wasp: Quantumania (2023)
       - 299534 # Avengers: Endgame (2019)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
+      - 545611 # Everything Everywhere All at Once (2022)
       - 180 # Minority Report (2002)
       - 466272 # Once Upon a Time in Hollywood (2019)
       - 588 # Silent Hill (2006)
@@ -134,6 +135,7 @@ collections:
     tmdb_movie:
       - 44115 # 127 Hours (2010)
       - 453 # A Beautiful Mind (2001)
+      - 185 # A Clockwork Orange (1971)
       - 4347 # Atonement (2007)
       - 487558 # BlacKkKlansman (2018)
       - 301502 # Blonde (2022)
@@ -185,6 +187,7 @@ collections:
       - 101299 # The Hunger Games: Catching Fire (2013)
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
+      - 205596 # The Imitation Game (2014)
       - 45269 # The King's Speech (2010)
       - 25188 # The Last Picture Show (1971)
       - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
@@ -198,6 +201,7 @@ collections:
       - 37799 # The Social Network (2010)
       - 15121 # The Sound of Music (1965)
       - 1091 # The Thing (1982)
+      - 796185 # The Three Musketeers: D'Artagnan (2023)
       - 16307 # The Wicker Man (1973)
       - 630 # The Wizard of Oz (1939)
       - 65086 # The Woman in Black (2012)
@@ -292,6 +296,7 @@ collections:
       - 424 # Schindler's List (1993)
       - 8848 # The Bank Job (2008)
       - 9676 # The Black Dahlia (2006)
+      - 205596 # The Imitation Game (2014)
       - 45269 # The King's Speech (2010)
       - 158914 # The Look of Love (2013)
       - 37799 # The Social Network (2010)
@@ -325,6 +330,7 @@ collections:
       - 50204 # Burke & Hare (2010)
       - 13973 # Choke (2008)
       - 68718 # Django Unchained (2012)
+      - 545611 # Everything Everywhere All at Once (2022)
       - 17796 # Freaked (1993)
       - 51540 # Horrible Bosses (2011)
       - 389015 # I, Tonya (2017)
@@ -335,6 +341,7 @@ collections:
       - 674324 # The Banshees of Inisherin (2022)
       - 76493 # The Dictator (2012)
       - 67913 # The Guard (2011)
+      - 593643 # The Menu (2022)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
       - 1541 # Thelma & Louise (1991)
       - 359940 # Three Billboards Outside Ebbing, Missouri (2017)
@@ -452,6 +459,7 @@ collections:
     tmdb_movie:
       - 341013 # Atomic Blonde (2017)
       - 27576 # Salt (2010)
+      - 399055 # The Shape of Water (2017)
       - 49538 # X-Men: First Class (2011)
 
   Theme__coming_of_age:
@@ -535,6 +543,7 @@ collections:
     template: { name: TMDB theme label, theme_name: disability }
     tmdb_movie:
       - 526007 # The Night Clerk (2020)
+      - 399055 # The Shape of Water (2017)
       - 9741 # Unbreakable (2000)
       - 49538 # X-Men: First Class (2011)
 
@@ -591,6 +600,7 @@ collections:
   Theme__dystopian:
     template: { name: TMDB theme label, theme_name: dystopian }
     tmdb_movie:
+      - 185 # A Clockwork Orange (1971)
       - 9739 # Demolition Man (1993)
       - 315837 # Ghost in the Shell (2017)
       - 76341 # Mad Max: Fury Road (2015)
@@ -619,6 +629,7 @@ collections:
       - 48266 # Ma mère (2004)
       - 10867 # Malèna (2000)
       - 60015 # Novo (2002)
+      - 592695 # Pleasure (2021)
       - 48650 # Room in Rome (2010)
       - 35712 # Secret Things (2002)
       - 11013 # Secretary (2002)
@@ -664,6 +675,7 @@ collections:
       - 86331 # Desire (2011)
       - 619730 # Don't Worry Darling (2022)
       - 524434 # Eternals (2021)
+      - 545611 # Everything Everywhere All at Once (2022)
       - 343674 # Gerald's Game (2017)
       - 315837 # Ghost in the Shell (2017)
       - 610253 # Halloween Kills (2021)
@@ -679,6 +691,7 @@ collections:
       - 754609 # Mrs. Harris Goes to Paris (2022)
       - 1018 # Mulholland Drive (2001)
       - 949423 # Pearl (2022)
+      - 592695 # Pleasure (2021)
       - 4348 # Pride & Prejudice (2005)
       - 1576 # Resident Evil (2002)
       - 35791 # Resident Evil: Afterlife (2010)
@@ -708,6 +721,7 @@ collections:
       - 101299 # The Hunger Games: Catching Fire (2013)
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
+      - 593643 # The Menu (2022)
       - 15121 # The Sound of Music (1965)
       - 1541 # Thelma & Louise (1991)
       - 359940 # Three Billboards Outside Ebbing, Missouri (2017)
@@ -817,6 +831,7 @@ collections:
   Theme__immigration:
     template: { name: TMDB theme label, theme_name: immigration }
     tmdb_movie:
+      - 545611 # Everything Everywhere All at Once (2022)
       - 4998 # Import/Export (2007)
 
   Theme__incest:
@@ -859,6 +874,7 @@ collections:
       - 86331 # Desire (2011)
       - 419743 # Disobedience (2017)
       - 24402 # Emmanuelle (1974)
+      - 545611 # Everything Everywhere All at Once (2022)
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 1018 # Mulholland Drive (2001)
@@ -868,6 +884,9 @@ collections:
       - 9676 # The Black Dahlia (2006)
       - 19976 # The Exterminating Angels (2006)
       - 65754 # The Girl with the Dragon Tattoo (2011)
+      - 205596 # The Imitation Game (2014)
+      - 399055 # The Shape of Water (2017)
+      - 796185 # The Three Musketeers: D'Artagnan (2023)
       - 617 # Wild Things
 
   Theme__mafia:
@@ -914,6 +933,7 @@ collections:
     template: { name: TMDB theme label, theme_name: martial_arts }
     tmdb_movie:
       - 284052 # Doctor Strange (2016)
+      - 545611 # Everything Everywhere All at Once (2022)
       - 10753 # Police Story 2 (1988)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 38575 # The Karate Kid (2010)
@@ -928,6 +948,7 @@ collections:
       - 301502 # Blonde (2022)
       - 3580 # Changeling (2008)
       - 884 # Crash (1996)
+      - 545611 # Everything Everywhere All at Once (2022)
       - 450465 # Glass (2019)
       - 493922 # Hereditary (2018)
       - 68721 # Iron Man 3 (2013)
@@ -941,6 +962,7 @@ collections:
   Theme__mind_control:
     template: { name: TMDB theme label, theme_name: mind_control }
     tmdb_movie:
+      - 185 # A Clockwork Orange (1971)
       - 315837 # Ghost in the Shell (2017)
       - 71679 # Resident Evil: Retribution (2012)
       - 65086 # The Woman in Black (2012)
@@ -984,6 +1006,7 @@ collections:
       - 122 # The Lord of the Rings: The Return of the King (2003)
       - 121 # The Lord of the Rings: The Two Towers (2002)
       - 5876 # The Mist (2007)
+      - 399055 # The Shape of Water (2017)
       - 1091 # The Thing (1982)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
@@ -1003,6 +1026,7 @@ collections:
       - 9676 # The Black Dahlia (2006)
       - 1985 # The Constant Gardener (2005)
       - 67913 # The Guard (2011)
+      - 593643 # The Menu (2022)
       - 526007 # The Night Clerk (2020)
       - 629 # The Usual Suspects (1995)
       - 16307 # The Wicker Man (1973)
@@ -1072,6 +1096,7 @@ collections:
       - 210577 # Gone Girl (2014)
       - 1018 # Mulholland Drive (2001)
       - 1985 # The Constant Gardener (2005)
+      - 205596 # The Imitation Game (2014)
       - 20766 # The Road (2009)
       - 37799 # The Social Network (2010)
       - 597 # Titanic (1997)
@@ -1085,6 +1110,7 @@ collections:
       - 101 # Léon: The Professional (1995)
       - 17917 # Oliver! (1968)
       - 348350 # Solo: A Star Wars Story (2018)
+      - 399055 # The Shape of Water (2017)
 
   Theme__parody:
     template: { name: TMDB theme label, theme_name: parody }
@@ -1153,6 +1179,7 @@ collections:
   Theme__prison:
     template: { name: TMDB theme label, theme_name: prison }
     tmdb_movie:
+      - 185 # A Clockwork Orange (1971)
       - 8077 # Alien³ (1992)
       - 497 # The Green Mile (1999)
       - 180299 # The Raid 2 (2014)
@@ -1208,6 +1235,7 @@ collections:
       - 424 # Schindler's List (1993)
       - 3989 # Team America: World Police (2004)
       - 76493 # The Dictator (2012)
+      - 399055 # The Shape of Water (2017)
 
   Theme__religion:
     template: { name: TMDB theme label, theme_name: religion }
@@ -1229,6 +1257,7 @@ collections:
   Theme__revenge:
     template: { name: TMDB theme label, theme_name: revenge }
     tmdb_movie:
+      - 185 # A Clockwork Orange (1971)
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 25239 # Day of the Woman (1978)
       - 20352 # Despicable Me (2010)
@@ -1282,6 +1311,7 @@ collections:
     template: { name: TMDB theme label, theme_name: serial_killer }
     tmdb_movie:
       - 50204 # Burke & Hare (2010)
+      - 545611 # Everything Everywhere All at Once (2022)
       - 610253 # Halloween Kills (2021)
       - 71670 # Hostel: Part III (2011)
       - 43947 # I Spit on Your Grave (2010)
@@ -1308,6 +1338,7 @@ collections:
     tmdb_movie:
       - 4995 # Boogie Nights (1997)
       - 48266 # Ma mère (2004)
+      - 592695 # Pleasure (2021)
       - 641 # Requiem for a Dream (2000)
       - 35712 # Secret Things (2002)
       - 10591 # The Girl Next Door (2004)
@@ -1317,13 +1348,20 @@ collections:
       - 760104 # X (2022)
       - 10358 # Zack and Miri Make a Porno (2008)
 
+  Theme__sexism:
+    template: { name: TMDB theme label, theme_name: sexism }
+    tmdb_movie:
+      - 399055 # The Shape of Water (2017)
+
   Theme__sexual_violence:
     template: { name: TMDB theme label, theme_name: sexual_violence }
     tmdb_movie:
+      - 185 # A Clockwork Orange (1971)
       - 3580 # Changeling (2008)
       - 25239 # Day of the Woman (1978)
       - 43947 # I Spit on Your Grave (2010)
       - 947 # Lawrence of Arabia (1962)
+      - 592695 # Pleasure (2021)
       - 50837 # Martha Marcy May Marlene (2011)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 65754 # The Girl with the Dragon Tattoo (2011)
@@ -1488,6 +1526,7 @@ collections:
   Theme__surreal:
     template: { name: TMDB theme label, theme_name: surreal }
     tmdb_movie:
+      - 545611 # Everything Everywhere All at Once (2022)
       - 1018 # Mulholland Drive (2001)
 
   Theme__survival:
@@ -1571,6 +1610,7 @@ collections:
       - 20546 # Goodnight, Mister Tom (1998)
       - 10867 # Malèna (2000)
       - 424 # Schindler's List (1993)
+      - 205596 # The Imitation Game (2014)
       - 45269 # The King's Speech (2010)
       - 49538 # X-Men: First Class (2011)
 
