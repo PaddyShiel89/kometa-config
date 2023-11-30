@@ -182,6 +182,7 @@ libraries:
       - repo: metadata/movies/Sicario (2015) {tmdb-273481}
       - repo: metadata/movies/Sightseers (2012) {tmdb-117974}
       - repo: metadata/movies/Silent Hill (2006) {tmdb-588}
+      - repo: metadata/movies/Silent House (2011) {tmdb-92182}
       - repo: metadata/movies/Smile (2022) {tmdb-882598}
       - repo: metadata/movies/Solo A Star Wars Story {tmdb-348350}
       - repo: metadata/movies/Species II (1998) {tmdb-10216}

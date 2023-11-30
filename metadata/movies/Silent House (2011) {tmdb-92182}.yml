@@ -1,0 +1,21 @@
+metadata:
+  "Silent House (2011) {tmdb-92182} {edition-Theatrical cut}":
+    match:
+      title: Silent House
+      year: 2011
+      edition: Theatrical cut
+    sort_title: Silent House (2011)
+    content_rating: gb/15
+    country.sync: [France, united States of America]
+    director.sync: [Chris Kentis, Laura Lau]
+    genre.sync: [Horror, Thriller]
+    originally_available: 2011-01-21
+    producer.sync: [Laura Lau, Agnès Mentre]
+    studio: Elle Driver
+    summary: A girl becomes trapped inside her family's lakeside retreat and unable to contact the outside world as supernatural forces haunt the house with mysterious energy and consequences.
+    writer.sync: [Gustavo Hernández, Laura Lau, Oscar Estévez]
+    label: [ID__000092182A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
