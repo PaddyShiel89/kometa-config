@@ -1,0 +1,30 @@
+metadata:
+  "The Lobster (2015) {tmdb-254320} {edition-Theatrical cut}":
+    match:
+      title: The Lobster
+      year: 2015
+      edition: Theatrical cut
+    sort_title: Lobster (2015)
+    content_rating: gb/15
+    country.sync:
+      [
+        France,
+        Greece,
+        Ireland,
+        Netherlands,
+        United Kingdom,
+        United States of America,
+      ]
+    director.sync: [Yorgos Lanthimos]
+    genre.sync: [Drama, Romance, Science Fiction, Thriller]
+    originally_available: 2015-05-15
+    producer.sync: [Ceci Dempsey, Ed Guiney, Yorgos Lanthimos, Lee Magiday]
+    studio: Film4
+    summary: In a dystopian near future, single people are taken to The Hotel, where they must find a romantic partner in 45 days or be transformed into beasts and sent into The Woods.
+    tagline: An unconventional love story by Yorgos Lanthimos.
+    writer.sync: [Yorgos Lanthimos, Efthimis Filippou]
+    label: [ID__000254320A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
