@@ -162,6 +162,7 @@ collections:
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 180 # Minority Report (2002)
+      - 396371 # Molly's Game (2017)
       - 597208 # Nightmare Alley (2021)
       - 17917 # Oliver! (1968)
       - 157433 # Pet Sematary (2019)
@@ -293,6 +294,7 @@ collections:
       - 13092 # How to Lose Friends & Alienate People (2008)
       - 389015 # I, Tonya (2017)
       - 947 # Lawrence of Arabia (1962)
+      - 396371 # Molly's Game (2017)
       - 424 # Schindler's List (1993)
       - 8848 # The Bank Job (2008)
       - 9676 # The Black Dahlia (2006)
@@ -688,6 +690,7 @@ collections:
       - 410117 # Lady Macbeth (2016)
       - 1995 # Lara Croft: Tomb Raider (2001)
       - 11631 # Mamma Mia! (2008)
+      - 396371 # Molly's Game (2017)
       - 754609 # Mrs. Harris Goes to Paris (2022)
       - 1018 # Mulholland Drive (2001)
       - 949423 # Pearl (2022)
@@ -755,6 +758,7 @@ collections:
     template: { name: TMDB theme label, theme_name: gambling }
     tmdb_movie:
       - 524 # Casino (1995)
+      - 396371 # Molly's Game (2017)
 
   Theme__gangs:
     template: { name: TMDB theme label, theme_name: gangs }
@@ -897,6 +901,7 @@ collections:
       - 524 # Casino (1995)
       - 245891 # John Wick (2015)
       - 2118 # L.A. Confidential (1997)
+      - 396371 # Molly's Game (2017)
       - 46534 # Sweet Karma (2009)
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1975)
@@ -1094,6 +1099,7 @@ collections:
       - 8881 # Che: Part One (2008)
       - 598 # City of God (2002)
       - 210577 # Gone Girl (2014)
+      - 396371 # Molly's Game (2017)
       - 1018 # Mulholland Drive (2001)
       - 1985 # The Constant Gardener (2005)
       - 205596 # The Imitation Game (2014)
