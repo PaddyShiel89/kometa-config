@@ -516,6 +516,7 @@ collections:
       - 8769 # Christine (1983)
       - 808 # Shrek (2001)
       - 882598 # Smile (2022)
+      - 503919 # The Lighthouse (2019)
 
   Theme__cyberpunk:
     template: { name: TMDB theme label, theme_name: cyberpunk }
@@ -898,6 +899,7 @@ collections:
       - 19976 # The Exterminating Angels (2006)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 205596 # The Imitation Game (2014)
+      - 503919 # The Lighthouse (2019)
       - 399055 # The Shape of Water (2017)
       - 796185 # The Three Musketeers: D'Artagnan (2023)
       - 617 # Wild Things
@@ -974,6 +976,7 @@ collections:
       - 649609 # Renfield (2023)
       - 381288 # Split (2016)
       - 23629 # Sucker Punch (2011)
+      - 503919 # The Lighthouse (2019)
 
   Theme__mind_control:
     template: { name: TMDB theme label, theme_name: mind_control }
@@ -1074,6 +1077,7 @@ collections:
       - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
+      - 503919 # The Lighthouse (2019)
       - 556694 # Three Thousand Years of Longing (2022)
 
   Theme__natural_horror:
@@ -1234,6 +1238,7 @@ collections:
       - 92182 # Silent House (2011)
       - 882598 # Smile (2022)
       - 381288 # Split (2016)
+      - 503919 # The Lighthouse (2019)
       - 694 # The Shining (1980)
       - 65086 # The Woman in Black (2012)
       - 9741 # Unbreakable (2000)
@@ -1564,6 +1569,7 @@ collections:
       - 75174 # The Grey (2011)
       - 70160 # The Hunger Games (2012)
       - 101299 # The Hunger Games: Catching Fire (2013)
+      - 503919 # The Lighthouse (2019)
       - 20766 # The Road (2009)
       - 1091 # The Thing (1982)
       - 597 # Titanic (1997)
