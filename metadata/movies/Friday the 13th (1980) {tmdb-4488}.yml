@@ -1,0 +1,18 @@
+metadata:
+  "Friday the 13th (1980) {tmdb-4488} {edition-Theatrical cut}":
+    match:
+      title: Friday the 13th
+      year: 1980
+      edition: Theatrical cut
+    sort_title: Friday the 13th (1980) 001A
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Sean S. Cunningham]
+    genre.sync: [Horror, Mystery, Thriller]
+    originally_available: 1980-05-09
+    producer.sync: [Sean S. Cunningham]
+    studio: Sean S. Cunningham Films
+    summary: A group of camp counsellors trying to reopen Camp Crystal Lake - a summer camp with a grim past - are stalked by a mysterious killer.
+    tagline: On Friday the 13th, they began to die horribly...one...by one
+    writer.sync: [Victor Miller, Ron Kurz]
+    label: [ID__000004488A]
