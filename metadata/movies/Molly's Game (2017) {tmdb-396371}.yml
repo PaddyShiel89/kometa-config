@@ -1,0 +1,22 @@
+metadata:
+  "Molly's Game (2017) {tmdb-396371} {edition-Theatrical cut}":
+    match:
+      title: Molly's Game
+      year: 2017
+      edition: Theatrical cut
+    sort_title: Molly's Game (2017)
+    content_rating: gb/15
+    country.sync: [Canada, China, United States of America]
+    director.sync: [Aaron Sorkin]
+    genre.sync: [Biopic, Crime, Drama, Sport]
+    originally_available: 2017-09-08
+    producer.sync: [Mark Gordon, Matt Jackson, Amy Pascal]
+    studio: STX Entertainment
+    summary: The true story of Molly Bloom, an Olympic-class skier who ran the world's most exclusive high-stakes poker game and became an FBI target.
+    tagline: Deal with her.
+    writer.sync: [Aaron Sorkin, Molly Bloom]
+    label: [ID__000396371A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

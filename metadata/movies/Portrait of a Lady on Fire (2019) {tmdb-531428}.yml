@@ -1,0 +1,22 @@
+metadata:
+  "Portrait of a Lady on Fire (2019) {tmdb-531428} {edition-Theatrical cut}":
+    match:
+      title: Portrait of a Lady on Fire
+      year: 2019
+      edition: Theatrical cut
+    sort_title: Portrait of a Lady on Fire (2019)
+    content_rating: gb/15
+    country.sync: [France]
+    director.sync: [Céline Sciamma]
+    genre.sync: [Drama, Romance]
+    original_title: Portrait de la jeune fille en feu
+    originally_available: 2019-05-19
+    producer.sync: [Bénédicte Couvreur]
+    studio: Lilies Films
+    summary: On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.
+    writer.sync: [Céline Sciamma]
+    label: [ID__000531428A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -162,6 +162,7 @@ collections:
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 180 # Minority Report (2002)
+      - 396371 # Molly's Game (2017)
       - 597208 # Nightmare Alley (2021)
       - 17917 # Oliver! (1968)
       - 157433 # Pet Sematary (2019)
@@ -293,6 +294,7 @@ collections:
       - 13092 # How to Lose Friends & Alienate People (2008)
       - 389015 # I, Tonya (2017)
       - 947 # Lawrence of Arabia (1962)
+      - 396371 # Molly's Game (2017)
       - 424 # Schindler's List (1993)
       - 8848 # The Bank Job (2008)
       - 9676 # The Black Dahlia (2006)
@@ -341,6 +343,7 @@ collections:
       - 674324 # The Banshees of Inisherin (2022)
       - 76493 # The Dictator (2012)
       - 67913 # The Guard (2011)
+      - 254320 # The Lobster (2015)
       - 593643 # The Menu (2022)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
       - 1541 # Thelma & Louise (1991)
@@ -566,6 +569,7 @@ collections:
       - 20546 # Goodnight, Mister Tom (1998)
       - 389015 # I, Tonya (2017)
       - 50837 # Martha Marcy May Marlene (2011)
+      - 92182 # Silent House (2011)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 38575 # The Karate Kid (2010)
       - 526007 # The Night Clerk (2020)
@@ -610,6 +614,7 @@ collections:
       - 101299 # The Hunger Games: Catching Fire (2013)
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
+      - 254320 # The Lobster (2015)
       - 218 # The Terminator (1984)
 
   Theme__erotic:
@@ -688,10 +693,12 @@ collections:
       - 410117 # Lady Macbeth (2016)
       - 1995 # Lara Croft: Tomb Raider (2001)
       - 11631 # Mamma Mia! (2008)
+      - 396371 # Molly's Game (2017)
       - 754609 # Mrs. Harris Goes to Paris (2022)
       - 1018 # Mulholland Drive (2001)
       - 949423 # Pearl (2022)
       - 592695 # Pleasure (2021)
+      - 531428 # Portrait of a Lady on Fire (2019)
       - 4348 # Pride & Prejudice (2005)
       - 1576 # Resident Evil (2002)
       - 35791 # Resident Evil: Afterlife (2010)
@@ -755,6 +762,7 @@ collections:
     template: { name: TMDB theme label, theme_name: gambling }
     tmdb_movie:
       - 524 # Casino (1995)
+      - 396371 # Molly's Game (2017)
 
   Theme__gangs:
     template: { name: TMDB theme label, theme_name: gangs }
@@ -777,6 +785,7 @@ collections:
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 4248 # Scary Movie 2 (2001)
       - 9637 # Scooby-Doo (2002)
+      - 92182 # Silent House (2011)
       - 756999 # The Black Phone (2021)
       - 694 # The Shining (1980)
       - 65086 # The Woman in Black (2012)
@@ -839,6 +848,7 @@ collections:
     tmdb_movie:
       - 61891 # Anonymous (2011)
       - 48266 # Ma mère (2004)
+      - 92182 # Silent House (2011)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 112355 # What the Peeper Saw (1972)
@@ -878,6 +888,7 @@ collections:
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 1018 # Mulholland Drive (2001)
+      - 531428 # Portrait of a Lady on Fire (2019)
       - 670428 # Psycho Goreman (2020)
       - 48650 # Room in Rome (2010)
       - 35712 # Secret Things (2002)
@@ -897,6 +908,7 @@ collections:
       - 524 # Casino (1995)
       - 245891 # John Wick (2015)
       - 2118 # L.A. Confidential (1997)
+      - 396371 # Molly's Game (2017)
       - 46534 # Sweet Karma (2009)
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1975)
@@ -927,6 +939,7 @@ collections:
     tmdb_movie:
       - 619730 # Don't Worry Darling (2022)
       - 410117 # Lady Macbeth (2016)
+      - 531428 # Portrait of a Lady on Fire (2019)
       - 9522 # Wedding Crashers (2005)
 
   Theme__martial_arts:
@@ -955,6 +968,7 @@ collections:
       - 475557 # Joker (2019)
       - 947 # Lawrence of Arabia (1962)
       - 50837 # Martha Marcy May Marlene (2011)
+      - 92182 # Silent House (2011)
       - 649609 # Renfield (2023)
       - 381288 # Split (2016)
       - 23629 # Sucker Punch (2011)
@@ -1094,6 +1108,7 @@ collections:
       - 8881 # Che: Part One (2008)
       - 598 # City of God (2002)
       - 210577 # Gone Girl (2014)
+      - 396371 # Molly's Game (2017)
       - 1018 # Mulholland Drive (2001)
       - 1985 # The Constant Gardener (2005)
       - 205596 # The Imitation Game (2014)
@@ -1214,6 +1229,7 @@ collections:
       - 597208 # Nightmare Alley (2021)
       - 949423 # Pearl (2022)
       - 641 # Requiem for a Dream (2000)
+      - 92182 # Silent House (2011)
       - 882598 # Smile (2022)
       - 381288 # Split (2016)
       - 694 # The Shining (1980)
@@ -1363,6 +1379,7 @@ collections:
       - 947 # Lawrence of Arabia (1962)
       - 592695 # Pleasure (2021)
       - 50837 # Martha Marcy May Marlene (2011)
+      - 92182 # Silent House (2011)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 497 # The Green Mile (1999)
@@ -1375,6 +1392,7 @@ collections:
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 882598 # Smile (2022)
+      - 254320 # The Lobster (2015)
       - 1091 # The Thing (1982)
       - 36657 # X-Men (2000)
       - 36668 # X-Men: The Last Stand (2006)
