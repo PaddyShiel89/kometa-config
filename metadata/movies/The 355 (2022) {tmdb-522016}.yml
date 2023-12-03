@@ -1,0 +1,29 @@
+metadata:
+  "The 355 (2022) {tmdb-522016} {edition-Theatrical cut}":
+    match:
+      title: The 355
+      year: 2022
+      edition: Theatrical cut
+    sort_title: 355 (2022)
+    content_rating: gb/12
+    country.sync: [China, France, Hong Kong, Taiwan, United States of America]
+    director.sync: [Simon Kinberg]
+    genre.sync: [Action, Thriller]
+    originally_available: 2022-01-05
+    producer.sync:
+      [
+        Kelly Carmichael,
+        Jessica Chastain,
+        Eugenia Cheng,
+        Simon Kinberg,
+        Patty Tsai,
+      ]
+    studio: FilmNation Entertainment
+    summary: When a top-secret weapon falls into mercenary hands, a wild-card C.I.A. agent joins forces with three international agents to retrieve it.
+    tagline: Work together or die alone.
+    writer.sync: [Theresa Rebeck, Simon Kinberg]
+    label: [ID__000522016A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

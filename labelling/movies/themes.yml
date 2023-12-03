@@ -380,6 +380,7 @@ collections:
       - 11631 # Mamma Mia! (2008)
       - 9637 # Scooby-Doo (2002)
       - 808 # Shrek (2001)
+      - 522016 # The 355 (2022)
       - 7350 # The Bucket List (2007)
       - 9340 # The Goonies (1985)
       - 67913 # The Guard (2011)
@@ -721,6 +722,7 @@ collections:
       - 181812 # Star Wars: The Rise of Skywalker (2019)
       - 23629 # Sucker Punch (2011)
       - 46534 # Sweet Karma (2009)
+      - 522016 # The 355 (2022)
       - 571 # The Birds (1963)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 65754 # The Girl with the Dragon Tattoo (2011)
@@ -1428,6 +1430,7 @@ collections:
       - 27576 # Salt (2010)
       - 9488 # Spy Kids 2: Island of Lost Dreams (2002)
       - 577922 # Tenet (2020)
+      - 522016 # The 355 (2022)
 
   Theme__splatter:
     template: { name: TMDB theme label, theme_name: splatter }
@@ -1639,6 +1642,7 @@ collections:
     tmdb_movie:
       - 577922 # Tenet (2020)
       - 280 # Terminator 2: Judgment Day (1991)
+      - 522016 # The 355 (2022)
 
   Theme__zombies:
     template: { name: TMDB theme label, theme_name: zombies }
