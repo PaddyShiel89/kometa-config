@@ -121,6 +121,7 @@ libraries:
       - repo: metadata/movies/Ladder 49 (2004) {tmdb-11128}
       - repo: metadata/movies/Lady Macbeth (2016) {tmdb-410117}
       - repo: metadata/movies/Lara Croft Tomb Raider (2001) {tmdb-1995}
+      - repo: metadata/movies/Lawless (2012) {tmdb-82633}
       - repo: metadata/movies/Lawrence of Arabia (1962) {tmdb-947}
       - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
       - repo: metadata/movies/Ma mere (2004) {tmdb-48266}

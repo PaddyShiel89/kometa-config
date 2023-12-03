@@ -1,0 +1,22 @@
+metadata:
+  "Lawless (2012) {tmdb-82633} {edition-Theatrical cut}":
+    match:
+      title: Lawless
+      year: 2012
+      edition: Theatrical cut
+    sort_title: Lawless (2012)
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [John Hillcoat]
+    genre.sync: [Biopic, Crime, Drama]
+    originally_available: 2012-05-19
+    producer.sync: [Michael Benaroya, Megan Ellison, Lucy Fisher, Douglas Wick]
+    studio: The Weinstein Company
+    summary: Set in Depression-era Franklin County, Virginia, a trio of bootlegging brothers are threatened by a new special deputy and other authorities angling for a cut of their profits.
+    tagline: When the law became corrupt, outlaws became heroes.
+    writer.sync: [Nick Cave, Matt Bondurant]
+    label: [ID__000082633A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
