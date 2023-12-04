@@ -1,0 +1,29 @@
+metadata:
+  "The Lighthouse (2019) {tmdb-503919} {edition-Theatrical cut}":
+    match:
+      title: The Lighthouse
+      year: 2019
+      edition: Theatrical cut
+    sort_title: Lighthouse (2019)
+    content_rating: gb/15
+    country.sync: [Canada, United States of America]
+    director.sync: [Robert Eggers]
+    genre.sync: [Drama, Fantasy, Horror, Mystery, Thriller]
+    originally_available: 2019-05-19
+    producer.sync:
+      [
+        Robert Eggers,
+        Youree Henley,
+        "Lourenço Sant'Anna",
+        Rodrigo Teixeira,
+        Jay Van Hoy,
+      ]
+    studio: A24
+    summary: Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.
+    tagline: There is enchantment in the light.
+    writer.sync: [Robert Eggers, Max Eggers]
+    label: [ID__000503919A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

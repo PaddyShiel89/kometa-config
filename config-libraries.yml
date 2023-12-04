@@ -78,6 +78,7 @@ libraries:
       - repo: metadata/movies/Fantastic Beasts The Secrets of Dumbledore (2022) {tmdb-338953}
       - repo: metadata/movies/Forgetting Sarah Marshall (2008) {tmdb-9870}
       - repo: metadata/movies/Freaked (1993) {tmdb-17796}
+      - repo: metadata/movies/Friday the 13th (1980) {tmdb-4488}
       - repo: metadata/movies/Frost-Nixon (2008) {tmdb-11499}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
       - repo: metadata/movies/Get Out (2017) {tmdb-419430}
@@ -120,6 +121,7 @@ libraries:
       - repo: metadata/movies/Ladder 49 (2004) {tmdb-11128}
       - repo: metadata/movies/Lady Macbeth (2016) {tmdb-410117}
       - repo: metadata/movies/Lara Croft Tomb Raider (2001) {tmdb-1995}
+      - repo: metadata/movies/Lawless (2012) {tmdb-82633}
       - repo: metadata/movies/Lawrence of Arabia (1962) {tmdb-947}
       - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
       - repo: metadata/movies/Ma mere (2004) {tmdb-48266}
@@ -208,6 +210,7 @@ libraries:
       - repo: metadata/movies/Team America World Police (2004) {tmdb-3989}
       - repo: metadata/movies/Tenet (2020) {tmdb-577922}
       - repo: metadata/movies/Terminator 2 Judgment Day (1991) {tmdb-280}
+      - repo: metadata/movies/The 355 (2022) {tmdb-522016}
       - repo: metadata/movies/The Bank Job (2008) {tmdb-8848}
       - repo: metadata/movies/The Banshees of Inisherin (2022) {tmdb-674324}
       - repo: metadata/movies/The Birds (1963) {tmdb-571}
@@ -242,6 +245,7 @@ libraries:
       - repo: metadata/movies/The Karate Kid (2010) {tmdb-38575}
       - repo: metadata/movies/The King's Speech (2010) {tmdb-45269}
       - repo: metadata/movies/The Last Picture Show (1971) {tmdb-25188}
+      - repo: metadata/movies/The Lighthouse (2019) {tmdb-503919}
       - repo: metadata/movies/The Lobster (2015) {tmdb-254320}
       - repo: metadata/movies/The Look of Love (2013) {tmdb-158914}
       - repo: metadata/movies/The Lord of the Rings The Fellowship of the Ring (2001) {tmdb-120}
