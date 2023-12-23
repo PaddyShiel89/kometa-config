@@ -31,6 +31,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000062A # 2001: A Space Odyssey (1996)
           - ID__000259316A # Fantastic Beasts and Where to Find Them (2016)
           - ID__000338952A # Fantastic Beasts: The Crimes of Grindelwald (2018)
           - ID__000338953A # Fantastic Beasts: The Secrets of Dumbledore (2022)

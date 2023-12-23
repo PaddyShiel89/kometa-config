@@ -119,6 +119,7 @@ collections:
   Theme__artificial_intelligence:
     template: { name: TMDB theme label, theme_name: artificial_intelligence }
     tmdb_movie:
+      - 62 # 2001: A Space Odyssey (1996)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 218 # The Terminator (1984)
 
@@ -134,6 +135,7 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_a_book }
     tmdb_movie:
       - 44115 # 127 Hours (2010)
+      - 62 # 2001: A Space Odyssey (1996)
       - 453 # A Beautiful Mind (2001)
       - 185 # A Clockwork Orange (1971)
       - 4347 # Atonement (2007)
