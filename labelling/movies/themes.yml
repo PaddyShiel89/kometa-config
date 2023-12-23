@@ -126,6 +126,7 @@ collections:
   Theme__assassins:
     template: { name: TMDB theme label, theme_name: assassins }
     tmdb_movie:
+      - 28 # Apocalypse Now (1979)
       - 245891 # John Wick (2015)
       - 324552 # John Wick: Chapter 2 (2017)
       - 101 # Léon: The Professional (1995)
@@ -138,6 +139,7 @@ collections:
       - 62 # 2001: A Space Odyssey (1996)
       - 453 # A Beautiful Mind (2001)
       - 185 # A Clockwork Orange (1971)
+      - 28 # Apocalypse Now (1979)
       - 4347 # Atonement (2007)
       - 487558 # BlacKkKlansman (2018)
       - 301502 # Blonde (2022)

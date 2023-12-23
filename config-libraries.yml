@@ -22,6 +22,7 @@ libraries:
       - repo: metadata/movies/Anonymous (2011) {tmdb-61891}
       - repo: metadata/movies/Ant-Man and the Wasp (2018) {tmdb-363088}
       - repo: metadata/movies/Ant-Man and the Wasp Quantumania (2023) {tmdb-640146}
+      - repo: metadata/movies/Apocalypse Now (1979) {tmdb-28}
       - repo: metadata/movies/Atomic Blonde (2017) {tmdb-341013}
       - repo: metadata/movies/Atonement (2007) {tmdb-4347}
       - repo: metadata/movies/Attack the Block (2011) {tmdb-59678}
