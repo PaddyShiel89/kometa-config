@@ -22,6 +22,7 @@ collections:
           - ID__000044115A # 127 Hours (2010)
           - ID__000001271A # 300 (2006)
           - ID__000053182A # 300: Rise of an Empire (2014)
+          - ID__000000062A # 2001: A Space Odyssey (1996)
           - ID__000014161A # 2012 (2009)
           - ID__000000453A # A Beautiful Mind (2001)
           - ID__000000185A # A Clockwork Orange (1971)
@@ -39,6 +40,8 @@ collections:
           - ID__000061891A # Anonymous (2011)
           - ID__000363088A # Ant-Man and the Wasp (2018)
           - ID__000640146A # Ant-Man and the Wasp: Quantumania (2023)
+          - ID__000000028A # Apocalypse Now (1979) [Theatrical cut]
+          - ID__000000028B # Apocalypse Now (1979) [Redux]
           - ID__000341013A # Atomic Blonde (2017)
           - ID__000004347A # Atonement (2007)
           - ID__000059678A # Attack the Block (2011)
@@ -104,6 +107,7 @@ collections:
           - ID__000610253A # Halloween Kills (2021) [Theatrical cut]
           - ID__000610253B # Halloween Kills (2021) [Extended cut]
           - ID__000050456A # Hanna (2011)
+          - ID__000000949A # Heat (1995)
           - ID__000493922A # Hereditary (2018)
           - ID__000051540A # Horrible Bosses (2011)
           - ID__000001690A # Hostel (2005)

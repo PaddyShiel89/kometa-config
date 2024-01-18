@@ -11,6 +11,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000062A # 2001: A Space Odyssey (1996)
           - ID__000020352A # Despicable Me (2010)
           - ID__000338952A # Fantastic Beasts: The Crimes of Grindelwald (2018)
           - ID__000000808A # Shrek (2001)
@@ -110,6 +111,8 @@ collections:
           - ID__000000348B # Alien (1979) [Director's cut]
           - ID__000004982A # American Gangster (2007) [Theatrical cut]
           - ID__000004982B # American Gangster (2007) [Extended edition]
+          - ID__000000028A # Apocalypse Now (1979) [Theatrical cut]
+          - ID__000000028B # Apocalypse Now (1979) [Redux]
           - ID__000059678A # Attack the Block (2011)
           - ID__000615777A # Babylon (2022)
           - ID__000718930A # Bullet Train (2022)

@@ -1,0 +1,48 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Apocalypse Now (1979) {tmdb-28} {edition-Theatrical cut}":
+    match:
+      title: Apocalypse Now
+      year: 1979
+      edition: Theatrical cut
+    sort_title: Apocalypse Now (1979) 001A
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Francis Ford Coppola]
+    genre.sync: [Drama, Mystery, War]
+    originally_available: 1979-05-19
+    producer.sync: [Kim Aubry, Francis Ford Coppola]
+    studio: American Zoetrope
+    summary: A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.
+    tagline: The Horror... The Horror...
+    writer.sync:
+      [John Milius, Francis Ford Coppola, Michael Herr, Joseph Conrad]
+    label: [ID__000000028A]
+
+  "Apocalypse Now (1979) {tmdb-28} {edition-Redux}":
+    match:
+      title: Apocalypse Now
+      year: 1979
+      edition: Redux
+    sort_title: Apocalypse Now (1979) 001B
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Francis Ford Coppola]
+    genre.sync: [Drama, Mystery, War]
+    originally_available: 1979-05-19
+    producer.sync: [Kim Aubry, Francis Ford Coppola]
+    studio: American Zoetrope
+    summary: A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.
+    tagline: The Horror... The Horror...
+    writer.sync:
+      [John Milius, Francis Ford Coppola, Michael Herr, Joseph Conrad]
+    label: [ID__000000028B]
+
+collections:
+  "Apocalypse Now":
+    template: { name: Edition }
+    tmdb_movie: 28
+    sort_title: Apocalypse Now (1979) 001
+    summary: A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.

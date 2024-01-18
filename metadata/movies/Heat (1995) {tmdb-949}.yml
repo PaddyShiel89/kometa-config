@@ -1,0 +1,22 @@
+metadata:
+  "Heat (1995) {tmdb-949} {edition-Director's Definitive Edition}":
+    match:
+      title: Heat
+      year: 1995
+      edition: Director's Definitive Edition
+    sort_title: Heat (1995)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Michael Mann]
+    genre.sync: [Action, Crime, Drama]
+    originally_available: 1995-12-06
+    producer.sync: [Art Linson, Michael Mann]
+    studio: New Regency Productions
+    summary: A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist.
+    tagline: An L.A. Redemption
+    writer.sync: [Michael Mann]
+    label: [ID__000000949A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

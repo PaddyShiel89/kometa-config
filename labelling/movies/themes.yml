@@ -119,12 +119,14 @@ collections:
   Theme__artificial_intelligence:
     template: { name: TMDB theme label, theme_name: artificial_intelligence }
     tmdb_movie:
+      - 62 # 2001: A Space Odyssey (1996)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 218 # The Terminator (1984)
 
   Theme__assassins:
     template: { name: TMDB theme label, theme_name: assassins }
     tmdb_movie:
+      - 28 # Apocalypse Now (1979)
       - 245891 # John Wick (2015)
       - 324552 # John Wick: Chapter 2 (2017)
       - 101 # Léon: The Professional (1995)
@@ -134,8 +136,10 @@ collections:
     template: { name: TMDB theme label, theme_name: based_on_a_book }
     tmdb_movie:
       - 44115 # 127 Hours (2010)
+      - 62 # 2001: A Space Odyssey (1996)
       - 453 # A Beautiful Mind (2001)
       - 185 # A Clockwork Orange (1971)
+      - 28 # Apocalypse Now (1979)
       - 4347 # Atonement (2007)
       - 487558 # BlacKkKlansman (2018)
       - 301502 # Blonde (2022)
@@ -776,6 +780,7 @@ collections:
       - 59678 # Attack the Block (2011)
       - 26715 # Bitch Slap (2009)
       - 598 # City of God (2002)
+      - 949 # Heat (1995)
       - 273481 # Sicario (2015)
       - 94329 # The Raid (2011)
       - 180299 # The Raid 2 (2014)
@@ -821,6 +826,7 @@ collections:
       - 26715 # Bitch Slap (2009)
       - 11001 # Blue Streak (1999)
       - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
+      - 949 # Heat (1995)
       - 27205 # Inception (2010)
       - 2059 # National Treasure (2004)
       - 348350 # Solo: A Star Wars Story (2018)
@@ -1093,6 +1099,7 @@ collections:
       - 4982 # American Gangster (2007)
       - 3134 # Baise-moi (2000)
       - 793 # Blue Velvet (1986)
+      - 949 # Heat (1995)
       - 245891 # John Wick (2015)
       - 324552 # John Wick: Chapter 2 (2017)
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
@@ -1177,6 +1184,7 @@ collections:
     template: { name: TMDB theme label, theme_name: post_apocalyptic }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 949 # Heat (1995)
       - 76341 # Mad Max: Fury Road (2015)
       - 869 # Planet of the Apes (2001)
       - 35791 # Resident Evil: Afterlife (2010)
