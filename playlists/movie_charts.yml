@@ -8,6 +8,16 @@ playlists:
     sync_mode: sync
     sync_to_users: all
 
+  Empire's 100 Greatest Movies (Unwatched):
+    imdb_list: https://www.imdb.com/list/ls567669591
+    libraries: Movies
+    filters:
+      label.not: Edition__secondary
+      plays.lt: 1
+    summary: "Empire asked readers to share their picks for the best films of all time - ones that comfort, challenge and pioneer. Films that blow your mind, help you see things from a new perspective, and that continue to shape cinema as we know it today. Films that make you feel something. Combining reader votes with critic's choices from Team Empire, here we have it - the latest version of the 100 Greatest Movies list."
+    sync_mode: sync
+    sync_to_users:
+
   IMDb Lowest Rated:
     imdb_chart: lowest_rated
     libraries: Movies
