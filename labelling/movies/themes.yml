@@ -562,6 +562,7 @@ collections:
     template: { name: TMDB theme label, theme_name: disaster }
     tmdb_movie:
       - 14161 # 2012 (2009)
+      - 157336 # Interstellar (2014)
       - 75174 # The Grey (2011)
       - 5876 # The Mist (2007)
       - 20766 # The Road (2009)
@@ -615,6 +616,7 @@ collections:
       - 185 # A Clockwork Orange (1971)
       - 9739 # Demolition Man (1993)
       - 315837 # Ghost in the Shell (2017)
+      - 157336 # Interstellar (2014)
       - 76341 # Mad Max: Fury Road (2015)
       - 180 # Minority Report (2002)
       - 280 # Terminator 2: Judgment Day (1991)
@@ -1601,6 +1603,7 @@ collections:
     template: { name: TMDB theme label, theme_name: time_travel }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 157336 # Interstellar (2014)
       - 869 # Planet of the Apes (2001)
       - 577922 # Tenet (2020)
       - 280 # Terminator 2: Judgment Day (1991)
