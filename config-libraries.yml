@@ -2,7 +2,7 @@ libraries:
   Movies:
     operations:
       assets_for_all: true
-    metadata_path:
+    metadata_files:
       - repo: metadata/movies/21 Grams (2003) {tmdb-470}
       - repo: metadata/movies/127 Hours (2010) {tmdb-44115}
       - repo: metadata/movies/300 (2006) {tmdb-1271}
@@ -310,6 +310,7 @@ libraries:
       - repo: metadata/movies/X2 (2003) {tmdb-36658}
       - repo: metadata/movies/Your Highness (2011) {tmdb-38319}
       - repo: metadata/movies/Zack and Miri Make a Porno (2008) {tmdb-10358}
+    collection_files:
       - repo: labelling/movies/editions
       - repo: labelling/movies/content_rating/alcohol_and_tobacco
       - repo: labelling/movies/content_rating/dangerous_behaviour
@@ -343,9 +344,10 @@ libraries:
   TV shows:
     operations:
       assets_for_all: true
-    metadata_path:
+    metadata_files:
       - repo: metadata/tv_shows/The Last of Us (2023) {tmdb-100088}
       - repo: metadata/tv_shows/True Detective (2014) {tmdb-46648}
+    collection_files:
       - repo: labelling/tv_shows/shows/ownership
       - repo: labelling/tv_shows/shows/sources
       - repo: labelling/tv_shows/shows/themes
@@ -375,12 +377,12 @@ libraries:
   Stand-up comedy:
     operations:
       assets_for_all: true
-    metadata_path:
+    collection_files:
       - repo: libraries/shared/content_ratings
   Short films:
     operations:
       assets_for_all: true
-    metadata_path:
+    metadata_files:
       - repo: metadata/short_films/2036 Nexus Dawn (2017) {tmdb-473072}
       - repo: metadata/short_films/2048 Nowhere to Run (2017) {tmdb-475759}
       - repo: metadata/short_films/Anima (2011) {tmdb-416185}
@@ -398,6 +400,7 @@ libraries:
       - repo: metadata/short_films/Six Shooter (2004) {tmdb-25126}
       - repo: metadata/short_films/Team Darryl (2018) {tmdb-505945}
       - repo: metadata/short_films/Team Thor Part 2 (2017) {tmdb-441829}
+    collection_files:
       - repo: labelling/short_films/ownership
       - repo: labelling/short_films/restrictions
       - repo: labelling/short_films/series
@@ -414,7 +417,7 @@ libraries:
         Biography: Biopic
         "Sci-Fi": Science Fiction
         Martial Arts:
-    metadata_path:
+    collection_files:
       - repo: labelling/documentaries/themes
       - repo: libraries/shared/content_ratings
       - repo: libraries/documentaries/themes
