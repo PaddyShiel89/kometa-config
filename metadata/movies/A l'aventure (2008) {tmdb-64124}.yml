@@ -1,8 +1,8 @@
 metadata:
-  "A l'aventure (2009) {tmdb-64124} {edition-Theatrical cut}":
+  "A l'aventure (2008) {tmdb-64124} {edition-Theatrical cut}":
     match:
       title: "À l'aventure"
-      year: 2008 # Not a mistake
+      year: 2008
       edition: Theatrical cut
     sort_title: Aventure (2008)
     content_rating: gb/18
