@@ -1,0 +1,58 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "It's a Wonderful Life (1946) {tmdb-1585} {edition-Theatrical cut}":
+    match:
+      title: It's a Wonderful Life
+      year: 1946
+      edition: Theatrical cut
+    sort_title: It's a Wonderful Life (1946) 001A
+    content_rating: gb/U
+    country.sync: [United States of America]
+    director.sync: [Frank Capra]
+    genre.sync: [Drama, Family, Fantasy, Romance]
+    originally_available: 1946-12-20
+    producer.sync: [Frank Capra]
+    studio: Liberty Films Inc.
+    summary: An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.
+    writer.sync:
+      [
+        Frances Goodrich,
+        Albert Hackett,
+        Frank Capra,
+        Philip Van Doren Stern,
+        Michael Wilson,
+      ]
+    label: [ID__000001585A]
+
+  "It's a Wonderful Life (1946) {tmdb-1585} {edition-Colourised}":
+    match:
+      title: It's a Wonderful Life
+      year: 1946
+      edition: Colourised
+    sort_title: It's a Wonderful Life (1946) 001B
+    content_rating: gb/U
+    country.sync: [United States of America]
+    director.sync: [Frank Capra]
+    genre.sync: [Drama, Family, Fantasy, Romance]
+    originally_available: 1946-12-20
+    producer.sync: [Frank Capra]
+    studio: Liberty Films Inc.
+    summary: An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.
+    writer.sync:
+      [
+        Frances Goodrich,
+        Albert Hackett,
+        Frank Capra,
+        Philip Van Doren Stern,
+        Michael Wilson,
+      ]
+    label: [ID__000001585B]
+
+collections:
+  "It's a Wonderful Life":
+    template: { name: Edition }
+    tmdb_movie: 1585
+    sort_title: It's a Wonderful Life (1946) 001
+    summary: An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.
