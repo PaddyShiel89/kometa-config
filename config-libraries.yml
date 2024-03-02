@@ -123,6 +123,7 @@ libraries:
       - repo: metadata/movies/John Wick Chapter 3 - Parabellum (2019) {tmdb-458156}
       - repo: metadata/movies/John Wick Chapter 4 (2023) {tmdb-603692}
       - repo: metadata/movies/Joker (2019) {tmdb-475557}
+      - repo: metadata/movies/Jolene (2008) {tmdb-43727}
       - repo: metadata/movies/Jurassic World Dominion (2022) {tmdb-507086}
       - repo: metadata/movies/King Kong (2005) {tmdb-254}
       - repo: metadata/movies/L.A. Confidential (1997) {tmdb-2118}

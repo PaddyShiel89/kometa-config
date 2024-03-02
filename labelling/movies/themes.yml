@@ -164,6 +164,7 @@ collections:
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 1585 # It's a Wonderful Life (1946)
+      - 43727 # Jolene (2008)
       - 2118 # L.A. Confidential (1997)
       - 410117 # Lady Macbeth (2016)
       - 82633 # Lawless (2012)
@@ -486,6 +487,7 @@ collections:
       - 598 # City of God (2002)
       - 371645 # Hunt for the Wilderpeople (2016)
       - 346364 # It (2017)
+      - 43727 # Jolene (2008)
       - 10867 # Malèna (2000)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
@@ -578,10 +580,11 @@ collections:
     tmdb_movie:
       - 3134 # Baise-moi (2000)
       - 793 # Blue Velvet (1986)
-      - 475557 # Joker (2019)
       - 619730 # Don't Worry Darling (2022)
       - 20546 # Goodnight, Mister Tom (1998)
       - 389015 # I, Tonya (2017)
+      - 475557 # Joker (2019)
+      - 43727 # Jolene (2008)
       - 50837 # Martha Marcy May Marlene (2011)
       - 92182 # Silent House (2011)
       - 65754 # The Girl with the Dragon Tattoo (2011)
@@ -877,6 +880,7 @@ collections:
     template: { name: TMDB theme label, theme_name: incest }
     tmdb_movie:
       - 61891 # Anonymous (2011)
+      - 43727 # Jolene (2008)
       - 48266 # Ma mère (2004)
       - 92182 # Silent House (2011)
       - 15472 # The Girl with the Dragon Tattoo (2009)
@@ -1162,6 +1166,7 @@ collections:
     template: { name: TMDB theme label, theme_name: orphans }
     tmdb_movie:
       - 20352 # Despicable Me (2010)
+      - 43727 # Jolene (2008)
       - 507086 # Jurassic World Dominion (2022)
       - 101 # Léon: The Professional (1995)
       - 17917 # Oliver! (1968)
@@ -1424,6 +1429,7 @@ collections:
       - 3580 # Changeling (2008)
       - 25239 # Day of the Woman (1978)
       - 43947 # I Spit on Your Grave (2010)
+      - 43727 # Jolene (2008)
       - 82633 # Lawless (2012)
       - 947 # Lawrence of Arabia (1962)
       - 592695 # Pleasure (2021)
