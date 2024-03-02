@@ -1,0 +1,22 @@
+metadata:
+  "Shadow of a Doubt (1943) {tmdb-21734} {edition-Theatrical cut}":
+    match:
+      title: Shadow of a Doubt
+      year: 1943
+      edition: Theatrical cut
+    sort_title: Shadow of a Doubt (1943)
+    content_rating: gb/PG
+    country.sync: [United States of America]
+    director.sync: [Alfred Hitchcock]
+    genre.sync: [Thriller]
+    originally_available: 1943-01-12
+    producer.sync: [Jack H. Skirball]
+    studio: Universal Pictures
+    summary: 'A teenage girl, overjoyed when her favourite uncle comes to visit the family in their quiet town, begins to suspect that he is the "Merry Widow" killer sought by the authorities.'
+    tagline: TERROR Warning Her To Kill... Or BE KILLED
+    writer.sync: [Thornton Wilder, Sally Benson, Alma Reville, Gordon McDonell]
+    label: [ID__000021734A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

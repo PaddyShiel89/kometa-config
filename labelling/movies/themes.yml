@@ -728,6 +728,7 @@ collections:
       - 4248 # Scary Movie 2 (2001)
       - 4256 # Scary Movie 3 (2003)
       - 11013 # Secretary (2002)
+      - 21734 # Shadow of a Doubt (1943)
       - 588 # Silent Hill (2006)
       - 882598 # Smile (2022)
       - 140607 # Star Wars: The Force Awakens (2015)
@@ -751,6 +752,11 @@ collections:
       - 5038 # Vicky Cristina Barcelona (2008)
       - 682507 # Where the Crawdads Sing (2022)
       - 760104 # X (2022)
+
+  Theme__film_noir:
+    template: { name: TMDB theme label, theme_name: film_noir }
+    tmdb_movie:
+      - 21734 # Shadow of a Doubt (1943)
 
   Theme__filmmaking:
     template: { name: TMDB theme label, theme_name: filmmaking }
@@ -1252,6 +1258,7 @@ collections:
       - 597208 # Nightmare Alley (2021)
       - 949423 # Pearl (2022)
       - 641 # Requiem for a Dream (2000)
+      - 21734 # Shadow of a Doubt (1943)
       - 92182 # Silent House (2011)
       - 882598 # Smile (2022)
       - 381288 # Split (2016)
@@ -1359,6 +1366,7 @@ collections:
       - 43947 # I Spit on Your Grave (2010)
       - 4247 # Scary Movie (2000)
       - 934433 # Scream VI (2023)
+      - 21734 # Shadow of a Doubt (1943)
       - 756999 # The Black Phone (2021)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 65754 # The Girl with the Dragon Tattoo (2011)
@@ -1752,7 +1760,6 @@ collections:
         theme: "film noir"
         title_list:
           - Gilda (1946)
-          - Shadow of a Doubt (1943)
 
   "Theme: folk & cult":
     template:
