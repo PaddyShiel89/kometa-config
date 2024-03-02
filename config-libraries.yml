@@ -79,6 +79,7 @@ libraries:
       - repo: metadata/movies/Fantastic Beasts and Where to Find Them (2016) {tmdb-259316}
       - repo: metadata/movies/Fantastic Beasts The Crimes of Grindelwald (2018) {tmdb-338952}
       - repo: metadata/movies/Fantastic Beasts The Secrets of Dumbledore (2022) {tmdb-338953}
+      - repo: metadata/movies/Farewell, My Queen (2012) {tmdb-99579}
       - repo: metadata/movies/Forgetting Sarah Marshall (2008) {tmdb-9870}
       - repo: metadata/movies/Freaked (1993) {tmdb-17796}
       - repo: metadata/movies/Friday the 13th (1980) {tmdb-4488}
@@ -111,6 +112,7 @@ libraries:
       - repo: metadata/movies/Immortals (2011) {tmdb-37958}
       - repo: metadata/movies/Import Export (2007) {tmdb-4998}
       - repo: metadata/movies/Inception (2010) {tmdb-27205}
+      - repo: metadata/movies/Inhale (2010) {tmdb-12645}
       - repo: metadata/movies/Interstellar (2014) {tmdb-157336}
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
       - repo: metadata/movies/It (2017) {tmdb-346364}
@@ -121,6 +123,7 @@ libraries:
       - repo: metadata/movies/John Wick Chapter 3 - Parabellum (2019) {tmdb-458156}
       - repo: metadata/movies/John Wick Chapter 4 (2023) {tmdb-603692}
       - repo: metadata/movies/Joker (2019) {tmdb-475557}
+      - repo: metadata/movies/Jolene (2008) {tmdb-43727}
       - repo: metadata/movies/Jurassic World Dominion (2022) {tmdb-507086}
       - repo: metadata/movies/King Kong (2005) {tmdb-254}
       - repo: metadata/movies/L.A. Confidential (1997) {tmdb-2118}

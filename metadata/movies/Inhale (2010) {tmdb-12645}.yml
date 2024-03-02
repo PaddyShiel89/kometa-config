@@ -1,0 +1,22 @@
+metadata:
+  "Inhale (2010) {tmdb-12645} {edition-Theatrical cut}":
+    match:
+      title: Inhale
+      year: 2010
+      edition: Theatrical cut
+    sort_title: Inhale (2010)
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Baltasar Kormákur]
+    genre.sync: [Drama, Thriller]
+    originally_available: 2010-08-27
+    producer.sync: [Michelle Chydzik Sowa, Jennifer Kelly, Nathalie Marciano]
+    studio: 26 Films
+    summary: A couple goes to dangerous lengths to find a lung donor for their daughter.
+    tagline: Some people have only one option.
+    writer.sync: [Walter Doty, John Claflin, Christian Escario]
+    label: [ID__000012645A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -155,6 +155,7 @@ collections:
       - 419743 # Disobedience (2017)
       - 501170 # Doctor Sleep (2019)
       - 24402 # Emmanuelle (1974)
+      - 99579 # Farewell, My Queen (2012)
       - 343674 # Gerald's Game (2017)
       - 210577 # Gone Girl (2014)
       - 20546 # Goodnight, Mister Tom (1998)
@@ -163,6 +164,7 @@ collections:
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 1585 # It's a Wonderful Life (1946)
+      - 43727 # Jolene (2008)
       - 2118 # L.A. Confidential (1997)
       - 410117 # Lady Macbeth (2016)
       - 82633 # Lawless (2012)
@@ -485,6 +487,7 @@ collections:
       - 598 # City of God (2002)
       - 371645 # Hunt for the Wilderpeople (2016)
       - 346364 # It (2017)
+      - 43727 # Jolene (2008)
       - 10867 # Malèna (2000)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
@@ -577,10 +580,11 @@ collections:
     tmdb_movie:
       - 3134 # Baise-moi (2000)
       - 793 # Blue Velvet (1986)
-      - 475557 # Joker (2019)
       - 619730 # Don't Worry Darling (2022)
       - 20546 # Goodnight, Mister Tom (1998)
       - 389015 # I, Tonya (2017)
+      - 475557 # Joker (2019)
+      - 43727 # Jolene (2008)
       - 50837 # Martha Marcy May Marlene (2011)
       - 92182 # Silent House (2011)
       - 65754 # The Girl with the Dragon Tattoo (2011)
@@ -695,6 +699,7 @@ collections:
       - 619730 # Don't Worry Darling (2022)
       - 524434 # Eternals (2021)
       - 545611 # Everything Everywhere All at Once (2022)
+      - 99579 # Farewell, My Queen (2012)
       - 343674 # Gerald's Game (2017)
       - 315837 # Ghost in the Shell (2017)
       - 610253 # Halloween Kills (2021)
@@ -778,6 +783,11 @@ collections:
     plex_all: true
     filters:
       filepath.not: "/English/"
+
+  Theme__french_revolution:
+    template: { name: TMDB theme label, theme_name: french_revolution }
+    tmdb_movie:
+      - 99579 # Farewell, My Queen (2012)
 
   Theme__gambling:
     template: { name: TMDB theme label, theme_name: gambling }
@@ -870,6 +880,7 @@ collections:
     template: { name: TMDB theme label, theme_name: incest }
     tmdb_movie:
       - 61891 # Anonymous (2011)
+      - 43727 # Jolene (2008)
       - 48266 # Ma mère (2004)
       - 92182 # Silent House (2011)
       - 15472 # The Girl with the Dragon Tattoo (2009)
@@ -908,6 +919,7 @@ collections:
       - 419743 # Disobedience (2017)
       - 24402 # Emmanuelle (1974)
       - 545611 # Everything Everywhere All at Once (2022)
+      - 99579 # Farewell, My Queen (2012)
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 1018 # Mulholland Drive (2001)
@@ -977,6 +989,11 @@ collections:
       - 94329 # The Raid (2011)
       - 180299 # The Raid 2 (2014)
       - 59440 # Warrior (2011)
+
+  Theme__medical:
+    template: { name: TMDB theme label, theme_name: medical }
+    tmdb_movie:
+      - 12645 # Inhale (2010)
 
   Theme__mental_health:
     template: { name: TMDB theme label, theme_name: mental_health }
@@ -1149,6 +1166,7 @@ collections:
     template: { name: TMDB theme label, theme_name: orphans }
     tmdb_movie:
       - 20352 # Despicable Me (2010)
+      - 43727 # Jolene (2008)
       - 507086 # Jurassic World Dominion (2022)
       - 101 # Léon: The Professional (1995)
       - 17917 # Oliver! (1968)
@@ -1352,6 +1370,7 @@ collections:
   Theme__royalty:
     template: { name: TMDB theme label, theme_name: royalty }
     tmdb_movie:
+      - 99579 # Farewell, My Queen (2012)
       - 947 # Lawrence of Arabia (1962)
       - 45269 # The King's Speech (2010)
 
@@ -1410,6 +1429,7 @@ collections:
       - 3580 # Changeling (2008)
       - 25239 # Day of the Woman (1978)
       - 43947 # I Spit on Your Grave (2010)
+      - 43727 # Jolene (2008)
       - 82633 # Lawless (2012)
       - 947 # Lawrence of Arabia (1962)
       - 592695 # Pleasure (2021)
