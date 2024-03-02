@@ -173,6 +173,7 @@ libraries:
       - repo: metadata/movies/Resident Evil Welcome to Raccoon City (2021) {tmdb-460458}
       - repo: metadata/movies/Return of the Jedi (1983) {tmdb-1892}
       - repo: metadata/movies/Rogue One A Star Wars Story {tmdb-330459}
+      - repo: metadata/movies/Saboteur (1942) {tmdb-31997}
       - repo: metadata/movies/Room in Rome (2010) {tmdb-48650}
       - repo: metadata/movies/Salt (2010) {tmdb-27576}
       - repo: metadata/movies/Scary Movie (2000) {tmdb-4247}
@@ -185,6 +186,7 @@ libraries:
       - repo: metadata/movies/Scream VI (2023) {tmdb-934433}
       - repo: metadata/movies/Secret Things (2002) {tmdb-35712}
       - repo: metadata/movies/Secretary (2002) {tmdb-11013}
+      - repo: metadata/movies/Shadow of a Doubt (1943) {tmdb-21734}
       - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}
       - repo: metadata/movies/Shrek (2001) {tmdb-808}
       - repo: metadata/movies/Sicario (2015) {tmdb-273481}

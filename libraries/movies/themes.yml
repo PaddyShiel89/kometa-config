@@ -69,6 +69,7 @@ collections:
     smart_filter:
       any:
         label:
+          - Theme__film_noir
           - Theme__neo_noir
           - "theme: film noir"
           - "theme: neo-noir"
