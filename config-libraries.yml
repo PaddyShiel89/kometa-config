@@ -112,6 +112,7 @@ libraries:
       - repo: metadata/movies/Immortals (2011) {tmdb-37958}
       - repo: metadata/movies/Import Export (2007) {tmdb-4998}
       - repo: metadata/movies/Inception (2010) {tmdb-27205}
+      - repo: metadata/movies/Inhale (2010) {tmdb-12645}
       - repo: metadata/movies/Interstellar (2014) {tmdb-157336}
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
       - repo: metadata/movies/It (2017) {tmdb-346364}
