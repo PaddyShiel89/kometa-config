@@ -1,0 +1,21 @@
+metadata:
+  "Cathy Come Home (1966) {tmdb-263640} {edition-Theatrical cut}":
+    match:
+      title: Cathy Come Home
+      year: 1966
+      edition: Theatrical cut
+    sort_title: Cathy Come Home
+    content_rating: gb/PG
+    country.sync: [United Kingdom]
+    director.sync: [Ken Loach]
+    genre.sync: [Drama]
+    originally_available: 1966-11-16
+    producer.sync: [Tony Garnett]
+    studio: BBC
+    summary: A British woman faces a downward social climb thanks to her country's rigid and problem-ridden welfare system.
+    writer.sync: [Jeremy Sandford, Ken Loach]
+    label: [ID__000263640A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
