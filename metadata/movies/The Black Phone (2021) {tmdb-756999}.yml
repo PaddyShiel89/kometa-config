@@ -1,8 +1,8 @@
 metadata:
-  "The Black Phone (2022) {tmdb-756999} {edition-Theatrical cut}":
+  "The Black Phone (2021) {tmdb-756999} {edition-Theatrical cut}":
     match:
       title: The Black Phone
-      year: 2021 # Not a mistake
+      year: 2021
       edition: Theatrical cut
     sort_title: Black Phone (2021)
     content_rating: gb/15

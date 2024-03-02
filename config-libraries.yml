@@ -11,7 +11,7 @@ libraries:
       - repo: metadata/movies/2012 (2009) {tmdb-14161}
       - repo: metadata/movies/A Beautiful Mind (2001) {tmdb-453}
       - repo: metadata/movies/A Clockwork Orange (1971) {tmdb-185}
-      - repo: metadata/movies/A l'aventure (2009) {tmdb-64124}
+      - repo: metadata/movies/A l'aventure (2008) {tmdb-64124}
       - repo: metadata/movies/After Sex (2007) {tmdb-17097}
       - repo: metadata/movies/Alien (1979) {tmdb-348}
       - repo: metadata/movies/Alien Resurrection (1997) {tmdb-8078}
@@ -64,7 +64,7 @@ libraries:
       - repo: metadata/movies/Demolition Man (1993) {tmdb-9739}
       - repo: metadata/movies/Desire (2011) {tmdb-86331}
       - repo: metadata/movies/Despicable Me (2010) {tmdb-20352}
-      - repo: metadata/movies/Disobedience (2018) {tmdb-419743}
+      - repo: metadata/movies/Disobedience (2017) {tmdb-419743}
       - repo: metadata/movies/Django Unchained (2012) {tmdb-68718}
       - repo: metadata/movies/Doctor Sleep (2019) {tmdb-501170}
       - repo: metadata/movies/Doctor Strange (2016) {tmdb-284052}
@@ -110,9 +110,11 @@ libraries:
       - repo: metadata/movies/Immortals (2011) {tmdb-37958}
       - repo: metadata/movies/Import Export (2007) {tmdb-4998}
       - repo: metadata/movies/Inception (2010) {tmdb-27205}
+      - repo: metadata/movies/Interstellar (2014) {tmdb-157336}
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
       - repo: metadata/movies/It (2017) {tmdb-346364}
       - repo: metadata/movies/It Chapter Two (2019) {tmdb-474350}
+      - repo: metadata/movies/It's a Wonderful Life (1946) {tmdb-1585}
       - repo: metadata/movies/John Wick (2014) {tmdb-245891}
       - repo: metadata/movies/John Wick Chapter 2 (2017) {tmdb-324552}
       - repo: metadata/movies/John Wick Chapter 3 - Parabellum (2019) {tmdb-458156}
@@ -218,7 +220,7 @@ libraries:
       - repo: metadata/movies/The Banshees of Inisherin (2022) {tmdb-674324}
       - repo: metadata/movies/The Birds (1963) {tmdb-571}
       - repo: metadata/movies/The Black Dahlia (2006) {tmdb-9676}
-      - repo: metadata/movies/The Black Phone (2022) {tmdb-756999}
+      - repo: metadata/movies/The Black Phone (2021) {tmdb-756999}
       - repo: metadata/movies/The Boat That Rocked (2009) {tmdb-18947}
       - repo: metadata/movies/The Book of Eli (2010) {tmdb-20504}
       - repo: metadata/movies/The Bucket List (2007) {tmdb-7350}
@@ -236,7 +238,7 @@ libraries:
       - repo: metadata/movies/The Godfather Part III (1990) {tmdb-242}
       - repo: metadata/movies/The Goonies (1985) {tmdb-9340}
       - repo: metadata/movies/The Green Mile (1999) {tmdb-497}
-      - repo: metadata/movies/The Grey (2012) {tmdb-75174}
+      - repo: metadata/movies/The Grey (2011) {tmdb-75174}
       - repo: metadata/movies/The Guard (2011) {tmdb-67913}
       - repo: metadata/movies/The Hangover (2009) {tmdb-18785}
       - repo: metadata/movies/The Hitchhiker's Guide to the Galaxy (2005) {tmdb-7453}

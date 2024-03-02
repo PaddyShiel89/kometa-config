@@ -2,6 +2,18 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
+  BBFC suicide lvl 1:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: suicide
+        level: 1
+    plex_search:
+      any:
+        label:
+          - ID__000001585A # It's a Wonderful Life (1946) [edition-Theatrical cut]
+          - ID__000001585B # It's a Wonderful Life (1946) [edition-Colourised]
+
   BBFC suicide lvl 2:
     template:
       - name: Content rating numeric label

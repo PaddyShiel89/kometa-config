@@ -1,0 +1,21 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+metadata:
+  "Interstellar (2014) {tmdb-157336} {edition-Theatrical cut}":
+    match:
+      title: Interstellar
+      year: 2014
+      edition: Theatrical cut
+    sort_title: Interstellar (2014)
+    content_rating: gb/12
+    country.sync: [Canada, United Kingdom, United States of America]
+    director.sync: [Christopher Nolan]
+    genre.sync: [Adventure, Drama, Science Fiction]
+    originally_available: 2014-10-26
+    producer.sync: [Christopher Nolan, Lynda Obst, Emma Thomas]
+    studio: Legendary Entertainment
+    summary: When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot is tasked with finding a new planet for humans, along with a team of researchers.
+    tagline: Mankind was born on Earth. It was never meant to die here.
+    writer.sync: [Jonathan Nolan, Christopher Nolan]
+    label: [ID__000157336A]

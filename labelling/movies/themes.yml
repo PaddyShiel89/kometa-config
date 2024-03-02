@@ -77,6 +77,7 @@ collections:
       - 299534 # Avengers: Endgame (2019)
       - 453395 # Doctor Strange in the Multiverse of Madness (2022)
       - 545611 # Everything Everywhere All at Once (2022)
+      - 1585 # It's a Wonderful Life (1946)
       - 180 # Minority Report (2002)
       - 466272 # Once Upon a Time in Hollywood (2019)
       - 588 # Silent Hill (2006)
@@ -161,6 +162,7 @@ collections:
       - 371645 # Hunt for the Wilderpeople (2016)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
+      - 1585 # It's a Wonderful Life (1946)
       - 2118 # L.A. Confidential (1997)
       - 410117 # Lady Macbeth (2016)
       - 82633 # Lawless (2012)
@@ -444,6 +446,7 @@ collections:
     tmdb_movie:
       - 2978 # Ghostbusters II (1989)
       - 68721 # Iron Man 3 (2013)
+      - 1585 # It's a Wonderful Life (1946)
       - 74849 # The Star Wars Holiday Special (1978)
 
   Theme__clones:
@@ -562,6 +565,7 @@ collections:
     template: { name: TMDB theme label, theme_name: disaster }
     tmdb_movie:
       - 14161 # 2012 (2009)
+      - 157336 # Interstellar (2014)
       - 75174 # The Grey (2011)
       - 5876 # The Mist (2007)
       - 20766 # The Road (2009)
@@ -615,6 +619,7 @@ collections:
       - 185 # A Clockwork Orange (1971)
       - 9739 # Demolition Man (1993)
       - 315837 # Ghost in the Shell (2017)
+      - 157336 # Interstellar (2014)
       - 76341 # Mad Max: Fury Road (2015)
       - 180 # Minority Report (2002)
       - 280 # Terminator 2: Judgment Day (1991)
@@ -977,6 +982,7 @@ collections:
       - 450465 # Glass (2019)
       - 493922 # Hereditary (2018)
       - 68721 # Iron Man 3 (2013)
+      - 1585 # It's a Wonderful Life (1946)
       - 475557 # Joker (2019)
       - 947 # Lawrence of Arabia (1962)
       - 50837 # Martha Marcy May Marlene (2011)
@@ -1492,6 +1498,7 @@ collections:
       - 561 # Constantine (2005)
       - 619730 # Don't Worry Darling (2022)
       - 27205 # Inception (2010)
+      - 1585 # It's a Wonderful Life (1946)
       - 882598 # Smile (2022)
       - 65086 # The Woman in Black (2012)
       - 1541 # Thelma & Louise (1991)
@@ -1542,6 +1549,7 @@ collections:
       - 493922 # Hereditary (2018)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
+      - 1585 # It's a Wonderful Life (1946)
       - 1995 # Lara Croft: Tomb Raider (2001)
       - 157433 # Pet Sematary (2019)
       - 285 # Pirates of the Caribbean: At World's End (2007)
@@ -1601,6 +1609,7 @@ collections:
     template: { name: TMDB theme label, theme_name: time_travel }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 157336 # Interstellar (2014)
       - 869 # Planet of the Apes (2001)
       - 577922 # Tenet (2020)
       - 280 # Terminator 2: Judgment Day (1991)

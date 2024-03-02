@@ -12,6 +12,8 @@ collections:
       any:
         label:
           - ID__000020352A # Despicable Me (2010)
+          - ID__000001585A # It's a Wonderful Life (1946) [edition-Theatrical cut]
+          - ID__000001585B # It's a Wonderful Life (1946) [edition-Colourised]
           - ID__000001892A # Return of the Jedi (1983) [Theatrical cut]
           - ID__000001892B # Return of the Jedi (1983) [Special edition]
           - ID__000001892C # Return of the Jedi (1983) [DVD cut]
@@ -81,6 +83,7 @@ collections:
           - ID__000338952A # Fantastic Beasts: The Crimes of Grindelwald (2018)
           - ID__000338953A # Fantastic Beasts: The Secrets of Dumbledore (2022)
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
+          - ID__000157336A # Interstellar (2014)
           - ID__000068721A # Iron Man 3 (2013)
           - ID__000603692A # John Wick: Chapter 4 (2023)
           - ID__000507086A # Jurassic World Dominion (2022) [Theatrical cut]
