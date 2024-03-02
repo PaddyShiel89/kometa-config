@@ -1,0 +1,22 @@
+metadata:
+  "Farewell, My Queen (2012) {tmdb-99579} {edition-Theatrical cut}":
+    match:
+      title: Farewell, My Queen
+      year: 2012
+      edition: Theatrical cut
+    sort_title: Farewell, My Queen (2012)
+    content_rating: gb/Unrated
+    country.sync: [France, Spain]
+    director.sync: [Benoît Jacquot]
+    genre.sync: [Biopic, Drama, History, Romance]
+    original_title: Les adieux à la reine
+    originally_available: 2012-02-09
+    producer.sync: [Jean-Pierre Guérin, Kristina Larsen, Pedro Uriol]
+    studio: GMT Productions
+    summary: A look at the platonic relationship between Marie Antoinette and one of her female readers during the first days of the French Revolution.
+    writer.sync: [Benoît Jacquot, Gilles Taurand, Chantal Thomas]
+    label: [ID__000099579A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

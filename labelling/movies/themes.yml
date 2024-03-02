@@ -155,6 +155,7 @@ collections:
       - 419743 # Disobedience (2017)
       - 501170 # Doctor Sleep (2019)
       - 24402 # Emmanuelle (1974)
+      - 99579 # Farewell, My Queen (2012)
       - 343674 # Gerald's Game (2017)
       - 210577 # Gone Girl (2014)
       - 20546 # Goodnight, Mister Tom (1998)
@@ -695,6 +696,7 @@ collections:
       - 619730 # Don't Worry Darling (2022)
       - 524434 # Eternals (2021)
       - 545611 # Everything Everywhere All at Once (2022)
+      - 99579 # Farewell, My Queen (2012)
       - 343674 # Gerald's Game (2017)
       - 315837 # Ghost in the Shell (2017)
       - 610253 # Halloween Kills (2021)
@@ -778,6 +780,11 @@ collections:
     plex_all: true
     filters:
       filepath.not: "/English/"
+
+  Theme__french_revolution:
+    template: { name: TMDB theme label, theme_name: french_revolution }
+    tmdb_movie:
+      - 99579 # Farewell, My Queen (2012)
 
   Theme__gambling:
     template: { name: TMDB theme label, theme_name: gambling }
@@ -908,6 +915,7 @@ collections:
       - 419743 # Disobedience (2017)
       - 24402 # Emmanuelle (1974)
       - 545611 # Everything Everywhere All at Once (2022)
+      - 99579 # Farewell, My Queen (2012)
       - 947 # Lawrence of Arabia (1962)
       - 48266 # Ma mère (2004)
       - 1018 # Mulholland Drive (2001)
@@ -1352,6 +1360,7 @@ collections:
   Theme__royalty:
     template: { name: TMDB theme label, theme_name: royalty }
     tmdb_movie:
+      - 99579 # Farewell, My Queen (2012)
       - 947 # Lawrence of Arabia (1962)
       - 45269 # The King's Speech (2010)
 
