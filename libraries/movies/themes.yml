@@ -36,7 +36,6 @@ collections:
       any:
         label:
           - Theme__mockumentary
-          - "theme: found footage"
           - "theme: mockumentary"
       sort_by: title.asc
 
@@ -71,7 +70,6 @@ collections:
         label:
           - Theme__film_noir
           - Theme__neo_noir
-          - "theme: film noir"
           - "theme: neo-noir"
       sort_by: title.asc
 
@@ -84,7 +82,6 @@ collections:
         label:
           - Theme__parody
           - Theme__spoof
-          - "theme: parody"
           - "theme: spoof"
       sort_by: title.asc
 
@@ -97,7 +94,6 @@ collections:
         any:
           label:
             - Theme__psychological
-            - "theme: psychological"
         genre: Horror
       sort_by: title.asc
 
@@ -110,7 +106,6 @@ collections:
         any:
           label:
             - Theme__slasher
-            - "theme: slasher"
       sort_by: title.asc
 
   Splatter:
@@ -121,7 +116,6 @@ collections:
       any:
         label:
           - Theme__splatter
-          - "theme: splatter"
       sort_by: title.asc
 
   Supernatural Horror:

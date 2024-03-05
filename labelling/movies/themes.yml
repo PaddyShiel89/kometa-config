@@ -1774,26 +1774,12 @@ collections:
           - Sliver (1993)
           - Species (1995) 001
 
-  "Theme: film noir":
-    template:
-      - name: Theme label
-        theme: "film noir"
-        title_list:
-          - Gilda (1946)
-
   "Theme: folk & cult":
     template:
       - name: Theme label
         theme: "folk & cult"
         title_list:
           - Indiana Jones (1981) 002
-
-  "Theme: found footage":
-    template:
-      - name: Theme label
-        theme: "found footage"
-        title_list:
-          - Blair Witch Project (1999) 001
 
   "Theme: heist":
     template:
@@ -1912,13 +1898,6 @@ collections:
           - Taxi Driver (1976)
           - Watchmen (2009)
 
-  "Theme: parody":
-    template:
-      - name: Theme label
-        theme: "parody"
-        title_list:
-          - Mafia! (1998)
-
   "Theme: pirates":
     template:
       - name: Theme label
@@ -1926,17 +1905,6 @@ collections:
         title_list:
           - Hook (1991)
           - Muppet Treasure Island (1996)
-
-  "Theme: psychological":
-    template:
-      - name: Theme label
-        theme: "psychological"
-        title_list:
-          - Blair Witch Project (1999) 001
-          - Bone Collector (1999)
-          - Invisible Man (2020)
-          - Last Night in Soho (2021)
-          - Shutter Island (2010)
 
   "Theme: religion":
     template:
@@ -1952,45 +1920,6 @@ collections:
         theme: "serial killer"
         title_list:
           - Bone Collector (1999)
-
-  "Theme: slasher":
-    template:
-      - name: Theme label
-        theme: "slasher"
-        title_list:
-          - Cabin in the Woods (2012)
-          - Card Player (2004)
-          - Halloween (1978) 001
-          - Halloween (1978) 002
-          - Halloween (1978) 004
-          - Halloween (1978) 005
-          - Halloween (1978) 006
-          - Halloween (1978) 007
-          - Halloween (1978) 008
-          - Halloween (2018) 001
-          - Psycho (1960)
-          - Ready or Not (2019)
-          - Scream (1996) 001
-          - Scream (1996) 002
-          - Scream (1996) 003
-          - Scream (1996) 004
-          - Scream (1996) 005
-          - Tucker and Dale vs. Evil (2010)
-
-  "Theme: splatter":
-    template:
-      - name: Theme label
-        theme: "splatter"
-        title_list:
-          - Hobo with a Shotgun (2011)
-          - Saw (2004) 001
-          - Saw (2004) 002
-          - Saw (2004) 003
-          - Saw (2004) 004
-          - Saw (2004) 005
-          - Saw (2004) 006
-          - Saw (2004) 007
-          - Spiral (2021)
 
   "Theme: spoof":
     template:
