@@ -30,7 +30,6 @@ collections:
       - name: Smart series
         label_list:
           - Series__The_Lord_of_the_Rings_2001
-          - "series: The Hobbit (2012)"
     sort_title: Middle-earth Collection
     content_rating: gb/12
     summary: "A movie franchise based on the literary works of J.R.R. Tolkein set in the fantasy realm of Middle-earth, including 'The Hobbit' and 'The Lord of the Rings'."
@@ -61,7 +60,6 @@ collections:
           - Series__Shang_Chi_2021
           - Series__Spider_Man_2017
           - Series__Thor_2011
-          - "series: The Incredible Hulk (2008)"
     sort_title: Marvel Cinematic Universe
     content_rating: gb/12
     summary: "From Iron Man to Captain America to Daredevil, Guardians of the Galaxy, Jessica Jones, and more, the MCU brings some of the most legendary comic heroes -- and some lesser known ones -- to vibrant, colorful, action-packed life."
@@ -72,7 +70,6 @@ collections:
         label_list:
           - Series__Spider_Man_2002
           - Series__X-Men_2000
-          - "series: Amazing Spider-Man (2012)"
     sort_title: Marvel Legacy Collection
     content_rating: gb/12
     summary: "The Marvel Legacy collects all movies created outside of the Marvel Cinematic Universe that started with Iron Man (2008), such as Bryan Singer's X-Men and Sam Raimi's Spider-Man."
@@ -91,7 +88,6 @@ collections:
       - name: Smart series
         label_list:
           - Series__Fantasic_Beasts_2016
-          - "Series: Harry Potter (2001)"
     sort_title: Wizarding World
     content_rating: gb/12
     summary: "A fantasy franchise and shared fictional universe centred on the Harry Potter series."
@@ -101,16 +97,9 @@ collections:
       - name: Series
         summary: "that are part of the DC Extended Universe."
         label_list:
-          - "series: Suicide Squad (2016)"
           - "series: Wonder Woman (2017)"
         title_list:
           - Birds of Prey (2020)
-
-  James Bond Collection:
-    template:
-      - name: Series
-        summary: "that are part of Eon Production's James Bond series."
-        label_list: "series: James Bond (Eon Productions)"
 
   Muppets Collection:
     template:
