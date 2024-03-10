@@ -96,8 +96,6 @@ collections:
     template:
       - name: Series
         summary: "that are part of the DC Extended Universe."
-        label_list:
-          - "series: Wonder Woman (2017)"
         title_list:
           - Birds of Prey (2020)
 

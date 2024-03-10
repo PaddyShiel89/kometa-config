@@ -20,12 +20,3 @@ collections:
       all:
         label: "theme: based on a comic book"
       sort_by: title.asc
-
-  Based on a True Story:
-    template:
-      - name: Theme
-        summary: "based, however loosely, on real events."
-    smart_filter:
-      all:
-        label: "theme: based on a true story"
-      sort_by: title.asc
