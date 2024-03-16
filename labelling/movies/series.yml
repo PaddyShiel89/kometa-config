@@ -476,6 +476,12 @@ collections:
     tmdb_movie:
       - 25188 # The Last Picture Show (1971)
 
+  Series__The Lion King_1994:
+    template:
+      { name: TMDB series label, series_name: The Lion King, series_year: 1994 }
+    tmdb_movie:
+      - 8587 # The Lion King (1994)
+
   Series__The_Lord_of_the_Rings_2001:
     template:
       {

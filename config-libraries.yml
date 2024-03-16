@@ -259,6 +259,7 @@ libraries:
       - repo: metadata/movies/The King's Speech (2010) {tmdb-45269}
       - repo: metadata/movies/The Last Picture Show (1971) {tmdb-25188}
       - repo: metadata/movies/The Lighthouse (2019) {tmdb-503919}
+      - repo: metadata/movies/The Lion King (1994) {tmdb-8587}
       - repo: metadata/movies/The Lobster (2015) {tmdb-254320}
       - repo: metadata/movies/The Look of Love (2013) {tmdb-158914}
       - repo: metadata/movies/The Lord of the Rings The Fellowship of the Ring (2001) {tmdb-120}
