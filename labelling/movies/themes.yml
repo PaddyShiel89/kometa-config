@@ -82,6 +82,7 @@ collections:
       - 466272 # Once Upon a Time in Hollywood (2019)
       - 588 # Silent Hill (2006)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 129 # Spirited Away (2001)
       - 577922 # Tenet (2020)
       - 5876 # The Mist (2007)
       - 218 # The Terminator (1984)
@@ -111,6 +112,11 @@ collections:
       - 869 # Planet of the Apes (2001)
       - 75174 # The Grey (2011)
       - 57212 # War Horse (2011)
+
+  Theme__anime:
+    template: { name: TMDB theme label, theme_name: anime }
+    tmdb_movie:
+      - 129 # Spirited Away (2001)
 
   Theme__anthology:
     template: { name: TMDB theme label, theme_name: anthology }
@@ -492,6 +498,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 129 # Spirited Away (2001)
       - 38575 # The Karate Kid (2010)
       - 25188 # The Last Picture Show (1971)
       - 682507 # Where the Crawdads Sing (2022)
@@ -529,6 +536,7 @@ collections:
       - 8769 # Christine (1983)
       - 808 # Shrek (2001)
       - 882598 # Smile (2022)
+      - 129 # Spirited Away (2001)
       - 503919 # The Lighthouse (2019)
 
   Theme__cyberpunk:
@@ -736,6 +744,7 @@ collections:
       - 21734 # Shadow of a Doubt (1943)
       - 588 # Silent Hill (2006)
       - 882598 # Smile (2022)
+      - 129 # Spirited Away (2001)
       - 140607 # Star Wars: The Force Awakens (2015)
       - 181808 # Star Wars: The Last Jedi (2017)
       - 181812 # Star Wars: The Rise of Skywalker (2019)
@@ -818,6 +827,7 @@ collections:
       - 4248 # Scary Movie 2 (2001)
       - 9637 # Scooby-Doo (2002)
       - 92182 # Silent House (2011)
+      - 129 # Spirited Away (2001)
       - 756999 # The Black Phone (2021)
       - 694 # The Shining (1980)
       - 65086 # The Woman in Black (2012)
@@ -963,6 +973,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 634649 # Spider-Man: No Way Home (2021)
+      - 129 # Spirited Away (2001)
       - 120 # The Lord of the Rings: The Fellowship of the Ring (2001)
       - 122 # The Lord of the Rings: The Return of the King (2003)
       - 121 # The Lord of the Rings: The Two Towers (2002)
@@ -1447,6 +1458,7 @@ collections:
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 882598 # Smile (2022)
+      - 129 # Spirited Away (2001)
       - 254320 # The Lobster (2015)
       - 1091 # The Thing (1982)
       - 36657 # X-Men (2000)
