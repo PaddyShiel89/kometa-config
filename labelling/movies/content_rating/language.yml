@@ -27,6 +27,7 @@ collections:
           - ID__000012180A # Star Wars: The Clone Wars (2008)
           - ID__000140607A # Star Wars: The Force Awakens (2015)
           - ID__000070160A # The Hunger Games (2012)
+          - ID__000009806A # The Incredibles (2004)
 
   BBFC language lvl 2:
     template:

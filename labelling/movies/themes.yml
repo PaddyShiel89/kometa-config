@@ -111,6 +111,7 @@ collections:
       - 635731 # Pig (2021)
       - 869 # Planet of the Apes (2001)
       - 75174 # The Grey (2011)
+      - 8587 # The Lion King (1994)
       - 57212 # War Horse (2011)
 
   Theme__anime:
@@ -251,6 +252,7 @@ collections:
       - 11631 # Mamma Mia! (2008)
       - 10197 # Nine (2009)
       - 17917 # Oliver! (1968)
+      - 8587 # The Lion King (1994)
       - 10653 # The Seven Year Itch (1955)
       - 15121 # The Sound of Music (1965)
       - 57212 # War Horse (2011)
@@ -501,6 +503,7 @@ collections:
       - 129 # Spirited Away (2001)
       - 38575 # The Karate Kid (2010)
       - 25188 # The Last Picture Show (1971)
+      - 8587 # The Lion King (1994)
       - 682507 # Where the Crawdads Sing (2022)
 
   Theme__commentary_track:
@@ -1329,6 +1332,7 @@ collections:
     template: { name: TMDB theme label, theme_name: regicide }
     tmdb_movie:
       - 505642 # Black Panther: Wakanda Forever (2022)
+      - 8587 # The Lion King (1994)
 
   Theme__revenge:
     template: { name: TMDB theme label, theme_name: revenge }
@@ -1362,6 +1366,7 @@ collections:
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
+      - 8587 # The Lion King (1994)
       - 180299 # The Raid 2 (2014)
       - 59108 # Tower Heist (2011)
       - 617 # Wild Things
@@ -1568,6 +1573,7 @@ collections:
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
       - 381288 # Split (2016)
+      - 9806 # The Incredibles (2004)
       - 8285 # The Spirit (2008)
       - 10195 # Thor (2011)
       - 616037 # Thor: Love and Thunder (2022)

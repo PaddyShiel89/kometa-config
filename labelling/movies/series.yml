@@ -446,6 +446,16 @@ collections:
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
 
+  Series__The Incredibles_2004:
+    template:
+      {
+        name: TMDB series label,
+        series_name: The Incredibles,
+        series_year: 2004,
+      }
+    tmdb_movie:
+      - 9806 # The Incredibles (2004)
+
   Series__The_Karate_Kid_2010:
     template:
       {
@@ -465,6 +475,12 @@ collections:
       }
     tmdb_movie:
       - 25188 # The Last Picture Show (1971)
+
+  Series__The Lion King_1994:
+    template:
+      { name: TMDB series label, series_name: The Lion King, series_year: 1994 }
+    tmdb_movie:
+      - 8587 # The Lion King (1994)
 
   Series__The_Lord_of_the_Rings_2001:
     template:
