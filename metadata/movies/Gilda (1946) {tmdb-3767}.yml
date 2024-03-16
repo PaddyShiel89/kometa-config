@@ -1,0 +1,22 @@
+metadata:
+  "Gilda (1946) {tmdb-3767} {edition-Theatrical cut}":
+    match:
+      title: Gilda
+      year: 1946
+      edition: Theatrical cut
+    sort_title: Gilda (1946)
+    content_rating: gb/PG
+    country.sync: [United States of America]
+    director.sync: [Charles Vidor]
+    genre.sync: [Drama, Romance, Thriller]
+    originally_available: 1946-03-14
+    producer.sync: [Virginia Van Upp]
+    studio: Columbia Pictures Corporation
+    summary: A small-time gambler hired to work in a Buenos Aires casino discovers his employer's new wife is his former lover.
+    tagline: There NEVER was a woman like Gilda!
+    writer.sync: [E.A. Ellington, Jo Eisinger, Marion Parsonnet, Ben Hecht]
+    label: [ID__000003767A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

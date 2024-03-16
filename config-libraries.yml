@@ -90,6 +90,7 @@ libraries:
       - repo: metadata/movies/Ghost in the Shell (2017) {tmdb-315837}
       - repo: metadata/movies/Ghostbusters (1984) {tmdb-620}
       - repo: metadata/movies/Ghostbusters II (1989) {tmdb-2978}
+      - repo: metadata/movies/Gilda (1946) {tmdb-3767}
       - repo: metadata/movies/Gladiator (2000) {tmdb-98}
       - repo: metadata/movies/Glass (2019) {tmdb-450465}
       - repo: metadata/movies/Gone Girl (2014) {tmdb-210577}

@@ -774,6 +774,7 @@ collections:
   Theme__film_noir:
     template: { name: TMDB theme label, theme_name: film_noir }
     tmdb_movie:
+      - 3767 # Gilda (1946)
       - 21734 # Shadow of a Doubt (1943)
 
   Theme__filmmaking:
