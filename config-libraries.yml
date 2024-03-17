@@ -357,6 +357,7 @@ libraries:
       - repo: libraries/movies/themes
         asset_directory: config/assets/themes/Movies
       - repo: libraries/movies/seasonal
+        asset_directory: config/assets/seasonal/Movies
   TV shows:
     operations:
       assets_for_all: true
