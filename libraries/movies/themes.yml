@@ -3,16 +3,6 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
-  Murder Mystery:
-    template:
-      - name: Theme
-        summary: "in the crime genre wherein the puzzle regarding who committed the crime is the main focus."
-    smart_filter:
-      any:
-        label:
-          - Theme__murder_mystery
-      sort_by: title.asc
-
   Noir:
     template:
       - name: Theme
@@ -175,6 +165,15 @@ collections:
           - Theme__martial_arts
       sort_by: title.asc
     summary: Movies prominently featuring martial arts.
+
+  Murder Mystery:
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__murder_mystery
+      sort_by: title.asc
+    summary: Movies in the crime genre wherein the puzzle of who committed the crime is the main focus.
 
   # ---------------------------- 03: Horror subgenre --------------------------- #
 
