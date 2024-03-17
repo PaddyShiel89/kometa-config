@@ -3,17 +3,6 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
-  Noir:
-    template:
-      - name: Theme
-        summary: "in the crime genre associated with a low-key, often black-and-white visual style and which emphasize cynical attitudes and motivations. Also includes subgenres and offshoots of film noir, such as neo-noir."
-    smart_filter:
-      any:
-        label:
-          - Theme__film_noir
-          - Theme__neo_noir
-      sort_by: title.asc
-
   Parodies and Spoofs:
     template:
       - name: Theme
@@ -174,6 +163,16 @@ collections:
           - Theme__murder_mystery
       sort_by: title.asc
     summary: Movies in the crime genre wherein the puzzle of who committed the crime is the main focus.
+
+  Noir:
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      any:
+        label:
+          - Theme__film_noir
+          - Theme__neo_noir
+      sort_by: title.asc
+    summary: Movies in the crime genre associated with a low-key, often black-and-white visual style and which emphasize cynical attitudes and motivations. Also includes subgenres and offshoots of film noir, such as neo-noir.
 
   # ---------------------------- 03: Horror subgenre --------------------------- #
 
