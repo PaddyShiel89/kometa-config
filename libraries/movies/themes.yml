@@ -3,18 +3,6 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
-  Psychological Horror:
-    template:
-      - name: Theme
-        summary: "in the horror genre with a particular focus on mental, emotional, and psychological states to frighten, disturb, or unsettle its audience."
-    smart_filter:
-      all:
-        any:
-          label:
-            - Theme__psychological
-        genre: Horror
-      sort_by: title.asc
-
   Slasher:
     template:
       - name: Theme
@@ -185,6 +173,17 @@ collections:
         genre: Horror
       sort_by: title.asc
     summary: Movies in the horror genre featuring aliens, typically as the primary antagonist.
+
+  Psychological Horror:
+    template: { name: Theme collection, subsection: horror_subgenre }
+    smart_filter:
+      all:
+        any:
+          label:
+            - Theme__psychological
+        genre: Horror
+      sort_by: title.asc
+    summary: Movies in the horror genre with a particular focus on mental, emotional, and psychological states to frighten, disturb, or unsettle its audience.
 
   # ---------------------------------------------------------------------------- #
   #                             Seasonal collections                             #
