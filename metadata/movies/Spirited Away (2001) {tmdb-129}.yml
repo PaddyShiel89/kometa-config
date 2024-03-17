@@ -1,0 +1,19 @@
+metadata:
+  "Spirited Away (2001) {tmdb-129} {edition-Theatrical cut}":
+    match:
+      title: Spirited Away
+      year: 2001
+      edition: Theatrical cut
+    sort_title: Spirited Away (2001)
+    content_rating: gb/PG
+    country.sync: [Japan]
+    director.sync: [Hayao Miyazaki]
+    genre.sync: [Animation, Adventure, Family, Fantasy, Mystery]
+    original_title: Sen to Chihiro no kamikakushi
+    originally_available: 2001-07-20
+    producer.sync: [Toshio Suzuki]
+    studio: Studio Ghibli
+    summary: During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits. A world where humans are changed into beasts.
+    tagline: The tunnel led Chihiro to a mysterious town.
+    writer.sync: [Hayao Miyazaki]
+    label: [ID__000000129A]

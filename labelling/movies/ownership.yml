@@ -11,6 +11,7 @@ collections:
         label:
           - ID__000301502A # Blonde (2022)
           - ID__000343674A # Gerald's Game (2017)
+          - ID__000043727A # Jolene (2008)
           - ID__000001892B # Return of the Jedi (1983) [Special edition]
           - ID__000001892E # Return of the Jedi (1983) [Despecialized edition]
           - ID__000001892F # Return of the Jedi (1983) [Project 4K83]
@@ -31,6 +32,7 @@ collections:
         label:
           - ID__000017097A # After Sex (2007)
           - ID__000008696A # Calendar Girls (2003)
+          - ID__000000864A # Cool Runnings (1993)
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
           - ID__000068721A # Iron Man 3 (2013)
           - ID__000670428A # Psycho Goreman (2020)
@@ -52,6 +54,7 @@ collections:
           - ID__000013973A # Choke (2008)
           - ID__000101875A # Dressage (1986)
           - ID__000545611A # Everything Everywhere All at Once (2022)
+          - ID__000099579A # Farewell, My Queen (2012)
           - ID__000045690A # I Am Curious (Blue) (1968)
           - ID__000042695A # I Am Curious (Yellow) (1967)
           - ID__000004998A # Import/Export (2007)
@@ -88,6 +91,7 @@ collections:
           - ID__000001891C # The Empire Strikes Back (1980) [DVD cut]
           - ID__000001891D # The Empire Strikes Back (1980) [Blu-ray cut]
           - ID__000019976A # The Exterminating Angels (2006)
+          - ID__000008587A # The Lion King (1994)
           - ID__000076338A # Thor: The Dark World (2013)
           - ID__000112355A # What the Peeper Saw (1972)
 
@@ -114,10 +118,13 @@ collections:
           - ID__000025239A # Day of the Woman (1978)
           - ID__000086331A # Desire (2011)
           - ID__000024402A # Emmanuelle (1974)
+          - ID__000012645A # Inhale (2010)
           - ID__000010867B # Malèna (2000) [International cut]
+          - ID__000031997A # Saboteur (1942)
           - ID__000027576A # Salt (2010) [Theatrical cut]
           - ID__000027576B # Salt (2010) [Extended cut]
           - ID__000027576C # Salt (2010) [Director's cut]
+          - ID__000021734A # Shadow of a Doubt (1943)
           - ID__000000558A # Spider-Man 2 (2004) [Theatrical cut]
           - ID__000000571A # The Birds (1963)
           - ID__000000120B # The Lord of the Rings: The Fellowship of the Ring (2001) [Extended edition]
@@ -179,6 +186,7 @@ collections:
           - ID__000001771A # Captain America: The First Avenger (2011)
           - ID__000299537A # Captain Marvel (2019)
           - ID__000000524A # Casino (1995)
+          - ID__000263640A # Cathy Come Home (1966)
           - ID__000003580A # Changeling (2008)
           - ID__000008769A # Christine (1983)
           - ID__000000598A # City of God (2002)
@@ -209,6 +217,7 @@ collections:
           - ID__000315837A # Ghost in the Shell (2017)
           - ID__000000620A # Ghostbusters (1984)
           - ID__000002978A # Ghostbusters II (1989)
+          - ID__000003767A # Gilda (1946)
           - ID__000000098A # Gladiator (2000) [Theatrical cut]
           - ID__000000098B # Gladiator (2000) [Extended edition]
           - ID__000450465A # Glass (2019)
@@ -251,6 +260,7 @@ collections:
           - ID__000000947A # Lawrence of Arabia (1962)
           - ID__000000101A # Léon: The Professional (1995) [Theatrical cut]
           - ID__000000101B # Léon: The Professional (1995) [Director's cut]
+          - ID__000263115A # Logan (2017)
           - ID__000076341A # Mad Max: Fury Road (2015)
           - ID__000010867B # Malèna (2000) [International cut]
           - ID__000011631A # Mamma Mia! (2008)
@@ -281,6 +291,7 @@ collections:
           - ID__000531428A # Portrait of a Lady on Fire (2019)
           - ID__000004348A # Pride & Prejudice (2005)
           - ID__000062463A # Raining Stones (1993)
+          - ID__000401981B # Red Sparrow (2018)
           - ID__000649609A # Renfield (2023)
           - ID__000000641A # Requiem for a Dream (2000)
           - ID__000001576A # Resident Evil (2002)
@@ -290,6 +301,7 @@ collections:
           - ID__000071679A # Resident Evil: Retribution (2012)
           - ID__000173897A # Resident Evil: The Final Chapter (2016)
           - ID__000460458A # Resident Evil: Welcome to Raccoon City (2021)
+          - ID__000031997A # Saboteur (1942)
           - ID__000027576A # Salt (2010) [Theatrical cut]
           - ID__000027576B # Salt (2010) [Extended cut]
           - ID__000027576C # Salt (2010) [Director's cut]
@@ -301,6 +313,7 @@ collections:
           - ID__000000424A # Schindler's List (1993)
           - ID__000009637A # Scooby-Doo (2002)
           - ID__000934433A # Scream VI (2023)
+          - ID__000021734A # Shadow of a Doubt (1943)
           - ID__000566525A # Shang-Chi and the Legend of the Ten Rings (2021)
           - ID__000000808A # Shrek (2001)
           - ID__000273481A # Sicario (2015)
@@ -313,6 +326,7 @@ collections:
           - ID__000000558B # Spider-Man 2.1 (2004) [Extended edition]
           - ID__000634649A # Spider-Man: Far from Home (2019)
           - ID__000634649A # Spider-Man: No Way Home (2021)
+          - ID__000000129A # Spirited Away (2001)
           - ID__000381288A # Split (2016)
           - ID__000009488A # Spy Kids 2: Island of Lost Dreams (2002)
           - ID__000054138A # Star Trek Into Darkness (2013)
@@ -353,6 +367,7 @@ collections:
           - ID__000131631A # The Hunger Games: Mockingjay - Part 1 (2014)
           - ID__000131634A # The Hunger Games: Mockingjay - Part 2 (2015)
           - ID__000205596A # The Imitation Game (2014)
+          - ID__000009806A # The Incredibles (2004)
           - ID__000038575A # The Karate Kid (2010)
           - ID__000045269A # The King's Speech (2010)
           - ID__000025188A # The Last Picture Show (1971)

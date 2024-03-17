@@ -1,0 +1,23 @@
+metadata:
+  "Saboteur (1942) {tmdb-31997} {edition-Theatrical cut}":
+    match:
+      title: Saboteur
+      year: 1942
+      edition: Theatrical cut
+    sort_title: Saboteur (1942)
+    content_rating: gb/PG
+    country.sync: [United States of America]
+    director.sync: [Alfred Hitchcock]
+    genre.sync: [Thriller, War]
+    originally_available: 1942-04-22
+    producer.sync: [Frank Lloyd]
+    studio: Frank Lloyd Productions
+    summary: A young man accused of sabotage goes on the run to prove his innocence.
+    tagline: Unmasking the man behind your back!
+    writer.sync:
+      [Peter Viertel, Joan Harrison, Dorothy Parker, Alfred Hitchcock]
+    label: [ID__000031997A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

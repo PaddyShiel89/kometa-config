@@ -1,0 +1,22 @@
+metadata:
+  "The Lion King (1994) {tmdb-8587} {edition-Theatrical cut}":
+    match:
+      title: The Lion King
+      year: 1994
+      edition: Theatrical cut
+    sort_title: Lion King (1994) 001
+    content_rating: gb/U
+    country.sync: [United States of America]
+    director.sync: [Roger Allers, Rob Minkoff]
+    genre.sync: [Animation, Adventure, Drama, Family, Musical]
+    originally_available: 1994-06-12
+    producer.sync: [Don Hahn]
+    studio: Walt Disney Pictures
+    summary: Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.
+    tagline: The Circle of Life
+    writer.sync: [Irene Mecchi, Jonathan Roberts, Linda Woolverton]
+    label: [ID__000008587A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

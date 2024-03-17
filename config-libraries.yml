@@ -51,6 +51,7 @@ libraries:
       - repo: metadata/movies/Captain Marvel (2019) {tmdb-299537}
       - repo: metadata/movies/Cashback (2006) {tmdb-12225}
       - repo: metadata/movies/Casino (1995) {tmdb-524}
+      - repo: metadata/movies/Cathy Come Home (1966) {tmdb-263640}
       - repo: metadata/movies/Changeling (2008) {tmdb-3580}
       - repo: metadata/movies/Che Part One (2008) {tmdb-8881}
       - repo: metadata/movies/Che Part Two (2008) {tmdb-8880}
@@ -58,6 +59,7 @@ libraries:
       - repo: metadata/movies/City of God (2002) {tmdb-598}
       - repo: metadata/movies/Christine (1983) {tmdb-8769}
       - repo: metadata/movies/Constantine (2005) {tmdb-561}
+      - repo: metadata/movies/Cool Runnings (1993) {tmdb-864}
       - repo: metadata/movies/Crash (1996) {tmdb-884}
       - repo: metadata/movies/Crimes of the Future (2022) {tmdb-819876}
       - repo: metadata/movies/Day of the Woman (1978) {tmdb-25239}
@@ -78,6 +80,7 @@ libraries:
       - repo: metadata/movies/Fantastic Beasts and Where to Find Them (2016) {tmdb-259316}
       - repo: metadata/movies/Fantastic Beasts The Crimes of Grindelwald (2018) {tmdb-338952}
       - repo: metadata/movies/Fantastic Beasts The Secrets of Dumbledore (2022) {tmdb-338953}
+      - repo: metadata/movies/Farewell, My Queen (2012) {tmdb-99579}
       - repo: metadata/movies/Forgetting Sarah Marshall (2008) {tmdb-9870}
       - repo: metadata/movies/Freaked (1993) {tmdb-17796}
       - repo: metadata/movies/Friday the 13th (1980) {tmdb-4488}
@@ -87,6 +90,7 @@ libraries:
       - repo: metadata/movies/Ghost in the Shell (2017) {tmdb-315837}
       - repo: metadata/movies/Ghostbusters (1984) {tmdb-620}
       - repo: metadata/movies/Ghostbusters II (1989) {tmdb-2978}
+      - repo: metadata/movies/Gilda (1946) {tmdb-3767}
       - repo: metadata/movies/Gladiator (2000) {tmdb-98}
       - repo: metadata/movies/Glass (2019) {tmdb-450465}
       - repo: metadata/movies/Gone Girl (2014) {tmdb-210577}
@@ -110,6 +114,7 @@ libraries:
       - repo: metadata/movies/Immortals (2011) {tmdb-37958}
       - repo: metadata/movies/Import Export (2007) {tmdb-4998}
       - repo: metadata/movies/Inception (2010) {tmdb-27205}
+      - repo: metadata/movies/Inhale (2010) {tmdb-12645}
       - repo: metadata/movies/Interstellar (2014) {tmdb-157336}
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
       - repo: metadata/movies/It (2017) {tmdb-346364}
@@ -120,6 +125,7 @@ libraries:
       - repo: metadata/movies/John Wick Chapter 3 - Parabellum (2019) {tmdb-458156}
       - repo: metadata/movies/John Wick Chapter 4 (2023) {tmdb-603692}
       - repo: metadata/movies/Joker (2019) {tmdb-475557}
+      - repo: metadata/movies/Jolene (2008) {tmdb-43727}
       - repo: metadata/movies/Jurassic World Dominion (2022) {tmdb-507086}
       - repo: metadata/movies/King Kong (2005) {tmdb-254}
       - repo: metadata/movies/L.A. Confidential (1997) {tmdb-2118}
@@ -129,6 +135,7 @@ libraries:
       - repo: metadata/movies/Lawless (2012) {tmdb-82633}
       - repo: metadata/movies/Lawrence of Arabia (1962) {tmdb-947}
       - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
+      - repo: metadata/movies/Logan (2017) {tmdb-263115}
       - repo: metadata/movies/Ma mere (2004) {tmdb-48266}
       - repo: metadata/movies/Mad Max Fury Road (2015) {tmdb-76341}
       - repo: metadata/movies/Malena (2000) {tmdb-10867}
@@ -162,6 +169,7 @@ libraries:
       - repo: metadata/movies/Pride & Prejudice (2005) {tmdb-4348}
       - repo: metadata/movies/Psycho Goreman (2020) {tmdb-670428}
       - repo: metadata/movies/Raining Stones (1993) {tmdb-62463}
+      - repo: metadata/movies/Red Sparrow (2018) {tmdb-401981}
       - repo: metadata/movies/Renfield (2023) {tmdb-649609}
       - repo: metadata/movies/Requiem for a Dream (2000) {tmdb-641}
       - repo: metadata/movies/Resident Evil (2002) {tmdb-1576}
@@ -173,6 +181,7 @@ libraries:
       - repo: metadata/movies/Resident Evil Welcome to Raccoon City (2021) {tmdb-460458}
       - repo: metadata/movies/Return of the Jedi (1983) {tmdb-1892}
       - repo: metadata/movies/Rogue One A Star Wars Story {tmdb-330459}
+      - repo: metadata/movies/Saboteur (1942) {tmdb-31997}
       - repo: metadata/movies/Room in Rome (2010) {tmdb-48650}
       - repo: metadata/movies/Salt (2010) {tmdb-27576}
       - repo: metadata/movies/Scary Movie (2000) {tmdb-4247}
@@ -185,6 +194,7 @@ libraries:
       - repo: metadata/movies/Scream VI (2023) {tmdb-934433}
       - repo: metadata/movies/Secret Things (2002) {tmdb-35712}
       - repo: metadata/movies/Secretary (2002) {tmdb-11013}
+      - repo: metadata/movies/Shadow of a Doubt (1943) {tmdb-21734}
       - repo: metadata/movies/Shang-Chi and the Legend of the Ten Rings (2021) {tmdb-566525}
       - repo: metadata/movies/Shrek (2001) {tmdb-808}
       - repo: metadata/movies/Sicario (2015) {tmdb-273481}
@@ -197,6 +207,7 @@ libraries:
       - repo: metadata/movies/Spider-Man 2 (2004) {tmdb-558}
       - repo: metadata/movies/Spider-Man Far from Home (2019) {tmdb-429617}
       - repo: metadata/movies/Spider-Man No Way Home (2021) {tmdb-634649}
+      - repo: metadata/movies/Spirited Away (2001) {tmdb-129}
       - repo: metadata/movies/Split (2016) {tmdb-381288}
       - repo: metadata/movies/Spy Kids 2 The Island of Lost Dreams (2002) {tmdb-9488}
       - repo: metadata/movies/Star Trek Into Darkness (2013) {tmdb-54138}
@@ -247,10 +258,12 @@ libraries:
       - repo: metadata/movies/The Hunger Games Mockingjay - Part 1 (2014) {tmdb-131631}
       - repo: metadata/movies/The Hunger Games Mockingjay - Part 2 (2015) {tmdb-131634}
       - repo: metadata/movies/The Imitation Game (2014) {tmdb-205596}
+      - repo: metadata/movies/The Incredibles (2004) {tmdb-9806}
       - repo: metadata/movies/The Karate Kid (2010) {tmdb-38575}
       - repo: metadata/movies/The King's Speech (2010) {tmdb-45269}
       - repo: metadata/movies/The Last Picture Show (1971) {tmdb-25188}
       - repo: metadata/movies/The Lighthouse (2019) {tmdb-503919}
+      - repo: metadata/movies/The Lion King (1994) {tmdb-8587}
       - repo: metadata/movies/The Lobster (2015) {tmdb-254320}
       - repo: metadata/movies/The Look of Love (2013) {tmdb-158914}
       - repo: metadata/movies/The Lord of the Rings The Fellowship of the Ring (2001) {tmdb-120}

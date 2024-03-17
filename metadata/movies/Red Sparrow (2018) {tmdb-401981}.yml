@@ -1,0 +1,22 @@
+metadata:
+  "Red Sparrow (2018) {tmdb-401981} {edition-UK version}":
+    match:
+      title: Red Sparrow
+      year: 2018
+      edition: UK version
+    sort_title: Red Sparrow (2018) 001B
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [Francis Lawrence]
+    genre.sync: [Action, Drama, Thriller]
+    originally_available: 2018-02-19
+    producer.sync: [Peter Chernin, David Ready, Jenno Topping, Steven Zaillian]
+    studio: Chernin Entertainment
+    summary: Russian intelligence recruits a ballerina, forcing her to use her body as a weapon. Her first mission, targeting a C.I.A. agent, threatens to unravel the security of both nations.
+    tagline: The road to forgiveness begins with betrayal.
+    writer.sync: [Justin Haythe, Jason Matthews]
+    label: [ID__000401981B]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

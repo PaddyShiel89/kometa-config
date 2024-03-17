@@ -446,6 +446,16 @@ collections:
       - 131631 # The Hunger Games: Mockingjay - Part 1 (2014)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
 
+  Series__The Incredibles_2004:
+    template:
+      {
+        name: TMDB series label,
+        series_name: The Incredibles,
+        series_year: 2004,
+      }
+    tmdb_movie:
+      - 9806 # The Incredibles (2004)
+
   Series__The_Karate_Kid_2010:
     template:
       {
@@ -465,6 +475,12 @@ collections:
       }
     tmdb_movie:
       - 25188 # The Last Picture Show (1971)
+
+  Series__The Lion King_1994:
+    template:
+      { name: TMDB series label, series_name: The Lion King, series_year: 1994 }
+    tmdb_movie:
+      - 8587 # The Lion King (1994)
 
   Series__The_Lord_of_the_Rings_2001:
     template:
@@ -533,6 +549,11 @@ collections:
     tmdb_movie:
       - 617 # Wild Things
 
+  Series__Wolverine_2009:
+    template:
+      { name: TMDB series label, series_name: Wolverine, series_year: 2009 }
+    tmdb_movie:
+      - 263115 # Logan (2017)
   Series__X_2022:
     template: { name: TMDB series label, series_name: X, series_year: 2022 }
     tmdb_movie:
@@ -547,6 +568,7 @@ collections:
       - 36668 # X-Men: The Last Stand (2006)
       - 2080 # X-Men Origins: Wolverine (2009)
       - 49538 # X-Men: First Class (2011)
+      - 263115 # Logan (2017)
 
   "Series: 28 Days Later (2002)":
     template:
@@ -555,13 +577,6 @@ collections:
         title_list:
           - 28 Days Later (2002) 001
           - 28 Days Later (2002) 002
-
-  "Series: Amazing Spider-Man (2012)":
-    template:
-      - name: Series label
-        series: "Amazing Spider-Man (2012)"
-        title_list:
-          - Amazing Spider-Man (2012) 002
 
   "Series: Anchorman (2004)":
     template:
@@ -632,42 +647,12 @@ collections:
         title_list:
           - Get Him to the Greek (2010)
 
-  "Series: Harry Potter (2001)":
-    template:
-      - name: Series label
-        series: "Harry Potter (2001)"
-        title_list:
-          - Harry Potter (2001) 001
-          - Harry Potter (2001) 002
-          - Harry Potter (2001) 003
-          - Harry Potter (2001) 004
-          - Harry Potter (2001) 005
-          - Harry Potter (2001) 006
-          - Harry Potter (2001) 007
-          - Harry Potter (2001) 008
-
-  "Series: The Hobbit (2012)":
-    template:
-      - name: Series label
-        series: "The Hobbit (2012)"
-        title_list:
-          - Hobbit (2012) 001
-          - Hobbit (2012) 002
-          - Hobbit (2012) 003
-
   "Series: Hot Tub Time Machine (2010)":
     template:
       - name: Series label
         series: "Hot Tub Time Machine (2010)"
         title_list:
           - Hot Tub Time Machine (2010)
-
-  "Series: The Incredible Hulk (2008)":
-    template:
-      - name: Series label
-        series: "The Incredible Hulk (2008)"
-        title_list:
-          - Incredible Hulk (2008) 001
 
   "Series: The Incredibles (2004)":
     template:
@@ -685,37 +670,6 @@ collections:
           - Indiana Jones (1981) 002
           - Indiana Jones (1981) 003
           - Indiana Jones (1981) 004
-
-  "Series: James Bond (Eon Productions)":
-    template:
-      - name: Series label
-        series: "James Bond (Eon Productions)"
-        title_list:
-          - Casino Royale (2006)
-          - Diamonds Are Forever (1971)
-          - Die Another Day (2002)
-          - Dr. No (1962)
-          - Goldfinger (1964)
-          - GoldenEye (1995)
-          - For Your Eyes Only (1981)
-          - From Russia with Love (1963)
-          - Licence to Kill (1989)
-          - Live and Let Die (1973)
-          - Living Daylights (1987)
-          - Man with the Golden Gun (1974)
-          - Moonraker (1979)
-          - No Time to Die (2021)
-          - Octopussy (1983)
-          - On Her Majesty's Secret Service (1969)
-          - Quantum of Solace (2008)
-          - Skyfall (2012)
-          - Spectre (2015)
-          - Spy Who Loved Me (1977)
-          - Thunderball (1965)
-          - Tomorrow Never Dies (1997)
-          - You Only Live Twice (1967)
-          - View to a Kill (1985)
-          - World is Not Enough (1999)
 
   "Series: Jurassic Park (1993)":
     template:
@@ -893,13 +847,6 @@ collections:
         title_list:
           - Sin City (2005) 001
           - Sin City (2005) 002
-
-  "Series: Suicide Squad (2016)":
-    template:
-      - name: Series label
-        series: "Suicide Squad (2016)"
-        title_list:
-          - Suicide Squad (2021)
 
   "Series: Taken (2008)":
     template:

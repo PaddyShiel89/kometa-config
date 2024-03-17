@@ -30,6 +30,7 @@ collections:
           - ID__000001891C # The Empire Strikes Back (1980) [DVD cut]
           - ID__000001891D # The Empire Strikes Back (1980) [Blu-ray cut]
           - ID__000001891E # The Empire Strikes Back (1980) [Despecialized edition]
+          - ID__000009806A # The Incredibles (2004)
           - ID__000045269A # The King's Speech (2010)
 
   BBFC injury detail lvl 2:
@@ -53,6 +54,7 @@ collections:
           - ID__000000022A # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
           - ID__000330459A # Rogue One: A Star Wars Story (2016)
           - ID__000348350A # Solo: A Star Wars Story (2018)
+          - ID__000000129A # Spirited Away (2001)
           - ID__000000558A # Spider-Man 2 (2004) [Theatrical cut]
           - ID__000000558B # Spider-Man 2.1 (2004) [Extended edition]
           - ID__000634649A # Spider-Man: Far from Home (2019)
@@ -92,6 +94,7 @@ collections:
           - ID__000068721A # Iron Man 3 (2013)
           - ID__000346364A # It (2017)
           - ID__000603692A # John Wick: Chapter 4 (2023)
+          - ID__000263115A # Logan (2017)
           - ID__000566525A # Shang-Chi and the Legend of the Ten Rings (2021)
           - ID__000018785A # The Hangover (2009) [Theatrical cut]
           - ID__000018785B # The Hangover (2009) [Uncut version]

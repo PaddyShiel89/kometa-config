@@ -13,6 +13,7 @@ collections:
         label:
           - ID__000001585A # It's a Wonderful Life (1946) [edition-Theatrical cut]
           - ID__000001585B # It's a Wonderful Life (1946) [edition-Colourised]
+          - ID__000009806A # The Incredibles (2004)
 
   BBFC suicide lvl 2:
     template:

@@ -15,6 +15,7 @@ collections:
           - ID__000020352A # Despicable Me (2010)
           - ID__000338952A # Fantastic Beasts: The Crimes of Grindelwald (2018)
           - ID__000000808A # Shrek (2001)
+          - ID__000000129A # Spirited Away (2001)
           - ID__000000011A # Star Wars (1977) [Theatrical cut]
           - ID__000000011B # Star Wars (1977) [Special edition]
           - ID__000000011C # Star Wars (1977) [DVD cut]
@@ -26,6 +27,7 @@ collections:
           - ID__000012180A # Star Wars: The Clone Wars (2008)
           - ID__000140607A # Star Wars: The Force Awakens (2015)
           - ID__000070160A # The Hunger Games (2012)
+          - ID__000009806A # The Incredibles (2004)
 
   BBFC language lvl 2:
     template:
@@ -125,6 +127,7 @@ collections:
           - ID__000346364A # It (2017)
           - ID__000603692A # John Wick: Chapter 4 (2023)
           - ID__000475557A # Joker (2019)
+          - ID__000263115A # Logan (2017)
           - ID__000762504A # Nope (2022)
           - ID__000649609A # Renfield (2023)
           - ID__000000424A # Schindler's List (1993)

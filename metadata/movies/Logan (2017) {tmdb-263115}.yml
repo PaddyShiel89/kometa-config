@@ -1,0 +1,18 @@
+metadata:
+  "Logan (2017) {tmdb-263115} {edition-Theatrical cut}":
+    match:
+      title: Logan
+      year: 2017
+      edition: Theatrical cut
+    sort_title: Logan (2017) 001
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [James Mangold]
+    genre.sync: [Action, Drama, Science Fiction, Thriller]
+    originally_available: 2017-02-17
+    producer.sync: [Simon Kinberg, Hutch Parker, Lauren Shuler Donner]
+    studio: Marvel Entertainment
+    summary: In a future where mutants are nearly extinct, a weary Logan leads a quiet life. But when a mutant child pursued by scientists comes to him for help, he must get her to safety.
+    tagline: His time has come
+    writer.sync: [James Mangold, Scott Frank, Michael Green]
+    label: [ID__000263115A]

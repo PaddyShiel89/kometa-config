@@ -1,0 +1,23 @@
+metadata:
+  "Cool Runnings (1993) {tmdb-864} {edition-Theatrical cut}":
+    match:
+      title: Cool Runnings
+      year: 1993
+      edition: Theatrical cut
+    sort_title: Cool Runnings (1993)
+    content_rating: gb/PG
+    country.sync: [United States of America]
+    director.sync: [Jon Turteltaub]
+    genre.sync: [Comedy, Family, History, Sport]
+    originally_available: 1993-10-01
+    producer.sync: [Dawn Steel]
+    studio: Walt Disney Pictures
+    summary: When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the help of a dishonoured coach to start the first Jamaican Bobsled Team.
+    tagline: One dream. Four Jamaicans. Twenty below zero.
+    writer.sync:
+      [Lynn Siefert, Michael Ritchie, Tommy Swerdlow, Michael Goldberg]
+    label: [ID__000000864A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

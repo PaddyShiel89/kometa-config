@@ -28,11 +28,3 @@ collections:
       filepath.not:
         - Robot Chicken (2005) # Filepath is 2005, whereas sort_title is 2001
     schedule: weekly(saturday)
-
-  "Theme: based on a true story":
-    template:
-      - name: imdb_keyword_list
-        keyword: based-on-true-story
-      - name: Theme label (external source)
-        theme: based on a true story
-    schedule: weekly(sunday)

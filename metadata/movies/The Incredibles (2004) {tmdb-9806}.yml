@@ -1,0 +1,18 @@
+metadata:
+  "The Incredibles (2004) {tmdb-9806} {edition-Theatrical cut}":
+    match:
+      title: The Incredibles
+      year: 2004
+      edition: Theatrical cut
+    sort_title: Incredibles (2004) 001
+    content_rating: gb/U
+    country.sync: [Japan, United States of America]
+    director.sync: [Brad Bird]
+    genre.sync: [Animation, Action, Adventure, Family]
+    originally_available: 2004-10-27
+    producer.sync: [John Walker]
+    studio: Pixar Animation Studios
+    summary: While trying to lead a quiet suburban life, a family of undercover superheroes is forced into action to save the world.
+    tagline: Save The Day
+    writer.sync: [Brad Bird]
+    label: [ID__000009806A]
