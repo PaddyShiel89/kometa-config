@@ -3,17 +3,6 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
-  Christmas:
-    template:
-      - name: Theme
-        summary: "set primarily at Christmastime."
-    smart_filter:
-      any:
-        label:
-          - Theme__christmas
-      sort_by: title.asc
-    visible_home: range(11/24-01/7)
-
   "Found Footage & Mockumentary":
     template:
       - name: Theme
@@ -178,6 +167,17 @@ collections:
       sort_by: title.asc
     summary: Movies based on the written works of horror author Stephen King.
 
+  # ------------------------------- 02: Subgenre ------------------------------- #
+
+  Christmas:
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__christmas
+      sort_by: title.asc
+    summary: Movies that are set at Christmas, feature Christmas as an important part of the plot, or are otherwise Christmas-themed.
+
   # ---------------------------- 03: Horror subgenre --------------------------- #
 
   Alien Horror:
@@ -190,3 +190,18 @@ collections:
         genre: Horror
       sort_by: title.asc
     summary: Movies in the horror genre featuring aliens, typically as the primary antagonist.
+
+  # ---------------------------------------------------------------------------- #
+  #                             Seasonal collections                             #
+  # ---------------------------------------------------------------------------- #
+
+  Christmas Movies:
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__christmas
+      sort_by: title.asc
+    summary: Movies that are set at Christmas, feature Christmas as an important part of the plot, or are otherwise Christmas-themed.
+    visible_home: range(12/1-01/7)
+    delete_not_scheduled: true

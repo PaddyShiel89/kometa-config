@@ -43,7 +43,7 @@ templates:
             value: "02"
           - subsection: horror_subgenre
             value: "03"
-          # Horror
+          # Old horror collections
           - collection_name:
               [
                 Psychological Horror,
@@ -53,6 +53,8 @@ templates:
                 Zombies,
               ]
             value: "03"
+          - subsection: seasonal
+            value: "zz"
     collection_mode: hide
     sort_title: "!08_<<subsection_order>>_<<collection_name>>"
     sync_mode: sync
