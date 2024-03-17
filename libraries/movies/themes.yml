@@ -3,27 +3,6 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
-  Slasher:
-    template:
-      - name: Theme
-        summary: "involving a killer stalking and murdering a group of people, usually by use of bladed tools. Slashers typically adhere to a specific formula: a past wrongful action causes severe trauma that is reinforced by a commemoration or anniversary that reactivates or re-inspires the killer."
-    smart_filter:
-      all:
-        any:
-          label:
-            - Theme__slasher
-      sort_by: title.asc
-
-  Splatter:
-    template:
-      - name: Theme
-        summary: "that deliberately focuses on graphic portrayals of gore and graphic violence. These films, usually through the use of special effects, display a fascination with the vulnerability of the human body and the theatricality of its mutilation."
-    smart_filter:
-      any:
-        label:
-          - Theme__splatter
-      sort_by: title.asc
-
   Supernatural Horror:
     template:
       - name: Theme
@@ -193,6 +172,15 @@ collections:
           - Theme__slasher
       sort_by: title.asc
     summary: "Movies involving a killer stalking and murdering a group of people, usually by use of bladed tools. Slashers typically adhere to a specific formula: a past wrongful action causes severe trauma that is reinforced by a commemoration or anniversary that reactivates or re-inspires the killer."
+
+  Splatter:
+    template: { name: Theme collection, subsection: horror_subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__splatter
+      sort_by: title.asc
+    summary: Movies that deliberately focuses on graphic portrayals of gore and graphic violence. These films, usually through the use of special effects, display a fascination with the vulnerability of the human body and the theatricality of its mutilation.
 
   # ---------------------------------------------------------------------------- #
   #                             Seasonal collections                             #

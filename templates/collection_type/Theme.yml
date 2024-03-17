@@ -44,7 +44,7 @@ templates:
           - subsection: horror_subgenre
             value: "03"
           # Old horror collections
-          - collection_name: [Splatter, Supernatural Horror, Zombies]
+          - collection_name: [Supernatural Horror, Zombies]
             value: "03"
           - subsection: seasonal
             value: "zz"
