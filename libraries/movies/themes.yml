@@ -185,6 +185,15 @@ collections:
       sort_by: title.asc
     summary: Movies in the horror genre with a particular focus on mental, emotional, and psychological states to frighten, disturb, or unsettle its audience.
 
+  Slasher:
+    template: { name: Theme collection, subsection: horror_subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__slasher
+      sort_by: title.asc
+    summary: "Movies involving a killer stalking and murdering a group of people, usually by use of bladed tools. Slashers typically adhere to a specific formula: a past wrongful action causes severe trauma that is reinforced by a commemoration or anniversary that reactivates or re-inspires the killer."
+
   # ---------------------------------------------------------------------------- #
   #                             Seasonal collections                             #
   # ---------------------------------------------------------------------------- #
