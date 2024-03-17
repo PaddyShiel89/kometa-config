@@ -46,7 +46,6 @@ templates:
           # Horror
           - collection_name:
               [
-                Alien Horror,
                 Psychological Horror,
                 Slasher,
                 Splatter,

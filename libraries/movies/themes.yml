@@ -3,18 +3,6 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
-  Alien Horror:
-    template:
-      - name: Theme
-        summary: "in the horror genre featuring aliens as the primary antagonist."
-    smart_filter:
-      all:
-        any:
-          label:
-            - Theme__aliens
-        genre: Horror
-      sort_by: title.asc
-
   Christmas:
     template:
       - name: Theme
@@ -134,15 +122,11 @@ collections:
           - Theme__zombies
       sort_by: title.asc
 
-  # ----------------------- Updated template collections ----------------------- #
+  # ---------------------------------------------------------------------------- #
+  #                         Updated template collections                         #
+  # ---------------------------------------------------------------------------- #
 
-  Based on a Videogame:
-    template: { name: Theme collection, subsection: based_on }
-    smart_filter:
-      all:
-        label: Theme__based_on_videogames
-      sort_by: title.asc
-    summary: Movies based, however loosely, on videogames.
+  # --------------------------------- 00: Meta --------------------------------- #
 
   Female Protagonist:
     template: { name: Theme collection, subsection: meta }
@@ -176,6 +160,16 @@ collections:
       sort_by: duration.asc
     summary: Movies no longer than 100 minutes in length, ordered from shortest to longest.
 
+  # ------------------------------- 01: Based on ------------------------------- #
+
+  Based on a Videogame:
+    template: { name: Theme collection, subsection: based_on }
+    smart_filter:
+      all:
+        label: Theme__based_on_videogames
+      sort_by: title.asc
+    summary: Movies based, however loosely, on videogames.
+
   Stephen King:
     template: { name: Theme collection, subsection: based_on }
     smart_filter:
@@ -183,3 +177,16 @@ collections:
         label: Theme__based_on_works_by_stephen_king
       sort_by: title.asc
     summary: Movies based on the written works of horror author Stephen King.
+
+  # ---------------------------- 03: Horror subgenre --------------------------- #
+
+  Alien Horror:
+    template: { name: Theme collection, subsection: horror_subgenre }
+    smart_filter:
+      all:
+        any:
+          label:
+            - Theme__aliens
+        genre: Horror
+      sort_by: title.asc
+    summary: Movies in the horror genre featuring aliens, typically as the primary antagonist.
