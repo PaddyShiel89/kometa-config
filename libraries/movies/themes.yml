@@ -3,16 +3,6 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
-  Martial Arts:
-    template:
-      - name: Theme
-        summary: "prominently featuring martial arts."
-    smart_filter:
-      any:
-        label:
-          - Theme__martial_arts
-      sort_by: title.asc
-
   Murder Mystery:
     template:
       - name: Theme
@@ -176,6 +166,15 @@ collections:
           - Theme__mockumentary
       sort_by: title.asc
     summary: Movies depicting fictional events but presented as a documentary.
+
+  Martial Arts:
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__martial_arts
+      sort_by: title.asc
+    summary: Movies prominently featuring martial arts.
 
   # ---------------------------- 03: Horror subgenre --------------------------- #
 
