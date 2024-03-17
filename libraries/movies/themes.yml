@@ -12,7 +12,6 @@ collections:
         any:
           label:
             - Theme__aliens
-            - "theme: aliens"
         genre: Horror
       sort_by: title.asc
 
@@ -24,7 +23,6 @@ collections:
       any:
         label:
           - Theme__christmas
-          - "theme: christmas"
       sort_by: title.asc
     visible_home: range(11/24-01/7)
 
@@ -36,7 +34,6 @@ collections:
       any:
         label:
           - Theme__mockumentary
-          - "theme: mockumentary"
       sort_by: title.asc
 
   Martial Arts:
@@ -47,7 +44,6 @@ collections:
       any:
         label:
           - Theme__martial_arts
-          - "theme: martial arts"
       sort_by: title.asc
 
   Murder Mystery:
@@ -58,7 +54,6 @@ collections:
       any:
         label:
           - Theme__murder_mystery
-          - "theme: murder mystery"
       sort_by: title.asc
 
   Noir:
@@ -70,7 +65,6 @@ collections:
         label:
           - Theme__film_noir
           - Theme__neo_noir
-          - "theme: neo-noir"
       sort_by: title.asc
 
   Parodies and Spoofs:
@@ -82,7 +76,6 @@ collections:
         label:
           - Theme__parody
           - Theme__spoof
-          - "theme: spoof"
       sort_by: title.asc
 
   Psychological Horror:
@@ -128,8 +121,6 @@ collections:
           label:
             - Theme__magic
             - Theme__supernatural
-            - "theme: magic"
-            - "theme: supernatural"
         genre: Horror
       sort_by: title.asc
 
@@ -141,7 +132,6 @@ collections:
       any:
         label:
           - Theme__zombies
-          - "theme: zombies"
       sort_by: title.asc
 
   # ----------------------- Updated template collections ----------------------- #
