@@ -3,17 +3,6 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
-  Parodies and Spoofs:
-    template:
-      - name: Theme
-        summary: "that parody another film or spoof a genre."
-    smart_filter:
-      any:
-        label:
-          - Theme__parody
-          - Theme__spoof
-      sort_by: title.asc
-
   Psychological Horror:
     template:
       - name: Theme
@@ -137,7 +126,7 @@ collections:
       sort_by: title.asc
     summary: Movies that are set at Christmas, feature Christmas as an important part of the plot, or are otherwise Christmas-themed.
 
-  "Found Footage & Mockumentary":
+  Found Footage and Mockumentary:
     template: { name: Theme collection, subsection: subgenre }
     smart_filter:
       all:
@@ -173,6 +162,16 @@ collections:
           - Theme__neo_noir
       sort_by: title.asc
     summary: Movies in the crime genre associated with a low-key, often black-and-white visual style and which emphasize cynical attitudes and motivations. Also includes subgenres and offshoots of film noir, such as neo-noir.
+
+  Parodies and Spoofs:
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      any:
+        label:
+          - Theme__parody
+          - Theme__spoof
+      sort_by: title.asc
+    summary: Movies that parody another film or spoof a genre.
 
   # ---------------------------- 03: Horror subgenre --------------------------- #
 
