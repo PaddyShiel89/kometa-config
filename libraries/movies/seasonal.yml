@@ -1,0 +1,15 @@
+external_templates:
+  - repo: templates/collection_type/Theme
+
+collections:
+  # ------------------------ December 1st => January 7th ----------------------- #
+  Christmas Movies:
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__christmas
+      sort_by: title.asc
+    summary: Movies that are set at Christmas, feature Christmas as an important part of the plot, or are otherwise Christmas-themed.
+    visible_home: range(12/1-01/7)
+    delete_not_scheduled: true

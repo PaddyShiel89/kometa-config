@@ -1,6 +1,5 @@
 external_templates:
   - repo: templates/collection_type/Theme
-  - repo: templates/source/IMDb
 
 collections:
   # --------------------------------- 00: Meta --------------------------------- #
@@ -177,18 +176,3 @@ collections:
         genre: Horror
       sort_by: title.asc
     summary: Movies in the horror genre featuring zombies, typically as the primary antagonists.
-
-  # ---------------------------------------------------------------------------- #
-  #                             Seasonal collections                             #
-  # ---------------------------------------------------------------------------- #
-
-  Christmas Movies:
-    template: { name: Theme collection, subsection: subgenre }
-    smart_filter:
-      all:
-        label:
-          - Theme__christmas
-      sort_by: title.asc
-    summary: Movies that are set at Christmas, feature Christmas as an important part of the plot, or are otherwise Christmas-themed.
-    visible_home: range(12/1-01/7)
-    delete_not_scheduled: true
