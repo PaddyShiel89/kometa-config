@@ -3,19 +3,6 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
-  Supernatural Horror:
-    template:
-      - name: Theme
-        summary: "in the horror genre primarily featuring phenomena that are outside the realm of scientific explanation, such as ghosts, magic, angels & demons, and the soul."
-    smart_filter:
-      all:
-        any:
-          label:
-            - Theme__magic
-            - Theme__supernatural
-        genre: Horror
-      sort_by: title.asc
-
   Zombies:
     template:
       - name: Theme
@@ -181,6 +168,18 @@ collections:
           - Theme__splatter
       sort_by: title.asc
     summary: Movies that deliberately focuses on graphic portrayals of gore and graphic violence. These films, usually through the use of special effects, display a fascination with the vulnerability of the human body and the theatricality of its mutilation.
+
+  Supernatural Horror:
+    template: { name: Theme collection, subsection: horror_subgenre }
+    smart_filter:
+      all:
+        any:
+          label:
+            - Theme__magic
+            - Theme__supernatural
+        genre: Horror
+      sort_by: title.asc
+    summary: Movies in the horror genre primarily featuring phenomena that are outside the realm of scientific explanation, such as ghosts, magic, angels & demons, and the soul.
 
   # ---------------------------------------------------------------------------- #
   #                             Seasonal collections                             #
