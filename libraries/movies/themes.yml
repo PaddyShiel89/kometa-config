@@ -3,16 +3,6 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
-  "Found Footage & Mockumentary":
-    template:
-      - name: Theme
-        summary: "depicting fictional events but presented as a documentary."
-    smart_filter:
-      any:
-        label:
-          - Theme__mockumentary
-      sort_by: title.asc
-
   Martial Arts:
     template:
       - name: Theme
@@ -177,6 +167,15 @@ collections:
           - Theme__christmas
       sort_by: title.asc
     summary: Movies that are set at Christmas, feature Christmas as an important part of the plot, or are otherwise Christmas-themed.
+
+  "Found Footage & Mockumentary":
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__mockumentary
+      sort_by: title.asc
+    summary: Movies depicting fictional events but presented as a documentary.
 
   # ---------------------------- 03: Horror subgenre --------------------------- #
 
