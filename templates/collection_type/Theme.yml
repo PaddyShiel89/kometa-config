@@ -43,9 +43,6 @@ templates:
             value: "02"
           - subsection: horror_subgenre
             value: "03"
-          # Old horror collections
-          - collection_name: [Zombies]
-            value: "03"
           - subsection: seasonal
             value: "zz"
     collection_mode: hide

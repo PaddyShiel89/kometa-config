@@ -3,20 +3,6 @@ external_templates:
   - repo: templates/source/IMDb
 
 collections:
-  Zombies:
-    template:
-      - name: Theme
-        summary: "prominently featuring zombies."
-    smart_filter:
-      any:
-        label:
-          - Theme__zombies
-      sort_by: title.asc
-
-  # ---------------------------------------------------------------------------- #
-  #                         Updated template collections                         #
-  # ---------------------------------------------------------------------------- #
-
   # --------------------------------- 00: Meta --------------------------------- #
 
   Female Protagonist:
@@ -180,6 +166,17 @@ collections:
         genre: Horror
       sort_by: title.asc
     summary: Movies in the horror genre primarily featuring phenomena that are outside the realm of scientific explanation, such as ghosts, magic, angels & demons, and the soul.
+
+  Zombies:
+    template: { name: Theme collection, subsection: horror_subgenre }
+    smart_filter:
+      all:
+        any:
+          label:
+            - Theme__zombies
+        genre: Horror
+      sort_by: title.asc
+    summary: Movies in the horror genre featuring zombies, typically as the primary antagonists.
 
   # ---------------------------------------------------------------------------- #
   #                             Seasonal collections                             #
