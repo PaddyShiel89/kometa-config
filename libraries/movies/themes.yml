@@ -154,6 +154,14 @@ collections:
       sort_by: title.asc
     summary: Movies based, however loosely, on videogames.
 
+  Female Protagonist:
+    template: { name: Theme collection, subsection: meta }
+    smart_filter:
+      all:
+        label: Theme__female protagonist
+      sort_by: title.asc
+    summary: Movies featuring either a solo protagonist who is a woman, or multiple protagonists who are all women.
+
   Foreign Language:
     template: { name: Theme collection, subsection: meta }
     smart_filter:
