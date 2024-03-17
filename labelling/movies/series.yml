@@ -549,6 +549,11 @@ collections:
     tmdb_movie:
       - 617 # Wild Things
 
+  Series__Wolverine_2009:
+    template:
+      { name: TMDB series label, series_name: Wolverine, series_year: 2009 }
+    tmdb_movie:
+      - 263115 # Logan (2017)
   Series__X_2022:
     template: { name: TMDB series label, series_name: X, series_year: 2022 }
     tmdb_movie:
@@ -563,6 +568,7 @@ collections:
       - 36668 # X-Men: The Last Stand (2006)
       - 2080 # X-Men Origins: Wolverine (2009)
       - 49538 # X-Men: First Class (2011)
+      - 263115 # Logan (2017)
 
   "Series: 28 Days Later (2002)":
     template:

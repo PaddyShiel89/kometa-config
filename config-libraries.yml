@@ -135,6 +135,7 @@ libraries:
       - repo: metadata/movies/Lawless (2012) {tmdb-82633}
       - repo: metadata/movies/Lawrence of Arabia (1962) {tmdb-947}
       - repo: metadata/movies/Leon The Professional (1994) {tmdb-101}
+      - repo: metadata/movies/Logan (2017) {tmdb-263115}
       - repo: metadata/movies/Ma mere (2004) {tmdb-48266}
       - repo: metadata/movies/Mad Max Fury Road (2015) {tmdb-76341}
       - repo: metadata/movies/Malena (2000) {tmdb-10867}
@@ -168,6 +169,7 @@ libraries:
       - repo: metadata/movies/Pride & Prejudice (2005) {tmdb-4348}
       - repo: metadata/movies/Psycho Goreman (2020) {tmdb-670428}
       - repo: metadata/movies/Raining Stones (1993) {tmdb-62463}
+      - repo: metadata/movies/Red Sparrow (2018) {tmdb-401981}
       - repo: metadata/movies/Renfield (2023) {tmdb-649609}
       - repo: metadata/movies/Requiem for a Dream (2000) {tmdb-641}
       - repo: metadata/movies/Resident Evil (2002) {tmdb-1576}
