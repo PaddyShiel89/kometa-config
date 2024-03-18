@@ -18,6 +18,21 @@ collections:
       sort_by: title.asc
     summary: Star Wars Day is an informal commemorative day observed annually on May 4th to celebrate the Star Wars media franchise created by filmmaker George Lucas.
 
+  # ------------------------ October 1st => October 31st ----------------------- #
+
+  Spooky Season Movies:
+    template:
+      {
+        name: Seasonal collection,
+        subsection: seasonal,
+        schedule: range(10/01-10/31),
+      }
+    smart_filter:
+      all:
+        genre: Horror
+      sort_by: random
+    summary: Movies set during or related to Hallowe'en, as well as movies that are just plain scary.
+
   # ------------------------ December 1st => January 7th ----------------------- #
   Christmas Movies:
     template:
