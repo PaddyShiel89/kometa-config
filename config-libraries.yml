@@ -2,6 +2,15 @@ libraries:
   Movies:
     operations:
       assets_for_all: true
+      content_rating_mapper:
+        "gb/12A": "gb/12"
+      genre_mapper:
+        Biography: Biopic
+        Sci-Fi: Science Fiction
+        Documentary:
+        Martial Arts:
+        Music:
+        Suspense:
     metadata_files:
       - repo: metadata/movies/21 Grams (2003) {tmdb-470}
       - repo: metadata/movies/127 Hours (2010) {tmdb-44115}
