@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Spider-Man 2 (2004) {tmdb-558} {edition-Theatrical cut}":
     match:
@@ -37,10 +34,3 @@ metadata:
     tagline: This summer a man will face his destiny. A hero will be revealed.
     writer.sync: [Alfred Gough, Miles Millar, Michael Chabon, Alvin Sargent]
     label: [ID__000000558B]
-
-collections:
-  Spider-Man 2:
-    template: { name: Edition }
-    tmdb_movie: 558
-    sort_title: Spider-Man (2002) 002
-    summary: "Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius."

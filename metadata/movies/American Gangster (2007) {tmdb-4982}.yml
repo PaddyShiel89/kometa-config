@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "American Gangster (2007) {tmdb-4982} {edition-Theatrical cut}":
     match:
@@ -37,10 +34,3 @@ metadata:
     tagline: "There are two sides to the American dream."
     writer.sync: [Steven Zaillian, Mark Jacobson]
     label: [ID__000004982B]
-
-collections:
-  American Gangster:
-    template: { name: Edition }
-    tmdb_movie: 4982
-    sort_title: American Gangster (2007) 001
-    summary: "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas."

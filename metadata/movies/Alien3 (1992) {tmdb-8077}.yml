@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Alien³ (1992) {tmdb-8077} {edition-Theatrical cut}":
     match:
@@ -37,13 +34,6 @@ metadata:
     tagline: "3 times the suspense. 3 times the danger. 3 times the terror."
     writer.sync: [Vincent Ward, David Giler, Walter Hill, Larry Ferguson]
     label: [ID__000008077B]
-
-collections:
-  "Alien³":
-    template: { name: Edition }
-    tmdb_movie: 8077
-    sort_title: Alien (1979) 003
-    summary: "Ellen Ripley crash-lands on Fiorina 161, a maximum security prison. When a series of strange and deadly events occur shortly after her arrival, Ripley realises she has brought an unwelcome visitor."
 # ----------------------------------- Notes ---------------------------------- #
 
 # TODO - No content rating labels added. Overview scale ratings not currently

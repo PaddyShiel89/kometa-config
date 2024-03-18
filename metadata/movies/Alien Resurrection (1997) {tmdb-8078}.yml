@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Alien Resurrection (1997) {tmdb-8078} {edition-Theatrical cut}":
     match:
@@ -37,13 +34,6 @@ metadata:
     tagline: "Witness the resurrection."
     writer.sync: [Joss Whedon]
     label: [ID__000008078B]
-
-collections:
-  Alien Resurrection:
-    template: { name: Edition }
-    tmdb_movie: 8078
-    sort_title: Alien (1979) 004
-    summary: "Two-hundred years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must stop the xenomorphs from reaching Earth."
 # ----------------------------------- Notes ---------------------------------- #
 
 # TODO - No content rating labels added. Overview scale ratings not currently

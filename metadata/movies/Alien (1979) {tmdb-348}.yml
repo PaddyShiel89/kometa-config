@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Alien (1979) {tmdb-348} {edition-Theatrical cut}":
     match:
@@ -37,10 +34,3 @@ metadata:
     tagline: In space no one can hear you scream.
     writer.sync: [Dan O'Bannon, Dan O'Bannon, Ronald Shusett]
     label: [ID__000000348B]
-
-collections:
-  Alien:
-    template: { name: Edition }
-    tmdb_movie: 348
-    sort_title: Alien (1979) 001
-    summary: "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission."

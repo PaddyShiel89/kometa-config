@@ -1,0 +1,183 @@
+external_templates:
+  - repo: templates/metadata/Edition
+
+collections:
+  Alien:
+    template: { name: Edition }
+    tmdb_movie: 348
+    sort_title: Alien (1979) 001
+    summary: "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission."
+
+  Alien Resurrection:
+    template: { name: Edition }
+    tmdb_movie: 8078
+    sort_title: Alien (1979) 004
+    summary: "Two-hundred years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must stop the xenomorphs from reaching Earth."
+
+  "Alien³":
+    template: { name: Edition }
+    tmdb_movie: 8077
+    sort_title: Alien (1979) 003
+    summary: "Ellen Ripley crash-lands on Fiorina 161, a maximum security prison. When a series of strange and deadly events occur shortly after her arrival, Ripley realises she has brought an unwelcome visitor."
+
+  Aliens:
+    template: { name: Edition }
+    tmdb_movie: 679
+    sort_title: Alien (1979) 002
+    summary: "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Ripley awakens from hyper-sleep and tries to warn the Company about the predators."
+
+  American Gangster:
+    template: { name: Edition }
+    tmdb_movie: 4982
+    sort_title: American Gangster (2007) 001
+    summary: "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas."
+
+  Apocalypse Now:
+    template: { name: Edition }
+    tmdb_movie: 28
+    sort_title: Apocalypse Now (1979) 001
+    summary: A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.
+
+  Gladiator:
+    template: { name: Edition }
+    tmdb_movie: 98
+    sort_title: Gladiator (2000) 001
+    summary: "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+
+  Halloween Kills:
+    template: { name: Edition }
+    tmdb_movie: 610253
+    sort_title: Halloween (2018) 002
+    summary: "Surviving victims of Michael Myers form a vigilante mob and vow to end his reign of terror."
+
+  It's a Wonderful Life:
+    template: { name: Edition }
+    tmdb_movie: 1585
+    sort_title: It's a Wonderful Life (1946) 001
+    summary: An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.
+
+  Jurassic World Dominion:
+    template: { name: Edition }
+    tmdb_movie: 507086
+    sort_title: Jurassic World (2015) 003
+    summary: Four years after the destruction of Isla Nublar, Biosyn attempts to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.
+
+  King Kong:
+    template: { name: Edition }
+    tmdb_movie: 254
+    sort_title: King Kong (2005) 001
+    summary: A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.
+
+  "Léon: The Professional":
+    template: { name: Edition }
+    tmdb_movie: 101
+    sort_title: "Leon: The Professional (1994) 001"
+    summary: "12-year-old Mathilda is reluctantly taken in by Léon - a professional assassin - after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade."
+
+  "Malèna":
+    template: { name: Edition }
+    tmdb_movie: 10867
+    sort_title: Malena (2000) 001
+    summary: "Amidst the war climate, a teenage boy discovering himself becomes love-stricken by Malèna - a sensual woman living in a small, narrow-minded Italian town."
+
+  Police Story 2:
+    template: { name: Edition }
+    tmdb_movie: 10753
+    sort_title: Police Story (1985) 002
+    summary: "The Hong Kong supercop must stop a group of blackmailing bombers while old enemies are out for revenge."
+
+  Salt:
+    template: { name: Edition }
+    tmdb_movie: 27576
+    sort_title: Salt (2010) 001
+    summary: "A CIA agent goes on the run after a defector accuses her of being a Russian spy."
+
+  Spider-Man 2:
+    template: { name: Edition }
+    tmdb_movie: 558
+    sort_title: Spider-Man (2002) 002
+    summary: "Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius."
+
+  "Star Wars: Episode I - The Phantom Menace":
+    template: { name: Edition }
+    tmdb_movie: 1893
+    sort_title: "Star Wars 001"
+    summary: "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long-dormant Sith resurface to claim their original glory."
+
+  "Star Wars: Episode II - Attack of the Clones":
+    template: { name: Edition }
+    tmdb_movie: 1894
+    sort_title: Star Wars 002
+    summary: "Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi investigates an assassination attempt on the senator and discovers a secret clone army crafted for the Jedi."
+
+  "Star Wars: Episode III - Revenge of the Sith":
+    template: { name: Edition }
+    tmdb_movie: 1895
+    sort_title: Star Wars 003
+    summary: "Three years into the Clone Wars, Obi-Wan pursues a new threat, while Chancellor Palpatine lures Anakin into a sinister plot to rule the galaxy."
+
+  "Star Wars: Episode IV - A New Hope":
+    template: { name: Edition }
+    tmdb_movie: 11
+    sort_title: Star Wars 004
+    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the evil Empire, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+
+  "Star Wars: Episode V - The Empire Strikes Back":
+    template: { name: Edition }
+    tmdb_movie: 1891
+    sort_title: Star Wars 005
+    summary: "After the Empire brutally overpowers the Rebels on the ice planet Hoth, Luke Skywalker begins Jedi training. Meanwhile, Luke's friends are pursued by Darth Vader and bounty hunter Boba Fett."
+
+  "Star Wars: Episode VI - Return of the Jedi":
+    template: { name: Edition }
+    tmdb_movie: 1892
+    sort_title: Star Wars 006
+    summary: "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side."
+
+  Sucker Punch:
+    template: { name: Edition }
+    tmdb_movie: 23629
+    sort_title: Sucker Punch (2011) 001
+    summary: "A young girl institutionalized by her abusive stepfather retreats to an alternative reality as a coping strategy and envisions a plan to help her escape."
+
+  "Terminator 2: Judgment Day":
+    template: { name: Edition }
+    tmdb_movie: 280
+    sort_title: Terminator (1984) 002
+    summary: A cyborg - identical to the one who failed to kill Sarah Connor - must now protect her ten-year-old son from an even more advanced and powerful cyborg.
+
+  The Hangover:
+    template: { name: Edition }
+    tmdb_movie: 18785
+    sort_title: Hangover (2009) 001
+    summary: Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.
+
+  "The Lord of the Rings: The Fellowship of the Ring":
+    template: { name: Edition }
+    tmdb_movie: 120
+    sort_title: Lord of the Rings (2001) 001
+    summary: A hobbit from the Shire sets out on a journey with eight companions to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+
+  "The Lord of the Rings: The Return of the King":
+    template: { name: Edition }
+    tmdb_movie: 122
+    sort_title: Lord of the Rings (2001) 003
+    summary: As Frodo and Sam approach Mount Doom with the One Ring, Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze.
+
+  "The Lord of the Rings: The Two Towers":
+    template: { name: Edition }
+    tmdb_movie: 121
+    sort_title: Lord of the Rings (2001) 002
+    summary: While Frodo and Sam edge closer to Mordor with the help of Gollum, the divided fellowship stand against Sauron's new ally, Saruman, and his hordes of Isengard.
+
+  The Wicker Man:
+    template: { name: Edition }
+    tmdb_movie: 16307
+    sort_title: Wicker Man (1973) 001
+    summary: "A puritan police sergeant arrives in a Scottish island village in search of a missing girl, who the Pagan locals claim never existed."
+
+  Wild Things:
+    template: { name: Edition }
+    tmdb_movie: 617
+    sort_title: Wild Things (1998) 001
+    summary: A police detective uncovers a conspiracy behind a case involving a high-school guidance counsellor when two female students make accusations of rape against him.

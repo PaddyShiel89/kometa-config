@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "The Lord of the Rings The Two Towers (2002) {tmdb-121} {edition-Theatrical cut}":
     match:
@@ -51,10 +48,3 @@ metadata:
         Peter Jackson,
       ]
     label: [ID__000000121B]
-
-collections:
-  "The Lord of the Rings: The Two Towers":
-    template: { name: Edition }
-    tmdb_movie: 121
-    sort_title: Lord of the Rings (2001) 002
-    summary: While Frodo and Sam edge closer to Mordor with the help of Gollum, the divided fellowship stand against Sauron's new ally, Saruman, and his hordes of Isengard.

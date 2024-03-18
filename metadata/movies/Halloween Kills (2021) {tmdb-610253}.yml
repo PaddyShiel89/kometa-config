@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Halloween Kills (2021) {tmdb-610253} {edition-Theatrical cut}":
     match:
@@ -37,10 +34,3 @@ metadata:
     tagline: Evil dies tonight.
     writer.sync: [Scott Teems, Danny McBride, David Gordon Green]
     label: [ID__000610253B]
-
-collections:
-  Halloween Kills:
-    template: { name: Edition }
-    tmdb_movie: 610253
-    sort_title: Halloween (2018) 002
-    summary: "Surviving victims of Michael Myers form a vigilante mob and vow to end his reign of terror."

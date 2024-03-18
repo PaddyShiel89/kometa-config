@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Return of the Jedi (1983) {tmdb-1892} {edition-Theatrical cut}":
     match:
@@ -109,10 +106,3 @@ metadata:
     tagline: "The Empire Falls...."
     writer.sync: [Lawrence Kasdan, George Lucas]
     label: [ID__000001892F]
-
-collections:
-  "Star Wars: Episode VI - Return of the Jedi":
-    template: { name: Edition }
-    tmdb_movie: 1892
-    sort_title: Star Wars 006
-    summary: "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side."

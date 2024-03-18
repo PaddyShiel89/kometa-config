@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "The Empire Strikes Back (1980) {tmdb-1891} {edition-Theatrical cut}":
     match:
@@ -91,10 +88,3 @@ metadata:
     tagline: "The Adventure Continues..."
     writer.sync: [Leigh Brackett, Lawrence Kasdan, George Lucas]
     label: [ID__000001891E]
-
-collections:
-  "Star Wars: Episode V - The Empire Strikes Back":
-    template: { name: Edition }
-    tmdb_movie: 1891
-    sort_title: Star Wars 005
-    summary: "After the Empire brutally overpowers the Rebels on the ice planet Hoth, Luke Skywalker begins Jedi training. Meanwhile, Luke's friends are pursued by Darth Vader and bounty hunter Boba Fett."

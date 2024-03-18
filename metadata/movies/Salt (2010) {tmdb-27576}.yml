@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Salt (2010) {tmdb-27576} {edition-Theatrical cut}":
     match:
@@ -55,13 +52,6 @@ metadata:
     tagline: "Who is Salt?"
     writer.sync: [Kurt Wimmer]
     label: [ID__000027576C]
-
-collections:
-  Salt:
-    template: { name: Edition }
-    tmdb_movie: 27576
-    sort_title: Salt (2010) 001
-    summary: "A CIA agent goes on the run after a defector accuses her of being a Russian spy."
 # ----------------------------------- Notes ---------------------------------- #
 
 # TODO - No content rating labels added. Overview scale ratings not currently
