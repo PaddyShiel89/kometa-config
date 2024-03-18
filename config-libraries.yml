@@ -358,15 +358,23 @@ libraries:
       - repo: labelling/movies/sources
       - repo: labelling/movies/themes
       - repo: libraries/shared/content_ratings
+        asset_directory: config/assets/collections/content-rating
       - repo: libraries/shared/genres
-        asset_directory: config/assets/genres/Movies
+        asset_directory: config/assets/collections/genres/Movies
       - repo: libraries/movies/series
+        asset_directory: config/assets/collections/series
       - repo: libraries/shared/themes
         asset_directory: config/assets/themes/Movies
       - repo: libraries/movies/themes
         asset_directory: config/assets/themes/Movies
       - repo: libraries/movies/seasonal
         asset_directory: config/assets/seasonal/Movies
+      - repo: libraries/movies/charts
+        asset_directory: config/assets/charts/Movies
+    settings:
+      asset_directory:
+        - config/assets/libraries/movies
+        - config/assets/collections/editions
   TV shows:
     operations:
       assets_for_all: true
@@ -394,17 +402,25 @@ libraries:
       - repo: labelling/tv_shows/sources
       - repo: labelling/tv_shows/themes
       - repo: libraries/shared/content_ratings
+        asset_directory: config/assets/collections/content-rating
       - repo: libraries/shared/genres
-        asset_directory: config/assets/genres/TV shows
+        asset_directory: config/assets/collections/genres/TV shows
       - repo: libraries/shared/themes
         asset_directory: config/assets/themes/TV shows
       - repo: libraries/tv_shows/themes
         asset_directory: config/assets/themes/TV shows
+    settings:
+      asset_directory:
+        - config/assets/libraries/tv-shows
   Stand-up comedy:
     operations:
       assets_for_all: true
     collection_files:
       - repo: libraries/shared/content_ratings
+        asset_directory: config/assets/collections/content-rating
+    settings:
+      asset_directory:
+        - config/assets/libraries/stand-up-comedy
   Short films:
     operations:
       assets_for_all: true
@@ -433,7 +449,12 @@ libraries:
       - repo: labelling/short_films/sources
       - repo: labelling/short_films/themes
       - repo: libraries/short_films/series
+        asset_directory: config/assets/collections/series
       - repo: libraries/short_films/themes
+        asset_directory: config/assets/themes/Short films
+    settings:
+      asset_directory:
+        - config/assets/libraries/short-films
   Documentaries:
     operations:
       assets_for_all: true
@@ -446,10 +467,18 @@ libraries:
     collection_files:
       - repo: labelling/documentaries/themes
       - repo: libraries/shared/content_ratings
+        asset_directory: config/assets/collections/content-rating
       - repo: libraries/documentaries/themes
+        asset_directory: config/assets/themes/Documentaries
+    settings:
+      asset_directory:
+        - config/assets/libraries/documentaries
   Live music & music videos:
     operations:
       assets_for_all: true
+    settings:
+      asset_directory:
+        - config/assets/libraries/live-music-and-music-videos
 playlist_files:
   - repo: playlists/admin
   - repo: playlists/halloween
