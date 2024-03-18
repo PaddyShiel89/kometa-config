@@ -1,26 +1,12 @@
-external_templates:
-  - repo: templates/collection_type/Chart
-  - repo: templates/source/IMDb
-
 collections:
-  # IMDb Popular:
-  #   template:
-  #     - name: imdb_chart_list
-  #       chart: popular
-  #     - name: Smart Shared Chart
-  #       sort: random
-  #       exclude_label: "Edition__secondary"
-  #   summary: "The most popular movies right now as determined by IMDb users."
-
-  "Empire's 100 Greatest Movies (Unwatched)":
-    template:
-      - name: imdb_user_list
-        list_id: ls567669591
-    libraries: Movies
+  "Empire's 100 Greatest Movies - Unwatched":
+    imdb_list: https://www.imdb.com/list/ls567669591
+    smart_label:
+      sort_by: title.asc
+      all:
+        label: <<smart_label>>
+        label.not: Edition__secondary
+        unplayed: true
     summary: "Empire asked readers to share their picks for the best films of all time - ones that comfort, challenge and pioneer. Films that blow your mind, help you see things from a new perspective, and that continue to shape cinema as we know it today. Films that make you feel something. Combining reader votes with critic's choices from Team Empire, here we have it - the latest version of the 100 Greatest Movies list."
     sync_mode: sync
     visible_home: true
-    collection_order: custom
-    filters:
-      label.not: "Edition__secondary"
-      plays.lt: 1
