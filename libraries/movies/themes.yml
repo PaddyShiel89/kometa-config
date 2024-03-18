@@ -1,158 +1,8 @@
 external_templates:
   - repo: templates/collection_type/Theme
-  - repo: templates/source/IMDb
 
 collections:
-  Alien Horror:
-    template:
-      - name: Theme
-        summary: "in the horror genre featuring aliens as the primary antagonist."
-    smart_filter:
-      all:
-        any:
-          label:
-            - Theme__aliens
-            - "theme: aliens"
-        genre: Horror
-      sort_by: title.asc
-
-  Christmas:
-    template:
-      - name: Theme
-        summary: "set primarily at Christmastime."
-    smart_filter:
-      any:
-        label:
-          - Theme__christmas
-          - "theme: christmas"
-      sort_by: title.asc
-    visible_home: range(11/24-01/7)
-
-  "Found Footage & Mockumentary":
-    template:
-      - name: Theme
-        summary: "depicting fictional events but presented as a documentary."
-    smart_filter:
-      any:
-        label:
-          - Theme__mockumentary
-          - "theme: mockumentary"
-      sort_by: title.asc
-
-  Martial Arts:
-    template:
-      - name: Theme
-        summary: "prominently featuring martial arts."
-    smart_filter:
-      any:
-        label:
-          - Theme__martial_arts
-          - "theme: martial arts"
-      sort_by: title.asc
-
-  Murder Mystery:
-    template:
-      - name: Theme
-        summary: "in the crime genre wherein the puzzle regarding who committed the crime is the main focus."
-    smart_filter:
-      any:
-        label:
-          - Theme__murder_mystery
-          - "theme: murder mystery"
-      sort_by: title.asc
-
-  Noir:
-    template:
-      - name: Theme
-        summary: "in the crime genre associated with a low-key, often black-and-white visual style and which emphasize cynical attitudes and motivations. Also includes subgenres and offshoots of film noir, such as neo-noir."
-    smart_filter:
-      any:
-        label:
-          - Theme__film_noir
-          - Theme__neo_noir
-          - "theme: neo-noir"
-      sort_by: title.asc
-
-  Parodies and Spoofs:
-    template:
-      - name: Theme
-        summary: "that parody another film or spoof a genre."
-    smart_filter:
-      any:
-        label:
-          - Theme__parody
-          - Theme__spoof
-          - "theme: spoof"
-      sort_by: title.asc
-
-  Psychological Horror:
-    template:
-      - name: Theme
-        summary: "in the horror genre with a particular focus on mental, emotional, and psychological states to frighten, disturb, or unsettle its audience."
-    smart_filter:
-      all:
-        any:
-          label:
-            - Theme__psychological
-        genre: Horror
-      sort_by: title.asc
-
-  Slasher:
-    template:
-      - name: Theme
-        summary: "involving a killer stalking and murdering a group of people, usually by use of bladed tools. Slashers typically adhere to a specific formula: a past wrongful action causes severe trauma that is reinforced by a commemoration or anniversary that reactivates or re-inspires the killer."
-    smart_filter:
-      all:
-        any:
-          label:
-            - Theme__slasher
-      sort_by: title.asc
-
-  Splatter:
-    template:
-      - name: Theme
-        summary: "that deliberately focuses on graphic portrayals of gore and graphic violence. These films, usually through the use of special effects, display a fascination with the vulnerability of the human body and the theatricality of its mutilation."
-    smart_filter:
-      any:
-        label:
-          - Theme__splatter
-      sort_by: title.asc
-
-  Supernatural Horror:
-    template:
-      - name: Theme
-        summary: "in the horror genre primarily featuring phenomena that are outside the realm of scientific explanation, such as ghosts, magic, angels & demons, and the soul."
-    smart_filter:
-      all:
-        any:
-          label:
-            - Theme__magic
-            - Theme__supernatural
-            - "theme: magic"
-            - "theme: supernatural"
-        genre: Horror
-      sort_by: title.asc
-
-  Zombies:
-    template:
-      - name: Theme
-        summary: "prominently featuring zombies."
-    smart_filter:
-      any:
-        label:
-          - Theme__zombies
-          - "theme: zombies"
-      sort_by: title.asc
-
-  # ----------------------- Updated template collections ----------------------- #
-
-  Based on a Videogame:
-    template: { name: Theme collection, subsection: based_on }
-    smart_filter:
-      all:
-        label: Theme__based_on_videogames
-      sort_by: title.asc
-    summary: Movies based, however loosely, on videogames.
+  # --------------------------------- 00: Meta --------------------------------- #
 
   Female Protagonist:
     template: { name: Theme collection, subsection: meta }
@@ -186,6 +36,16 @@ collections:
       sort_by: duration.asc
     summary: Movies no longer than 100 minutes in length, ordered from shortest to longest.
 
+  # ------------------------------- 01: Based on ------------------------------- #
+
+  Based on a Videogame:
+    template: { name: Theme collection, subsection: based_on }
+    smart_filter:
+      all:
+        label: Theme__based_on_videogames
+      sort_by: title.asc
+    summary: Movies based, however loosely, on videogames.
+
   Stephen King:
     template: { name: Theme collection, subsection: based_on }
     smart_filter:
@@ -193,3 +53,126 @@ collections:
         label: Theme__based_on_works_by_stephen_king
       sort_by: title.asc
     summary: Movies based on the written works of horror author Stephen King.
+
+  # ------------------------------- 02: Subgenre ------------------------------- #
+
+  Christmas:
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__christmas
+      sort_by: title.asc
+    summary: Movies that are set at Christmas, feature Christmas as an important part of the plot, or are otherwise Christmas-themed.
+
+  Found Footage and Mockumentary:
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__mockumentary
+      sort_by: title.asc
+    summary: Movies depicting fictional events but presented as a documentary.
+
+  Martial Arts:
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__martial_arts
+      sort_by: title.asc
+    summary: Movies prominently featuring martial arts.
+
+  Murder Mystery:
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__murder_mystery
+      sort_by: title.asc
+    summary: Movies in the crime genre wherein the puzzle of who committed the crime is the main focus.
+
+  Noir:
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      any:
+        label:
+          - Theme__film_noir
+          - Theme__neo_noir
+      sort_by: title.asc
+    summary: Movies in the crime genre associated with a low-key, often black-and-white visual style and which emphasize cynical attitudes and motivations. Also includes subgenres and offshoots of film noir, such as neo-noir.
+
+  Parodies and Spoofs:
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      any:
+        label:
+          - Theme__parody
+          - Theme__spoof
+      sort_by: title.asc
+    summary: Movies that parody another film or spoof a genre.
+
+  # ---------------------------- 03: Horror subgenre --------------------------- #
+
+  Alien Horror:
+    template: { name: Theme collection, subsection: horror_subgenre }
+    smart_filter:
+      all:
+        any:
+          label:
+            - Theme__aliens
+        genre: Horror
+      sort_by: title.asc
+    summary: Movies in the horror genre featuring aliens, typically as the primary antagonist.
+
+  Psychological Horror:
+    template: { name: Theme collection, subsection: horror_subgenre }
+    smart_filter:
+      all:
+        any:
+          label:
+            - Theme__psychological
+        genre: Horror
+      sort_by: title.asc
+    summary: Movies in the horror genre with a particular focus on mental, emotional, and psychological states to frighten, disturb, or unsettle its audience.
+
+  Slasher:
+    template: { name: Theme collection, subsection: horror_subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__slasher
+      sort_by: title.asc
+    summary: "Movies involving a killer stalking and murdering a group of people, usually by use of bladed tools. Slashers typically adhere to a specific formula: a past wrongful action causes severe trauma that is reinforced by a commemoration or anniversary that reactivates or re-inspires the killer."
+
+  Splatter:
+    template: { name: Theme collection, subsection: horror_subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__splatter
+      sort_by: title.asc
+    summary: Movies that deliberately focuses on graphic portrayals of gore and graphic violence. These films, usually through the use of special effects, display a fascination with the vulnerability of the human body and the theatricality of its mutilation.
+
+  Supernatural Horror:
+    template: { name: Theme collection, subsection: horror_subgenre }
+    smart_filter:
+      all:
+        any:
+          label:
+            - Theme__magic
+            - Theme__supernatural
+        genre: Horror
+      sort_by: title.asc
+    summary: Movies in the horror genre primarily featuring phenomena that are outside the realm of scientific explanation, such as ghosts, magic, angels & demons, and the soul.
+
+  Zombies:
+    template: { name: Theme collection, subsection: horror_subgenre }
+    smart_filter:
+      all:
+        any:
+          label:
+            - Theme__zombies
+        genre: Horror
+      sort_by: title.asc
+    summary: Movies in the horror genre featuring zombies, typically as the primary antagonists.

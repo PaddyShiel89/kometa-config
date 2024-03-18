@@ -28,6 +28,14 @@ templates:
     summary: "<<library_name>> <<summary>>"
     sync_mode: sync
 
+  Seasonal collection:
+    collection_mode: hide
+    delete_not_scheduled: true
+    schedule: <<schedule>>
+    sort_title: "zzz_seasonal_<<collection_name>>"
+    sync_mode: sync
+    visible_home: <<schedule>>
+
   Theme collection:
     optional:
       - subsection
@@ -43,17 +51,8 @@ templates:
             value: "02"
           - subsection: horror_subgenre
             value: "03"
-          # Horror
-          - collection_name:
-              [
-                Alien Horror,
-                Psychological Horror,
-                Slasher,
-                Splatter,
-                Supernatural Horror,
-                Zombies,
-              ]
-            value: "03"
+          - subsection: seasonal
+            value: "zz"
     collection_mode: hide
     sort_title: "!08_<<subsection_order>>_<<collection_name>>"
     sync_mode: sync
