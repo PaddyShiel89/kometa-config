@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "The Hangover (2009) {tmdb-18785} {edition-Theatrical cut}":
     match:
@@ -37,10 +34,3 @@ metadata:
     tagline: Some guys just can't handle Vegas
     writer.sync: [Jon Lucas, Scott Moore]
     label: [ID__000018785B]
-
-collections:
-  The Hangover:
-    template: { name: Edition }
-    tmdb_movie: 18785
-    sort_title: Hangover (2009) 001
-    summary: Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.

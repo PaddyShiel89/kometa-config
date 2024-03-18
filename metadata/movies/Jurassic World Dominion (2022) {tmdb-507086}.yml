@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Jurassic World Dominion (2022) {tmdb-507086} {edition-Theatrical cut}":
     match:
@@ -37,10 +34,3 @@ metadata:
     tagline: It all started here.
     writer.sync: [Emily Carmichael, Colin Trevorrow, Derek Connolly]
     label: [ID__000507086B]
-
-collections:
-  Jurassic World Dominion:
-    template: { name: Edition }
-    tmdb_movie: 507086
-    sort_title: Jurassic World (2015) 003
-    summary: Four years after the destruction of Isla Nublar, Biosyn attempts to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.

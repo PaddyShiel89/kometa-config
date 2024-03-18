@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "The Wicker Man (1973) {tmdb-16307} {edition-UK theatrical cut}":
     match:
@@ -55,10 +52,3 @@ metadata:
     tagline: "Flesh to touch...Flesh to burn! Don't keep the Wicker Man waiting!"
     writer.sync: [Anthony Shaffer, David Pinner]
     label: [ID__000016307C]
-
-collections:
-  The Wicker Man:
-    template: { name: Edition }
-    tmdb_movie: 16307
-    sort_title: Wicker Man (1973) 001
-    summary: "A puritan police sergeant arrives in a Scottish island village in search of a missing girl, who the Pagan locals claim never existed."

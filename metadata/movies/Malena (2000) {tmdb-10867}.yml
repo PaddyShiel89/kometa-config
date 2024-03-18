@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Malena (2000) {tmdb-10867) {edition-Original Italian cut}":
     match:
@@ -37,13 +34,6 @@ metadata:
     tagline: "A world at war. A young man coming of age. And the woman who changed his life forever."
     writer.sync: [Giuseppe Tornatore, Luciano Vincenzoni]
     label: [ID__000010867B]
-
-collections:
-  "Malèna":
-    template: { name: Edition }
-    tmdb_movie: 10867
-    sort_title: Malena (2000) 001
-    summary: "Amidst the war climate, a teenage boy discovering himself becomes love-stricken by Malèna - a sensual woman living in a small, narrow-minded Italian town."
 # ----------------------------------- Notes ---------------------------------- #
 
 # TODO - No content rating labels added. Overview scale ratings not currently

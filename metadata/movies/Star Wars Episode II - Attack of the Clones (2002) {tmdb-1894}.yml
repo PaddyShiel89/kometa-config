@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Star Wars Episode II - Attack of the Clones (2002) {tmdb-1894} {edition-DVD cut}":
     match:
@@ -37,10 +34,3 @@ metadata:
     tagline: "A Jedi Shall Not Know Anger. Nor Hatred. Nor Love."
     writer.sync: [George Lucas, Jonathan Hales]
     label: [ID__000001894C]
-
-collections:
-  "Star Wars: Episode II - Attack of the Clones":
-    template: { name: Edition }
-    tmdb_movie: 1894
-    sort_title: Star Wars 002
-    summary: "Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi investigates an assassination attempt on the senator and discovers a secret clone army crafted for the Jedi."

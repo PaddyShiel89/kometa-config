@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Terminator 2 Judgment Day (1991) {tmdb-280} {edition-Theatrical cut}":
     match:
@@ -55,13 +52,6 @@ metadata:
     tagline: It's nothing personal.
     writer.sync: [James Cameron, William Wisher]
     label: [ID__000000280C]
-
-collections:
-  "Terminator 2: Judgment Day":
-    template: { name: Edition }
-    tmdb_movie: 280
-    sort_title: Terminator (1984) 002
-    summary: A cyborg - identical to the one who failed to kill Sarah Connor - must now protect her ten-year-old son from an even more advanced and powerful cyborg.
 # ----------------------------------- Notes ---------------------------------- #
 
 # TODO - No content rating labels added. Overview scale ratings not currently

@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Sucker Punch (2011) {tmdb-23629} {edition-Theatrical cut}":
     match:
@@ -37,13 +34,6 @@ metadata:
     tagline: Feed Your Head
     writer.sync: [Zack Snyder, Steve Shibuya]
     label: [ID__000023629B]
-
-collections:
-  Sucker Punch:
-    template: { name: Edition }
-    tmdb_movie: 23629
-    sort_title: Sucker Punch (2011) 001
-    summary: "A young girl institutionalized by her abusive stepfather retreats to an alternative reality as a coping strategy and envisions a plan to help her escape."
 # ----------------------------------- Notes ---------------------------------- #
 
 # TODO - No content rating labels added. Overview scale ratings not currently

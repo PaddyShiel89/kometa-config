@@ -361,6 +361,8 @@ libraries:
         asset_directory: config/assets/collections/content-rating
       - repo: libraries/shared/genres
         asset_directory: config/assets/collections/genres/Movies
+      - repo: libraries/movies/editions
+        asset_directory: config/assets/collections/editions
       - repo: libraries/movies/series
         asset_directory: config/assets/collections/series
       - repo: libraries/shared/themes
@@ -374,7 +376,6 @@ libraries:
     settings:
       asset_directory:
         - config/assets/libraries/movies
-        - config/assets/collections/editions
   TV shows:
     operations:
       assets_for_all: true

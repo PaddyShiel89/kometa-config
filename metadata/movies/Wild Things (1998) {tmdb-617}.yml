@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Wild Things (1998) {tmdb-617} {edition-Theatrical cut}":
     match:
@@ -37,13 +34,6 @@ metadata:
     tagline: They can turn you on or turn on you.
     writer.sync: [Stephen Peters]
     label: [ID__000000617B]
-
-collections:
-  Wild Things:
-    template: { name: Edition }
-    tmdb_movie: 617
-    sort_title: Wild Things (1998) 001
-    summary: A police detective uncovers a conspiracy behind a case involving a high-school guidance counsellor when two female students make accusations of rape against him.
 # ----------------------------------- Notes ---------------------------------- #
 
 # TODO - No content rating labels added. Overview scale ratings not currently

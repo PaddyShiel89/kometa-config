@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "The Lord of the Rings The Return of the King (2003) {tmdb-122} {edition-Theatrical cut}":
     match:
@@ -37,10 +34,3 @@ metadata:
     tagline: The eye of the enemy is moving.
     writer.sync: [J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Peter Jackson]
     label: [ID__000000122B]
-
-collections:
-  "The Lord of the Rings: The Return of the King":
-    template: { name: Edition }
-    tmdb_movie: 122
-    sort_title: Lord of the Rings (2001) 003
-    summary: As Frodo and Sam approach Mount Doom with the One Ring, Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze.

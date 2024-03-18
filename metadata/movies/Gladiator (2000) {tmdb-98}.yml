@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Gladiator (2000) {tmdb-98} {edition-Theatrical cut}":
     match:
@@ -37,10 +34,3 @@ metadata:
     tagline: "A Hero Will Rise."
     writer.sync: [David Franzoni, John Logan, William Nicholson]
     label: [ID__000000098B]
-
-collections:
-  Gladiator:
-    template: { name: Edition }
-    tmdb_movie: 98
-    sort_title: Gladiator (2000) 001
-    summary: "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."

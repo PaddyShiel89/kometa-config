@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "movie-folder-name (yyyy) {tmdb-xxxxxx} {edition-abc}":
     match:
@@ -20,13 +17,6 @@ metadata:
     tagline:
     writer.sync: []
     label: [ID__000000000A]
-
-collections:
-  "":
-    template: { name: Edition }
-    tmdb_movie: #ID
-    sort_title:
-    summary:
 # ----------------------------------- Notes ---------------------------------- #
 
 # TODO - No content rating labels added. Overview scale ratings not currently

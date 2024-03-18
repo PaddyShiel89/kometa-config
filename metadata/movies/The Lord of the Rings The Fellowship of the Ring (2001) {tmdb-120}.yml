@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "The Lord of the Rings The Fellowship of the Ring (2001) {tmdb-120} {edition-Theatrical cut}":
     match:
@@ -37,10 +34,3 @@ metadata:
     tagline: One Ring To Rule Them All.
     writer.sync: [J.R.R. Tolkien, Fran Walsh, Philippa Boyens, Peter Jackson]
     label: [ID__000000120B]
-
-collections:
-  "The Lord of the Rings: The Fellowship of the Ring":
-    template: { name: Edition }
-    tmdb_movie: 120
-    sort_title: Lord of the Rings (2001) 001
-    summary: A hobbit from the Shire sets out on a journey with eight companions to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.

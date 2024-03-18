@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "Star Wars (1977) {tmdb-11} {edition-Theatrical cut}":
     match:
@@ -115,10 +112,3 @@ metadata:
     tagline: A long time ago in a galaxy far, far away...
     writer.sync: George Lucas
     label: [ID__000000011F]
-
-collections:
-  "Star Wars: Episode IV - A New Hope":
-    template: { name: Edition }
-    tmdb_movie: 11
-    sort_title: Star Wars 004
-    summary: "Luke Skywalker joins a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the evil Empire, while also attempting to rescue Princess Leia from the mysterious Darth Vader."

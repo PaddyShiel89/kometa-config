@@ -1,6 +1,3 @@
-external_templates:
-  - repo: templates/metadata/Edition
-
 metadata:
   "King Kong (2005) {tmdb-254} {edition-Theatrical cut}":
     match:
@@ -53,10 +50,3 @@ metadata:
         Edgar Wallace,
       ]
     label: [ID__000000254B]
-
-collections:
-  King Kong:
-    template: { name: Edition }
-    tmdb_movie: 254
-    sort_title: King Kong (2005) 001
-    summary: A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.
