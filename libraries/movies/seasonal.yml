@@ -5,22 +5,30 @@ collections:
   # ---------------------------- May 1st => May 7th ---------------------------- #
 
   Star Wars Day Movies:
-    template: { name: Seasonal collection, subsection: seasonal }
+    template:
+      {
+        name: Seasonal collection,
+        subsection: seasonal,
+        schedule: range(5/01-5/07),
+      }
     smart_filter:
       all:
         label:
           - Series__Star_Wars_1977
       sort_by: title.asc
     summary: Star Wars Day is an informal commemorative day observed annually on May 4th to celebrate the Star Wars media franchise created by filmmaker George Lucas.
-    visible_home: range(5/01-5/07)
 
   # ------------------------ December 1st => January 7th ----------------------- #
   Christmas Movies:
-    template: { name: Seasonal collection, subsection: seasonal }
+    template:
+      {
+        name: Seasonal collection,
+        subsection: seasonal,
+        schedule: range(12/01-1/07),
+      }
     smart_filter:
       all:
         label:
           - Theme__christmas
       sort_by: title.asc
     summary: Movies that are set at Christmas, feature Christmas as an important part of the plot, or are otherwise Christmas-themed.
-    visible_home: range(12/01-1/07)

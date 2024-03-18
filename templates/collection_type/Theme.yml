@@ -30,9 +30,11 @@ templates:
 
   Seasonal collection:
     collection_mode: hide
+    delete_not_scheduled: true
+    schedule: <<schedule>>
     sort_title: "zzz_seasonal_<<collection_name>>"
     sync_mode: sync
-    delete_not_scheduled: true
+    visible_home: <<schedule>>
 
   Theme collection:
     optional:
