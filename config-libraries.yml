@@ -360,19 +360,19 @@ libraries:
       - repo: libraries/shared/content_ratings
         asset_directory: config/assets/collections/content-rating
       - repo: libraries/shared/genres
-        asset_directory: config/assets/collections/genres/Movies
+        asset_directory: config/assets/collections/genres/movies
       - repo: libraries/movies/editions
         asset_directory: config/assets/collections/editions
       - repo: libraries/movies/series
         asset_directory: config/assets/collections/series
       - repo: libraries/shared/themes
-        asset_directory: config/assets/themes/Movies
+        asset_directory: config/assets/collections/themes/movies
       - repo: libraries/movies/themes
-        asset_directory: config/assets/themes/Movies
+        asset_directory: config/assets/collections/themes/movies
       - repo: libraries/movies/seasonal
-        asset_directory: config/assets/seasonal/Movies
+        asset_directory: config/assets/collections/seasonal/movies
       - repo: libraries/movies/charts
-        asset_directory: config/assets/charts/Movies
+        asset_directory: config/assets/collections/charts/movies
     settings:
       asset_directory:
         - config/assets/libraries/movies
@@ -405,11 +405,11 @@ libraries:
       - repo: libraries/shared/content_ratings
         asset_directory: config/assets/collections/content-rating
       - repo: libraries/shared/genres
-        asset_directory: config/assets/collections/genres/TV shows
+        asset_directory: config/assets/collections/genres/tv-shows
       - repo: libraries/shared/themes
-        asset_directory: config/assets/themes/TV shows
+        asset_directory: config/assets/collections/themes/tv-shows
       - repo: libraries/tv_shows/themes
-        asset_directory: config/assets/themes/TV shows
+        asset_directory: config/assets/collections/themes/tv-shows
     settings:
       asset_directory:
         - config/assets/libraries/tv-shows
@@ -452,7 +452,7 @@ libraries:
       - repo: libraries/short_films/series
         asset_directory: config/assets/collections/series
       - repo: libraries/short_films/themes
-        asset_directory: config/assets/themes/Short films
+        asset_directory: config/assets/collections/themes/short-films
     settings:
       asset_directory:
         - config/assets/libraries/short-films
@@ -470,7 +470,7 @@ libraries:
       - repo: libraries/shared/content_ratings
         asset_directory: config/assets/collections/content-rating
       - repo: libraries/documentaries/themes
-        asset_directory: config/assets/themes/Documentaries
+        asset_directory: config/assets/collections/themes/documentaries
     settings:
       asset_directory:
         - config/assets/libraries/documentaries
