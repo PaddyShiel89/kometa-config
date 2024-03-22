@@ -533,7 +533,12 @@ libraries:
         - config/assets/libraries/live-music-and-music-videos
 playlist_files:
   - repo: playlists/admin
+    asset_directory: config/assets/playlists
   - repo: playlists/halloween
+    asset_directory: config/assets/playlists
   - repo: playlists/marvel
+    asset_directory: config/assets/playlists
   - repo: playlists/movie_charts
+    asset_directory: config/assets/playlists
   - repo: playlists/star_wars
+    asset_directory: config/assets/playlists
