@@ -4,12 +4,14 @@ libraries:
       assets_for_all: true
       content_rating_mapper:
         "gb/12A": "gb/12"
+        "Not Rated": "gb/Unrated"
       genre_mapper:
         Biography: Biopic
         Sci-Fi: Science Fiction
         Documentary:
         Martial Arts:
         Music:
+        Sci-Fi & Fantasy:
         Suspense:
     metadata_files:
       - repo: metadata/movies/21 Grams (2003) {tmdb-470}
@@ -379,6 +381,17 @@ libraries:
   TV shows:
     operations:
       assets_for_all: true
+      content_rating_mapper:
+        "gb/12A": "gb/12"
+        "Not Rated": "gb/Unrated"
+      genre_mapper:
+        Biography: Biopic
+        Sci-Fi: Science Fiction
+        Documentary:
+        Martial Arts:
+        Music:
+        Sci-Fi & Fantasy:
+        Suspense:
     metadata_files:
       - repo: metadata/tv_shows/The Last of Us (2023) {tmdb-100088}
       - repo: metadata/tv_shows/True Detective (2014) {tmdb-46648}
@@ -416,6 +429,17 @@ libraries:
   Stand-up comedy:
     operations:
       assets_for_all: true
+      content_rating_mapper:
+        "gb/12A": "gb/12"
+        "Not Rated": "gb/Unrated"
+      genre_mapper:
+        Biography: Biopic
+        Sci-Fi: Science Fiction
+        Documentary:
+        Martial Arts:
+        Music:
+        Sci-Fi & Fantasy:
+        Suspense:
     collection_files:
       - repo: libraries/shared/content_ratings
         asset_directory: config/assets/collections/content-rating
@@ -425,6 +449,17 @@ libraries:
   Short films:
     operations:
       assets_for_all: true
+      content_rating_mapper:
+        "gb/12A": "gb/12"
+        "Not Rated": "gb/Unrated"
+      genre_mapper:
+        Biography: Biopic
+        Sci-Fi: Science Fiction
+        Documentary:
+        Martial Arts:
+        Music:
+        Sci-Fi & Fantasy:
+        Suspense:
     metadata_files:
       - repo: metadata/short_films/2036 Nexus Dawn (2017) {tmdb-473072}
       - repo: metadata/short_films/2048 Nowhere to Run (2017) {tmdb-475759}
@@ -461,10 +496,15 @@ libraries:
       assets_for_all: true
       content_rating_mapper:
         "gb/12A": "gb/12"
+        "Not Rated": "gb/Unrated"
       genre_mapper:
         Biography: Biopic
-        "Sci-Fi": Science Fiction
+        Sci-Fi: Science Fiction
+        # Documentary: - Allow documentary for this library only
         Martial Arts:
+        Music:
+        Sci-Fi & Fantasy:
+        Suspense:
     collection_files:
       - repo: labelling/documentaries/themes
       - repo: libraries/shared/content_ratings
@@ -477,6 +517,17 @@ libraries:
   Live music & music videos:
     operations:
       assets_for_all: true
+      content_rating_mapper:
+        "gb/12A": "gb/12"
+        "Not Rated": "gb/Unrated"
+      genre_mapper:
+        Biography: Biopic
+        Sci-Fi: Science Fiction
+        Documentary:
+        Martial Arts:
+        Music:
+        Sci-Fi & Fantasy:
+        Suspense:
     settings:
       asset_directory:
         - config/assets/libraries/live-music-and-music-videos
