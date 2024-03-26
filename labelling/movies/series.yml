@@ -240,6 +240,11 @@ collections:
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
 
+  Series__Jaws_1975:
+    template: { name: TMDB series label, series_name: Jaws, series_year: 1975 }
+    tmdb_movie:
+      - 578 # Jaws (1975)
+
   Series__John_Wick_2015:
     template:
       { name: TMDB series label, series_name: John_Wick, series_year: 2015 }

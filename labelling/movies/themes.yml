@@ -107,6 +107,7 @@ collections:
     template: { name: TMDB theme label, theme_name: animals }
     tmdb_movie:
       - 425 # Ice Age (2002)
+      - 578 # Jaws (1975)
       - 254 # King Kong (2005)
       - 635731 # Pig (2021)
       - 869 # Planet of the Apes (2001)
@@ -171,6 +172,7 @@ collections:
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 1585 # It's a Wonderful Life (1946)
+      - 578 # Jaws (1975)
       - 43727 # Jolene (2008)
       - 2118 # L.A. Confidential (1997)
       - 410117 # Lady Macbeth (2016)
@@ -1157,6 +1159,7 @@ collections:
   Theme__natural_horror:
     template: { name: TMDB theme label, theme_name: natural_horror }
     tmdb_movie:
+      - 578 # Jaws (1975)
       - 571 # The Birds (1963)
 
   Theme__neo_noir:
