@@ -39,3 +39,14 @@ collections:
           - ID__000615777A # Babylon (2022)
           - ID__000001541A # Thelma & Louise (1991)
           - ID__000682507A # Where the Crawdads Sing (2022)
+
+  BBFC sexual violence and sexual threat lvl 5:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: sexual_violence_and_sexual_threat
+        level: 5
+    plex_search:
+      any:
+        label:
+          - ID__000000680A # Pulp Fiction (1994)

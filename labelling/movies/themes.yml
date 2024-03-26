@@ -123,6 +123,7 @@ collections:
   Theme__anthology:
     template: { name: TMDB theme label, theme_name: anthology }
     tmdb_movie:
+      - 680 # Pulp Fiction (1994)
       - 23202 # Trick 'r Treat (2007)
 
   Theme__artificial_intelligence:
@@ -360,6 +361,7 @@ collections:
       - 51540 # Horrible Bosses (2011)
       - 389015 # I, Tonya (2017)
       - 466272 # Once Upon a Time in Hollywood (2019)
+      - 680 # Pulp Fiction (1994)
       - 649609 # Renfield (2023)
       - 117974 # Sightseers (2012)
       - 3989 # Team America: World Police (2004)
@@ -629,6 +631,7 @@ collections:
       - 4995 # Boogie Nights (1997)
       - 524 # Casino (1995)
       - 598 # City of God (2002)
+      - 680 # Pulp Fiction (1994)
       - 641 # Requiem for a Dream (2000)
       - 273481 # Sicario (2015)
       - 67913 # The Guard (2011)
@@ -980,6 +983,7 @@ collections:
       - 245891 # John Wick (2015)
       - 2118 # L.A. Confidential (1997)
       - 396371 # Molly's Game (2017)
+      - 680 # Pulp Fiction (1994)
       - 401981 # Red Sparrow (2018)
       - 46534 # Sweet Karma (2009)
       - 155 # The Dark Knight (2008)
@@ -1178,6 +1182,7 @@ collections:
       - 180 # Minority Report (2002)
       - 1018 # Mulholland Drive (2001)
       - 597208 # Nightmare Alley (2021)
+      - 680 # Pulp Fiction (1994)
       - 9676 # The Black Dahlia (2006)
       - 155 # The Dark Knight (2008)
       - 8285 # The Spirit (2008)
@@ -1195,6 +1200,7 @@ collections:
       - 210577 # Gone Girl (2014)
       - 396371 # Molly's Game (2017)
       - 1018 # Mulholland Drive (2001)
+      - 680 # Pulp Fiction (1994)
       - 1985 # The Constant Gardener (2005)
       - 205596 # The Imitation Game (2014)
       - 20766 # The Road (2009)
@@ -1384,6 +1390,7 @@ collections:
       - 101 # Léon: The Professional (1995)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
+      - 680 # Pulp Fiction (1994)
       - 401981 # Red Sparrow (2018)
       - 27576 # Salt (2010)
       - 9637 # Scooby-Doo (2002)
