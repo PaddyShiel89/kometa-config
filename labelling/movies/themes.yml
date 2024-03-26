@@ -239,6 +239,7 @@ collections:
       - 561 # Constantine (2005)
       - 315837 # Ghost in the Shell (2017)
       - 475557 # Joker (2019)
+      - 155 # The Dark Knight (2008)
       - 8285 # The Spirit (2008)
       - 36657 # X-Men (2000)
       - 49538 # X-Men: First Class (2011)
@@ -481,6 +482,7 @@ collections:
     tmdb_movie:
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
+      - 475557 # Joker (2019)
 
   Theme__cold_war:
     template: { name: TMDB theme label, theme_name: cold_war }
@@ -978,6 +980,7 @@ collections:
       - 396371 # Molly's Game (2017)
       - 401981 # Red Sparrow (2018)
       - 46534 # Sweet Karma (2009)
+      - 155 # The Dark Knight (2008)
       - 238 # The Godfather (1972)
       - 240 # The Godfather Part II (1975)
       - 242 # The Godfather Part III (1990)
@@ -1173,6 +1176,7 @@ collections:
       - 1018 # Mulholland Drive (2001)
       - 597208 # Nightmare Alley (2021)
       - 9676 # The Black Dahlia (2006)
+      - 155 # The Dark Knight (2008)
       - 8285 # The Spirit (2008)
       - 629 # The Usual Suspects (1995)
       - 617 # Wild Things
@@ -1385,6 +1389,7 @@ collections:
       - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
       - 46534 # Sweet Karma (2009)
       - 280 # Terminator 2: Judgment Day (1991)
+      - 155 # The Dark Knight (2008)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
@@ -1599,6 +1604,7 @@ collections:
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
       - 381288 # Split (2016)
+      - 155 # The Dark Knight (2008)
       - 9806 # The Incredibles (2004)
       - 8285 # The Spirit (2008)
       - 10195 # Thor (2011)
@@ -1678,6 +1684,7 @@ collections:
       - 54138 # Star Trek Into Darkness (2013)
       - 3989 # Team America: World Police (2004)
       - 577922 # Tenet (2020)
+      - 155 # The Dark Knight (2008)
       - 7446 # Tropic Thunder (2008)
 
   Theme__time_travel:

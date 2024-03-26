@@ -248,6 +248,7 @@ libraries:
       - repo: metadata/movies/The Bucket List (2007) {tmdb-7350}
       - repo: metadata/movies/The Constant Gardener (2005) {tmdb-1985}
       - repo: metadata/movies/The Curious Case of Benjamin Button (2008) {tmdb-4922}
+      - repo: metadata/movies/The Dark Knight (2008) {tmdb-155}
       - repo: metadata/movies/The Dictator (2012) {tmdb-76493}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
       - repo: metadata/movies/The Exterminating Angels (2006) {tmdb-19976}
