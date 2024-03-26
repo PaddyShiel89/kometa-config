@@ -38,6 +38,7 @@ libraries:
       - repo: metadata/movies/Atonement (2007) {tmdb-4347}
       - repo: metadata/movies/Attack the Block (2011) {tmdb-59678}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
+      - repo: metadata/movies/Avengers Infinity War (2018) {tmdb-299536}
       - repo: metadata/movies/Baby Driver (2017) {tmdb-339403}
       - repo: metadata/movies/Babylon (2022) {tmdb-615777}
       - repo: metadata/movies/Baise-moi (2000) {tmdb-3134}
