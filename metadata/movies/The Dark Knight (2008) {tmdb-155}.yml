@@ -1,0 +1,18 @@
+metadata:
+  "The Dark Knight (2008) {tmdb-155} {edition-Theatrical cut}":
+    match:
+      title: The Dark Knight
+      year: 2008
+      edition: Theatrical cut
+    sort_title: Dark Knight (2008)
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Christopher Nolan]
+    genre.sync: [Action, Crime, Drama, Thriller]
+    originally_available: 2008-07-14
+    producer.sync: [Christopher Nolan, Charles Roven, Emma Thomas]
+    studio: Syncopy
+    summary: When the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+    tagline: Welcome to a world without rules.
+    writer.sync: [Jonathan Nolan, Christopher Nolan, David S. Goyer]
+    label: [ID__000000155A]

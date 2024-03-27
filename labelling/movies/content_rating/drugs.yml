@@ -24,6 +24,7 @@ collections:
         label:
           - ID__000008696A # Calendar Girls (2003)
           - ID__000475557A # Joker (2019)
+          - ID__000000155A # The Dark Knight (2008)
 
   BBFC drugs lvl 3:
     template:
@@ -38,6 +39,7 @@ collections:
           - ID__000000028B # Apocalypse Now (1979) [Redux]
           - ID__000718930A # Bullet Train (2022)
           - ID__000004488A # Friday the 13th (1980)
+          - ID__000000578C # Jaws (1975) [30th anniversary edition]
           - ID__000934433A # Scream VI (2023)
           - ID__000117974A # Sightseers (2012)
           - ID__000009340A # The Goonies (1985)
@@ -72,3 +74,4 @@ collections:
           - ID__000004982B # American Gangster (2007) [Extended edition]
           - ID__000615777A # Babylon (2022)
           - ID__000000598A # City of God (2002)
+          - ID__000000680A # Pulp Fiction (1994)

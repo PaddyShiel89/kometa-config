@@ -12,6 +12,7 @@ collections:
       any:
         label:
           - ID__000299534A # Avengers: Endgame (2019)
+          - ID__000299536A # Avengers: Infinity War (2018)
           - ID__000001771A # Captain America: The First Avenger (2011)
           - ID__000284052A # Doctor Strange (2016)
           - ID__000259316A # Fantastic Beasts and Where to Find Them (2016)
@@ -32,6 +33,7 @@ collections:
           - ID__000001894C # Star Wars: Episode II - Attack of the Clones (2002) [Blu-ray cut]
           - ID__000012180A # Star Wars: The Clone Wars (2008)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
+          - ID__000000155A # The Dark Knight (2008)
           - ID__000070160A # The Hunger Games (2012)
           - ID__000101299A # The Hunger Games: Catching Fire (2013)
           - ID__000131631A # The Hunger Games: Mockingjay - Part 1 (2014)
@@ -120,6 +122,7 @@ collections:
           - ID__000545611A # Everything Everywhere All at Once (2022)
           - ID__000004488A # Friday the 13th (1980)
           - ID__000949423A # Pearl (2022)
+          - ID__000000680A # Pulp Fiction (1994)
           - ID__000117974A # Sightseers (2012)
           - ID__000018785A # The Hangover (2009) [Theatrical cut]
           - ID__000001541A # Thelma & Louise (1991)

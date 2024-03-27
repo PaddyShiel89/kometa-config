@@ -1,0 +1,18 @@
+metadata:
+  "Jaws (1975) {tmdb-578} {edition-30th anniversary edition}":
+    match:
+      title: Jaws
+      year: 1975
+      edition: 30th anniversary edition
+    sort_title: Jaws (1975) 001C
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Steven Spielberg]
+    genre.sync: [Adventure, Horror, Mystery, Thriller]
+    originally_available: 1975-06-20
+    producer.sync: [David Brown, Richard D. Zanuck]
+    studio: Universal Pictures
+    summary: When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+    tagline: You'll never go in the water again!
+    writer.sync: [Peter Benchley, Carl Gottlieb]
+    label: [ID__000000578C]

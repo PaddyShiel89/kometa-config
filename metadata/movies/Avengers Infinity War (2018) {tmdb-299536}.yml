@@ -1,0 +1,18 @@
+metadata:
+  "Avengers Infinity War (2018) {tmdb-299536} {edition-Theatrical cut}":
+    match:
+      title: "Avengers: Infinity War"
+      year: 2018
+      edition: Theatrical cut
+    sort_title: Avengers (2012) 003
+    content_rating: gb/12
+    country.sync: [Norway, United States of America]
+    director.sync: [Anthony Russo, Joe Russo]
+    genre.sync: [Action, Adventure, Science Fiction]
+    originally_available: 2018-04-23
+    producer.sync: [Kevin Feige]
+    studio: Marvel Studios
+    summary: The Avengers and their allies must be willing to sacrifice everything to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.
+    tagline: An entire universe. Once and for all.
+    writer.sync: [Christopher Markus, Stephen McFeely]
+    label: [ID__000299536A]

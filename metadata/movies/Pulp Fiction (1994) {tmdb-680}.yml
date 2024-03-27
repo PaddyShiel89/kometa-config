@@ -1,0 +1,18 @@
+metadata:
+  "Pulp Fiction (1994) {tmdb-680} {edition-Theatrical cut}":
+    match:
+      title: Pulp Fiction
+      year: 1994
+      edition: Theatrical cut
+    sort_title: Pulp Fiction (1994)
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Quentin Tarantino]
+    genre.sync: [Crime, Drama]
+    originally_available: 1994-05-21
+    producer.sync: [Lawrence Bender]
+    studio: Miramax
+    summary: The lives of two mob hitmen, a boxer, a gangster, his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+    tagline: You won't know the facts until you've seen the fiction.
+    writer.sync: [Quentin Tarantino, Roger Avary]
+    label: [ID__000000680A]

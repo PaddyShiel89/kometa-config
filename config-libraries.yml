@@ -38,6 +38,7 @@ libraries:
       - repo: metadata/movies/Atonement (2007) {tmdb-4347}
       - repo: metadata/movies/Attack the Block (2011) {tmdb-59678}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
+      - repo: metadata/movies/Avengers Infinity War (2018) {tmdb-299536}
       - repo: metadata/movies/Baby Driver (2017) {tmdb-339403}
       - repo: metadata/movies/Babylon (2022) {tmdb-615777}
       - repo: metadata/movies/Baise-moi (2000) {tmdb-3134}
@@ -131,6 +132,7 @@ libraries:
       - repo: metadata/movies/It (2017) {tmdb-346364}
       - repo: metadata/movies/It Chapter Two (2019) {tmdb-474350}
       - repo: metadata/movies/It's a Wonderful Life (1946) {tmdb-1585}
+      - repo: metadata/movies/Jaws (1975) {tmdb-578}
       - repo: metadata/movies/John Wick (2014) {tmdb-245891}
       - repo: metadata/movies/John Wick Chapter 2 (2017) {tmdb-324552}
       - repo: metadata/movies/John Wick Chapter 3 - Parabellum (2019) {tmdb-458156}
@@ -179,6 +181,7 @@ libraries:
       - repo: metadata/movies/Portrait of a Lady on Fire (2019) {tmdb-531428}
       - repo: metadata/movies/Pride & Prejudice (2005) {tmdb-4348}
       - repo: metadata/movies/Psycho Goreman (2020) {tmdb-670428}
+      - repo: metadata/movies/Pulp Fiction (1994) {tmdb-680}
       - repo: metadata/movies/Raining Stones (1993) {tmdb-62463}
       - repo: metadata/movies/Red Sparrow (2018) {tmdb-401981}
       - repo: metadata/movies/Renfield (2023) {tmdb-649609}
@@ -248,6 +251,7 @@ libraries:
       - repo: metadata/movies/The Bucket List (2007) {tmdb-7350}
       - repo: metadata/movies/The Constant Gardener (2005) {tmdb-1985}
       - repo: metadata/movies/The Curious Case of Benjamin Button (2008) {tmdb-4922}
+      - repo: metadata/movies/The Dark Knight (2008) {tmdb-155}
       - repo: metadata/movies/The Dictator (2012) {tmdb-76493}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
       - repo: metadata/movies/The Exterminating Angels (2006) {tmdb-19976}

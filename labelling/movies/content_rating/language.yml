@@ -40,6 +40,7 @@ collections:
         label:
           - ID__000640146A # Ant-Man and the Wasp: Quantumania (2023)
           - ID__000299534A # Avengers: Endgame (2019)
+          - ID__000299536A # Avengers: Infinity War (2018)
           - ID__000505642A # Black Panther: Wakanda Forever (2022)
           - ID__000497698A # Black Widow (2021)
           - ID__000008696A # Calendar Girls (2003)
@@ -52,6 +53,7 @@ collections:
           - ID__000000620A # Ghostbusters (1984)
           - ID__000002978A # Ghostbusters II (1989)
           - ID__000027205A # Inception (2010)
+          - ID__000000578C # Jaws (1975) [30th anniversary edition]
           - ID__000000254A # King Kong (2005) [Theatrical cut]
           - ID__000000254B # King Kong (2005) [Extended edition]
           - ID__000011631A # Mamma Mia! (2008)
@@ -65,6 +67,7 @@ collections:
           - ID__000000558B # Spider-Man 2.1 (2004) [Extended edition]
           - ID__000054138A # Star Trek Into Darkness (2013)
           - ID__000181812A # Star Wars: The Rise of Skywalker (2019)
+          - ID__000000155A # The Dark Knight (2008)
           - ID__000010195A # Thor (2011)
           - ID__000616037A # Thor: Love and Thunder (2022)
           - ID__000335787A # Uncharted (2022)
@@ -129,6 +132,7 @@ collections:
           - ID__000475557A # Joker (2019)
           - ID__000263115A # Logan (2017)
           - ID__000762504A # Nope (2022)
+          - ID__000000680A # Pulp Fiction (1994)
           - ID__000649609A # Renfield (2023)
           - ID__000000424A # Schindler's List (1993)
           - ID__000934433A # Scream VI (2023)
