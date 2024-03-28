@@ -537,6 +537,22 @@ collections:
     tmdb_movie:
       - 682507 # Where the Crawdads Sing (2022)
 
+  Theme__creature feature:
+    template: { name: TMDB theme label, theme_name: creature feature }
+    tmdb_movie:
+      - 348 # Alien (1979)
+      - 8078 # Alien Resurrection (1997)
+      - 8077 # Alien3 (1992)
+      - 679 # Aliens (1986)
+      - 2011 # Attack the Block
+      - 578 # Jaws (1975)
+      - 507086 # Jurassic World: Dominion (2022)
+      - 254 # King Kong (2005)
+      - 762504 # Nope (2022)
+      - 571 # The Birds (1963)
+      - 75174 # The Grey (2011)
+      - 1091 # The Thing (1982)
+
   Theme__cult:
     template: { name: TMDB theme label, theme_name: cult }
     tmdb_movie:
