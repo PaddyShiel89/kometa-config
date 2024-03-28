@@ -65,6 +65,15 @@ collections:
       sort_by: title.asc
     summary: Movies that are set at Christmas, feature Christmas as an important part of the plot, or are otherwise Christmas-themed.
 
+  Creature Features:
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__creature feature
+      sort_by: title.asc
+    summary: Movies that focus on a non-humanlike creature or creatures with animalistic tendencies. They are often the antagonists of the film but are not necessarily innately evil. Creatures include natural animals, extra-terrestrials, and scientific experiements.
+
   Found Footage and Mockumentary:
     template: { name: Theme collection, subsection: subgenre }
     smart_filter:
