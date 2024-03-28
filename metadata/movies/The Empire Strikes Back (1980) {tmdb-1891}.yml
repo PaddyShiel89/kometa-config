@@ -88,3 +88,21 @@ metadata:
     tagline: "The Adventure Continues..."
     writer.sync: [Leigh Brackett, Lawrence Kasdan, George Lucas]
     label: [ID__000001891E]
+
+  "The Empire Strikes Back (1980) {tmdb-1891} {edition-Project 4K80}":
+    match:
+      title: "Star Wars: Episode V - The Empire Strikes Back"
+      year: 1980
+      edition: Project 4K80
+    sort_title: Star Wars 005F
+    content_rating: gb/PG
+    country.sync: [United States of America]
+    director.sync: [Irvin Kershner]
+    genre.sync: [Action, Adventure, Fantasy, Science Fiction]
+    originally_available: 1980-05-17
+    producer.sync: [Howard G. Kazanjian, Gary Kurtz]
+    studio: "Lucasfilm Ltd."
+    summary: "After the Empire brutally overpowers the Rebels on the ice planet Hoth, Luke Skywalker begins Jedi training. Meanwhile, Luke's friends are pursued by Darth Vader and bounty hunter Boba Fett."
+    tagline: "The Adventure Continues..."
+    writer.sync: [Leigh Brackett, Lawrence Kasdan, George Lucas]
+    label: [ID__000001891F]
