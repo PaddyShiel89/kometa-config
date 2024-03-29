@@ -1,0 +1,22 @@
+metadata:
+  "Back to the Future (1985) {tmdb-105} {edition-Theatrical cut}":
+    match:
+      title: Back to the Future
+      year: 1985
+      edition: Theatrical cut
+    sort_title: Back to the Future (1985) 001
+    content_rating: gb/PG
+    country.sync: [United States of America]
+    director.sync: [Robert Zemeckis]
+    genre.sync: [Adventure, Comedy, Science Fiction]
+    originally_available: 1985-07-03
+    producer.sync: [Neil Canton, Bob Gale]
+    studio: Amblin Entertainment
+    summary: Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-travelling DeLorean invented by maverick scientist Doc Brown.
+    tagline: He's the only kid ever to get into trouble before he was born.
+    writer.sync: [Robert Zemeckis, Bob Gale]
+    label: [ID__000000105A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
