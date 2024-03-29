@@ -409,6 +409,7 @@ collections:
       - 9637 # Scooby-Doo (2002)
       - 808 # Shrek (2001)
       - 522016 # The 355 (2022)
+      - 115 # The Big Lebowski (1998)
       - 7350 # The Bucket List (2007)
       - 9340 # The Goonies (1985)
       - 67913 # The Guard (2011)
@@ -1202,6 +1203,7 @@ collections:
       - 1018 # Mulholland Drive (2001)
       - 597208 # Nightmare Alley (2021)
       - 680 # Pulp Fiction (1994)
+      - 115 # The Big Lebowski (1998)
       - 9676 # The Black Dahlia (2006)
       - 155 # The Dark Knight (2008)
       - 8285 # The Spirit (2008)
@@ -1590,6 +1592,7 @@ collections:
     tmdb_movie:
       - 4247 # Scary Movie (2000)
       - 4248 # Scary Movie 2 (2001)
+      - 115 # The Big Lebowski (1998)
       - 38319 # Your Highness (2011)
 
   Theme__stop_motion:

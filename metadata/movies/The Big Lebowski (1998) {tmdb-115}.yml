@@ -1,0 +1,22 @@
+metadata:
+  "The Big Lebowski (1998) {tmdb-115} {edition-Theatrical cut}":
+    match:
+      title: The Big Lebowski
+      year: 1998
+      edition: Theatrical cut
+    sort_title: Big Lebowski
+    content_rating: gb/18
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Joel Coen, Ethan Coen]
+    genre.sync: [Comedy, Crime]
+    originally_available: 1998-01-18
+    producer.sync: [Joel Coen, Ethan Coen]
+    studio: Working Title Films
+    summary: Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+    tagline: They figured he was a lazy, time-wasting slacker. They were right.
+    writer.sync: [Joel Coen, Ethan Coen]
+    label: [ID__000000115A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
