@@ -107,6 +107,7 @@ libraries:
       - repo: metadata/movies/Gladiator (2000) {tmdb-98}
       - repo: metadata/movies/Glass (2019) {tmdb-450465}
       - repo: metadata/movies/Gone Girl (2014) {tmdb-210577}
+      - repo: metadata/movies/Goodfellas (1990) {tmdb-769}
       - repo: metadata/movies/Goodnight, Mister Tom (1998) {tmdb-20546}
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
       - repo: metadata/movies/Halloween Kills (2021) {tmdb-610253}

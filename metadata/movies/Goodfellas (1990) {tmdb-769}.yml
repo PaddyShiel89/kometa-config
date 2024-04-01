@@ -1,0 +1,18 @@
+metadata:
+  "Goodfellas (1990) {tmdb-769} {edition-Theatrical cut}":
+    match:
+      title: Goodfellas
+      year: 1990
+      edition: Theatrical cut
+    sort_title: Goodfellas (1990) 001
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Martin Scorsese]
+    genre.sync: [Biopic, Crime, Drama]
+    originally_available: 1990-09-09
+    producer.sync: [Irwin Winkler]
+    studio: Warner Bros.
+    summary: The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.
+    tagline: Three Decades of Life in the Mafia.
+    writer.sync: [Nicholas Pileggi, Martin Scorsese]
+    label: [ID__000000769A]
