@@ -183,6 +183,7 @@ libraries:
       - repo: metadata/movies/Pride & Prejudice (2005) {tmdb-4348}
       - repo: metadata/movies/Psycho Goreman (2020) {tmdb-670428}
       - repo: metadata/movies/Pulp Fiction (1994) {tmdb-680}
+      - repo: metadata/movies/Raiders of the Lost Ark (1981) {tmdb-85}
       - repo: metadata/movies/Raining Stones (1993) {tmdb-62463}
       - repo: metadata/movies/Red Sparrow (2018) {tmdb-401981}
       - repo: metadata/movies/Renfield (2023) {tmdb-649609}

@@ -236,6 +236,12 @@ collections:
     tmdb_movie:
       - 425 # Ice Age (2002)
 
+  Series__Indiana Jones_1981:
+    template:
+      { name: TMDB series label, series_name: Indiana Jones, series_year: 1981 }
+    tmdb_movie:
+      - 85 # Raiders of the Lost Ark (1981)
+
   Series__Iron_Man_2008:
     template:
       { name: TMDB series label, series_name: Iron_Man, series_year: 2008 }
@@ -685,16 +691,6 @@ collections:
         series: "The Incredibles (2004)"
         title_list:
           - Incredibles (2004) 001
-
-  "Series: Indiana Jones (1981)":
-    template:
-      - name: Series label
-        series: "Indiana Jones (1981)"
-        title_list:
-          - Indiana Jones (1981) 001
-          - Indiana Jones (1981) 002
-          - Indiana Jones (1981) 003
-          - Indiana Jones (1981) 004
 
   "Series: Jurassic Park (1993)":
     template:

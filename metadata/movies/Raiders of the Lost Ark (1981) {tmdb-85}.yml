@@ -1,0 +1,19 @@
+metadata:
+  "Raiders of the Lost Ark (1981) {tmdb-85} {edition-Theatrical cut}":
+    match:
+      title: Indiana Jones and the Raiders of the Lost Ark
+      year: 1981
+      edition: Theatrical cut
+    sort_title: Indiana Jones (1981) 001
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Steven Spielberg]
+    genre.sync: [Action, Adventure]
+    original_title: Raiders of the Lost Ark
+    originally_available: 1981-06-12
+    producer.sync: [Frank Marshall]
+    studio: Lucasfilm
+    summary: In 1936, the U.S. government hires archaeologist and adventurer Indiana Jones to find the Ark of the Covenant before the Nazis can obtain its awesome powers.
+    tagline: The Return of the Great Adventure.
+    writer.sync: [Lawrence Kasdan, George Lucas, Philip Kaufman]
+    label: [ID__000000085A]

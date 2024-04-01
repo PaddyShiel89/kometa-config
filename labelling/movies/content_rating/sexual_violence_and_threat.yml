@@ -11,6 +11,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000085A # Raiders of the Lost Ark (1981)
           - ID__000131631A # The Hunger Games: Mockingjay - Part 1 (2014)
 
   BBFC sexual violence and sexual threat lvl 3:
