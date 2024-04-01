@@ -177,6 +177,7 @@ collections:
       - 474350 # It Chapter Two (2019)
       - 1585 # It's a Wonderful Life (1946)
       - 578 # Jaws (1975)
+      - 329 # Jurassic Park (1993)
       - 43727 # Jolene (2008)
       - 2118 # L.A. Confidential (1997)
       - 410117 # Lady Macbeth (2016)
@@ -455,6 +456,7 @@ collections:
       - 501170 # Doctor Sleep (2019)
       - 50456 # Hanna (2011)
       - 371645 # Hunt for the Wilderpeople (2016)
+      - 329 # Jurassic Park (1993)
       - 507086 # Jurassic World Dominion (2022)
       - 263115 # Logan (2017)
       - 76341 # Mad Max: Fury Road (2015)
@@ -549,6 +551,7 @@ collections:
       - 679 # Aliens (1986)
       - 2011 # Attack the Block
       - 578 # Jaws (1975)
+      - 329 # Jurassic Park (1993)
       - 507086 # Jurassic World: Dominion (2022)
       - 254 # King Kong (2005)
       - 762504 # Nope (2022)
@@ -598,6 +601,7 @@ collections:
   Theme__dinosaurs:
     template: { name: TMDB theme label, theme_name: dinosaurs }
     tmdb_movie:
+      - 329 # Jurassic Park (1993)
       - 507086 # Jurassic World Dominion (2022)
 
   Theme__disability:
@@ -612,6 +616,7 @@ collections:
     template: { name: TMDB theme label, theme_name: disaster }
     tmdb_movie:
       - 14161 # 2012 (2009)
+      - 329 # Jurassic Park (1993)
       - 157336 # Interstellar (2014)
       - 75174 # The Grey (2011)
       - 5876 # The Mist (2007)
@@ -1115,6 +1120,7 @@ collections:
       - 37958 # Immortals (2011)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
+      - 329 # Jurassic Park (1993)
       - 507086 # Jurassic World Dominion (2022)
       - 254 # King Kong (2005)
       - 762504 # Nope (2022)
@@ -1705,6 +1711,7 @@ collections:
       - 8077 # Alien³ (1992)
       - 679 # Aliens (1986)
       - 50456 # Hanna (2011)
+      - 329 # Jurassic Park (1993)
       - 263115 # Logan (2017)
       - 75174 # The Grey (2011)
       - 70160 # The Hunger Games (2012)

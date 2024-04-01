@@ -270,6 +270,12 @@ collections:
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
       - 603692 # John Wick: Chapter 4 (2023)
 
+  Series__Jurassic Park_1993:
+    template:
+      { name: TMDB series label, series_name: Jurassic Park, series_year: 1993 }
+    tmdb_movie:
+      - 329 # Jurassic Park (1993)
+
   Series__Jurassic_World_2015:
     template:
       {
