@@ -1,0 +1,18 @@
+metadata:
+  "The Avengers (2012) {tmdb-24428} {edition-Censored version}":
+    match:
+      title: The Avengers
+      year: 2012
+      edition: Censored version
+    sort_title: Avengers (2012) 001B
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Joss Whedon]
+    genre.sync: [Action, Science Fiction]
+    originally_available: 2012-04-11
+    producer.sync: [Kevin Feige]
+    studio: Marvel Studios
+    summary: Earth's mightiest heroes must come together and learn to fight as a team to stop the mischievous Loki and his alien army from enslaving humanity.
+    tagline: Avengers Assemble!
+    writer.sync: [Joss Whedon, Zak Penn]
+    label: [ID__000024428B]

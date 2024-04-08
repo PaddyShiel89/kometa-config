@@ -245,6 +245,7 @@ libraries:
       - repo: metadata/movies/Tenet (2020) {tmdb-577922}
       - repo: metadata/movies/Terminator 2 Judgment Day (1991) {tmdb-280}
       - repo: metadata/movies/The 355 (2022) {tmdb-522016}
+      - repo: metadata/movies/The Avengers (2012) {tmdb-24428}
       - repo: metadata/movies/The Bank Job (2008) {tmdb-8848}
       - repo: metadata/movies/The Banshees of Inisherin (2022) {tmdb-674324}
       - repo: metadata/movies/The Big Lebowski (1998) {tmdb-115}
