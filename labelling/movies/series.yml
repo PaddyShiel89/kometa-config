@@ -50,6 +50,7 @@ collections:
       { name: TMDB series label, series_name: Batman, series_year: 1989 }
     tmdb_movie:
       - 268 # Batman (1989)
+      - 364 # Batman Returns (1992)
 
   Series__Black_Panther_2018:
     template:

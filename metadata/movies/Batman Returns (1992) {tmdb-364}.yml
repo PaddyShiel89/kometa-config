@@ -1,0 +1,18 @@
+metadata:
+  "Batman Returns (1992) {tmdb-364} {edition-Theatrical cut}":
+    match:
+      title: Batman Returns
+      year: 1992
+      edition: Theatrical cut
+    sort_title: Batman (1989) 002
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Tim Burton]
+    genre.sync: [Action, Crime, Fantasy]
+    originally_available: 1992-06-16
+    producer.sync: [Tim Burton, Denise Di Novi]
+    studio: Warner Bros.
+    summary: While Batman deals with a man calling himself the Penguin wreaking havoc across Gotham with the help of a cruel businessman, an employee of the latter becomes the Catwoman.
+    tagline: The Bat, the Cat, the Penguin
+    writer.sync: [Daniel Waters, Sam Hamm]
+    label: [ID__000000364A]

@@ -11,6 +11,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000364A # Batman Returns (1992)
           - ID__000299537A # Captain Marvel (2019)
           - ID__000475557A # Joker (2019)
           - ID__000649609A # Renfield (2023)

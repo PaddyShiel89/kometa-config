@@ -23,6 +23,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000364A # Batman Returns (1992)
           - ID__000000022A # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
           - ID__000000424A # Schindler's List (1993)
           - ID__000934433A # Scream VI (2023)

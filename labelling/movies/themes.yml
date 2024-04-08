@@ -247,6 +247,8 @@ collections:
       - 640146 # Ant-Man and the Wasp: Quantumania (2023)
       - 299536 # Avengers: Infinity War (2018)
       - 341013 # Atomic Blonde (2017)
+      - 268 # Batman (1989)
+      - 364 # Batman Returns (1992)
       - 561 # Constantine (2005)
       - 315837 # Ghost in the Shell (2017)
       - 475557 # Joker (2019)
@@ -1208,6 +1210,7 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
       - 3134 # Baise-moi (2000)
+      - 364 # Batman Returns (1992)
       - 793 # Blue Velvet (1986)
       - 949 # Heat (1995)
       - 245891 # John Wick (2015)
@@ -1412,6 +1415,7 @@ collections:
     tmdb_movie:
       - 185 # A Clockwork Orange (1971)
       - 268 # Batman (1989)
+      - 364 # Batman Returns (1992)
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 25239 # Day of the Woman (1978)
       - 20352 # Despicable Me (2010)
@@ -1640,6 +1644,7 @@ collections:
       - 299534 # Avengers: Endgame (2019)
       - 299536 # Avengers: Infinity War (2018)
       - 268 # Batman (1989)
+      - 364 # Batman Returns (1992)
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 497698 # Black Widow (2021)
       - 531309 # Brightburn (2019)
