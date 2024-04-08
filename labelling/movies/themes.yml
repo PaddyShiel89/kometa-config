@@ -134,6 +134,7 @@ collections:
     template: { name: TMDB theme label, theme_name: artificial_intelligence }
     tmdb_movie:
       - 62 # 2001: A Space Odyssey (1996)
+      - 99861 # Avengers: Age of Ultron (2015)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 218 # The Terminator (1984)
 
@@ -1093,6 +1094,7 @@ collections:
     template: { name: TMDB theme label, theme_name: mind_control }
     tmdb_movie:
       - 185 # A Clockwork Orange (1971)
+      - 99861 # Avengers: Age of Ultron (2015)
       - 315837 # Ghost in the Shell (2017)
       - 71679 # Resident Evil: Retribution (2012)
       - 24428 # The Avengers (2012)
@@ -1633,6 +1635,7 @@ collections:
     tmdb_movie:
       - 363088 # Ant-Man and The Wasp (2018)
       - 640146 # Ant-Man and the Wasp: Quantumania (2023)
+      - 99861 # Avengers: Age of Ultron (2015)
       - 299534 # Avengers: Endgame (2019)
       - 299536 # Avengers: Infinity War (2018)
       - 505642 # Black Panther: Wakanda Forever (2022)

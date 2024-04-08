@@ -1,0 +1,18 @@
+metadata:
+  "Avengers Age of Ultron (2015) {tmdb-99861} {edition-Theatrical cut}":
+    match:
+      title: "Avengers: Age of Ultron"
+      year: 2015
+      edition: Theatrical cut
+    sort_title: Avengers (2012) 002A
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Joss Whedon]
+    genre.sync: [Action, Adventure, Science Fiction]
+    originally_available: 2015-04-13
+    producer.sync: [Kevin Feige]
+    studio: Marvel Studios
+    summary: Things go wrong when Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program, and it's up to Earth's mightiest heroes to take down the villainous Ultron.
+    tagline: A new age begins
+    writer.sync: [Joss Whedon, Stan Lee, Jack Kirby]
+    label: [ID__000099861A]
