@@ -1411,6 +1411,7 @@ collections:
     template: { name: TMDB theme label, theme_name: revenge }
     tmdb_movie:
       - 185 # A Clockwork Orange (1971)
+      - 268 # Batman (1989)
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 25239 # Day of the Woman (1978)
       - 20352 # Despicable Me (2010)
@@ -1638,6 +1639,7 @@ collections:
       - 99861 # Avengers: Age of Ultron (2015)
       - 299534 # Avengers: Endgame (2019)
       - 299536 # Avengers: Infinity War (2018)
+      - 268 # Batman (1989)
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 497698 # Black Widow (2021)
       - 531309 # Brightburn (2019)

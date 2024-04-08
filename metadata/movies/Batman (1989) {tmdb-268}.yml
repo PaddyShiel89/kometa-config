@@ -1,0 +1,18 @@
+metadata:
+  "Batman (1989) {tmdb-268} {edition-Theatrical cut}":
+    match:
+      title: Batman
+      year: 1989
+      edition: Theatrical cut
+    sort_title: Batman (1989) 001
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Tim Burton]
+    genre.sync: [Action, Adventure]
+    originally_available: 1989-06-19
+    producer.sync: [Peter Guber, Jon Peters]
+    studio: Warner Bros.
+    summary: The Dark Knight of Gotham City begins his war on crime. His first major enemy is Jack Napier, a criminal who becomes the clownishly homicidal Joker.
+    tagline: Justice is always Darkest before the Dawn.
+    writer.sync: [Sam Hamm, Warren Skaaren]
+    label: [ID__000000268A]
