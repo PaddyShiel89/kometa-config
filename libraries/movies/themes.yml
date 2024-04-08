@@ -107,6 +107,15 @@ collections:
       sort_by: title.asc
     summary: Movies depicting fictional events but presented as a documentary.
 
+  LGBTQ+:
+    template: { name: Theme collection, subsection: subgenre }
+    smart_filter:
+      all:
+        label:
+          - Theme__lgbtq
+      sort_by: title.asc
+    summary: Movies prominently featuring LGBTQ+ characters and/or themes.
+
   Martial Arts:
     template: { name: Theme collection, subsection: subgenre }
     smart_filter:
