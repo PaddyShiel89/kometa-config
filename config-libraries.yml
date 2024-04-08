@@ -376,8 +376,6 @@ libraries:
         asset_directory: config/assets/collections/editions
       - repo: libraries/movies/series
         asset_directory: config/assets/collections/series
-      - repo: libraries/shared/themes
-        asset_directory: config/assets/collections/themes/movies
       - repo: libraries/movies/themes
         asset_directory: config/assets/collections/themes/movies
       - repo: libraries/movies/seasonal
@@ -428,8 +426,6 @@ libraries:
         asset_directory: config/assets/collections/content-rating
       - repo: libraries/shared/genres
         asset_directory: config/assets/collections/genres/tv-shows
-      - repo: libraries/shared/themes
-        asset_directory: config/assets/collections/themes/tv-shows
       - repo: libraries/tv_shows/themes
         asset_directory: config/assets/collections/themes/tv-shows
     settings:
