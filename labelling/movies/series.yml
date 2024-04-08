@@ -51,6 +51,7 @@ collections:
     tmdb_movie:
       - 268 # Batman (1989)
       - 364 # Batman Returns (1992)
+      - 414 # Batman Forever (1995)
 
   Series__Black_Panther_2018:
     template:

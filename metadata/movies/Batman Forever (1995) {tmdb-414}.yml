@@ -1,0 +1,18 @@
+metadata:
+  "Batman Forever (1995) {tmdb-414} {edition-Theatrical cut}":
+    match:
+      title: Batman Forever
+      year: 1995
+      edition: Theatrical
+    sort_title: Batman (1989) 003
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Joel Schumacher]
+    genre.sync: [Action, Adventure]
+    originally_available: 1995-06-09
+    producer.sync: [Tim Burton, Peter Macgregor-Scott]
+    studio: Warner Bros.
+    summary: Batman must battle former district attorney Harvey Dent - now Two-Face - and The Riddler, with help from an amorous psychologist and a young circus acrobat named Robin.
+    tagline: Courage Now, Truth Always, Batman Forever!
+    writer.sync: [Lee Batchler, Janet Scott Batchler, Akiva Goldsman]
+    label: [ID__000000414A]

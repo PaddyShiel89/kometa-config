@@ -45,6 +45,7 @@ libraries:
       - repo: metadata/movies/Back to the Future (1985) {tmdb-105}
       - repo: metadata/movies/Baise-moi (2000) {tmdb-3134}
       - repo: metadata/movies/Batman (1989) {tmdb-268}
+      - repo: metadata/movies/Batman Forever (1995) {tmdb-414}
       - repo: metadata/movies/Batman Returns (1992) {tmdb-364}
       - repo: metadata/movies/Benedetta (2021) {tmdb-454527}
       - repo: metadata/movies/Bitch Slap (2009) {tmdb-26715}
