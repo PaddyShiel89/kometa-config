@@ -45,10 +45,16 @@ collections:
           - ID__000341013A # Atomic Blonde (2017)
           - ID__000004347A # Atonement (2007)
           - ID__000059678A # Attack the Block (2011)
+          - ID__000099861A # Avengers: Age of Ultron (2015)
           - ID__000299534A # Avengers: Endgame (2019)
           - ID__000299536A # Avengers: Infinity War (2018)
           - ID__000339403A # Baby Driver (2017)
           - ID__000615777A # Babylon (2022)
+          - ID__000000105A # Back to the Future (1985)
+          - ID__000000268A # Batman (1989)
+          - ID__000000415A # Batman & Robin (1997)
+          - ID__000000414A # Batman Forever (1995)
+          - ID__000000364A # Batman Returns (1992)
           - ID__000454527A # Benedetta (2021)
           - ID__000505642A # Black Panther: Wakanda Forever (2022)
           - ID__000497698A # Black Widow (2021)
@@ -105,6 +111,7 @@ collections:
           - ID__000000098B # Gladiator (2000) [Extended edition]
           - ID__000450465A # Glass (2019)
           - ID__000210577A # Gone Girl (2014)
+          - ID__000000769A # Goodfellas (1990)
           - ID__000020546A # Goodnight, Mister Tom (1998)
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
           - ID__000610253A # Halloween Kills (2021) [Theatrical cut]
@@ -138,6 +145,7 @@ collections:
           - ID__000603692A # John Wick: Chapter 4 (2023)
           - ID__000475557A # Joker (2019)
           - ID__000043727A # Jolene (2008)
+          - ID__000000329A # Jurassic Park (1993)
           - ID__000507086A # Jurassic World Dominion (2022) [Theatrical cut]
           - ID__000507086B # Jurassic World Dominion (2022) [Extended edition]
           - ID__000000254A # King Kong (2005) [Theatrical cut]
@@ -183,6 +191,7 @@ collections:
           - ID__000004348A # Pride & Prejudice (2005)
           - ID__000670428A # Psycho Goreman (2020)
           - ID__000000680A # Pulp Fiction (1994)
+          - ID__000000085A # Raiders of the Lost Ark (1981)
           - ID__000062463A # Raining Stones (1993)
           - ID__000401981B # Red Sparrow (2018)
           - ID__000649609A # Renfield (2023)
@@ -245,8 +254,10 @@ collections:
           - ID__000000280B # Terminator 2: Judgment Day (1991) [Special edition]
           - ID__000000280C # Terminator 2: Judgment Day (1991) [Extended special edition]
           - ID__000522016A # The 355 (2022)
+          - ID__000024428B # The Avengers (2012)
           - ID__000008848A # The Bank Job (2008)
           - ID__000674324A # The Banshees of Inisherin (2022)
+          - ID__000000115A # The Big Lebowski (1998)
           - ID__000000571A # The Birds (1963)
           - ID__000756999A # The Black Phone (2021)
           - ID__000018947A # The Boat That Rocked (2009)

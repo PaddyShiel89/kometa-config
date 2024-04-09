@@ -35,6 +35,25 @@ collections:
       - 299536 # Avengers: Infinity War (2018)
       - 299534 # Avengers: Endgame (2019)
 
+  Series__Back to the Future_1985:
+    template:
+      {
+        name: TMDB series label,
+        series_name: Back to the Future,
+        series_year: 1985,
+      }
+    tmdb_movie:
+      - 105 # Back to the Future (1985)
+
+  Series__Batman_1989:
+    template:
+      { name: TMDB series label, series_name: Batman, series_year: 1989 }
+    tmdb_movie:
+      - 268 # Batman (1989)
+      - 364 # Batman Returns (1992)
+      - 414 # Batman Forever (1995)
+      - 415 # Batman & Robin (1997)
+
   Series__Black_Panther_2018:
     template:
       { name: TMDB series label, series_name: Black_Panther, series_year: 2018 }
@@ -226,6 +245,12 @@ collections:
     tmdb_movie:
       - 425 # Ice Age (2002)
 
+  Series__Indiana Jones_1981:
+    template:
+      { name: TMDB series label, series_name: Indiana Jones, series_year: 1981 }
+    tmdb_movie:
+      - 85 # Raiders of the Lost Ark (1981)
+
   Series__Iron_Man_2008:
     template:
       { name: TMDB series label, series_name: Iron_Man, series_year: 2008 }
@@ -253,6 +278,12 @@ collections:
       - 324552 # John Wick: Chapter 2 (2017)
       - 458156 # John Wick: Chapter 3 - Parabellum (2019)
       - 603692 # John Wick: Chapter 4 (2023)
+
+  Series__Jurassic Park_1993:
+    template:
+      { name: TMDB series label, series_name: Jurassic Park, series_year: 1993 }
+    tmdb_movie:
+      - 329 # Jurassic Park (1993)
 
   Series__Jurassic_World_2015:
     template:
@@ -675,16 +706,6 @@ collections:
         series: "The Incredibles (2004)"
         title_list:
           - Incredibles (2004) 001
-
-  "Series: Indiana Jones (1981)":
-    template:
-      - name: Series label
-        series: "Indiana Jones (1981)"
-        title_list:
-          - Indiana Jones (1981) 001
-          - Indiana Jones (1981) 002
-          - Indiana Jones (1981) 003
-          - Indiana Jones (1981) 004
 
   "Series: Jurassic Park (1993)":
     template:

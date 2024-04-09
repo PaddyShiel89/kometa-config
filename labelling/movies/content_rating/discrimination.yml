@@ -11,6 +11,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000364A # Batman Returns (1992)
           - ID__000299537A # Captain Marvel (2019)
           - ID__000475557A # Joker (2019)
           - ID__000649609A # Renfield (2023)
@@ -29,6 +30,7 @@ collections:
           - ID__000000524A # Casino (1995)
           - ID__000000598A # City of God (2002)
           - ID__000068718A # Django Unchained (2012)
+          - ID__000000769A # Goodfellas (1990)
           - ID__000346364A # It (2017)
           - ID__000000424A # Schindler's List (1993)
           - ID__000756999A # The Black Phone (2021)

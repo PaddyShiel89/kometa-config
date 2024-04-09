@@ -53,6 +53,7 @@ collections:
       - 140607 # Star Wars: The Force Awakens (2015)
       - 181808 # Star Wars: The Last Jedi (2017)
       - 181812 # Star Wars: The Rise of Skywalker (2019)
+      - 24428 # The Avengers (2012)
       - 1891 # The Empire Strikes Back (1980)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 74849 # The Star Wars Holiday Special (1978)
@@ -69,6 +70,7 @@ collections:
       - 299536 # Avengers: Infinity War (2018)
       - 4256 # Scary Movie 3 (2003)
       - 4257 # Scary Movie 4 (2006)
+      - 24428 # The Avengers (2012)
       - 1091 # The Thing (1982)
 
   Theme__alternate_timeline:
@@ -132,6 +134,7 @@ collections:
     template: { name: TMDB theme label, theme_name: artificial_intelligence }
     tmdb_movie:
       - 62 # 2001: A Space Odyssey (1996)
+      - 99861 # Avengers: Age of Ultron (2015)
       - 7453 # The Hitchhiker's Guide to the Galaxy (2005)
       - 218 # The Terminator (1984)
 
@@ -169,6 +172,7 @@ collections:
       - 99579 # Farewell, My Queen (2012)
       - 343674 # Gerald's Game (2017)
       - 210577 # Gone Girl (2014)
+      - 769 # Goodfellas (1990)
       - 20546 # Goodnight, Mister Tom (1998)
       - 13092 # How to Lose Friends & Alienate People (2008)
       - 371645 # Hunt for the Wilderpeople (2016)
@@ -176,6 +180,7 @@ collections:
       - 474350 # It Chapter Two (2019)
       - 1585 # It's a Wonderful Life (1946)
       - 578 # Jaws (1975)
+      - 329 # Jurassic Park (1993)
       - 43727 # Jolene (2008)
       - 2118 # L.A. Confidential (1997)
       - 410117 # Lady Macbeth (2016)
@@ -242,9 +247,14 @@ collections:
       - 640146 # Ant-Man and the Wasp: Quantumania (2023)
       - 299536 # Avengers: Infinity War (2018)
       - 341013 # Atomic Blonde (2017)
+      - 268 # Batman (1989)
+      - 415 # Batman & Robin (1997)
+      - 414 # Batman Forever (1995)
+      - 364 # Batman Returns (1992)
       - 561 # Constantine (2005)
       - 315837 # Ghost in the Shell (2017)
       - 475557 # Joker (2019)
+      - 24428 # The Avengers (2012)
       - 155 # The Dark Knight (2008)
       - 8285 # The Spirit (2008)
       - 36657 # X-Men (2000)
@@ -317,6 +327,7 @@ collections:
       - 8881 # Che: Part One (2008)
       - 8880 # Che: Part Two (2008)
       - 11499 # Frost/Nixon (2008)
+      - 769 # Goodfellas (1990)
       - 13092 # How to Lose Friends & Alienate People (2008)
       - 389015 # I, Tonya (2017)
       - 82633 # Lawless (2012)
@@ -409,6 +420,7 @@ collections:
       - 9637 # Scooby-Doo (2002)
       - 808 # Shrek (2001)
       - 522016 # The 355 (2022)
+      - 115 # The Big Lebowski (1998)
       - 7350 # The Bucket List (2007)
       - 9340 # The Goonies (1985)
       - 67913 # The Guard (2011)
@@ -452,6 +464,7 @@ collections:
       - 501170 # Doctor Sleep (2019)
       - 50456 # Hanna (2011)
       - 371645 # Hunt for the Wilderpeople (2016)
+      - 329 # Jurassic Park (1993)
       - 507086 # Jurassic World Dominion (2022)
       - 263115 # Logan (2017)
       - 76341 # Mad Max: Fury Road (2015)
@@ -546,6 +559,7 @@ collections:
       - 679 # Aliens (1986)
       - 2011 # Attack the Block
       - 578 # Jaws (1975)
+      - 329 # Jurassic Park (1993)
       - 507086 # Jurassic World: Dominion (2022)
       - 254 # King Kong (2005)
       - 762504 # Nope (2022)
@@ -595,6 +609,7 @@ collections:
   Theme__dinosaurs:
     template: { name: TMDB theme label, theme_name: dinosaurs }
     tmdb_movie:
+      - 329 # Jurassic Park (1993)
       - 507086 # Jurassic World Dominion (2022)
 
   Theme__disability:
@@ -609,6 +624,7 @@ collections:
     template: { name: TMDB theme label, theme_name: disaster }
     tmdb_movie:
       - 14161 # 2012 (2009)
+      - 329 # Jurassic Park (1993)
       - 157336 # Interstellar (2014)
       - 75174 # The Grey (2011)
       - 5876 # The Mist (2007)
@@ -999,6 +1015,7 @@ collections:
       - 341013 # Atomic Blonde (2017)
       - 718930 # Bullet Train (2022)
       - 524 # Casino (1995)
+      - 769 # Goodfellas (1990)
       - 245891 # John Wick (2015)
       - 2118 # L.A. Confidential (1997)
       - 396371 # Molly's Game (2017)
@@ -1081,8 +1098,10 @@ collections:
     template: { name: TMDB theme label, theme_name: mind_control }
     tmdb_movie:
       - 185 # A Clockwork Orange (1971)
+      - 99861 # Avengers: Age of Ultron (2015)
       - 315837 # Ghost in the Shell (2017)
       - 71679 # Resident Evil: Retribution (2012)
+      - 24428 # The Avengers (2012)
       - 65086 # The Woman in Black (2012)
       - 36658 # X2: X-Men United (2003)
 
@@ -1111,6 +1130,7 @@ collections:
       - 37958 # Immortals (2011)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
+      - 329 # Jurassic Park (1993)
       - 507086 # Jurassic World Dominion (2022)
       - 254 # King Kong (2005)
       - 762504 # Nope (2022)
@@ -1135,6 +1155,7 @@ collections:
       - 50204 # Burke & Hare (2010)
       - 524 # Casino (1995)
       - 210577 # Gone Girl (2014)
+      - 769 # Goodfellas (1990)
       - 51540 # Horrible Bosses (2011)
       - 475557 # Joker (2019)
       - 2118 # L.A. Confidential (1997)
@@ -1163,6 +1184,7 @@ collections:
     tmdb_movie:
       - 524434 # Eternals (2021)
       - 37958 # Immortals (2011)
+      - 24428 # The Avengers (2012)
       - 8285 # The Spirit (2008)
       - 16307 # The Wicker Man (1973)
       - 10195 # Thor (2011)
@@ -1190,6 +1212,7 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
       - 3134 # Baise-moi (2000)
+      - 364 # Batman Returns (1992)
       - 793 # Blue Velvet (1986)
       - 949 # Heat (1995)
       - 245891 # John Wick (2015)
@@ -1202,6 +1225,7 @@ collections:
       - 1018 # Mulholland Drive (2001)
       - 597208 # Nightmare Alley (2021)
       - 680 # Pulp Fiction (1994)
+      - 115 # The Big Lebowski (1998)
       - 9676 # The Black Dahlia (2006)
       - 155 # The Dark Knight (2008)
       - 8285 # The Spirit (2008)
@@ -1369,6 +1393,12 @@ collections:
       - 76493 # The Dictator (2012)
       - 399055 # The Shape of Water (2017)
 
+  Theme__regicide:
+    template: { name: TMDB theme label, theme_name: regicide }
+    tmdb_movie:
+      - 505642 # Black Panther: Wakanda Forever (2022)
+      - 8587 # The Lion King (1994)
+
   Theme__religion:
     template: { name: TMDB theme label, theme_name: religion }
     tmdb_movie:
@@ -1376,21 +1406,20 @@ collections:
       - 157832 # Calvary (2014)
       - 561 # Constantine (2005)
       - 419743 # Disobedience (2017)
+      - 85 # Raiders of the Lost Ark (1981)
       - 62463 # Raining Stones (1993)
       - 424 # Schindler's List (1993)
       - 20504 # The Book of Eli (2010)
       - 75174 # The Grey (2011)
 
-  Theme__regicide:
-    template: { name: TMDB theme label, theme_name: regicide }
-    tmdb_movie:
-      - 505642 # Black Panther: Wakanda Forever (2022)
-      - 8587 # The Lion King (1994)
-
   Theme__revenge:
     template: { name: TMDB theme label, theme_name: revenge }
     tmdb_movie:
       - 185 # A Clockwork Orange (1971)
+      - 268 # Batman (1989)
+      - 415 # Batman & Robin (1997)
+      - 414 # Batman Forever (1995)
+      - 364 # Batman Returns (1992)
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 25239 # Day of the Woman (1978)
       - 20352 # Despicable Me (2010)
@@ -1590,6 +1619,7 @@ collections:
     tmdb_movie:
       - 4247 # Scary Movie (2000)
       - 4248 # Scary Movie 2 (2001)
+      - 115 # The Big Lebowski (1998)
       - 38319 # Your Highness (2011)
 
   Theme__stop_motion:
@@ -1614,8 +1644,13 @@ collections:
     tmdb_movie:
       - 363088 # Ant-Man and The Wasp (2018)
       - 640146 # Ant-Man and the Wasp: Quantumania (2023)
+      - 99861 # Avengers: Age of Ultron (2015)
       - 299534 # Avengers: Endgame (2019)
       - 299536 # Avengers: Infinity War (2018)
+      - 268 # Batman (1989)
+      - 415 # Batman & Robin (1997)
+      - 414 # Batman Forever (1995)
+      - 364 # Batman Returns (1992)
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 497698 # Black Widow (2021)
       - 531309 # Brightburn (2019)
@@ -1634,6 +1669,7 @@ collections:
       - 429617 # Spider-Man: Far from Home (2019)
       - 634649 # Spider-Man: No Way Home (2021)
       - 381288 # Split (2016)
+      - 24428 # The Avengers (2012)
       - 155 # The Dark Knight (2008)
       - 9806 # The Incredibles (2004)
       - 8285 # The Spirit (2008)
@@ -1666,6 +1702,7 @@ collections:
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 22 # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+      - 85 # Raiders of the Lost Ark (1981)
       - 4248 # Scary Movie 2 (2001)
       - 4256 # Scary Movie 3 (2003)
       - 4257 # Scary Movie 4 (2006)
@@ -1696,6 +1733,7 @@ collections:
       - 8077 # Alien³ (1992)
       - 679 # Aliens (1986)
       - 50456 # Hanna (2011)
+      - 329 # Jurassic Park (1993)
       - 263115 # Logan (2017)
       - 75174 # The Grey (2011)
       - 70160 # The Hunger Games (2012)
@@ -1708,6 +1746,7 @@ collections:
   Theme__terrorism:
     template: { name: TMDB theme label, theme_name: terrorism }
     tmdb_movie:
+      - 415 # Batman & Robin (1997)
       - 9739 # Demolition Man (1993)
       - 68721 # Iron Man 3 (2013)
       - 330459 # Rogue One: A Star Wars Story (2016)
@@ -1721,6 +1760,7 @@ collections:
     template: { name: TMDB theme label, theme_name: time_travel }
     tmdb_movie:
       - 299534 # Avengers: Endgame (2019)
+      - 105 # Back to the Future (1985)
       - 157336 # Interstellar (2014)
       - 869 # Planet of the Apes (2001)
       - 577922 # Tenet (2020)
@@ -1771,6 +1811,7 @@ collections:
       - 1771 # Captain America: The First Avenger (2011)
       - 20546 # Goodnight, Mister Tom (1998)
       - 10867 # Malèna (2000)
+      - 85 # Raiders of the Lost Ark (1981)
       - 31997 # Saboteur (1942)
       - 424 # Schindler's List (1993)
       - 205596 # The Imitation Game (2014)

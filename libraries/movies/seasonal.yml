@@ -18,6 +18,22 @@ collections:
       sort_by: title.asc
     summary: Star Wars Day is an informal commemorative day observed annually on May 4th to celebrate the Star Wars media franchise created by filmmaker George Lucas.
 
+    # --------------------------- June 1st => June 30th -------------------------- #
+
+  Pride Month Movies:
+    template:
+      {
+        name: Seasonal collection,
+        subsection: seasonal,
+        schedule: range(06/01-06/30),
+      }
+    smart_filter:
+      all:
+        label:
+          - Theme__lgbtq
+      sort_by: random
+    summary: Movies prominently featuring LGBTQ+ characters and/or themes.
+
   # ------------------------ October 1st => October 31st ----------------------- #
 
   Spooky Season Movies:
@@ -34,6 +50,7 @@ collections:
     summary: Movies set during or related to Hallowe'en, as well as movies that are just plain scary.
 
   # ------------------------ December 1st => January 7th ----------------------- #
+
   Christmas Movies:
     template:
       {
@@ -45,5 +62,5 @@ collections:
       all:
         label:
           - Theme__christmas
-      sort_by: title.asc
+      sort_by: random
     summary: Movies that are set at Christmas, feature Christmas as an important part of the plot, or are otherwise Christmas-themed.

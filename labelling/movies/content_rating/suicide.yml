@@ -24,7 +24,9 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000268A # Batman (1989)
           - ID__000524434A # Eternals (2021)
+          - ID__000024428B # The Avengers (2012)
 
   BBFC suicide lvl 3:
     template:

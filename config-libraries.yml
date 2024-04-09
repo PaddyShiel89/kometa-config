@@ -37,11 +37,17 @@ libraries:
       - repo: metadata/movies/Atomic Blonde (2017) {tmdb-341013}
       - repo: metadata/movies/Atonement (2007) {tmdb-4347}
       - repo: metadata/movies/Attack the Block (2011) {tmdb-59678}
+      - repo: metadata/movies/Avengers Age of Ultron (2015) {tmdb-99861}
       - repo: metadata/movies/Avengers Endgame (2019) {tmdb-299534}
       - repo: metadata/movies/Avengers Infinity War (2018) {tmdb-299536}
       - repo: metadata/movies/Baby Driver (2017) {tmdb-339403}
       - repo: metadata/movies/Babylon (2022) {tmdb-615777}
+      - repo: metadata/movies/Back to the Future (1985) {tmdb-105}
       - repo: metadata/movies/Baise-moi (2000) {tmdb-3134}
+      - repo: metadata/movies/Batman (1989) {tmdb-268}
+      - repo: metadata/movies/Batman & Robin (1997) {tmdb-415}
+      - repo: metadata/movies/Batman Forever (1995) {tmdb-414}
+      - repo: metadata/movies/Batman Returns (1992) {tmdb-364}
       - repo: metadata/movies/Benedetta (2021) {tmdb-454527}
       - repo: metadata/movies/Bitch Slap (2009) {tmdb-26715}
       - repo: metadata/movies/Black Panther Wakanda Forever (2022) {tmdb-505642}
@@ -106,6 +112,7 @@ libraries:
       - repo: metadata/movies/Gladiator (2000) {tmdb-98}
       - repo: metadata/movies/Glass (2019) {tmdb-450465}
       - repo: metadata/movies/Gone Girl (2014) {tmdb-210577}
+      - repo: metadata/movies/Goodfellas (1990) {tmdb-769}
       - repo: metadata/movies/Goodnight, Mister Tom (1998) {tmdb-20546}
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
       - repo: metadata/movies/Halloween Kills (2021) {tmdb-610253}
@@ -139,6 +146,7 @@ libraries:
       - repo: metadata/movies/John Wick Chapter 4 (2023) {tmdb-603692}
       - repo: metadata/movies/Joker (2019) {tmdb-475557}
       - repo: metadata/movies/Jolene (2008) {tmdb-43727}
+      - repo: metadata/movies/Jurassic Park (1993) {tmdb-329}
       - repo: metadata/movies/Jurassic World Dominion (2022) {tmdb-507086}
       - repo: metadata/movies/King Kong (2005) {tmdb-254}
       - repo: metadata/movies/L.A. Confidential (1997) {tmdb-2118}
@@ -182,6 +190,7 @@ libraries:
       - repo: metadata/movies/Pride & Prejudice (2005) {tmdb-4348}
       - repo: metadata/movies/Psycho Goreman (2020) {tmdb-670428}
       - repo: metadata/movies/Pulp Fiction (1994) {tmdb-680}
+      - repo: metadata/movies/Raiders of the Lost Ark (1981) {tmdb-85}
       - repo: metadata/movies/Raining Stones (1993) {tmdb-62463}
       - repo: metadata/movies/Red Sparrow (2018) {tmdb-401981}
       - repo: metadata/movies/Renfield (2023) {tmdb-649609}
@@ -241,8 +250,10 @@ libraries:
       - repo: metadata/movies/Tenet (2020) {tmdb-577922}
       - repo: metadata/movies/Terminator 2 Judgment Day (1991) {tmdb-280}
       - repo: metadata/movies/The 355 (2022) {tmdb-522016}
+      - repo: metadata/movies/The Avengers (2012) {tmdb-24428}
       - repo: metadata/movies/The Bank Job (2008) {tmdb-8848}
       - repo: metadata/movies/The Banshees of Inisherin (2022) {tmdb-674324}
+      - repo: metadata/movies/The Big Lebowski (1998) {tmdb-115}
       - repo: metadata/movies/The Birds (1963) {tmdb-571}
       - repo: metadata/movies/The Black Dahlia (2006) {tmdb-9676}
       - repo: metadata/movies/The Black Phone (2021) {tmdb-756999}
@@ -371,8 +382,6 @@ libraries:
         asset_directory: config/assets/collections/editions
       - repo: libraries/movies/series
         asset_directory: config/assets/collections/series
-      - repo: libraries/shared/themes
-        asset_directory: config/assets/collections/themes/movies
       - repo: libraries/movies/themes
         asset_directory: config/assets/collections/themes/movies
       - repo: libraries/movies/seasonal
@@ -423,8 +432,6 @@ libraries:
         asset_directory: config/assets/collections/content-rating
       - repo: libraries/shared/genres
         asset_directory: config/assets/collections/genres/tv-shows
-      - repo: libraries/shared/themes
-        asset_directory: config/assets/collections/themes/tv-shows
       - repo: libraries/tv_shows/themes
         asset_directory: config/assets/collections/themes/tv-shows
     settings:

@@ -1,0 +1,18 @@
+metadata:
+  "Jurassic Park (1993) {tmdb-329} {edition-Theatrical cut}":
+    match:
+      title: Jurassic Park
+      year: 1993
+      edition: Theatrical cut
+    sort_title: Jurassic Park (1993) 001
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Steven Spielberg]
+    genre.sync: [Action, Adventure, Science Fiction, Thriller]
+    originally_available: 1993-06-09
+    producer.sync: [Kathleen Kennedy, Gerald R. Molen, Steven Spielberg]
+    studio: Amblin Entertainment
+    summary: A pragmatic palaeontologist touring a nearly complete island theme park must protect a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.
+    tagline: Life finds a way.
+    writer.sync: [Michael Crichton, David Koepp]
+    label: [ID__000000329A]

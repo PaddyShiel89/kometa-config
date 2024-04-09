@@ -52,9 +52,13 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000099861A # Avengers: Age of Ultron (2015)
           - ID__000059678A # Attack the Block (2011)
+          - ID__000000268A # Batman (1989)
+          - ID__000000414A # Batman Forever (1995)
           - ID__000497698A # Black Widow (2021)
           - ID__000002978A # Ghostbusters II (1989)
+          - ID__000000329A # Jurassic Park (1993)
           - ID__000068721A # Iron Man 3 (2013)
           - ID__000000254A # King Kong (2005) [Theatrical cut]
           - ID__000000254B # King Kong (2005) [Extended edition]
@@ -64,9 +68,11 @@ collections:
           - ID__000166426A # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
           - ID__000001865A # Pirates of the Caribbean: On Stranger Tides (2011)
           - ID__000000022A # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+          - ID__000000085A # Raiders of the Lost Ark (1981)
           - ID__000649609A # Renfield (2023)
           - ID__000054138A # Star Trek Into Darkness (2013)
           - ID__000577922A # Tenet (2020)
+          - ID__000024428B # The Avengers (2012)
           - ID__000045269A # The King's Speech (2010)
           - ID__000796185A # The Three Musketeers: D'Artagnan (2023)
           - ID__000335787A # Uncharted (2022)
@@ -86,6 +92,7 @@ collections:
         label:
           - ID__000000028A # Apocalypse Now (1979) [Theatrical cut]
           - ID__000000028B # Apocalypse Now (1979) [Redux]
+          - ID__000000364A # Batman Returns (1992)
           - ID__000008696A # Calendar Girls (2003)
           - ID__000000524A # Casino (1995)
           - ID__000068718A # Django Unchained (2012)
@@ -121,6 +128,7 @@ collections:
           - ID__000619730A # Don't Worry Darling (2022)
           - ID__000545611A # Everything Everywhere All at Once (2022)
           - ID__000004488A # Friday the 13th (1980)
+          - ID__000000769A # Goodfellas (1990)
           - ID__000949423A # Pearl (2022)
           - ID__000000680A # Pulp Fiction (1994)
           - ID__000117974A # Sightseers (2012)

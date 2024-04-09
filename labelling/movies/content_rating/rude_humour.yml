@@ -36,6 +36,7 @@ collections:
       any:
         label:
           - ID__000493529A # Dungeons & Dragons: Honor Among Thieves (2023)
+          - ID__000000329A # Jurassic Park (1993)
 
   BBFC rude humour lvl 3:
     template:

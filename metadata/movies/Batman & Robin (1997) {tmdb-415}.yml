@@ -1,0 +1,22 @@
+metadata:
+  "Batman & Robin (1997) {tmdb-415} {edition-Theatrical cut}":
+    match:
+      title: Batman & Robin
+      year: 1997
+      edition: Theatrical cut
+    sort_title: Batman (1989) 004
+    content_rating: gb/PG
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Joel Schumacher]
+    genre.sync: [Action, Science Fiction]
+    originally_available: 1997-06-12
+    producer.sync: [Peter Macgregor-Scott]
+    studio: Warner Bros.
+    summary: Batman and Robin try to keep their relationship together even as they must stop Mr. Freeze and Poison Ivy from freezing Gotham City.
+    tagline: Strength Now. Courage Always. Family, Above All. Batman and Robin!
+    writer.sync: [Akiva Goldsman]
+    label: [ID__000000415A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
