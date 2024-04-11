@@ -94,6 +94,7 @@ collections:
   Theme__amnesia:
     template: { name: TMDB theme label, theme_name: amnesia }
     tmdb_movie:
+      - 100402 # Captain America: The Winter Soldier (2014)
       - 315837 # Ghost in the Shell (2017)
       - 259316 # Fantastic Beasts and Where to Find Them (2016)
       - 1018 # Mulholland Drive (2001)
@@ -251,6 +252,7 @@ collections:
       - 415 # Batman & Robin (1997)
       - 414 # Batman Forever (1995)
       - 364 # Batman Returns (1992)
+      - 100402 # Captain America: The Winter Soldier (2014)
       - 561 # Constantine (2005)
       - 315837 # Ghost in the Shell (2017)
       - 475557 # Joker (2019)
@@ -1099,6 +1101,7 @@ collections:
     tmdb_movie:
       - 185 # A Clockwork Orange (1971)
       - 99861 # Avengers: Age of Ultron (2015)
+      - 100402 # Captain America: The Winter Soldier (2014)
       - 315837 # Ghost in the Shell (2017)
       - 71679 # Resident Evil: Retribution (2012)
       - 24428 # The Avengers (2012)
@@ -1655,6 +1658,7 @@ collections:
       - 497698 # Black Widow (2021)
       - 531309 # Brightburn (2019)
       - 1771 # Captain America: The First Avenger (2011)
+      - 100402 # Captain America: The Winter Soldier (2014)
       - 299537 # Captain Marvel (2019)
       - 561 # Constantine (2005)
       - 284052 # Doctor Strange (2016)
@@ -1747,6 +1751,7 @@ collections:
     template: { name: TMDB theme label, theme_name: terrorism }
     tmdb_movie:
       - 415 # Batman & Robin (1997)
+      - 100402 # Captain America: The Winter Soldier (2014)
       - 9739 # Demolition Man (1993)
       - 68721 # Iron Man 3 (2013)
       - 330459 # Rogue One: A Star Wars Story (2016)
