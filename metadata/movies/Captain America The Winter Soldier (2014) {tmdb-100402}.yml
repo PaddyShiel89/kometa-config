@@ -1,0 +1,25 @@
+metadata:
+  "Captain America The Winter Soldier (2014) {tmdb-100402} {edition-Theatrical cut}":
+    match:
+      title: "Captain America: The Winter Soldier"
+      year: 2014
+      edition: Theatrical cut
+    sort_title: Captain America (2011) 002
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Anthony Russo, Joe Russo]
+    genre.sync: [Action, Adventure, Science Fiction, Thriller]
+    originally_available: 2014-03-13
+    producer.sync: [Kevin Feige]
+    studio: Marvel Studios
+    summary: "Steve Rogers teams up with fellow Avenger and S.H.I.E.L.D. agent Black Widow to battle a new threat from history: an assassin known as the Winter Soldier."
+    tagline: In heroes we trust.
+    writer.sync:
+      [
+        Christopher Markus,
+        Stephen McFeely,
+        Steve Epting,
+        Ed Brubaker,
+        Michael Lark,
+      ]
+    label: [ID__000100402A]
