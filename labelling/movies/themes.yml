@@ -252,6 +252,7 @@ collections:
       - 415 # Batman & Robin (1997)
       - 414 # Batman Forever (1995)
       - 364 # Batman Returns (1992)
+      - 271110 # Captain America: Civil War (2016)
       - 100402 # Captain America: The Winter Soldier (2014)
       - 561 # Constantine (2005)
       - 315837 # Ghost in the Shell (2017)
@@ -1101,6 +1102,7 @@ collections:
     tmdb_movie:
       - 185 # A Clockwork Orange (1971)
       - 99861 # Avengers: Age of Ultron (2015)
+      - 271110 # Captain America: Civil War (2016)
       - 100402 # Captain America: The Winter Soldier (2014)
       - 315837 # Ghost in the Shell (2017)
       - 71679 # Resident Evil: Retribution (2012)
@@ -1400,6 +1402,7 @@ collections:
     template: { name: TMDB theme label, theme_name: regicide }
     tmdb_movie:
       - 505642 # Black Panther: Wakanda Forever (2022)
+      - 271110 # Captain America: Civil War (2016)
       - 8587 # The Lion King (1994)
 
   Theme__religion:
@@ -1424,6 +1427,7 @@ collections:
       - 414 # Batman Forever (1995)
       - 364 # Batman Returns (1992)
       - 505642 # Black Panther: Wakanda Forever (2022)
+      - 271110 # Captain America: Civil War (2016)
       - 25239 # Day of the Woman (1978)
       - 20352 # Despicable Me (2010)
       - 68718 # Django Unchained (2012)
@@ -1657,6 +1661,7 @@ collections:
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 497698 # Black Widow (2021)
       - 531309 # Brightburn (2019)
+      - 271110 # Captain America: Civil War (2016)
       - 1771 # Captain America: The First Avenger (2011)
       - 100402 # Captain America: The Winter Soldier (2014)
       - 299537 # Captain Marvel (2019)
@@ -1751,6 +1756,7 @@ collections:
     template: { name: TMDB theme label, theme_name: terrorism }
     tmdb_movie:
       - 415 # Batman & Robin (1997)
+      - 271110 # Captain America: Civil War (2016)
       - 100402 # Captain America: The Winter Soldier (2014)
       - 9739 # Demolition Man (1993)
       - 68721 # Iron Man 3 (2013)

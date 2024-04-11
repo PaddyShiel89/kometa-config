@@ -1,0 +1,18 @@
+metadata:
+  "Captain America Civil War (2016) {tmdb-271110} {edition-Theatrical cut}":
+    match:
+      title: "Captain America: Civil War"
+      year: 2016
+      edition: Theatrical cut
+    sort_title: Captain America (2011) 003
+    content_rating: gb/12
+    country.sync: [Germany, United States of America]
+    director.sync: [Anthony Russo, Joe Russo]
+    genre.sync: [Action, Science Fiction]
+    originally_available: 2016-04-12
+    producer.sync: [Kevin Feige]
+    studio: Marvel Studios
+    summary: Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.
+    tagline: United we stand. Divided we fall
+    writer.sync: [Christopher Markus, Stephen McFeely]
+    label: [ID__000271110A]
