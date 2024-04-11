@@ -28,6 +28,7 @@ collections:
           - ID__000271110A # Captain America: Civil War (2016)
           - ID__000524434A # Eternals (2021)
           - ID__000024428B # The Avengers (2012)
+          - ID__000414906A # The Batman (2022)
 
   BBFC suicide lvl 3:
     template:
