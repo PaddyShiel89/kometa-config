@@ -89,7 +89,7 @@ collections:
       sort_by: title.asc
     summary: Movies that are set at Christmas, feature Christmas as an important part of the plot, or are otherwise Christmas-themed.
 
-  Creature Features:
+  Creature Feature:
     template: { name: Theme collection, subsection: subgenre }
     smart_filter:
       all:
