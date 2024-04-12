@@ -118,6 +118,7 @@ libraries:
       - repo: metadata/movies/Goodfellas (1990) {tmdb-769}
       - repo: metadata/movies/Goodnight, Mister Tom (1998) {tmdb-20546}
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
+      - repo: metadata/movies/Halloween (1978) {tmdb-948}
       - repo: metadata/movies/Halloween Kills (2021) {tmdb-610253}
       - repo: metadata/movies/Hanna (2011) {tmdb-50456}
       - repo: metadata/movies/Heat (1995) {tmdb-949}
