@@ -1,0 +1,22 @@
+metadata:
+  "Halloween II (1981) {tmdb-11281} {edition-Theatrical cut}":
+    match:
+      title: Halloween II
+      year: 1981
+      edition: Theatrical cut
+    sort_title: Halloween (1978) 002
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Rick Rosenthal]
+    genre.sync: [Horror]
+    originally_available: 1981-10-30
+    producer.sync: [John Carpenter, Debra Hill]
+    studio: Universal Pictures
+    summary: While Dr. Loomis hunts for Michael Myers, a traumatised Laurie is rushed to Haddonfield Memorial Hospital, but The Shape is not far behind her.
+    tagline: The Nightmare Isn't Over
+    writer.sync: [John Carpenter, Debra Hill]
+    label: [ID__000011281A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -768,6 +768,7 @@ collections:
       - 343674 # Gerald's Game (2017)
       - 315837 # Ghost in the Shell (2017)
       - 948 # Halloween (1978)
+      - 11281 # Halloween II (1981)
       - 610253 # Halloween Kills (2021)
       - 50456 # Hanna (2011)
       - 1691 # Hostel: Part II (2007)
@@ -1505,6 +1506,7 @@ collections:
       - 545611 # Everything Everywhere All at Once (2022)
       - 4488 # Friday the 13th (1980)
       - 948 # Halloween (1978)
+      - 11281 # Halloween II (1981)
       - 610253 # Halloween Kills (2021)
       - 71670 # Hostel: Part III (2011)
       - 43947 # I Spit on Your Grave (2010)
@@ -1585,6 +1587,7 @@ collections:
     tmdb_movie:
       - 4488 # Friday the 13th (1980)
       - 948 # Halloween (1978)
+      - 11281 # Halloween II (1981)
       - 610253 # Halloween Kills (2021)
       - 949423 # Pearl (2022)
       - 4247 # Scary Movie (2000)
