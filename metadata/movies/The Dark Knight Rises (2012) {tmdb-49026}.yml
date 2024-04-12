@@ -1,0 +1,18 @@
+metadata:
+  "The Dark Knight Rises (2012) {tmdb-49026} {edition-Theatrical cut}":
+    match:
+      title: The Dark Knight Rises
+      year: 2012
+      edition: Theatrical cut
+    sort_title: The Dark Knight Rises (2012)
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Christopher Nolan]
+    genre.sync: [Action, Drama, Thriller]
+    originally_available: 2012-07-16
+    producer.sync: [Christopher Nolan, Charles Roven, Emma Thomas]
+    studio: Warner Bros.
+    summary: Eight years after the Joker's reign of chaos, Batman is coerced out of exile with the assistance of Selina Kyle to defend Gotham from the vicious guerrilla terrorist Bane.
+    tagline: The Legend Ends
+    writer.sync: [Jonathan Nolan, Christopher Nolan, David S. Goyer]
+    label: [ID__000049026A]

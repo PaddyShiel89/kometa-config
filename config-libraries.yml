@@ -46,6 +46,7 @@ libraries:
       - repo: metadata/movies/Baise-moi (2000) {tmdb-3134}
       - repo: metadata/movies/Batman (1989) {tmdb-268}
       - repo: metadata/movies/Batman & Robin (1997) {tmdb-415}
+      - repo: metadata/movies/Batman Begins (2005) {tmdb-272}
       - repo: metadata/movies/Batman Forever (1995) {tmdb-414}
       - repo: metadata/movies/Batman Returns (1992) {tmdb-364}
       - repo: metadata/movies/Benedetta (2021) {tmdb-454527}
@@ -266,6 +267,7 @@ libraries:
       - repo: metadata/movies/The Constant Gardener (2005) {tmdb-1985}
       - repo: metadata/movies/The Curious Case of Benjamin Button (2008) {tmdb-4922}
       - repo: metadata/movies/The Dark Knight (2008) {tmdb-155}
+      - repo: metadata/movies/The Dark Knight Rises (2012) {tmdb-49026}
       - repo: metadata/movies/The Dictator (2012) {tmdb-76493}
       - repo: metadata/movies/The Empire Strikes Back (1980) {tmdb-1891}
       - repo: metadata/movies/The Exterminating Angels (2006) {tmdb-19976}

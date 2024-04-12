@@ -250,6 +250,7 @@ collections:
       - 341013 # Atomic Blonde (2017)
       - 268 # Batman (1989)
       - 415 # Batman & Robin (1997)
+      - 272 # Batman Begins (2005)
       - 414 # Batman Forever (1995)
       - 364 # Batman Returns (1992)
       - 271110 # Captain America: Civil War (2016)
@@ -260,6 +261,7 @@ collections:
       - 24428 # The Avengers (2012)
       - 414906 # The Batman (2022)
       - 155 # The Dark Knight (2008)
+      - 49026 # The Dark Knight Rises (2012)
       - 8285 # The Spirit (2008)
       - 36657 # X-Men (2000)
       - 49538 # X-Men: First Class (2011)
@@ -1219,6 +1221,7 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
       - 3134 # Baise-moi (2000)
+      - 272 # Batman Begins (2005)
       - 364 # Batman Returns (1992)
       - 793 # Blue Velvet (1986)
       - 949 # Heat (1995)
@@ -1258,6 +1261,11 @@ collections:
       - 37799 # The Social Network (2010)
       - 597 # Titanic (1997)
       - 617 # Wild Things
+
+  Theme__nuclear weapons:
+    template: { name: TMDB theme label, theme_name: nuclear weapons }
+    tmdb_movie:
+      - 49026 # The Dark Knight Rises (2012)
 
   Theme__orphans:
     template: { name: TMDB theme label, theme_name: orphans }
@@ -1340,6 +1348,7 @@ collections:
     tmdb_movie:
       - 185 # A Clockwork Orange (1971)
       - 8077 # Alien³ (1992)
+      - 49026 # The Dark Knight Rises (2012)
       - 497 # The Green Mile (1999)
       - 180299 # The Raid 2 (2014)
       - 278 # The Shawshank Redemption (1994)
@@ -1427,6 +1436,7 @@ collections:
       - 185 # A Clockwork Orange (1971)
       - 268 # Batman (1989)
       - 415 # Batman & Robin (1997)
+      - 272 # Batman Begins (2005)
       - 414 # Batman Forever (1995)
       - 364 # Batman Returns (1992)
       - 505642 # Black Panther: Wakanda Forever (2022)
@@ -1458,6 +1468,7 @@ collections:
       - 46534 # Sweet Karma (2009)
       - 280 # Terminator 2: Judgment Day (1991)
       - 155 # The Dark Knight (2008)
+      - 49026 # The Dark Knight Rises (2012)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 131634 # The Hunger Games: Mockingjay - Part 2 (2015)
@@ -1660,6 +1671,7 @@ collections:
       - 299536 # Avengers: Infinity War (2018)
       - 268 # Batman (1989)
       - 415 # Batman & Robin (1997)
+      - 272 # Batman Begins (2005)
       - 414 # Batman Forever (1995)
       - 364 # Batman Returns (1992)
       - 505642 # Black Panther: Wakanda Forever (2022)
@@ -1685,6 +1697,7 @@ collections:
       - 24428 # The Avengers (2012)
       - 414906 # The Batman (2022)
       - 155 # The Dark Knight (2008)
+      - 49026 # The Dark Knight Rises (2012)
       - 9806 # The Incredibles (2004)
       - 8285 # The Spirit (2008)
       - 10195 # Thor (2011)
@@ -1761,6 +1774,7 @@ collections:
     template: { name: TMDB theme label, theme_name: terrorism }
     tmdb_movie:
       - 415 # Batman & Robin (1997)
+      - 272 # Batman Begins (2005)
       - 271110 # Captain America: Civil War (2016)
       - 100402 # Captain America: The Winter Soldier (2014)
       - 9739 # Demolition Man (1993)
@@ -1771,6 +1785,7 @@ collections:
       - 577922 # Tenet (2020)
       - 414906 # The Batman (2022)
       - 155 # The Dark Knight (2008)
+      - 49026 # The Dark Knight Rises (2012)
       - 7446 # Tropic Thunder (2008)
 
   Theme__time_travel:
