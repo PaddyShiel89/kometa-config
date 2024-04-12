@@ -453,7 +453,9 @@ collections:
         series_year: 2008,
       }
     tmdb_movie:
+      - 272 # Batman Begins (2005)
       - 155 # The Dark Knight (2008)
+      - 49026 # The Dark Knight Rises (2012)
 
   Series__The_Girl_with_the_Dragon_Tattoo_2009:
     template:

@@ -1,0 +1,18 @@
+metadata:
+  "Batman Begins (2005) {tmdb-272} {edition-Theatrical cut}":
+    match:
+      title: Batman Begins
+      year: 2005
+      edition: Theatrical cut
+    sort_title: Batman Begins (2005)
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Christopher Nolan]
+    genre.sync: [Action, Crime, Drama]
+    originally_available: 2005-05-31
+    producer.sync: [Larry Franco, Charles Roven, Emma Thomas]
+    studio: Syncopy
+    summary: After witnessing his parents' death, Bruce Wayne learns the art of fighting injustice. When he returns to Gotham, he must stop a secret society that intends to destroy the city.
+    tagline: The Legend Begins
+    writer.sync: [David S. Goyer, Christopher Nolan]
+    label: [ID__000000272A]

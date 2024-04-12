@@ -250,6 +250,7 @@ collections:
       - 341013 # Atomic Blonde (2017)
       - 268 # Batman (1989)
       - 415 # Batman & Robin (1997)
+      - 272 # Batman Begins (2005)
       - 414 # Batman Forever (1995)
       - 364 # Batman Returns (1992)
       - 271110 # Captain America: Civil War (2016)
@@ -1220,6 +1221,7 @@ collections:
     tmdb_movie:
       - 4982 # American Gangster (2007)
       - 3134 # Baise-moi (2000)
+      - 272 # Batman Begins (2005)
       - 364 # Batman Returns (1992)
       - 793 # Blue Velvet (1986)
       - 949 # Heat (1995)
@@ -1434,6 +1436,7 @@ collections:
       - 185 # A Clockwork Orange (1971)
       - 268 # Batman (1989)
       - 415 # Batman & Robin (1997)
+      - 272 # Batman Begins (2005)
       - 414 # Batman Forever (1995)
       - 364 # Batman Returns (1992)
       - 505642 # Black Panther: Wakanda Forever (2022)
@@ -1668,6 +1671,7 @@ collections:
       - 299536 # Avengers: Infinity War (2018)
       - 268 # Batman (1989)
       - 415 # Batman & Robin (1997)
+      - 272 # Batman Begins (2005)
       - 414 # Batman Forever (1995)
       - 364 # Batman Returns (1992)
       - 505642 # Black Panther: Wakanda Forever (2022)
@@ -1770,6 +1774,7 @@ collections:
     template: { name: TMDB theme label, theme_name: terrorism }
     tmdb_movie:
       - 415 # Batman & Robin (1997)
+      - 272 # Batman Begins (2005)
       - 271110 # Captain America: Civil War (2016)
       - 100402 # Captain America: The Winter Soldier (2014)
       - 9739 # Demolition Man (1993)
