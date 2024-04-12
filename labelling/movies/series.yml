@@ -445,12 +445,12 @@ collections:
       - 337755 # Star Wars Rebels: The Siege of Lothal (2015)
       - 74849 # The Star Wars Holiday Special (1978)
 
-  Series__The Dark Knight Trilogy_2008:
+  Series__The Dark Knight Trilogy_2005:
     template:
       {
         name: TMDB series label,
         series_name: The Dark Knight Trilogy,
-        series_year: 2008,
+        series_year: 2005,
       }
     tmdb_movie:
       - 272 # Batman Begins (2005)
