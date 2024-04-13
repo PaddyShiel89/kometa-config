@@ -119,6 +119,7 @@ libraries:
       - repo: metadata/movies/Goodnight, Mister Tom (1998) {tmdb-20546}
       - repo: metadata/movies/Guardians of the Galaxy Vol. 2 (2017) {tmdb-283995}
       - repo: metadata/movies/Halloween (1978) {tmdb-948}
+      - repo: metadata/movies/Halloween (2018) {tmdb-424139}
       - repo: metadata/movies/Halloween 4 The Return of Michael Myers (1988) {tmdb-11357}
       - repo: metadata/movies/Halloween 5 The Revenge of Michael Myers (1989) {tmdb-11361}
       - repo: metadata/movies/Halloween H20 20 Years Later (1998) {tmdb-11675}
