@@ -97,6 +97,7 @@ collections:
       - name: Smart series
         label_list:
           - Series__Fantasic_Beasts_2016
+          - Series__Harry Potter_2001
     sort_title: Wizarding World
     content_rating: gb/12
     summary: "A fantasy franchise and shared fictional universe centred on the Harry Potter series."

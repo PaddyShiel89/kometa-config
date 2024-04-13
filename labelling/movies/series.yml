@@ -214,6 +214,12 @@ collections:
       - 424139 # Halloween (2018)
       - 610253 # Halloween Kills (2021)
 
+  Series__Harry Potter_2001:
+    template:
+      { name: TMDB series label, series_name: Harry Potter, series_year: 2001 }
+    tmdb_movie:
+      - 671 # Harry Potter and the Philosopher's Stone (2001)
+
   Series__Horrible_Bosses_2011:
     template:
       {

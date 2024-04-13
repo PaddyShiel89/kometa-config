@@ -175,6 +175,7 @@ collections:
       - 210577 # Gone Girl (2014)
       - 769 # Goodfellas (1990)
       - 20546 # Goodnight, Mister Tom (1998)
+      - 671 # Harry Potter and the Philosopher's Stone (2001)
       - 13092 # How to Lose Friends & Alienate People (2008)
       - 371645 # Hunt for the Wilderpeople (2016)
       - 346364 # It (2017)
@@ -1051,6 +1052,7 @@ collections:
       - 259316 # Fantastic Beasts and Where to Find Them (2016)
       - 338952 # Fantastic Beasts: The Crimes of Grindelwald (2018)
       - 338953 # Fantastic Beasts: The Secrets of Dumbledore (2022)
+      - 671 # Harry Potter and the Philosopher's Stone (2001)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 634649 # Spider-Man: No Way Home (2021)
@@ -1280,6 +1282,7 @@ collections:
     tmdb_movie:
       - 20352 # Despicable Me (2010)
       - 11361 # Halloween 5: The Revenge of Michael Myers (1989)
+      - 671 # Harry Potter and the Philosopher's Stone (2001)
       - 43727 # Jolene (2008)
       - 507086 # Jurassic World Dominion (2022)
       - 101 # Léon: The Professional (1995)
