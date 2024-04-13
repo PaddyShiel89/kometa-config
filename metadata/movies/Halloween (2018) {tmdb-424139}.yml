@@ -1,0 +1,22 @@
+metadata:
+  "Halloween (2018) {tmdb-424139} {edition-Theatrical cut}":
+    match:
+      title: Halloween
+      year: 2018
+      edition: Theatrical cut
+    sort_title: Halloween (2018) 001
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [David Gordon Green]
+    genre.sync: [Crime, Horror, Thriller]
+    originally_available: 2018-09-08
+    producer.sync: [Bill Block, Jason Blum]
+    studio: Blumhouse Productions
+    summary: Laurie Strode confronts her long-time foe, Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
+    tagline: Face Your Fate
+    writer.sync: [Jeff Fradley, Danny McBride, David Gordon Green]
+    label: [ID__000424139A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

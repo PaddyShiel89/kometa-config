@@ -1,0 +1,23 @@
+metadata:
+  "Halloween 4 The Return of Michael Myers (1988) {tmdb-11357} {edition-Theatrical cut}":
+    match:
+      title: "Halloween 4: The Return of Michael Myers"
+      year: 1988
+      edition: Theatrical cut
+    sort_title: Halloween (1978) 004
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Dwight H. Little]
+    genre.sync: [Horror, Thriller]
+    originally_available: 1988-10-21
+    producer.sync: [Paul Freeman]
+    studio: Trancas International Films
+    summary: Ten years after his original massacre, the invalid Michael Myers awakens on Halloween Eve and returns to Haddonfield to kill his seven-year-old niece. Can Dr. Loomis stop him?
+    tagline: Ten Years Ago he changed the face Of Halloween. NOW HE'S BACK!
+    writer.sync:
+      [Dhani Lipsius, Larry Rattner, Benjamin Ruffner, Alan B. McElroy]
+    label: [ID__000011357A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

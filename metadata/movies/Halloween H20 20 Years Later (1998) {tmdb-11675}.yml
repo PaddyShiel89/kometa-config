@@ -1,0 +1,22 @@
+metadata:
+  "Halloween H20 20 Years Later (1998) {tmdb-11675} {edition-Theatrical cut}":
+    match:
+      title: "Halloween H20: 20 Years Later"
+      year: 1998
+      edition: Theatrical cut
+    sort_title: Halloween (1998) 001
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Steve Miner]
+    genre.sync: [Horror, Thriller]
+    originally_available: 1998-07-27
+    producer.sync: [Paul Freeman]
+    studio: Dimension Films
+    summary: Laurie Strode, now the dean of a Northern California private school with an assumed name, must battle the Shape one last time, as the life of her son hangs in the balance.
+    tagline: This summer, terror won't be taking a vacation.
+    writer.sync: [Robert Zappia, Matt Greenberg]
+    label: [ID__000011675A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -1,0 +1,22 @@
+metadata:
+  "Halloween (1978) {tmdb-948} {edition-Theatrical cut}":
+    match:
+      title: Halloween
+      year: 1978
+      edition: Theatrical cut
+    sort_title: Halloween (1978) 001
+    content_rating: gb/15
+    country.sync: [United States of America]
+    director.sync: [John Carpenter]
+    genre.sync: [Horror, Thriller]
+    originally_available: 1978-10-25
+    producer.sync: [John Carpenter, Debra Hill]
+    studio: Compass International Pictures
+    summary: Fifteen years after murdering his sister on Halloween night in 1963, Michael Myers escapes from a mental hospital and returns to the town of Haddonfield, Illinois, to kill again.
+    tagline: The Night HE Came Home!
+    writer.sync: [John Carpenter, Debra Hill]
+    label: [ID__000000948A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
