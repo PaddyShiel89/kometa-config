@@ -219,6 +219,7 @@ collections:
       { name: TMDB series label, series_name: Harry Potter, series_year: 2001 }
     tmdb_movie:
       - 671 # Harry Potter and the Philosopher's Stone (2001)
+      - 672 # Harry Potter and the Chamber of Secrets (2002)
 
   Series__Horrible_Bosses_2011:
     template:
