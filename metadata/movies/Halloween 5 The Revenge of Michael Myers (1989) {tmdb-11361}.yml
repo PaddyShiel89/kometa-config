@@ -1,0 +1,22 @@
+metadata:
+  "Halloween 5 The Revenge of Michael Myers (1989) {tmdb-11361} {edition-Theatrical cut}":
+    match:
+      title: "Halloween 5: The Revenge of Michael Myers"
+      year: 1989
+      edition: Theatrical cut
+    sort_title: Halloween (1978) 005
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Dominique Othenin-Girard]
+    genre.sync: [Horror, Thriller]
+    originally_available: 1989-10-13
+    producer.sync: [Ramsey Thomas]
+    studio: Magnum Pictures Inc.
+    summary: One year after the events of Halloween 4, the Shape returns to Haddonfield once again in an attempt to kill his now-mute niece.
+    tagline: Michael Lives, And This Time They're Ready!
+    writer.sync: [Michael Jacobs, Dominique Othenin-Girard, Shem Bitterman]
+    label: [ID__000011361A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
