@@ -1,0 +1,22 @@
+metadata:
+  "Halloween Resurrection (2002) {tmdb-11442} {edition-Theatrical cut}":
+    match:
+      title: "Halloween: Resurrection"
+      year: 2002
+      edition: Theatrical cut
+    sort_title: Halloween (1998) 002
+    content_rating: gb/15
+    country.sync: [Canada, United States of America]
+    director.sync: [Rick Rosenthal]
+    genre.sync: [Horror, Thriller]
+    originally_available: 2002-07-01
+    producer.sync: [Paul Freeman, Michael Leahy]
+    studio: Dimension Films
+    summary: Three years after he last terrorized his sister, Michael Myers travels to Haddonfield to deal with the cast and crew of a reality show which is being broadcast from his old home.
+    tagline: Evil Finds Its Way Home.
+    writer.sync: [Larry Brand, Sean Hood]
+    label: [ID__000011442A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
