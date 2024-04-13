@@ -121,6 +121,7 @@ libraries:
       - repo: metadata/movies/Halloween (1978) {tmdb-948}
       - repo: metadata/movies/Halloween 4 The Return of Michael Myers (1988) {tmdb-11357}
       - repo: metadata/movies/Halloween 5 The Revenge of Michael Myers (1989) {tmdb-11361}
+      - repo: metadata/movies/Halloween H20 20 Years Later (1998) {tmdb-11675}
       - repo: metadata/movies/Halloween II (1981) {tmdb-11281}
       - repo: metadata/movies/Halloween Kills (2021) {tmdb-610253}
       - repo: metadata/movies/Halloween The Curse of Michael Myers (1995) {tmdb-10987}
