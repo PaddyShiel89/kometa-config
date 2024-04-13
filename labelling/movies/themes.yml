@@ -578,6 +578,7 @@ collections:
     tmdb_movie:
       - 487558 # BlacKkKlansman (2018)
       - 501170 # Doctor Sleep (2019)
+      - 10987 # Halloween: The Curse of Michael Myers (1995)
       - 493922 # Hereditary (2018)
       - 50837 # Martha Marcy May Marlene (2011)
       - 16307 # The Wicker Man (1973)
@@ -586,6 +587,7 @@ collections:
     template: { name: TMDB theme label, theme_name: curses }
     tmdb_movie:
       - 8769 # Christine (1983)
+      - 10987 # Halloween: The Curse of Michael Myers (1995)
       - 808 # Shrek (2001)
       - 882598 # Smile (2022)
       - 129 # Spirited Away (2001)
@@ -644,6 +646,7 @@ collections:
       - 793 # Blue Velvet (1986)
       - 619730 # Don't Worry Darling (2022)
       - 20546 # Goodnight, Mister Tom (1998)
+      - 10987 # Halloween: The Curse of Michael Myers (1995)
       - 389015 # I, Tonya (2017)
       - 475557 # Joker (2019)
       - 43727 # Jolene (2008)
@@ -961,6 +964,7 @@ collections:
     template: { name: TMDB theme label, theme_name: incest }
     tmdb_movie:
       - 61891 # Anonymous (2011)
+      - 10987 # Halloween: The Curse of Michael Myers (1995)
       - 43727 # Jolene (2008)
       - 48266 # Ma mère (2004)
       - 92182 # Silent House (2011)
@@ -1512,6 +1516,7 @@ collections:
       - 11361 # Halloween 5: The Revenge of Michael Myers (1989)
       - 11281 # Halloween II (1981)
       - 610253 # Halloween Kills (2021)
+      - 10987 # Halloween: The Curse of Michael Myers (1995)
       - 71670 # Hostel: Part III (2011)
       - 43947 # I Spit on Your Grave (2010)
       - 4247 # Scary Movie (2000)
@@ -1595,6 +1600,7 @@ collections:
       - 11361 # Halloween 5: The Revenge of Michael Myers (1989)
       - 11281 # Halloween II (1981)
       - 610253 # Halloween Kills (2021)
+      - 10987 # Halloween: The Curse of Michael Myers (1995)
       - 949423 # Pearl (2022)
       - 4247 # Scary Movie (2000)
       - 934433 # Scream VI (2023)
@@ -1732,6 +1738,7 @@ collections:
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
       - 11361 # Halloween 5: The Revenge of Michael Myers (1989)
+      - 10987 # Halloween: The Curse of Michael Myers (1995)
       - 493922 # Hereditary (2018)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
