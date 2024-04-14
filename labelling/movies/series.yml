@@ -214,6 +214,19 @@ collections:
       - 424139 # Halloween (2018)
       - 610253 # Halloween Kills (2021)
 
+  Series__Harry Potter_2001:
+    template:
+      { name: TMDB series label, series_name: Harry Potter, series_year: 2001 }
+    tmdb_movie:
+      - 671 # Harry Potter and the Philosopher's Stone (2001)
+      - 672 # Harry Potter and the Chamber of Secrets (2002)
+      - 673 # Harry Potter and the Prisoner of Azkaban (2004)
+      - 674 # Harry Potter and the Goblet of Fire (2005)
+      - 675 # Harry Potter and the Order of the Phoenix (2007)
+      - 767 # Harry Potter and the Half-Blood Prince (2009)
+      - 12444 # Harry Potter and the Deathly Hallows Part 1 (2010)
+      - 12445 # Harry Potter and the Deathly Hallows Part 2 (2011)
+
   Series__Horrible_Bosses_2011:
     template:
       {

@@ -1,0 +1,18 @@
+metadata:
+  "Harry Potter and the Philosopher's Stone (2001) {tmdb-671} {edition-Theatrical cut}":
+    match:
+      title: Harry Potter and the Philosopher's Stone
+      year: 2001
+      edition: Theatrical cut
+    sort_title: Harry Potter (2001) 001
+    content_rating: gb/PG
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Chris Columbus]
+    genre.sync: [Adventure, Family, Fantasy]
+    originally_available: 2001-11-04
+    producer.sync: [David Heyman]
+    studio: Warner Bros.
+    summary: An orphaned boy enrols in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.
+    tagline: Let The Magic Begin.
+    writer.sync: [J.K. Rowling, Steve Kloves]
+    label: [ID__000000671A]

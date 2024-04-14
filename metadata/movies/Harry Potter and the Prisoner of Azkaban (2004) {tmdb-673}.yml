@@ -1,0 +1,18 @@
+metadata:
+  "Harry Potter and the Prisoner of Azkaban (2004) {tmdb-673} {edition-Theatrical cut}":
+    match:
+      title: Harry Potter and the Prisoner of Azkaban
+      year: 2004
+      edition: Theatrical cut
+    sort_title: Harry Potter (2001) 003
+    content_rating: gb/PG
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Alfonso Cuarón]
+    genre.sync: [Adventure, Family, Fantasy, Mystery]
+    originally_available: 2004-05-23
+    producer.sync: [Chris Columbus, David Heyman, Mark Radcliffe]
+    studio: Warner Bros.
+    summary: Harry, Ron and Hermione return to Hogwarts for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat.
+    tagline: Something wicked this way comes.
+    writer.sync: [J.K. Rowling, Steve Kloves]
+    label: [ID__000000673A]

@@ -1,0 +1,18 @@
+metadata:
+  "Harry Potter and the Deathly Hallows Part 1 (2010) {tmdb-12444} {edition-Theatrical cut}":
+    match:
+      title: "Harry Potter and the Deathly Hallows: Part 1"
+      year: 2010
+      edition: Theatrical cut
+    sort_title: Harry Potter (2001) 007
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [David Yates]
+    genre.sync: [Adventure, Family, Fantasy, Mystery]
+    originally_available: 2010-11-11
+    producer.sync: [David Barron, David Heyman, J.K. Rowling]
+    studio: Warner Bros.
+    summary: "As Harry, Ron and Hermione race against time to destroy the Horcruxes, they uncover the existence of three of the most powerful objects in the wizarding world: the Deathly Hallows."
+    tagline: Nowhere is safe.
+    writer.sync: [Steve Kloves, J.K. Rowling]
+    label: [ID__000012444A]

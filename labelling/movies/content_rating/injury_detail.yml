@@ -11,6 +11,7 @@ collections:
     plex_search:
       any:
         label:
+          - ID__000000672A # Harry Potter and the Chamber of Secrets (2002)
           - ID__000001585A # It's a Wonderful Life (1946) [edition-Theatrical cut]
           - ID__000001585B # It's a Wonderful Life (1946) [edition-Colourised]
           - ID__000001892A # Return of the Jedi (1983) [Theatrical cut]
@@ -49,6 +50,8 @@ collections:
           - ID__000000414A # Batman Forever (1995)
           - ID__000002978A # Ghostbusters II (1989)
           - ID__000283995A # Guardians of the Galaxy Vol. 2 (2017)
+          - ID__000000674A # Harry Potter and the Goblet of Fire (2005)
+          - ID__000000767A # Harry Potter and the Half-Blood Prince (2009)
           - ID__000000254A # King Kong (2005) [Theatrical cut]
           - ID__000000254B # King Kong (2005) [Extended edition]
           - ID__000000285A # Pirates of the Caribbean: At World's End (2007)
@@ -101,6 +104,8 @@ collections:
           - ID__000259316A # Fantastic Beasts and Where to Find Them (2016)
           - ID__000338953A # Fantastic Beasts: The Secrets of Dumbledore (2022)
           - ID__000000769A # Goodfellas (1990)
+          - ID__000012444A # Harry Potter and the Deathly Hallows Part 1 (2010)
+          - ID__000000675A # Harry Potter and the Order of the Phoenix (2007)
           - ID__000027205A # Inception (2010)
           - ID__000068721A # Iron Man 3 (2013)
           - ID__000346364A # It (2017)
