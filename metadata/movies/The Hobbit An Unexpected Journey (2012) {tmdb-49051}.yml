@@ -1,0 +1,26 @@
+metadata:
+  "The Hobbit An Unexpected Journey (2012) {tmdb-49051} {edition-Home entertainment cut}":
+    match:
+      title: "The Hobbit: An Unexpected Journey"
+      year: 2012
+      edition: Home entertainment cut
+    sort_title: Hobbit (2012) 001B
+    content_rating: gb/12
+    country.sync: [New Zealand, United States of America]
+    director.sync: [Peter Jackson]
+    genre.sync: [Adventure, Fantasy]
+    originally_available: 2012-11-28
+    producer.sync:
+      [Carolynne Cunningham, Peter Jackson, Fran Walsh, Zane Weiner]
+    studio: New Line Cinema
+    summary: A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home - and the gold within it - from the dragon Smaug.
+    tagline: From the smallest beginnings come the greatest legends.
+    writer.sync:
+      [
+        Fran Walsh,
+        Philippa Boyens,
+        Peter Jackson,
+        Guillermo del Toro,
+        J.R.R. Tolkien,
+      ]
+    label: [ID__000049051B]
