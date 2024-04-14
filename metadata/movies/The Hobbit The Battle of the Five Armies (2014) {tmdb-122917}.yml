@@ -1,0 +1,32 @@
+metadata:
+  "The Hobbit The Battle of the Five Armies (2014) {tmdb-122917} {edition-Theatrical cut}":
+    match:
+      title: "The Hobbit: The Battle of the Five Armies"
+      year: 2014
+      edition: Theatrical cut
+    sort_title: Hobbit (2012) 003A
+    content_rating: gb/12
+    country.sync: [New Zealand, United States of America]
+    director.sync: [Peter Jackson]
+    genre.sync: [Adventure, Fantasy]
+    originally_available: 2014-12-01
+    producer.sync:
+      [
+        Carolynne Cunningham,
+        Peter Jackson,
+        Eric Monette,
+        Fran Walsh,
+        Zane Weiner,
+      ]
+    studio: New Line Cinema
+    summary: Bilbo and company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness.
+    tagline: Witness the defining chapter of the Middle-Earth saga.
+    writer.sync:
+      [
+        Fran Walsh,
+        Philippa Boyens,
+        Peter Jackson,
+        Guillermo del Toro,
+        J.R.R. Tolkien,
+      ]
+    label: [ID__000122917A]

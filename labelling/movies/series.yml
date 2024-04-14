@@ -500,6 +500,7 @@ collections:
     tmdb_movie:
       - 49051 # The Hobbit: An Unexpected Journey (2012)
       - 57158 # The Hobbit: The Desolation of Smaug (2013)
+      - 122917 # The Hobbit: The Battle of the Five Armies (2014)
 
   Series__The_Hunger_Games_2012:
     template:
