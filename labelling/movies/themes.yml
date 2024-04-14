@@ -177,6 +177,7 @@ collections:
       - 20546 # Goodnight, Mister Tom (1998)
       - 672 # Harry Potter and the Chamber of Secrets (2002)
       - 671 # Harry Potter and the Philosopher's Stone (2001)
+      - 673 # Harry Potter and the Prisoner of Azkaban (2004)
       - 13092 # How to Lose Friends & Alienate People (2008)
       - 371645 # Hunt for the Wilderpeople (2016)
       - 346364 # It (2017)
@@ -1055,6 +1056,7 @@ collections:
       - 338953 # Fantastic Beasts: The Secrets of Dumbledore (2022)
       - 672 # Harry Potter and the Chamber of Secrets (2002)
       - 671 # Harry Potter and the Philosopher's Stone (2001)
+      - 673 # Harry Potter and the Prisoner of Azkaban (2004)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 634649 # Spider-Man: No Way Home (2021)
@@ -1219,6 +1221,7 @@ collections:
     tmdb_movie:
       - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
       - 672 # Harry Potter and the Chamber of Secrets (2002)
+      - 673 # Harry Potter and the Prisoner of Azkaban (2004)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
       - 503919 # The Lighthouse (2019)
@@ -1288,6 +1291,7 @@ collections:
       - 11361 # Halloween 5: The Revenge of Michael Myers (1989)
       - 672 # Harry Potter and the Chamber of Secrets (2002)
       - 671 # Harry Potter and the Philosopher's Stone (2001)
+      - 673 # Harry Potter and the Prisoner of Azkaban (2004)
       - 43727 # Jolene (2008)
       - 507086 # Jurassic World Dominion (2022)
       - 101 # Léon: The Professional (1995)
@@ -1596,6 +1600,7 @@ collections:
   Theme__shapeshifters:
     template: { name: TMDB theme label, theme_name: shapeshifters }
     tmdb_movie:
+      - 673 # Harry Potter and the Prisoner of Azkaban (2004)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 882598 # Smile (2022)

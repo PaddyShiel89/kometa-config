@@ -220,6 +220,7 @@ collections:
     tmdb_movie:
       - 671 # Harry Potter and the Philosopher's Stone (2001)
       - 672 # Harry Potter and the Chamber of Secrets (2002)
+      - 673 # Harry Potter and the Prisoner of Azkaban (2004)
 
   Series__Horrible_Bosses_2011:
     template:
