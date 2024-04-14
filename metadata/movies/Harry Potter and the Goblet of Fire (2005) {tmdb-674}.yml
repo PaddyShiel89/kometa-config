@@ -1,0 +1,18 @@
+metadata:
+  "Harry Potter and the Goblet of Fire (2005) {tmdb-674} {edition-Theatrical cut}":
+    match:
+      title: Harry Potter and the Goblet of Fire
+      year: 2005
+      edition: Theatrical cut
+    sort_title: Harry Potter (2001) 004
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [Mike Newell]
+    genre.sync: [Adventure, Family, Fantasy, Mystery]
+    originally_available: 2005-11-06
+    producer.sync: [David Heyman]
+    studio: Warner Bros.
+    summary: Harry Potter finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.
+    tagline: Dark and difficult times lie ahead.
+    writer.sync: [Steve Kloves, J.K. Rowling]
+    label: [ID__000000674A]

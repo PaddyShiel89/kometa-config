@@ -176,6 +176,7 @@ collections:
       - 769 # Goodfellas (1990)
       - 20546 # Goodnight, Mister Tom (1998)
       - 672 # Harry Potter and the Chamber of Secrets (2002)
+      - 674 # Harry Potter and the Goblet of Fire (2005)
       - 671 # Harry Potter and the Philosopher's Stone (2001)
       - 673 # Harry Potter and the Prisoner of Azkaban (2004)
       - 13092 # How to Lose Friends & Alienate People (2008)
@@ -663,6 +664,7 @@ collections:
   Theme__dreams:
     template: { name: TMDB theme label, theme_name: dreams }
     tmdb_movie:
+      - 674 # Harry Potter and the Goblet of Fire (2005)
       - 27205 # Inception (2010)
       - 1018 # Mulholland Drive (2001)
       - 756999 # The Black Phone (2021)
@@ -1055,6 +1057,7 @@ collections:
       - 338952 # Fantastic Beasts: The Crimes of Grindelwald (2018)
       - 338953 # Fantastic Beasts: The Secrets of Dumbledore (2022)
       - 672 # Harry Potter and the Chamber of Secrets (2002)
+      - 674 # Harry Potter and the Goblet of Fire (2005)
       - 671 # Harry Potter and the Philosopher's Stone (2001)
       - 673 # Harry Potter and the Prisoner of Azkaban (2004)
       - 58 # Pirates of the Caribbean: Dead Man's Chest (2006)
@@ -1150,6 +1153,7 @@ collections:
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
       - 672 # Harry Potter and the Chamber of Secrets (2002)
+      - 674 # Harry Potter and the Goblet of Fire (2005)
       - 37958 # Immortals (2011)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
@@ -1221,6 +1225,7 @@ collections:
     tmdb_movie:
       - 493529 # Dungeons & Dragons: Honor Among Thieves (2023)
       - 672 # Harry Potter and the Chamber of Secrets (2002)
+      - 674 # Harry Potter and the Goblet of Fire (2005)
       - 673 # Harry Potter and the Prisoner of Azkaban (2004)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
@@ -1290,6 +1295,7 @@ collections:
       - 20352 # Despicable Me (2010)
       - 11361 # Halloween 5: The Revenge of Michael Myers (1989)
       - 672 # Harry Potter and the Chamber of Secrets (2002)
+      - 674 # Harry Potter and the Goblet of Fire (2005)
       - 671 # Harry Potter and the Philosopher's Stone (2001)
       - 673 # Harry Potter and the Prisoner of Azkaban (2004)
       - 43727 # Jolene (2008)

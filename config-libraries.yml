@@ -129,6 +129,7 @@ libraries:
       - repo: metadata/movies/Halloween The Curse of Michael Myers (1995) {tmdb-10987}
       - repo: metadata/movies/Hanna (2011) {tmdb-50456}
       - repo: metadata/movies/Harry Potter and the Chamber of Secrets (2002) {tmdb-672}
+      - repo: metadata/movies/Harry Potter and the Goblet of Fire (2005) {tmdb-674}
       - repo: metadata/movies/Harry Potter and the Philosopher's Stone (2001) {tmdb-671}
       - repo: metadata/movies/Harry Potter and the Prisoner of Azkaban (2004) {tmdb-673}
       - repo: metadata/movies/Heat (1995) {tmdb-949}
