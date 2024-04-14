@@ -1,0 +1,22 @@
+metadata:
+  "Harry Potter and the Deathly Hallows Part 2 (2011) {tmdb-12445} {edition-Theatrical cut}":
+    match:
+      title: "Harry Potter and the Deathly Hallows: Part 2"
+      year: 2011
+      edition: Theatrical cut
+    sort_title: Harry Potter (2001) 008
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [David Yates]
+    genre.sync: [Adventure, Family, Fantasy, Mystery]
+    originally_available: 2011-07-07
+    producer.sync: [David Barron, David Heyman, J.K. Rowling]
+    studio: Warner Bros.
+    summary: Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes to destroy the Dark Lord as the final battle rages on at Hogwarts.
+    tagline: It All Ends
+    writer.sync: [Steve Kloves, J.K. Rowling]
+    label: [ID__000012445A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

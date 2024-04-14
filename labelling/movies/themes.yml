@@ -177,6 +177,7 @@ collections:
       - 20546 # Goodnight, Mister Tom (1998)
       - 672 # Harry Potter and the Chamber of Secrets (2002)
       - 12444 # Harry Potter and the Deathly Hallows Part 1 (2010)
+      - 12445 # Harry Potter and the Deathly Hallows Part 2 (2011)
       - 674 # Harry Potter and the Goblet of Fire (2005)
       - 767 # Harry Potter and the Half-Blood Prince (2009)
       - 675 # Harry Potter and the Order of the Phoenix (2007)
@@ -1061,6 +1062,7 @@ collections:
       - 338953 # Fantastic Beasts: The Secrets of Dumbledore (2022)
       - 672 # Harry Potter and the Chamber of Secrets (2002)
       - 12444 # Harry Potter and the Deathly Hallows Part 1 (2010)
+      - 12445 # Harry Potter and the Deathly Hallows Part 2 (2011)
       - 674 # Harry Potter and the Goblet of Fire (2005)
       - 767 # Harry Potter and the Half-Blood Prince (2009)
       - 675 # Harry Potter and the Order of the Phoenix (2007)
@@ -1302,6 +1304,7 @@ collections:
       - 11361 # Halloween 5: The Revenge of Michael Myers (1989)
       - 672 # Harry Potter and the Chamber of Secrets (2002)
       - 12444 # Harry Potter and the Deathly Hallows Part 1 (2010)
+      - 12445 # Harry Potter and the Deathly Hallows Part 2 (2011)
       - 674 # Harry Potter and the Goblet of Fire (2005)
       - 767 # Harry Potter and the Half-Blood Prince (2009)
       - 675 # Harry Potter and the Order of the Phoenix (2007)
@@ -1521,6 +1524,7 @@ collections:
     template: { name: TMDB theme label, theme_name: road_movies }
     tmdb_movie:
       - 496 # Borat (2006)
+      - 12445 # Harry Potter and the Deathly Hallows Part 2 (2011)
       - 425 # Ice Age (2002)
       - 263115 # Logan (2017)
       - 76341 # Mad Max: Fury Road (2015)
