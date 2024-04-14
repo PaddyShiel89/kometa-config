@@ -1,0 +1,18 @@
+metadata:
+  "Harry Potter and the Order of the Phoenix (2007) {tmdb-675} {edition-Theatrical cut}":
+    match:
+      title: Harry Potter and the Order of the Phoenix
+      year: 2007
+      edition: Theatrical cut
+    sort_title: Harry Potter (2001) 005
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [David Yates]
+    genre.sync: [Action, Adventure, Family, Fantasy, Mystery]
+    originally_available: 2007-06-28
+    producer.sync: [David Barron, David Heyman]
+    studio: Warner Bros.
+    summary: With their warning about Lord Voldemort's return falls on deaf ears, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat seizes power at Hogwarts.
+    tagline: The rebellion begins.
+    writer.sync: [Michael Goldenberg, J.K. Rowling]
+    label: [ID__000000675A]
