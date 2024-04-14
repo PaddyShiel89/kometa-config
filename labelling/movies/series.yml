@@ -494,6 +494,14 @@ collections:
     tmdb_movie:
       - 18785 # The Hangover (2009)
 
+  Series__The Hobbit_2012:
+    template:
+      { name: TMDB series label, series_name: The Hobbit, series_year: 2012 }
+    tmdb_movie:
+      - 49051 # The Hobbit: An Unexpected Journey (2012)
+      - 57158 # The Hobbit: The Desolation of Smaug (2013)
+      - 122917 # The Hobbit: The Battle of the Five Armies (2014)
+
   Series__The_Hunger_Games_2012:
     template:
       {

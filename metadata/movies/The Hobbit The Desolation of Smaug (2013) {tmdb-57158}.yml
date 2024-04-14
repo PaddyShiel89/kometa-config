@@ -1,0 +1,32 @@
+metadata:
+  "The Hobbit The Desolation of Smaug (2013) {tmdb-57158} {edition-Theatrical cut}":
+    match:
+      title: "The Hobbit: The Desolation of Smaug"
+      year: 2013
+      edition: Theatrical cut
+    sort_title: Hobbit (2012) 002A
+    content_rating: gb/12
+    country.sync: [New Zealand, United States of America]
+    director.sync: [Peter Jackson]
+    genre.sync: [Adventure, Drama, Fantasy]
+    originally_available: 2013-12-02
+    producer.sync:
+      [
+        Carolynne Cunningham,
+        Peter Jackson,
+        Eric Monette,
+        Fran Walsh,
+        Zane Weiner,
+      ]
+    studio: New Line Cinema
+    summary: The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor from Smaug.
+    tagline: Beyond darkness... beyond desolation... lies the greatest danger of all.
+    writer.sync:
+      [
+        Fran Walsh,
+        Philippa Boyens,
+        Peter Jackson,
+        Guillermo del Toro,
+        J.R.R. Tolkien,
+      ]
+    label: [ID__000057158A]
