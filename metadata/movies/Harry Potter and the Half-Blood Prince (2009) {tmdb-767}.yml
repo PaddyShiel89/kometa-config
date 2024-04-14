@@ -1,0 +1,18 @@
+metadata:
+  "Harry Potter and the Half-Blood Prince (2009) {tmdb-767} {edition-Theatrical cut}":
+    match:
+      title: Harry Potter and the Half-Blood Prince
+      year: 2009
+      edition: Theatrical cut
+    sort_title: Harry Potter (2001) 006
+    content_rating: gb/12
+    country.sync: [United Kingdom, United States of America]
+    director.sync: [David Yates]
+    genre.sync: [Action, Adventure, Family, Fantasy, Mystery]
+    originally_available: 2009-07-06
+    producer.sync: [David Barron, David Heyman]
+    studio: Warner Bros.
+    summary: As Harry begins his sixth year at Hogwarts, he discovers an old book marked as "the property of the Half-Blood Prince" and learns more about Lord Voldemort's dark past.
+    tagline: Dark secrets revealed.
+    writer.sync: [Steve Kloves, J.K. Rowling]
+    label: [ID__000000767A]

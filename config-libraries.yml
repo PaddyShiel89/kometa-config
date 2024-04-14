@@ -130,6 +130,7 @@ libraries:
       - repo: metadata/movies/Hanna (2011) {tmdb-50456}
       - repo: metadata/movies/Harry Potter and the Chamber of Secrets (2002) {tmdb-672}
       - repo: metadata/movies/Harry Potter and the Goblet of Fire (2005) {tmdb-674}
+      - repo: metadata/movies/Harry Potter and the Half-Blood Prince (2009) {tmdb-767}
       - repo: metadata/movies/Harry Potter and the Order of the Phoenix (2007) {tmdb-675}
       - repo: metadata/movies/Harry Potter and the Philosopher's Stone (2001) {tmdb-671}
       - repo: metadata/movies/Harry Potter and the Prisoner of Azkaban (2004) {tmdb-673}
