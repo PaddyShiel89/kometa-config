@@ -29,6 +29,7 @@ collections:
     template:
       - name: Smart series
         label_list:
+          - Series__The Hobbit_2012
           - Series__The_Lord_of_the_Rings_2001
     sort_title: Middle-earth Collection
     content_rating: gb/12
