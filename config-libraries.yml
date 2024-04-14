@@ -301,6 +301,7 @@ libraries:
       - repo: metadata/movies/The Hangover (2009) {tmdb-18785}
       - repo: metadata/movies/The Hitchhiker's Guide to the Galaxy (2005) {tmdb-7453}
       - repo: metadata/movies/The Hobbit An Unexpected Journey (2012) {tmdb-49051}
+      - repo: metadata/movies/The Hobbit The Desolation of Smaug (2013) {tmdb-57158}
       - repo: metadata/movies/The Hunger Games (2012) {tmdb-70160}
       - repo: metadata/movies/The Hunger Games Catching Fire (2013) {tmdb-101299}
       - repo: metadata/movies/The Hunger Games Mockingjay - Part 1 (2014) {tmdb-131631}
