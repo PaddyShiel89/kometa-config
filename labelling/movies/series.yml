@@ -224,6 +224,7 @@ collections:
       - 674 # Harry Potter and the Goblet of Fire (2005)
       - 675 # Harry Potter and the Order of the Phoenix (2007)
       - 767 # Harry Potter and the Half-Blood Prince (2009)
+      - 12444 # Harry Potter and the Deathly Hallows Part 1 (2010)
 
   Series__Horrible_Bosses_2011:
     template:
