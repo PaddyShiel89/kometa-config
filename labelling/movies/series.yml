@@ -264,6 +264,7 @@ collections:
     tmdb_movie:
       - 85 # Raiders of the Lost Ark (1981)
       - 87 # Indiana Jones and the Temple of Doom (1984)
+      - 89 # Indiana Jones and the Last Crusade (1989)
 
   Series__Iron_Man_2008:
     template:

@@ -1,0 +1,18 @@
+metadata:
+  "Indiana Jones and the Last Crusade (1989) {tmdb-89} {edition-Theatrical cut}":
+    match:
+      title: Indiana Jones and the Last Crusade
+      year: 1989
+      edition: Theatrical cut
+    sort_title: Indiana Jones (1981) 003
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Steven Spielberg]
+    genre.sync: [Action, Adventure]
+    originally_available: 1989-05-24
+    producer.sync: [Robert Watts]
+    studio: Lucasfilm
+    summary: In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.
+    tagline: The man with the hat is back. And this time, he's bringing his Dad.
+    writer.sync: [Jeffrey Boam, George Lucas, Menno Meyjes]
+    label: [ID__000000089A]
