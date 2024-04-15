@@ -157,6 +157,8 @@ libraries:
       - repo: metadata/movies/Indiana Jones and the Temple of Doom (1984) {tmdb-87}
       - repo: metadata/movies/Inhale (2010) {tmdb-12645}
       - repo: metadata/movies/Interstellar (2014) {tmdb-157336}
+      - repo: metadata/movies/Iron Man (2008) {tmdb-1726}
+      - repo: metadata/movies/Iron Man 2 (2010) {tmdb-10138}
       - repo: metadata/movies/Iron Man 3 (2013) {tmdb-68721}
       - repo: metadata/movies/It (2017) {tmdb-346364}
       - repo: metadata/movies/It Chapter Two (2019) {tmdb-474350}

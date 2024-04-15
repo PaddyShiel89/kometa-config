@@ -1,0 +1,18 @@
+metadata:
+  "Iron Man (2008) {tmdb-1726} {edition-Home entertainment cut}":
+    match:
+      title: Iron Man
+      year: 2008
+      edition: Home entertainment cut
+    sort_title: Iron Man (2008) 001B
+    content_rating: gb/12
+    country.sync: [Canada, United States of America]
+    director.sync: [Jon Favreau]
+    genre.sync: [Action, Adventure, Science Fiction]
+    originally_available: 2008-04-14
+    producer.sync: [Avi Arad, Kevin Feige]
+    studio: Marvel Studios
+    summary: After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponised suit of armour to fight evil.
+    tagline: Heroes aren't born. They're built.
+    writer.sync: [Mark Fergus, Hawk Ostby, Art Marcum, Matt Holloway]
+    label: [ID__000001726B]
