@@ -263,6 +263,7 @@ collections:
       { name: TMDB series label, series_name: Indiana Jones, series_year: 1981 }
     tmdb_movie:
       - 85 # Raiders of the Lost Ark (1981)
+      - 87 # Indiana Jones and the Temple of Doom (1984)
 
   Series__Iron_Man_2008:
     template:

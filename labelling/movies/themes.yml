@@ -591,6 +591,7 @@ collections:
       - 501170 # Doctor Sleep (2019)
       - 10987 # Halloween: The Curse of Michael Myers (1995)
       - 493922 # Hereditary (2018)
+      - 87 # Indiana Jones and the Temple of Doom (1984)
       - 50837 # Martha Marcy May Marlene (2011)
       - 16307 # The Wicker Man (1973)
 
@@ -1478,6 +1479,7 @@ collections:
       - 157832 # Calvary (2014)
       - 561 # Constantine (2005)
       - 419743 # Disobedience (2017)
+      - 87 # Indiana Jones and the Temple of Doom (1984)
       - 85 # Raiders of the Lost Ark (1981)
       - 62463 # Raining Stones (1993)
       - 424 # Schindler's List (1993)
@@ -1667,6 +1669,7 @@ collections:
     template: { name: TMDB theme label, theme_name: slavery }
     tmdb_movie:
       - 68718 # Django Unchained (2012)
+      - 87 # Indiana Jones and the Temple of Doom (1984)
       - 869 # Planet of the Apes (2001)
 
   Theme__slice_of_life:

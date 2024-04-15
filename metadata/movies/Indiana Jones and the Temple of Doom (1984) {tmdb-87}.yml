@@ -1,0 +1,22 @@
+metadata:
+  "Indiana Jones and the Temple of Doom (1984) {tmdb-87} {edition-Theatrical cut}":
+    match:
+      title: Indiana Jones and the Temple of Doom
+      year: 1984
+      edition: Theatrical cut
+    sort_title: Indiana Jones (1981) 001
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Steven Spielberg]
+    genre.sync: [Action, Adventure]
+    originally_available: 1984-05-08
+    producer.sync: [Robert Watts]
+    studio: Lucasfilm
+    summary: In 1935, Indian villagers task Indiana Jones with reclaiming a rock stolen from them by a secret cult beneath the catacombs of an ancient palace.
+    tagline: If adventure has a name... it must be Indiana Jones.
+    writer.sync: [Willard Huyck, Gloria Katz, George Lucas]
+    label: [ID__000000087A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
