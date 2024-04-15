@@ -265,6 +265,7 @@ collections:
       - 85 # Raiders of the Lost Ark (1981)
       - 87 # Indiana Jones and the Temple of Doom (1984)
       - 89 # Indiana Jones and the Last Crusade (1989)
+      - 217 # Indiana Jones and the Kingdom of the Crystal Skull (2008)
 
   Series__Iron_Man_2008:
     template:

@@ -152,6 +152,7 @@ libraries:
       - repo: metadata/movies/Immortals (2011) {tmdb-37958}
       - repo: metadata/movies/Import Export (2007) {tmdb-4998}
       - repo: metadata/movies/Inception (2010) {tmdb-27205}
+      - repo: metadata/movies/Indiana Jones and the Kingdom of the Crystal Skull (2008) {tmdb-217}
       - repo: metadata/movies/Indiana Jones and the Last Crusade (1989) {tmdb-89}
       - repo: metadata/movies/Indiana Jones and the Temple of Doom (1984) {tmdb-87}
       - repo: metadata/movies/Inhale (2010) {tmdb-12645}

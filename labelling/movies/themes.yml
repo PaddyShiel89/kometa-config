@@ -32,6 +32,7 @@ collections:
       - 299537 # Captain Marvel (2019)
       - 524434 # Eternals (2021)
       - 283995 # Guardians of the Galaxy Vol. 2 (2017)
+      - 217 # Indiana Jones and the Kingdom of the Crystal Skull (2008)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
       - 762504 # Nope (2022)
@@ -525,6 +526,7 @@ collections:
     template: { name: TMDB theme label, theme_name: cold_war }
     tmdb_movie:
       - 341013 # Atomic Blonde (2017)
+      - 217 # Indiana Jones and the Kingdom of the Crystal Skull (2008)
       - 27576 # Salt (2010)
       - 399055 # The Shape of Water (2017)
       - 49538 # X-Men: First Class (2011)
@@ -1803,6 +1805,7 @@ collections:
       - 493922 # Hereditary (2018)
       - 346364 # It (2017)
       - 474350 # It Chapter Two (2019)
+      - 217 # Indiana Jones and the Kingdom of the Crystal Skull (2008)
       - 89 # Indiana Jones and the Last Crusade (1989)
       - 87 # Indiana Jones and the Temple of Doom (1984)
       - 1585 # It's a Wonderful Life (1946)
@@ -1891,6 +1894,7 @@ collections:
   Theme__treasure_hunt:
     template: { name: TMDB theme label, theme_name: treasure_hunt }
     tmdb_movie:
+      - 217 # Indiana Jones and the Kingdom of the Crystal Skull (2008)
       - 89 # Indiana Jones and the Last Crusade (1989)
       - 1995 # Lara Croft: Tomb Raider (2001)
       - 2059 # National Treasure (2004)

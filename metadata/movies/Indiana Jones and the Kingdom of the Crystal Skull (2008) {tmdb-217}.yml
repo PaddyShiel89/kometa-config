@@ -1,0 +1,22 @@
+metadata:
+  "Indiana Jones and the Kingdom of the Crystal Skull (2008) {tmdb-217} {edition-Theatrical cut}":
+    match:
+      title: Indiana Jones and the Kingdom of the Crystal Skull
+      year: 2008
+      edition: Theatrical cut
+    sort_title: Indiana Jones (1981) 004
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Steven Spielberg]
+    genre.sync: [Action, Adventure]
+    originally_available: 2008-05-18
+    producer.sync: [Frank Marshall]
+    studio: Lucasfilm
+    summary: Indiana Jones becomes entangled in a Soviet plot to uncover the secret behind mysterious artefacts known as the Crystal Skulls.
+    tagline: The adventure continues...
+    writer.sync: [David Koepp, George Lucas, Jeff Nathanson]
+    label: [ID__000000217A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
