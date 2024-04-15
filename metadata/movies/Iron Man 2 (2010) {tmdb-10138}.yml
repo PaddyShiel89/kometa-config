@@ -1,0 +1,18 @@
+metadata:
+  "Iron Man 2 (2010) {tmdb-10138} {edition-Theatrical cut}":
+    match:
+      title: Iron Man 2
+      year: 2010
+      edition: Theatrical cut
+    sort_title: Iron Man (2008) 002
+    content_rating: gb/12
+    country.sync: [United States of America]
+    director.sync: [Jon Favreau]
+    genre.sync: [Action, Science Fiction]
+    originally_available: 2010-04-26
+    producer.sync: [Kevin Feige]
+    studio: Marvel Studios
+    summary: With the world now aware of his identity as Iron Man, Tony Stark must contend with his declining health and a vengeful madman with ties to his father's legacy.
+    tagline: It's not the armor that makes the hero, but the man inside.
+    writer.sync: [Justin Theroux]
+    label: [ID__000010138A]
