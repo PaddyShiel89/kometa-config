@@ -238,6 +238,7 @@ libraries:
       - repo: metadata/movies/Saw IV (2007) {tmdb-663}
       - repo: metadata/movies/Saw V (2008) {tmdb-11917}
       - repo: metadata/movies/Saw VI (2009) {tmdb-22804}
+      - repo: metadata/movies/Saw X (2023) {tmdb-951491}
       - repo: metadata/movies/Scary Movie (2000) {tmdb-4247}
       - repo: metadata/movies/Scary Movie 2 (2001) {tmdb-4248}
       - repo: metadata/movies/Scary Movie 3 (2003) {tmdb-4256}
