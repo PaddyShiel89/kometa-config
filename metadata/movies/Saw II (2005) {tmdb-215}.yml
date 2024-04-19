@@ -1,0 +1,22 @@
+metadata:
+  "Saw II (2005) {tmdb-215} {edition-Uncut version}":
+    match:
+      title: Saw II
+      year: 2005
+      edition: Uncut version
+    sort_title: Saw (2004) 002B
+    content_rating: gb/18
+    country.sync: [Canada, United States of America]
+    director.sync: [Darren Lynn Bousman]
+    genre.sync: [Horror, Mystery]
+    originally_available: 2005-10-28
+    producer.sync: [Mark Burg, Gregg Hoffman, Oren Koules]
+    studio: Twisted Pictures
+    summary: A detective and his team must rescue eight people trapped in a factory by the twisted serial killer known as Jigsaw.
+    tagline: Yes, There Will Be Blood.
+    writer.sync: [Leigh Whannell, Darren Lynn Bousman]
+    label: [ID__000000215B]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

@@ -366,6 +366,7 @@ collections:
     template: { name: TMDB series label, series_name: Saw, series_year: 2004 }
     tmdb_movie:
       - 176 # Saw (2004)
+      - 215 # Saw II (2005)
 
   Series__Scary_Movie_2000:
     template:
