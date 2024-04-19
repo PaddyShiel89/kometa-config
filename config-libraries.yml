@@ -261,6 +261,7 @@ libraries:
       - repo: metadata/movies/Spider-Man 2 (2004) {tmdb-558}
       - repo: metadata/movies/Spider-Man Far from Home (2019) {tmdb-429617}
       - repo: metadata/movies/Spider-Man No Way Home (2021) {tmdb-634649}
+      - repo: metadata/movies/Spiral From the Book of Saw (2021) {tmdb-602734}
       - repo: metadata/movies/Spirited Away (2001) {tmdb-129}
       - repo: metadata/movies/Split (2016) {tmdb-381288}
       - repo: metadata/movies/Spy Kids 2 The Island of Lost Dreams (2002) {tmdb-9488}
