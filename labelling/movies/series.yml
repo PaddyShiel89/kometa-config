@@ -362,6 +362,19 @@ collections:
     tmdb_movie:
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
 
+  Series__Saw_2004:
+    template: { name: TMDB series label, series_name: Saw, series_year: 2004 }
+    tmdb_movie:
+      - 176 # Saw (2004)
+      - 215 # Saw II (2005)
+      - 214 # Saw III (2006)
+      - 663 # Saw IV (2007)
+      - 11917 # Saw V (2008)
+      - 22804 # Saw VI (2009)
+      - 41439 # Saw 3D (2010)
+      - 602734 # Spiral (2021)
+      - 951491 # Saw X (2023)
+
   Series__Scary_Movie_2000:
     template:
       { name: TMDB series label, series_name: Scary_Movie, series_year: 2000 }

@@ -1,0 +1,23 @@
+metadata:
+  "Saw 3D (2010) {tmdb-41439} {edition-Uncut version}":
+    match:
+      title: "Saw: The Final Chapter"
+      year: 2010
+      edition: Uncut version
+    sort_title: Saw (2004) 007B
+    content_rating: gb/18
+    country.sync: [Canada, United States of America]
+    director.sync: [Kevin Greutert]
+    genre.sync: [Horror, Mystery]
+    original_title: Saw 3D
+    originally_available: 2010-10-22
+    producer.sync: [Mark Burg, Gregg Hoffman, Oren Koules]
+    studio: Twisted Pictures
+    summary: A group of survivors gather to seek the support of a self-help guru and fellow survivor, whose own dark secrets unleash a new wave of terror.
+    tagline: It all ends here
+    writer.sync: [Patrick Melton, Marcus Dunstan]
+    label: [ID__000041439B]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

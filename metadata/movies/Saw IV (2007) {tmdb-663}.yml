@@ -1,0 +1,22 @@
+metadata:
+  "Saw IV (2007) {tmdb-663} {edition-Uncut version}":
+    match:
+      title: Saw IV
+      year: 2007
+      edition: Uncut version
+    sort_title: Saw (2004) 004B
+    content_rating: gb/18
+    country.sync: [Canada, United States of America]
+    director.sync: [Darren Lynn Bousman]
+    genre.sync: [Horror, Mystery, Thriller]
+    originally_available: 2007-10-25
+    producer.sync: [Mark Burg, Gregg Hoffman, Oren Koules]
+    studio: Twisted Pictures
+    summary: Despite Jigsaw's death, Lieutenant Rigg is forced to take part in a new game in order to save the lives of two of his colleagues, which promises to test him to the limit.
+    tagline: You Thought It Was Over, But The Games Have Just Begun...
+    writer.sync: [Patrick Melton, Marcus Dunstan, Thomas Fenton]
+    label: [ID__000000663B]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

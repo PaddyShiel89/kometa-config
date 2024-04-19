@@ -1,0 +1,22 @@
+metadata:
+  "Saw V (2008) {tmdb-11917} {edition-Uncut version}":
+    match:
+      title: Saw V
+      year: 2008
+      edition: Uncut version
+    sort_title: Saw (2004) 005B
+    content_rating: gb/18
+    country.sync: [Canada, United States of America]
+    director.sync: [David Hackl]
+    genre.sync: [Horror, Thriller]
+    originally_available: 2008-10-23
+    producer.sync: [Mark Burg, Gregg Hoffman, Oren Koules]
+    studio: Twisted Pictures
+    summary: Following Jigsaw's demise, Mark Hoffman is commended as a hero, but Agent Strahm is suspicious. Meanwhile, another group of subjects are put through a series of gruesome tests.
+    tagline: In the end all the pieces will fit together
+    writer.sync: [Patrick Melton, Marcus Dunstan]
+    label: [ID__000011917B]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

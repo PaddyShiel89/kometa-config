@@ -234,6 +234,14 @@ collections:
           - ID__000027576A # Salt (2010) [Theatrical cut]
           - ID__000027576B # Salt (2010) [Extended cut]
           - ID__000027576C # Salt (2010) [Director's cut]
+          - ID__000000176B # Saw (2004)
+          - ID__000041439B # Saw 3D (2010)
+          - ID__000000215B # Saw II (2005)
+          - ID__000000214B # Saw III (2006)
+          - ID__000000663B # Saw IV (2007)
+          - ID__000011917B # Saw V (2008)
+          - ID__000022804B # Saw VI (2009)
+          - ID__000951491A # Saw X (2023)
           - ID__000004247A # Scary Movie (2000)
           - ID__000004248A # Scary Movie 2 (2001)
           - ID__000004256A # Scary Movie 3 (2003)
@@ -256,6 +264,7 @@ collections:
           - ID__000000558B # Spider-Man 2.1 (2004) [Extended edition]
           - ID__000634649A # Spider-Man: Far from Home (2019)
           - ID__000634649A # Spider-Man: No Way Home (2021)
+          - ID__000602734A # Spiral (2021)
           - ID__000000129A # Spirited Away (2001)
           - ID__000381288A # Split (2016)
           - ID__000009488A # Spy Kids 2: Island of Lost Dreams (2002)

@@ -1,0 +1,22 @@
+metadata:
+  "Saw (2004) {tmdb-176} {edition-Uncut version}":
+    match:
+      title: Saw
+      year: 2004
+      edition: Uncut version
+    sort_title: Saw (2004) 001B
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [James Wan]
+    genre.sync: [Horror, Mystery, Thriller]
+    originally_available: 2004-01-19
+    producer.sync: [Mark Burg, Gregg Hoffman, Oren Koules]
+    studio: Twisted Pictures
+    summary: Two strangers awaken in a room with no recollection of how they got there, and soon discover they're pawns in a deadly game perpetrated by a notorious serial killer.
+    tagline: I want to play a game
+    writer.sync: [Leigh Whannell, James Wan]
+    label: [ID__000000176B]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

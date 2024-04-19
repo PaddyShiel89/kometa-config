@@ -35,6 +35,15 @@ collections:
     content_rating: gb/12
     summary: "A movie franchise based on the literary works of J.R.R. Tolkein set in the fantasy realm of Middle-earth, including 'The Hobbit' and 'The Lord of the Rings'."
 
+  Saw Collection:
+    template:
+      - name: Smart series
+        label_list:
+          - Series__Saw_2004
+    sort_title: Saw (2004)
+    content_rating: gb/18
+    summary: 'Saw is a horror media franchise created revolving around serial killer John "Jigsaw" Kramer and his apprentices. Rather than killing his victims outright, he traps them in life-threatening situations that he refers to as "tests" or "games" to test their will to survive through physical or psychological torture, believing that if they survive, they will be "rehabilitated".'
+
   Star Wars Collection:
     template:
       - name: Smart series
