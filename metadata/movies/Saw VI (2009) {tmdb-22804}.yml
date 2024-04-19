@@ -1,0 +1,22 @@
+metadata:
+  "Saw VI (2009) {tmdb-22804} {edition-Uncut version}":
+    match:
+      title: Saw VI
+      year: 2009
+      edition: Uncut version
+    sort_title: Saw (2004) 006B
+    content_rating: gb/18
+    country.sync: [Australia, Canada, United States of America]
+    director.sync: [Kevin Greutert]
+    genre.sync: [Horror, Mystery, Thriller]
+    originally_available: 2009-10-22
+    producer.sync: [Mark Burg, Gregg Hoffman, Oren Koules]
+    studio: Twisted Pictures
+    summary: Agent Strahm is dead, and FBI agent Erickson draws nearer to Hoffman. Meanwhile, an insurance executive finds himself in another game set by Jigsaw.
+    tagline: The game comes full circle
+    writer.sync: [Patrick Melton, Marcus Dunstan]
+    label: [ID__000022804B]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
