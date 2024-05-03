@@ -4,7 +4,7 @@ external_templates:
 collections:
   # ---------------------------- May 1st => May 7th ---------------------------- #
 
-  Star Wars Day Movies:
+  May the Fourth Be with You:
     template:
       {
         name: Seasonal collection,
@@ -16,7 +16,7 @@ collections:
         label:
           - Series__Star_Wars_1977
       sort_by: title.asc
-    summary: Star Wars Day is an informal commemorative day observed annually on May 4th to celebrate the Star Wars media franchise created by filmmaker George Lucas.
+    summary: May the 4th, or Star Wars Day, is an informal commemorative day observed annually on May 4th to celebrate the Star Wars media franchise created by filmmaker George Lucas.
 
     # --------------------------- June 1st => June 30th -------------------------- #
 
