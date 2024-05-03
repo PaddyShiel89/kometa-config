@@ -15,7 +15,7 @@ collections:
       all:
         label:
           - Series__Star_Wars_1977
-      sort_by: title.asc
+      sort_by: release.asc
     summary: May the 4th, or Star Wars Day, is an informal commemorative day observed annually on May 4th to celebrate the Star Wars media franchise created by filmmaker George Lucas.
 
     # --------------------------- June 1st => June 30th -------------------------- #
