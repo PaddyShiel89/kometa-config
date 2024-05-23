@@ -1,0 +1,22 @@
+metadata:
+  "Who Framed Roger Rabbit (1988) {tmdb-856} {edition-25th anniversary edition}":
+    match:
+      title: Who Framed Roger Rabbit
+      year: 1988
+      edition: 25th anniversary edition
+    sort_title: Who Framed Roger Rabbit (1988)
+    content_rating: gb/PG
+    country.sync: [Australia, Canada, Japan, United States of America]
+    director.sync: [Robert Zemeckis]
+    genre.sync: [Animation, Adventure, Comedy, Crime, Family, Fantasy, Mystery]
+    originally_available: 1988-06-21
+    producer.sync: [Frank Marshall, Robert Watts]
+    studio: Touchstone Pictures
+    summary: When a cartoon rabbit is accused of murder, he enlists the help of a burnt-out private investigator to prove his innocence.
+    tagline: It's the story of a man, a woman, and a rabbit in a triangle of trouble.
+    writer.sync: [Jeffrey Price, Peter S. Seaman, Gary K. Wolf]
+    label: [ID__000000856D]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

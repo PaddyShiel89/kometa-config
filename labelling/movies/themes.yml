@@ -120,6 +120,7 @@ collections:
       - 75174 # The Grey (2011)
       - 8587 # The Lion King (1994)
       - 57212 # War Horse (2011)
+      - 856 # Who Framed Roger Rabbit (1988)
 
   Theme__anime:
     template: { name: TMDB theme label, theme_name: anime }
@@ -251,6 +252,7 @@ collections:
       - 57212 # War Horse (2011)
       - 71859 # We Need to Talk About Kevin (2011)
       - 682507 # Where the Crawdads Sing (2022)
+      - 856 # Who Framed Roger Rabbit (1988)
 
   Theme__based_on_a_graphic_novel:
     template: { name: TMDB theme label, theme_name: based_on_a_graphic_novel }
@@ -864,6 +866,7 @@ collections:
     tmdb_movie:
       - 3767 # Gilda (1946)
       - 21734 # Shadow of a Doubt (1943)
+      - 856 # Who Framed Roger Rabbit (1988)
 
   Theme__filmmaking:
     template: { name: TMDB theme label, theme_name: filmmaking }
@@ -1228,6 +1231,7 @@ collections:
       - 48138 # Unknown (2011)
       - 71859 # We Need to Talk About Kevin (2011)
       - 682507 # Where the Crawdads Sing (2022)
+      - 856 # Who Framed Roger Rabbit (1988)
       - 760104 # X (2022)
 
   Theme__murder_mystery:
@@ -1877,6 +1881,7 @@ collections:
     tmdb_movie:
       - 545611 # Everything Everywhere All at Once (2022)
       - 1018 # Mulholland Drive (2001)
+      - 856 # Who Framed Roger Rabbit (1988)
 
   Theme__survival:
     template: { name: TMDB theme label, theme_name: survival }
