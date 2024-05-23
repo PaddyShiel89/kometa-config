@@ -1174,6 +1174,7 @@ collections:
       - 259316 # Fantastic Beasts and Where to Find Them (2016)
       - 338953 # Fantastic Beasts: The Secrets of Dumbledore (2022)
       - 17796 # Freaked (1993)
+      - 755 # From Dusk Till Dawn (1996)
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
       - 672 # Harry Potter and the Chamber of Secrets (2002)
@@ -1650,6 +1651,7 @@ collections:
       - 3580 # Changeling (2008)
       - 25239 # Day of the Woman (1978)
       - 101875 # Dressage (1986)
+      - 755 # From Dusk Till Dawn (1996)
       - 43947 # I Spit on Your Grave (2010)
       - 43727 # Jolene (2008)
       - 82633 # Lawless (2012)
@@ -1725,6 +1727,7 @@ collections:
     tmdb_movie:
       - 294963 # Bone Tomahawk (2015)
       - 25239 # Day of the Woman (1978)
+      - 755 # From Dusk Till Dawn (1996)
       - 43947 # I Spit on Your Grave (2010)
       - 1690 # Hostel (2005)
       - 1691 # Hostel: Part II (2007)
@@ -1973,6 +1976,7 @@ collections:
     template: { name: TMDB theme label, theme_name: vampires }
     tmdb_movie:
       - 501170 # Doctor Sleep (2019)
+      - 755 # From Dusk Till Dawn (1996)
       - 649609 # Renfield (2023)
 
   Theme__voodoo:

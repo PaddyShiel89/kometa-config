@@ -105,6 +105,7 @@ libraries:
       - repo: metadata/movies/Forgetting Sarah Marshall (2008) {tmdb-9870}
       - repo: metadata/movies/Freaked (1993) {tmdb-17796}
       - repo: metadata/movies/Friday the 13th (1980) {tmdb-4488}
+      - repo: metadata/movies/From Dusk Till Dawn (1996) {tmdb-755}
       - repo: metadata/movies/Frost-Nixon (2008) {tmdb-11499}
       - repo: metadata/movies/Gerald's Game (2017) {tmdb-343674}
       - repo: metadata/movies/Get Out (2017) {tmdb-419430}
