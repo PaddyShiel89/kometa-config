@@ -165,6 +165,7 @@ libraries:
       - repo: metadata/movies/It Chapter Two (2019) {tmdb-474350}
       - repo: metadata/movies/It's a Wonderful Life (1946) {tmdb-1585}
       - repo: metadata/movies/Jaws (1975) {tmdb-578}
+      - repo: metadata/movies/Jigsaw (2017) {tmdb-298250}
       - repo: metadata/movies/John Wick (2014) {tmdb-245891}
       - repo: metadata/movies/John Wick Chapter 2 (2017) {tmdb-324552}
       - repo: metadata/movies/John Wick Chapter 3 - Parabellum (2019) {tmdb-458156}

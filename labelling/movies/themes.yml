@@ -1309,6 +1309,7 @@ collections:
       - 8881 # Che: Part One (2008)
       - 598 # City of God (2002)
       - 210577 # Gone Girl (2014)
+      - 298250 # Jigsaw (2017)
       - 396371 # Molly's Game (2017)
       - 1018 # Mulholland Drive (2001)
       - 680 # Pulp Fiction (1994)
@@ -1319,8 +1320,6 @@ collections:
       - 663 # Saw IV (2007)
       - 11917 # Saw V (2008)
       - 22804 # Saw VI (2009)
-      - 951491 # Saw X (2023)
-      - 602734 # Spiral (2021)
       - 1985 # The Constant Gardener (2005)
       - 205596 # The Imitation Game (2014)
       - 20766 # The Road (2009)
@@ -1598,6 +1597,7 @@ collections:
       - 10987 # Halloween: The Curse of Michael Myers (1995)
       - 71670 # Hostel: Part III (2011)
       - 43947 # I Spit on Your Grave (2010)
+      - 298250 # Jigsaw (2017)
       - 176 # Saw (2004)
       - 41439 # Saw 3D (2010)
       - 215 # Saw II (2005)
@@ -1733,6 +1733,7 @@ collections:
       - 25239 # Day of the Woman (1978)
       - 755 # From Dusk Till Dawn (1996)
       - 43947 # I Spit on Your Grave (2010)
+      - 298250 # Jigsaw (2017)
       - 1690 # Hostel (2005)
       - 1691 # Hostel: Part II (2007)
       - 71670 # Hostel: Part III (2011)
@@ -1892,6 +1893,7 @@ collections:
       - 8077 # Alien³ (1992)
       - 679 # Aliens (1986)
       - 50456 # Hanna (2011)
+      - 298250 # Jigsaw (2017)
       - 329 # Jurassic Park (1993)
       - 263115 # Logan (2017)
       - 176 # Saw (2004)
@@ -1944,6 +1946,7 @@ collections:
   Theme__torture:
     template: { name: TMDB theme label, theme_name: torture }
     tmdb_movie:
+      - 298250 # Jigsaw (2017)
       - 176 # Saw (2004)
       - 41439 # Saw 3D (2010)
       - 215 # Saw II (2005)
