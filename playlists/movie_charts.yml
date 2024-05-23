@@ -1,6 +1,8 @@
 playlists:
   Empire's 100 Greatest Movies:
-    imdb_list: https://www.imdb.com/list/ls567669591
+    imdb_search:
+      type: movie
+      list: ls567669591
     libraries: Movies
     filters:
       label.not: Edition__secondary

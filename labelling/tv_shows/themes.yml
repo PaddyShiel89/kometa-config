@@ -1,6 +1,5 @@
 external_templates:
   - repo: templates/collection_type/Collectionless_Label
-  # - repo: templates/source/IMDb
 
 collections:
   "Theme: aliens":
@@ -11,14 +10,6 @@ collections:
           - Star Wars Rebels (2014)
           - "Star Wars: The Clone Wars (2008)"
         theme: "aliens"
-
-  # "Theme: based on a videogame":
-  #   template:
-  #     - name: imdb_keyword_list
-  #       keyword: based-on-video-game
-  #     - name: Theme label (external source)
-  #       theme: based on a videogame
-  #   schedule: weekly(monday)
 
   "Theme: foreign language":
     template:
