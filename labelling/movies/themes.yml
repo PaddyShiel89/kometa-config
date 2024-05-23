@@ -986,6 +986,7 @@ collections:
     template: { name: TMDB theme label, theme_name: incest }
     tmdb_movie:
       - 61891 # Anonymous (2011)
+      - 101875 # Dressage (1986)
       - 10987 # Halloween: The Curse of Michael Myers (1995)
       - 43727 # Jolene (2008)
       - 48266 # Ma mère (2004)
@@ -1024,6 +1025,7 @@ collections:
       - 884 # Crash (1996)
       - 86331 # Desire (2011)
       - 419743 # Disobedience (2017)
+      - 101875 # Dressage (1986)
       - 24402 # Emmanuelle (1974)
       - 545611 # Everything Everywhere All at Once (2022)
       - 99579 # Farewell, My Queen (2012)
@@ -1515,6 +1517,7 @@ collections:
       - 25239 # Day of the Woman (1978)
       - 20352 # Despicable Me (2010)
       - 68718 # Django Unchained (2012)
+      - 101875 # Dressage (1986)
       - 315837 # Ghost in the Shell (2017)
       - 98 # Gladiator (2000)
       - 424139 # Halloween (2018)
@@ -1612,6 +1615,7 @@ collections:
     template: { name: TMDB theme label, theme_name: sex_comedy }
     tmdb_movie:
       - 13973 # Choke (2008)
+      - 101875 # Dressage (1986)
       - 9870 # Forgetting Sarah Marshall (2008)
       - 11013 # Secretary (2002)
       - 10591 # The Girl Next Door (2004)
@@ -1645,6 +1649,7 @@ collections:
       - 185 # A Clockwork Orange (1971)
       - 3580 # Changeling (2008)
       - 25239 # Day of the Woman (1978)
+      - 101875 # Dressage (1986)
       - 43947 # I Spit on Your Grave (2010)
       - 43727 # Jolene (2008)
       - 82633 # Lawless (2012)
