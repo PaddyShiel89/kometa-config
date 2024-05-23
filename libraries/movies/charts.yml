@@ -1,6 +1,8 @@
 collections:
   "Empire's 100 Greatest Movies - Unwatched":
-    imdb_list: https://www.imdb.com/list/ls567669591
+    imdb_search:
+      type: movie
+      list: ls567669591
     smart_label:
       sort_by: title.asc
       all:
