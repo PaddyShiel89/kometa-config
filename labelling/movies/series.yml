@@ -159,6 +159,16 @@ collections:
       - 338952 # Fantastic Beasts: The Crimes of Grindelwald (2018)
       - 338953 # Fantastic Beasts: The Secrets of Dumbledore (2022)
 
+  Series__From Dusk Till Dawn_1996:
+    template:
+      {
+        name: TMDB series label,
+        series_name: From Dusk Till Dawn,
+        series_year: 1996,
+      }
+    tmdb_movie:
+      - 755 # From Dusk Till Dawn (1996)
+
   Series__Ghostbusters_1984:
     template:
       { name: TMDB series label, series_name: Ghostbusters, series_year: 1984 }
@@ -372,6 +382,7 @@ collections:
       - 11917 # Saw V (2008)
       - 22804 # Saw VI (2009)
       - 41439 # Saw 3D (2010)
+      - 298250 # Jigsaw (2017)
       - 602734 # Spiral (2021)
       - 951491 # Saw X (2023)
 

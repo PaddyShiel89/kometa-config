@@ -1,0 +1,22 @@
+metadata:
+  "From Dusk Till Dawn (1996) {tmdb-755} {edition-Theatrical cut}":
+    match:
+      title: From Dusk Till Dawn
+      year: 1996
+      edition: Theatrical cut
+    sort_title: From Dusk Till Dawn (1996) 001
+    content_rating: gb/18
+    country.sync: [Mexico, United States of America]
+    director.sync: [Robert Rodriguez]
+    genre.sync: [Action, Crime, Horror]
+    originally_available: 1996-01-19
+    producer.sync: [Gianni Nunnari, Meir Teper]
+    studio: Dimension Films
+    summary: Two criminals and their hostages unknowingly seek temporary refuge in a truck stop populated by vampires, with chaotic results.
+    tagline: Cheap drinks. Loud music. Vampires. This'll be one hell of a night.
+    writer.sync: [Robert Kurtzman, Quentin Tarantino]
+    label: [ID__000000755A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

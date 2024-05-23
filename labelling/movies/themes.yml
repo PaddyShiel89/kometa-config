@@ -120,6 +120,7 @@ collections:
       - 75174 # The Grey (2011)
       - 8587 # The Lion King (1994)
       - 57212 # War Horse (2011)
+      - 856 # Who Framed Roger Rabbit (1988)
 
   Theme__anime:
     template: { name: TMDB theme label, theme_name: anime }
@@ -251,6 +252,7 @@ collections:
       - 57212 # War Horse (2011)
       - 71859 # We Need to Talk About Kevin (2011)
       - 682507 # Where the Crawdads Sing (2022)
+      - 856 # Who Framed Roger Rabbit (1988)
 
   Theme__based_on_a_graphic_novel:
     template: { name: TMDB theme label, theme_name: based_on_a_graphic_novel }
@@ -864,6 +866,7 @@ collections:
     tmdb_movie:
       - 3767 # Gilda (1946)
       - 21734 # Shadow of a Doubt (1943)
+      - 856 # Who Framed Roger Rabbit (1988)
 
   Theme__filmmaking:
     template: { name: TMDB theme label, theme_name: filmmaking }
@@ -986,6 +989,7 @@ collections:
     template: { name: TMDB theme label, theme_name: incest }
     tmdb_movie:
       - 61891 # Anonymous (2011)
+      - 101875 # Dressage (1986)
       - 10987 # Halloween: The Curse of Michael Myers (1995)
       - 43727 # Jolene (2008)
       - 48266 # Ma mère (2004)
@@ -1024,6 +1028,7 @@ collections:
       - 884 # Crash (1996)
       - 86331 # Desire (2011)
       - 419743 # Disobedience (2017)
+      - 101875 # Dressage (1986)
       - 24402 # Emmanuelle (1974)
       - 545611 # Everything Everywhere All at Once (2022)
       - 99579 # Farewell, My Queen (2012)
@@ -1172,6 +1177,7 @@ collections:
       - 259316 # Fantastic Beasts and Where to Find Them (2016)
       - 338953 # Fantastic Beasts: The Secrets of Dumbledore (2022)
       - 17796 # Freaked (1993)
+      - 755 # From Dusk Till Dawn (1996)
       - 620 # Ghostbusters (1984)
       - 2978 # Ghostbusters II (1989)
       - 672 # Harry Potter and the Chamber of Secrets (2002)
@@ -1225,6 +1231,7 @@ collections:
       - 48138 # Unknown (2011)
       - 71859 # We Need to Talk About Kevin (2011)
       - 682507 # Where the Crawdads Sing (2022)
+      - 856 # Who Framed Roger Rabbit (1988)
       - 760104 # X (2022)
 
   Theme__murder_mystery:
@@ -1302,6 +1309,7 @@ collections:
       - 8881 # Che: Part One (2008)
       - 598 # City of God (2002)
       - 210577 # Gone Girl (2014)
+      - 298250 # Jigsaw (2017)
       - 396371 # Molly's Game (2017)
       - 1018 # Mulholland Drive (2001)
       - 680 # Pulp Fiction (1994)
@@ -1312,8 +1320,6 @@ collections:
       - 663 # Saw IV (2007)
       - 11917 # Saw V (2008)
       - 22804 # Saw VI (2009)
-      - 951491 # Saw X (2023)
-      - 602734 # Spiral (2021)
       - 1985 # The Constant Gardener (2005)
       - 205596 # The Imitation Game (2014)
       - 20766 # The Road (2009)
@@ -1515,6 +1521,7 @@ collections:
       - 25239 # Day of the Woman (1978)
       - 20352 # Despicable Me (2010)
       - 68718 # Django Unchained (2012)
+      - 101875 # Dressage (1986)
       - 315837 # Ghost in the Shell (2017)
       - 98 # Gladiator (2000)
       - 424139 # Halloween (2018)
@@ -1590,6 +1597,7 @@ collections:
       - 10987 # Halloween: The Curse of Michael Myers (1995)
       - 71670 # Hostel: Part III (2011)
       - 43947 # I Spit on Your Grave (2010)
+      - 298250 # Jigsaw (2017)
       - 176 # Saw (2004)
       - 41439 # Saw 3D (2010)
       - 215 # Saw II (2005)
@@ -1612,6 +1620,7 @@ collections:
     template: { name: TMDB theme label, theme_name: sex_comedy }
     tmdb_movie:
       - 13973 # Choke (2008)
+      - 101875 # Dressage (1986)
       - 9870 # Forgetting Sarah Marshall (2008)
       - 11013 # Secretary (2002)
       - 10591 # The Girl Next Door (2004)
@@ -1645,6 +1654,8 @@ collections:
       - 185 # A Clockwork Orange (1971)
       - 3580 # Changeling (2008)
       - 25239 # Day of the Woman (1978)
+      - 101875 # Dressage (1986)
+      - 755 # From Dusk Till Dawn (1996)
       - 43947 # I Spit on Your Grave (2010)
       - 43727 # Jolene (2008)
       - 82633 # Lawless (2012)
@@ -1720,7 +1731,9 @@ collections:
     tmdb_movie:
       - 294963 # Bone Tomahawk (2015)
       - 25239 # Day of the Woman (1978)
+      - 755 # From Dusk Till Dawn (1996)
       - 43947 # I Spit on Your Grave (2010)
+      - 298250 # Jigsaw (2017)
       - 1690 # Hostel (2005)
       - 1691 # Hostel: Part II (2007)
       - 71670 # Hostel: Part III (2011)
@@ -1869,6 +1882,7 @@ collections:
     tmdb_movie:
       - 545611 # Everything Everywhere All at Once (2022)
       - 1018 # Mulholland Drive (2001)
+      - 856 # Who Framed Roger Rabbit (1988)
 
   Theme__survival:
     template: { name: TMDB theme label, theme_name: survival }
@@ -1879,6 +1893,7 @@ collections:
       - 8077 # Alien³ (1992)
       - 679 # Aliens (1986)
       - 50456 # Hanna (2011)
+      - 298250 # Jigsaw (2017)
       - 329 # Jurassic Park (1993)
       - 263115 # Logan (2017)
       - 176 # Saw (2004)
@@ -1931,6 +1946,7 @@ collections:
   Theme__torture:
     template: { name: TMDB theme label, theme_name: torture }
     tmdb_movie:
+      - 298250 # Jigsaw (2017)
       - 176 # Saw (2004)
       - 41439 # Saw 3D (2010)
       - 215 # Saw II (2005)
@@ -1968,6 +1984,7 @@ collections:
     template: { name: TMDB theme label, theme_name: vampires }
     tmdb_movie:
       - 501170 # Doctor Sleep (2019)
+      - 755 # From Dusk Till Dawn (1996)
       - 649609 # Renfield (2023)
 
   Theme__voodoo:

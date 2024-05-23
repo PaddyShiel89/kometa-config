@@ -1,0 +1,22 @@
+metadata:
+  "Jigsaw (2017) {tmdb-298250} {edition-Theatrical cut}":
+    match:
+      title: Jigsaw
+      year: 2017
+      edition: Theatrical cut
+    sort_title: Jigsaw (2017)
+    content_rating: gb/18
+    country.sync: [Canada, United States of America]
+    director.sync: [Michael Spierig, Peter Spierig]
+    genre.sync: [Horror, Mystery, Thriller]
+    originally_available: 2017-10-29
+    producer.sync: [Mark Burg, Gregg Hoffman, Oren Koules]
+    studio: Twisted Pictures
+    summary: "Bodies are turning up around the city, each having met a gruesome demise. All evidence points to one suspect: John Kramer, a.k.a. Jigsaw, who has been dead for over ten years."
+    tagline: Make America Bleed Again.
+    writer.sync: [Josh Stolberg, Pete Goldfinger]
+    label: [ID__000298250A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
