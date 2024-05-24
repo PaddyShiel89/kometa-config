@@ -1,0 +1,22 @@
+metadata:
+  "Sin City (2005) {tmdb-187} {edition-Theatrical cut}":
+    match:
+      title: Sin City
+      year: 2005
+      edition: Theatrical cut
+    sort_title: Sin City (2005) 001A
+    content_rating: gb/18
+    country.sync: [United States of America]
+    director.sync: [Robert Rodriguez, Frank Miller, Quentin Tarantino]
+    genre.sync: [Crime, Thriller]
+    originally_available: 2005-03-28
+    producer.sync: [Elizabeth Avellan]
+    studio: Dimension Films
+    summary: An exploration of the dark and miserable Basin City and three of its residents, all of whom are caught up in violent corruption.
+    tagline: Walk down the right back alley in Sin City and you can find anything.
+    writer.sync: [Frank Miller, Robert Rodriguez]
+    label: [ID__000000187A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC

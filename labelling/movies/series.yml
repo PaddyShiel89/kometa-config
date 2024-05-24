@@ -431,6 +431,12 @@ collections:
     tmdb_movie:
       - 808 # Shrek (2001)
 
+  Series__Sin City_2005:
+    template:
+      { name: TMDB series label, series_name: Sin City, series_year: 2005 }
+    tmdb_movie:
+      - 187 # Sin City (2005)
+
   Series__Species_1995:
     template:
       { name: TMDB series label, series_name: Species, series_year: 1995 }
@@ -713,15 +719,6 @@ collections:
         title_list:
           - Blair Witch Project (1999) 001
 
-  "Series: The Dark Knight Saga":
-    template:
-      - name: Series label
-        series: "The Dark Knight Saga"
-        title_list:
-          - Batman Begins (2005)
-          - Dark Knight (2008)
-          - Dark Knight Rises (2012)
-
   "Series: Die Hard (1988)":
     template:
       - name: Series label
@@ -872,20 +869,6 @@ collections:
           - Predator (1987) 002
           - Predator (1987) 003
 
-  "Series: Saw (2004)":
-    template:
-      - name: Series label
-        series: "Saw (2004)"
-        title_list:
-          - Saw (2004) 001
-          - Saw (2004) 002
-          - Saw (2004) 003
-          - Saw (2004) 004
-          - Saw (2004) 005
-          - Saw (2004) 006
-          - Saw (2004) 007
-          - Spiral (2021)
-
   "Series: Scooby-Doo (2002)":
     template:
       - name: Series label
@@ -925,14 +908,6 @@ collections:
         title_list:
           - Sherlock Holmes (2009) 001
           - Sherlock Holmes (2009) 002
-
-  "Series: Sin City (2005)":
-    template:
-      - name: Series label
-        series: "Sin City (2005)"
-        title_list:
-          - Sin City (2005) 001
-          - Sin City (2005) 002
 
   "Series: Taken (2008)":
     template:
