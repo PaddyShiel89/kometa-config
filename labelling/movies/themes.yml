@@ -132,6 +132,7 @@ collections:
     tmdb_movie:
       - 680 # Pulp Fiction (1994)
       - 187 # Sin City (2005)
+      - 189 # Sin City: A Dame to Kill For (2014)
       - 23202 # Trick 'r Treat (2007)
 
   Theme__artificial_intelligence:
@@ -276,6 +277,7 @@ collections:
       - 10138 # Iron Man 2 (2010)
       - 475557 # Joker (2019)
       - 187 # Sin City (2005)
+      - 189 # Sin City: A Dame to Kill For (2014)
       - 24428 # The Avengers (2012)
       - 414906 # The Batman (2022)
       - 155 # The Dark Knight (2008)
@@ -673,6 +675,7 @@ collections:
       - 43727 # Jolene (2008)
       - 50837 # Martha Marcy May Marlene (2011)
       - 92182 # Silent House (2011)
+      - 189 # Sin City: A Dame to Kill For (2014)
       - 65754 # The Girl with the Dragon Tattoo (2011)
       - 38575 # The Karate Kid (2010)
       - 526007 # The Night Clerk (2020)
@@ -1298,6 +1301,7 @@ collections:
       - 597208 # Nightmare Alley (2021)
       - 680 # Pulp Fiction (1994)
       - 187 # Sin City (2005)
+      - 189 # Sin City: A Dame to Kill For (2014)
       - 414906 # The Batman (2022)
       - 115 # The Big Lebowski (1998)
       - 9676 # The Black Dahlia (2006)
@@ -1552,6 +1556,7 @@ collections:
       - 9637 # Scooby-Doo (2002)
       - 934433 # Scream VI (2023)
       - 187 # Sin City (2005)
+      - 189 # Sin City: A Dame to Kill For (2014)
       - 634649 # Spider-Man: No Way Home (2021)
       - 1895 # Star Wars: Episode III - Revenge of the Sith (2005)
       - 46534 # Sweet Karma (2009)

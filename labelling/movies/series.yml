@@ -436,6 +436,7 @@ collections:
       { name: TMDB series label, series_name: Sin City, series_year: 2005 }
     tmdb_movie:
       - 187 # Sin City (2005)
+      - 189 # Sin City: A Dame to Kill For (2014)
 
   Series__Species_1995:
     template:
