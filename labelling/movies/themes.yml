@@ -410,6 +410,7 @@ collections:
       - 67913 # The Guard (2011)
       - 254320 # The Lobster (2015)
       - 593643 # The Menu (2022)
+      - 933260 # The Substance (2024)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
       - 1541 # Thelma & Louise (1991)
       - 359940 # Three Billboards Outside Ebbing, Missouri (2017)
@@ -428,6 +429,7 @@ collections:
       - 17796 # Freaked (1993)
       - 419430 # Get Out (2017)
       - 588 # Silent Hill (2006)
+      - 933260 # The Substance (2024)
       - 1091 # The Thing (1982)
 
   Theme__buddy_movie:
@@ -707,6 +709,7 @@ collections:
       - 18785 # The Hangover (2009)
       - 94329 # The Raid (2011)
       - 180299 # The Raid 2 (2014)
+      - 933260 # The Substance (2024)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
 
   Theme__dystopian:
@@ -762,6 +765,7 @@ collections:
       - 42695 # I Am Curious (Yellow) (1967)
       - 1018 # Mulholland Drive (2001)
       - 17680 # The Girlfriend Experience (2009)
+      - 933260 # The Substance (2024)
 
   Theme__fairytales:
     template: { name: TMDB theme label, theme_name: fairytales }
@@ -857,6 +861,7 @@ collections:
       - 593643 # The Menu (2022)
       - 399055 # The Shape of Water (2017)
       - 15121 # The Sound of Music (1965)
+      - 933260 # The Substance (2024)
       - 645710 # The Voyeurs (2021)
       - 630 # The Wizard of Oz (1939)
       - 1541 # Thelma & Louise (1991)
@@ -1210,6 +1215,7 @@ collections:
       - 121 # The Lord of the Rings: The Two Towers (2002)
       - 5876 # The Mist (2007)
       - 399055 # The Shape of Water (2017)
+      - 933260 # The Substance (2024)
       - 1091 # The Thing (1982)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
@@ -1765,6 +1771,7 @@ collections:
       - 588 # Silent Hill (2006)
       - 10216 # Species II (1998)
       - 602734 # Spiral (2021)
+      - 933260 # The Substance (2024)
 
   Theme__spoof:
     template: { name: TMDB theme label, theme_name: spoof }

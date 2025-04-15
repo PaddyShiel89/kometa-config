@@ -1,0 +1,18 @@
+metadata:
+  "The Substance (2024) {tmdb-933260} {edition-Theatrical cut}":
+    match:
+      title: The Substance
+      year: 2024
+      edition: Theatrical cut
+    sort_title: "Substance (2024)"
+    content_rating: gb/18
+    country.sync: [France, United Kingdom]
+    director.sync: [Coralie Fargeat]
+    genre.sync: [Drama, Horror, Science-Fiction]
+    originally_available: 2024-05-19
+    producer.sync: [Tim Bevan, Coralie Fargeat, Eric Fellner]
+    studio: A Good Story
+    summary: A fading celebrity takes a black-market, cell-replicating substance that creates a younger, better version of herself.
+    tagline: "If you follow the instructions, what could go wrong?"
+    writer.sync: [Coralie Fargeat]
+    label: [ID__000933260A]

@@ -166,3 +166,14 @@ collections:
           - ID__000117974A # Sightseers (2012)
           - ID__000674324A # The Banshees of Inisherin (2022)
           - ID__000796185A # The Three Musketeers: D'Artagnan (2023)
+
+  BBFC injury detail lvl 5:
+    template:
+      - name: Content rating numeric label
+        ratings_board: BBFC
+        content: injury_detail
+        level: 5
+    plex_search:
+      any:
+        label:
+          - ID__000933260A # The Substance (2024)
