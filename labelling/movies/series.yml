@@ -438,6 +438,12 @@ collections:
       - 187 # Sin City (2005)
       - 189 # Sin City: A Dame to Kill For (2014)
 
+  Series__Smile_2022:
+    template: { name: TMDB series label, series_name: Smile, series_year: 2022 }
+    tmdb_movie:
+      - 882598 # Smile (2022)
+      - 1100782 # Smile 2 (2024)
+
   Series__Species_1995:
     template:
       { name: TMDB series label, series_name: Species, series_year: 1995 }

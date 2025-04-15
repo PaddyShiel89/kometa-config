@@ -4,7 +4,7 @@ metadata:
       title: Smile
       year: 2022
       edition: Theatrical cut
-    sort_title: "Smile (2022)"
+    sort_title: "Smile (2022) 001A"
     content_rating: gb/18
     country.sync: [United States of America]
     director.sync: [Parker Finn]
@@ -16,3 +16,7 @@ metadata:
     tagline: "Once you see it, it's too late."
     writer.sync: [Parker Finn]
     label: [ID__000882598A]
+# ----------------------------------- Notes ---------------------------------- #
+
+# TODO - No content rating labels added. Overview scale ratings not currently
+# available on BBFC
