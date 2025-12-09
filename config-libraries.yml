@@ -260,6 +260,7 @@ libraries:
       - repo: metadata/movies/Silent House (2011) {tmdb-92182}
       - repo: metadata/movies/Sin City (2005) {tmdb-187}
       - repo: metadata/movies/Sin City A Dame to Kill For (2014) {tmdb-189}
+      - repo: metadata/movies/Sinners (2025) {tmdb-1233413}
       - repo: metadata/movies/Smile (2022) {tmdb-882598}
       - repo: metadata/movies/Solo A Star Wars Story {tmdb-348350}
       - repo: metadata/movies/Species II (1998) {tmdb-10216}
