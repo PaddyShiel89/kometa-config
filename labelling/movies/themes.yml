@@ -9,6 +9,7 @@ collections:
       - 2978 # Ghostbusters II (1989)
       - 210577 # Gone Girl (2014)
       - 762504 # Nope (2022)
+      - 1195506 # Novocaine (2025)
       - 381288 # Split (2016)
       - 756999 # The Black Phone (2021)
 
@@ -660,6 +661,7 @@ collections:
   Theme__disability:
     template: { name: TMDB theme label, theme_name: disability }
     tmdb_movie:
+      - 1195506 # Novocaine (2025)
       - 526007 # The Night Clerk (2020)
       - 399055 # The Shape of Water (2017)
       - 9741 # Unbreakable (2000)
@@ -932,6 +934,7 @@ collections:
       - 26715 # Bitch Slap (2009)
       - 598 # City of God (2002)
       - 949 # Heat (1995)
+      - 1195506 # Novocaine (2025)
       - 273481 # Sicario (2015)
       - 1233413 # Sinners (2025)
       - 94329 # The Raid (2011)
@@ -1031,13 +1034,6 @@ collections:
       - 13092 # How to Lose Friends & Alienate People (2008)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 65754 # The Girl with the Dragon Tattoo (2011)
-
-  Theme__kidnapping:
-    template: { name: TMDB theme label, theme_name: kidnapping }
-    tmdb_movie:
-      - 3580 # Changeling (2008)
-      - 381288 # Split (2016)
-      - 756999 # The Black Phone (2021)
 
   Theme__legal_and_courtroom:
     template: { name: TMDB theme label, theme_name: legal_and_courtroom }
@@ -1579,6 +1575,7 @@ collections:
       - 245891 # John Wick (2015)
       - 82633 # Lawless (2012)
       - 101 # Léon: The Professional (1995)
+      - 1195506 # Novocaine (2025)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 680 # Pulp Fiction (1994)

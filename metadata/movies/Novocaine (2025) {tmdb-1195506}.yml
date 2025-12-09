@@ -1,0 +1,26 @@
+metadata:
+  "Novocaine (2025) {tmdb-1195506} {edition-Theatrical cut}":
+    match:
+      title: Novocaine
+      year: 2025
+      edition: Theatrical cut
+    sort_title: Novocaine (2025)
+    content_rating: gb/15
+    country.sync: [Canada, South Africa, United States of America]
+    director.sync: [Dan Berk, Robert Olsen]
+    genre.sync: [Action, COmedy, Crime, Thriller]
+    originally_available: 2025-03-08
+    producer.sync:
+      [
+        Joby Harold,
+        Julian Rosenberg,
+        Matt Schwartz,
+        Drew Simon,
+        Sam Speiser,
+        Tory Tunnell,
+      ]
+    studio: Safehouse Pictures
+    summary: When the girl of his dreams is kidnapped, a man incapable of feeling physical pain turns his rare condition into an unexpected advantage in the fight to rescue her.
+    tagline: Nathan Caine can't feel pain.
+    writer.sync: [Lars Jacobson]
+    label: [ID__001195506A]
