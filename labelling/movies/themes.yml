@@ -9,8 +9,15 @@ collections:
       - 2978 # Ghostbusters II (1989)
       - 210577 # Gone Girl (2014)
       - 762504 # Nope (2022)
+      - 1195506 # Novocaine (2025)
       - 381288 # Split (2016)
       - 756999 # The Black Phone (2021)
+
+  Theme__actors_in_multiple_roles:
+    template: { name: TMDB theme label, theme_name: actors_in_multiple_roles }
+    tmdb_movie:
+      - 1233413 # Sinners (2025)
+      - 1124620 # The Monkey (2025)
 
   Theme__addiction:
     template: { name: TMDB theme label, theme_name: addiction }
@@ -162,7 +169,6 @@ collections:
       - 28 # Apocalypse Now (1979)
       - 4347 # Atonement (2007)
       - 487558 # BlacKkKlansman (2018)
-      - 301502 # Blonde (2022)
       - 718930 # Bullet Train (2022)
       - 524 # Casino (1995)
       - 8881 # Che: Part One (2008)
@@ -238,6 +244,7 @@ collections:
       - 122 # The Lord of the Rings: The Return of the King (2003)
       - 121 # The Lord of the Rings: The Two Towers (2002)
       - 5876 # The Mist (2007)
+      - 1124620 # The Monkey (2025)
       - 72197 # The Pirates! In an Adventure with Scientists! (2012)
       - 20766 # The Road (2009)
       - 278 # The Shawshank Redemption (1994)
@@ -331,6 +338,7 @@ collections:
       - 157433 # Pet Sematary (2019)
       - 497 # The Green Mile (1999)
       - 5876 # The Mist (2007)
+      - 1124620 # The Monkey (2025)
       - 278 # The Shawshank Redemption (1994)
       - 694 # The Shining (1980)
 
@@ -344,7 +352,6 @@ collections:
       - 4982 # American Gangster (2007)
       - 454527 # Benedetta (2021)
       - 487558 # BlacKkKlansman (2018)
-      - 301502 # Blonde (2022)
       - 50204 # Burke & Hare (2010)
       - 8696 # Calendar Girls (2003)
       - 524 # Casino (1995)
@@ -410,6 +417,7 @@ collections:
       - 67913 # The Guard (2011)
       - 254320 # The Lobster (2015)
       - 593643 # The Menu (2022)
+      - 1124620 # The Monkey (2025)
       - 933260 # The Substance (2024)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
       - 1541 # Thelma & Louise (1991)
@@ -618,6 +626,7 @@ collections:
       - 1100782 # Smile 2 (2024)
       - 129 # Spirited Away (2001)
       - 503919 # The Lighthouse (2019)
+      - 1124620 # The Monkey (2025)
 
   Theme__cyberpunk:
     template: { name: TMDB theme label, theme_name: cyberpunk }
@@ -650,6 +659,7 @@ collections:
   Theme__disability:
     template: { name: TMDB theme label, theme_name: disability }
     tmdb_movie:
+      - 1195506 # Novocaine (2025)
       - 526007 # The Night Clerk (2020)
       - 399055 # The Shape of Water (2017)
       - 9741 # Unbreakable (2000)
@@ -755,7 +765,6 @@ collections:
       - 11013 # Secretary (2002)
       - 46534 # Sweet Karma (2009)
       - 19976 # The Exterminating Angels (2006)
-      - 645710 # The Voyeurs (2021)
       - 617 # Wild Things
       - 760104 # X (2022)
 
@@ -788,7 +797,6 @@ collections:
       - 26715 # Bitch Slap (2009)
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 497698 # Black Widow (2021)
-      - 301502 # Blonde (2022)
       - 8696 # Calendar Girls (2003)
       - 299537 # Captain Marvel (2019)
       - 3580 # Changeling (2008)
@@ -865,7 +873,6 @@ collections:
       - 399055 # The Shape of Water (2017)
       - 15121 # The Sound of Music (1965)
       - 933260 # The Substance (2024)
-      - 645710 # The Voyeurs (2021)
       - 630 # The Wizard of Oz (1939)
       - 1541 # Thelma & Louise (1991)
       - 359940 # Three Billboards Outside Ebbing, Missouri (2017)
@@ -922,7 +929,9 @@ collections:
       - 26715 # Bitch Slap (2009)
       - 598 # City of God (2002)
       - 949 # Heat (1995)
+      - 1195506 # Novocaine (2025)
       - 273481 # Sicario (2015)
+      - 1233413 # Sinners (2025)
       - 94329 # The Raid (2011)
       - 180299 # The Raid 2 (2014)
 
@@ -998,6 +1007,7 @@ collections:
     tmdb_movie:
       - 545611 # Everything Everywhere All at Once (2022)
       - 4998 # Import/Export (2007)
+      - 1233413 # Sinners (2025)
 
   Theme__incest:
     template: { name: TMDB theme label, theme_name: incest }
@@ -1019,13 +1029,6 @@ collections:
       - 13092 # How to Lose Friends & Alienate People (2008)
       - 15472 # The Girl with the Dragon Tattoo (2009)
       - 65754 # The Girl with the Dragon Tattoo (2011)
-
-  Theme__kidnapping:
-    template: { name: TMDB theme label, theme_name: kidnapping }
-    tmdb_movie:
-      - 3580 # Changeling (2008)
-      - 381288 # Split (2016)
-      - 756999 # The Black Phone (2021)
 
   Theme__legal_and_courtroom:
     template: { name: TMDB theme label, theme_name: legal_and_courtroom }
@@ -1142,7 +1145,6 @@ collections:
     template: { name: TMDB theme label, theme_name: mental_health }
     tmdb_movie:
       - 453 # A Beautiful Mind (2001)
-      - 301502 # Blonde (2022)
       - 3580 # Changeling (2008)
       - 884 # Crash (1996)
       - 545611 # Everything Everywhere All at Once (2022)
@@ -1208,6 +1210,7 @@ collections:
       - 460458 # Resident Evil: Welcome to Raccoon City (2021)
       - 9637 # Scooby-Doo (2002)
       - 588 # Silent Hill (2006)
+      - 1233413 # Sinners (2025)
       - 882598 # Smile (2022)
       - 1100782 # Smile 2 (2024)
       - 10216 # Species II (1998)
@@ -1243,6 +1246,7 @@ collections:
       - 1985 # The Constant Gardener (2005)
       - 67913 # The Guard (2011)
       - 593643 # The Menu (2022)
+      - 1124620 # The Monkey (2025)
       - 526007 # The Night Clerk (2020)
       - 629 # The Usual Suspects (1995)
       - 16307 # The Wicker Man (1973)
@@ -1256,6 +1260,11 @@ collections:
     template: { name: TMDB theme label, theme_name: murder_mystery }
     tmdb_movie:
       - 664469 # Amsterdam (2022)
+
+  Theme__music_and_musicians:
+    template: { name: TMDB theme label, theme_name: music_and_musicians }
+    tmdb_movie:
+      - 1233413 # Sinners (2025)
 
   Theme__mythology:
     template: { name: TMDB theme label, theme_name: mythology }
@@ -1462,7 +1471,6 @@ collections:
     tmdb_movie:
       - 470 # 21 Grams (2003)
       - 454527 # Benedetta (2021)
-      - 301502 # Blonde (2022)
       - 793 # Blue Velvet (1986)
       - 619730 # Don't Worry Darling (2022)
       - 343674 # Gerald's Game (2017)
@@ -1503,6 +1511,7 @@ collections:
       - 419430 # Get Out (2017)
       - 947 # Lawrence of Arabia (1962)
       - 424 # Schindler's List (1993)
+      - 1233413 # Sinners (2025)
       - 3989 # Team America: World Police (2004)
       - 76493 # The Dictator (2012)
       - 399055 # The Shape of Water (2017)
@@ -1559,6 +1568,7 @@ collections:
       - 245891 # John Wick (2015)
       - 82633 # Lawless (2012)
       - 101 # Léon: The Professional (1995)
+      - 1195506 # Novocaine (2025)
       - 166426 # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
       - 1865 # Pirates of the Caribbean: On Stranger Tides (2011)
       - 680 # Pulp Fiction (1994)
@@ -1777,6 +1787,7 @@ collections:
       - 588 # Silent Hill (2006)
       - 10216 # Species II (1998)
       - 602734 # Spiral (2021)
+      - 1124620 # The Monkey (2025)
       - 933260 # The Substance (2024)
 
   Theme__spoof:
@@ -1896,14 +1907,16 @@ collections:
       - 4256 # Scary Movie 3 (2003)
       - 4257 # Scary Movie 4 (2006)
       - 4258 # Scary Movie 5 (2013)
-      - 588 # Silent Hill (2006)
       - 566525 # Shang-Chi and the Legend of the Ten Rings (2021)
+      - 588 # Silent Hill (2006)
+      - 1233413 # Sinners (2025)
       - 882598 # Smile (2022)
       - 1100782 # Smile 2 (2024)
       - 756999 # The Black Phone (2021)
       - 19976 # The Exterminating Angels (2006)
       - 497 # The Green Mile (1999)
       - 5876 # The Mist (2007)
+      - 1124620 # The Monkey (2025)
       - 65086 # The Woman in Black (2012)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
@@ -2011,12 +2024,19 @@ collections:
       - 57158 # The Hobbit: The Desolation of Smaug (2013)
       - 335787 # Uncharted (2022)
 
+  Theme__twins:
+    template: { name: TMDB theme label, theme_name: twins }
+    tmdb_movie:
+      - 1233413 # Sinners (2025)
+      - 1124620 # The Monkey (2025)
+
   Theme__vampires:
     template: { name: TMDB theme label, theme_name: vampires }
     tmdb_movie:
       - 501170 # Doctor Sleep (2019)
       - 755 # From Dusk Till Dawn (1996)
       - 649609 # Renfield (2023)
+      - 1233413 # Sinners (2025)
 
   Theme__voodoo:
     template: { name: TMDB theme label, theme_name: voodoo }

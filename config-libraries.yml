@@ -54,7 +54,6 @@ libraries:
       - repo: metadata/movies/Black Panther Wakanda Forever (2022) {tmdb-505642}
       - repo: metadata/movies/Black Widow (2021) {tmdb-497698}
       - repo: metadata/movies/BlacKkKlansman (2018) {tmdb-487558}
-      - repo: metadata/movies/Blonde (2022) {tmdb-301502}
       - repo: metadata/movies/Blue Streak (1999) {tmdb-11001}
       - repo: metadata/movies/Blue Velvet (1986) {tmdb-793}
       - repo: metadata/movies/Bone Tomahawk (2015) {tmdb-294963}
@@ -199,6 +198,7 @@ libraries:
       - repo: metadata/movies/Nine (2009) {tmdb-10197}
       - repo: metadata/movies/Nope (2022) {tmdb-762504}
       - repo: metadata/movies/Novo (2002) {tmdb-60015}
+      - repo: metadata/movies/Novocaine (2025) {tmdb-1195506}
       - repo: metadata/movies/Oliver! (1968) {tmdb-17917}
       - repo: metadata/movies/Once Upon a Time… in Hollywood (2019) {tmdb-466272}
       - repo: metadata/movies/Pearl (2022) {tmdb-949423}
@@ -260,6 +260,7 @@ libraries:
       - repo: metadata/movies/Silent House (2011) {tmdb-92182}
       - repo: metadata/movies/Sin City (2005) {tmdb-187}
       - repo: metadata/movies/Sin City A Dame to Kill For (2014) {tmdb-189}
+      - repo: metadata/movies/Sinners (2025) {tmdb-1233413}
       - repo: metadata/movies/Smile (2022) {tmdb-882598}
       - repo: metadata/movies/Solo A Star Wars Story {tmdb-348350}
       - repo: metadata/movies/Species II (1998) {tmdb-10216}
@@ -340,6 +341,7 @@ libraries:
       - repo: metadata/movies/The Matrix Resurrections (2021) {tmdb-624860}
       - repo: metadata/movies/The Menu (2022) {tmdb-593643}
       - repo: metadata/movies/The Mist (2007) {tmdb-5876}
+      - repo: metadata/movies/The Monkey (2025) {tmdb-1124620}
       - repo: metadata/movies/The Muppets (2011) {tmdb-64328}
       - repo: metadata/movies/The Night Clerk (2020) {tmdb-526007}
       - repo: metadata/movies/The Pirates! In an Adventure with Scientists! (2012) {tmdb-72197}
@@ -360,7 +362,6 @@ libraries:
       - repo: metadata/movies/The Tourist (2010) {tmdb-37710}
       - repo: metadata/movies/The Unbearable Weight of Massive Talent (2022) {tmdb-648579}
       - repo: metadata/movies/The Usual Suspects (1995) {tmdb-629}
-      - repo: metadata/movies/The Voyeurs (2021) {tmdb-645710}
       - repo: metadata/movies/The Wicker Man (1973) {tmdb-16307}
       - repo: metadata/movies/The Wizard of Oz (1939) {tmdb-630}
       - repo: metadata/movies/The Woman in Black (2012) {tmdb-65086}

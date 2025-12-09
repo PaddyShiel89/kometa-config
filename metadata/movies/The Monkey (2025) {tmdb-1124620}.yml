@@ -1,0 +1,25 @@
+metadata:
+  "The Monkey (2025) {tmdb-1124620} {edition-Theatrical cut}":
+    match:
+      title: The Monkey
+      year: 2025
+      edition: Theatrical cut
+    sort_title: Monkey (2025)
+    content_rating: gb/15
+    country.sync: [Canada, United Kingdom, United States of America]
+    director.sync: [Osgood Perkins]
+    genre.sync: [Comedy, Horror]
+    originally_available: 2025-02-12
+    producer.sync:
+      [
+        Dave Caplan,
+        Chris Ferguson,
+        Brian Kavanaugh-Jones,
+        Marlaina Mah,
+        James Wan,
+      ]
+    studio: Neon
+    summary: When twin brothers Bill and Hal find their father's old monkey toy in the attic, a series of gruesome deaths begins.
+    tagline: The monkey that likes killing our family ...it's back.
+    writer.sync: [Osgood Perkins]
+    label: [ID__001124620A]

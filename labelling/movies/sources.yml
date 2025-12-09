@@ -2,15 +2,6 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  Source__amazon_prime:
-    template:
-      - name: TMDB source label
-        source_type: amazon_prime
-    plex_search:
-      any:
-        label:
-          - ID__000645710A # The Voyeurs (2021)
-
   Source__bluray:
     template:
       - name: TMDB source label
@@ -200,6 +191,7 @@ collections:
           - ID__000006637A # National Treasure: Book of Secrets (2007)
           - ID__000597208A # Nightmare Alley (2021)
           - ID__000762504A # Nope (2022)
+          - ID__001195506A # Novocaine (2025)
           - ID__000017917A # Oliver! (1968)
           - ID__000466272A # Once Upon a Time in Hollywood (2019)
           - ID__000949423A # Pearl (2022)
@@ -262,6 +254,7 @@ collections:
           - ID__000092182A # Silent House (2011)
           - ID__000000187A # Sin City (2005)
           - ID__000000189A # Sin City: A Dame to Kill For (2014)
+          - ID__001233413A # Sinners (2025)
           - ID__000882598A # Smile (2022)
           - ID__001100782A # Smile 2 (2024)
           - ID__000348350A # Solo: A Star Wars Story (2018)
@@ -348,6 +341,7 @@ collections:
           - ID__000624860A # The Matrix Resurrections (2021)
           - ID__000593643A # The Menu (2022)
           - ID__000005876A # The Mist (2007)
+          - ID__001124620A # The Monkey (2025)
           - ID__000064328A # The Muppets (2011)
           - ID__000526007A # The Night Clerk (2020)
           - ID__000072197A # The Pirates! In an Adventure with Scientists! (2012)
@@ -412,7 +406,6 @@ collections:
     plex_search:
       any:
         label:
-          - ID__000301502A # Blonde (2022)
           - ID__000343674A # Gerald's Game (2017)
           - ID__000043727A # Jolene (2008)
           - ID__000001892B # Return of the Jedi (1983) [Special edition]
@@ -469,7 +462,6 @@ collections:
     plex_search:
       any:
         label:
-          - ID__000301502A # Blonde (2022)
           - ID__000343674A # Gerald's Game (2017)
 
   "Source: blu-ray":
