@@ -169,7 +169,6 @@ collections:
       - 28 # Apocalypse Now (1979)
       - 4347 # Atonement (2007)
       - 487558 # BlacKkKlansman (2018)
-      - 301502 # Blonde (2022)
       - 718930 # Bullet Train (2022)
       - 524 # Casino (1995)
       - 8881 # Che: Part One (2008)
@@ -353,7 +352,6 @@ collections:
       - 4982 # American Gangster (2007)
       - 454527 # Benedetta (2021)
       - 487558 # BlacKkKlansman (2018)
-      - 301502 # Blonde (2022)
       - 50204 # Burke & Hare (2010)
       - 8696 # Calendar Girls (2003)
       - 524 # Casino (1995)
@@ -800,7 +798,6 @@ collections:
       - 26715 # Bitch Slap (2009)
       - 505642 # Black Panther: Wakanda Forever (2022)
       - 497698 # Black Widow (2021)
-      - 301502 # Blonde (2022)
       - 8696 # Calendar Girls (2003)
       - 299537 # Captain Marvel (2019)
       - 3580 # Changeling (2008)
@@ -1150,7 +1147,6 @@ collections:
     template: { name: TMDB theme label, theme_name: mental_health }
     tmdb_movie:
       - 453 # A Beautiful Mind (2001)
-      - 301502 # Blonde (2022)
       - 3580 # Changeling (2008)
       - 884 # Crash (1996)
       - 545611 # Everything Everywhere All at Once (2022)
@@ -1477,7 +1473,6 @@ collections:
     tmdb_movie:
       - 470 # 21 Grams (2003)
       - 454527 # Benedetta (2021)
-      - 301502 # Blonde (2022)
       - 793 # Blue Velvet (1986)
       - 619730 # Don't Worry Darling (2022)
       - 343674 # Gerald's Game (2017)
