@@ -46,6 +46,7 @@ collections:
           - ID__000027205A # Inception (2010)
           - ID__000117974A # Sightseers (2012)
           - ID__000009340A # The Goonies (1985)
+          - ID__000933260A # The Substance (2024)
 
   BBFC suicide lvl 4:
     template:

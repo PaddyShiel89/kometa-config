@@ -1,0 +1,19 @@
+metadata:
+  "Smile 2 (2024) {tmdb-1100782} {edition-Theatrical cut}":
+    match:
+      title: Smile 2
+      year: 2024
+      edition: Theatrical cut
+    sort_title: "Smile (2022) 002A"
+    content_rating: gb/18
+    country.sync: [Canada, United States of America]
+    director.sync: [Parker Finn]
+    genre.sync: [Horror, Mystery, Thriller]
+    originally_available: 2024-10-16
+    producer.sync:
+      [Marty Bowen, Parker Finn, Wyck Godfrey, Isaac Klausner, Robert Salerno]
+    studio: Temple Hill Entertainment
+    summary: "About to embark on a world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events."
+    tagline: It will never let go.
+    writer.sync: [Parker Finn]
+    label: [ID__001100782A]
