@@ -2,15 +2,6 @@ external_templates:
   - repo: templates/collection_type/Collectionless_Label
 
 collections:
-  Source__amazon_prime:
-    template:
-      - name: TMDB source label
-        source_type: amazon_prime
-    plex_search:
-      any:
-        label:
-          - ID__000645710A # The Voyeurs (2021)
-
   Source__bluray:
     template:
       - name: TMDB source label
