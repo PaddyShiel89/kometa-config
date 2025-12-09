@@ -12,6 +12,12 @@ collections:
       - 381288 # Split (2016)
       - 756999 # The Black Phone (2021)
 
+  Theme__actors_in_multiple_roles:
+    template: { name: TMDB theme label, theme_name: actors_in_multiple_roles }
+    tmdb_movie:
+      - 1233413 # Sinners (2025)
+      - 1124620 # The Monkey (2025)
+
   Theme__addiction:
     template: { name: TMDB theme label, theme_name: addiction }
     tmdb_movie:
@@ -238,6 +244,7 @@ collections:
       - 122 # The Lord of the Rings: The Return of the King (2003)
       - 121 # The Lord of the Rings: The Two Towers (2002)
       - 5876 # The Mist (2007)
+      - 1124620 # The Monkey (2025)
       - 72197 # The Pirates! In an Adventure with Scientists! (2012)
       - 20766 # The Road (2009)
       - 278 # The Shawshank Redemption (1994)
@@ -331,6 +338,7 @@ collections:
       - 157433 # Pet Sematary (2019)
       - 497 # The Green Mile (1999)
       - 5876 # The Mist (2007)
+      - 1124620 # The Monkey (2025)
       - 278 # The Shawshank Redemption (1994)
       - 694 # The Shining (1980)
 
@@ -410,6 +418,7 @@ collections:
       - 67913 # The Guard (2011)
       - 254320 # The Lobster (2015)
       - 593643 # The Menu (2022)
+      - 1124620 # The Monkey (2025)
       - 933260 # The Substance (2024)
       - 648579 # The Unbearable Weight of Massive Talent (2022)
       - 1541 # Thelma & Louise (1991)
@@ -618,6 +627,7 @@ collections:
       - 1100782 # Smile 2 (2024)
       - 129 # Spirited Away (2001)
       - 503919 # The Lighthouse (2019)
+      - 1124620 # The Monkey (2025)
 
   Theme__cyberpunk:
     template: { name: TMDB theme label, theme_name: cyberpunk }
@@ -1246,6 +1256,7 @@ collections:
       - 1985 # The Constant Gardener (2005)
       - 67913 # The Guard (2011)
       - 593643 # The Menu (2022)
+      - 1124620 # The Monkey (2025)
       - 526007 # The Night Clerk (2020)
       - 629 # The Usual Suspects (1995)
       - 16307 # The Wicker Man (1973)
@@ -1786,6 +1797,7 @@ collections:
       - 588 # Silent Hill (2006)
       - 10216 # Species II (1998)
       - 602734 # Spiral (2021)
+      - 1124620 # The Monkey (2025)
       - 933260 # The Substance (2024)
 
   Theme__spoof:
@@ -1914,6 +1926,7 @@ collections:
       - 19976 # The Exterminating Angels (2006)
       - 497 # The Green Mile (1999)
       - 5876 # The Mist (2007)
+      - 1124620 # The Monkey (2025)
       - 65086 # The Woman in Black (2012)
       - 23202 # Trick 'r Treat (2007)
       - 38319 # Your Highness (2011)
@@ -2020,6 +2033,12 @@ collections:
       - 49051 # The Hobbit: An Unexpected Journey (2012)
       - 57158 # The Hobbit: The Desolation of Smaug (2013)
       - 335787 # Uncharted (2022)
+
+  Theme__twins:
+    template: { name: TMDB theme label, theme_name: twins }
+    tmdb_movie:
+      - 1233413 # Sinners (2025)
+      - 1124620 # The Monkey (2025)
 
   Theme__vampires:
     template: { name: TMDB theme label, theme_name: vampires }
